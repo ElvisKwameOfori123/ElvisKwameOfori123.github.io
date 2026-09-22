@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "A short research statement on agricultural, land-use and policy transitions."
+description: "A concise overview of my research, projects and publication profiles."
 toc: true
 ---
 
@@ -8,36 +8,32 @@ My research asks a distributional question:
 
 > **When governments set national agricultural, climate and land-use targets, which farms, production systems and places actually carry the adjustment?**
 
-National pathways are useful, but they can conceal very different local realities. Two regions can contribute to the same national target while facing different production structures, land constraints, opportunity costs and feasible alternatives.
+I use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented.
 
-I therefore work across scales. National pathway models define the transition. Spatial models show where it falls. Farm-level and behavioural models examine how heterogeneous producers may respond.
+## Current work
 
-## Current strands
+**[GOBLIN-Spatial](../projects/goblin-spatial/)**  
+Spatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.
 
-### Agricultural and land-use transitions
+**[BioLand-US](../projects/bioland-us/)**  
+A U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.
 
-I study livestock restructuring, land release, afforestation, wetland rehabilitation, bioenergy and other AFOLU transitions, with particular attention to how nationally coherent pathways translate into local exposure and land-use opportunity.
-
-### Spatial incidence and feasibility
-
-Through GOBLIN-Spatial, I examine where agricultural adjustment occurs, what the resulting transition space can support, and whether competing future land uses can fit within finite eligible land.
-
-### Farm and behavioural response
-
-Farm-level work examines opportunity costs, participation, income effects and alternative policy designs. The purpose is to distinguish technical potential from economically and behaviourally accessible change.
-
-### Bioenergy and resource mobilisation
-
-My U.S. work asks similar implementation questions in a different setting: how much prospective biomass remains plausible after land compatibility, contractual access and existing production structure are made explicit.
+**[IFT-BioSim](../projects/ift-biosim/)**  
+A farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs.
 
 ## Methods
 
-I use econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, with Python, R, Stata, GIS and SQL as implementation tools.
+My work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL.
 
-The methods are secondary to the research question. Their role is to connect national objectives with the farms, land and places through which those objectives must be implemented.
+## Publications
 
-## Current projects
+For the complete publication record, see:
 
-[GOBLIN-Spatial](../projects/goblin-spatial/) ·
-[BioLand-US](../projects/bioland-us/) ·
-[E-SEAT](../projects/e-seat/)
+[Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0001-5404-9078)
+
+A structured publication archive with paper, code and data links will replace these profile links once the bibliography is imported.
+
+## Code
+
+Public and selected research repositories are available on [GitHub](https://github.com/ElvisKwameOfori123).
