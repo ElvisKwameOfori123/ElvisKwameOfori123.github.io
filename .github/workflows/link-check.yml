@@ -1,0 +1,38 @@
+name: Check site links
+
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Check rendered links
+        uses: lycheeverse/lychee-action@v2.8.0
+        with:
+          args: >-
+            --no-progress
+            --root-dir ./_site
+            --max-retries 2
+            --timeout 20
+            --accept 200,204,206,403,429
+            --exclude '^https://www\.linkedin\.com/'
+            --exclude '^https://upload\.wikimedia\.org/'
+            './_site/**/*.html'
+          fail: true
