@@ -3,17 +3,11 @@ title: "Why I’m Excited to Work with FUSION and FORESIGHT"
 description: "A personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions."
 date: 2026-09-22
 categories:
-  - Research
-  - FUSION
-  - FORESIGHT
-  - Land Use
+  - Research life
+  - Ireland
+  - Agriculture and food
 draft: false
 ---
-
-<figure>
-  <img src="https://fusion-research.eu/images/projects/foresight1.png" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions">
-  <figcaption>FORESIGHT project illustration. Source: FUSION, University of Galway.</figcaption>
-</figure>
 
 One of the most exciting parts of my PhD journey has been working in the **FUSION research environment at the University of Galway** and contributing to research connected with **FORESIGHT**.
 
