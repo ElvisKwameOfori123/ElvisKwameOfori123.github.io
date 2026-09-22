@@ -13,4 +13,3 @@ page-layout: full
 toc: false
 ---
 
-<p class="page-intro"><strong>EKO Perspectives</strong> is the writing side of this site. I use it to think through public questions, evidence, places and ideas that seem worth examining carefully.</p>

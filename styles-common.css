@@ -440,91 +440,20 @@ body.quarto-dark .start-here-card strong {
 
 /* Lists, projects and archive components */
 
-.news-list {
-  border-top: 1px solid var(--site-line);
-}
-
-.news-item {
-  display: grid;
-  grid-template-columns: 95px 1fr;
-  gap: 1.15rem;
-  padding: .9rem 0;
-  border-bottom: 1px solid var(--site-line);
-}
-
-.news-date {
-  color: var(--site-muted);
-  font-family: "Montserrat", sans-serif;
-  font-size: .8rem;
-  font-weight: 600;
-}
-
-.news-item p {
-  margin: 0;
-}
-
-.featured-project {
-  padding: 1.2rem 0;
-  border-bottom: 1px solid var(--site-line);
-}
-
-.featured-project:first-of-type {
-  border-top: 1px solid var(--site-line);
-}
-
-.featured-project .meta,
-.latest-card .eyebrow,
 .editorial-kicker {
   color: var(--site-muted);
   font-size: .8rem;
   letter-spacing: .01em;
 }
 
-.featured-project h3 {
-  margin: .12rem 0 .3rem;
-  font-size: 1.05rem;
-}
-
-.featured-project h3 a,
 .editorial-item h3 a {
   color: var(--site-blue);
   text-decoration: none;
 }
 
-.featured-project p,
 .editorial-item p {
   margin: 0;
   color: var(--site-muted);
-}
-
-.latest-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.latest-card {
-  min-height: 165px;
-  padding: 1.15rem;
-  background: var(--site-card);
-  border: 1px solid var(--site-line);
-  border-radius: 8px;
-}
-
-.latest-card h3 {
-  margin: .3rem 0 .5rem;
-  font-size: 1.02rem;
-}
-
-.latest-card h3 a {
-  color: var(--site-blue);
-  text-decoration: none;
-}
-
-.latest-card p {
-  margin: 0;
-  color: var(--site-muted);
-  font-size: .93rem;
 }
 
 .about-intro {
@@ -604,6 +533,16 @@ body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .cate
   padding: .22rem .55rem !important;
 }
 
+body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
+  display: inline-flex;
+  align-items: center;
+  gap: .28em;
+  width: max-content;
+  max-width: 100%;
+  white-space: nowrap;
+  font-size: .76rem;
+}
+
 body.quarto-dark .quarto-listing .category,
 body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
   background: rgba(121, 172, 208, .12) !important;
@@ -611,21 +550,33 @@ body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-ca
 }
 
 .quarto-listing-default .quarto-post {
-  grid-template-columns: minmax(0, 1fr) auto !important;
-  grid-template-areas: "body metadata" !important;
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-areas:
+    "body"
+    "metadata" !important;
+  gap: .25rem !important;
 }
 
 .quarto-listing-default .quarto-post > .thumbnail {
   display: none !important;
 }
 
+.quarto-listing-default .quarto-post > .body,
+.quarto-listing-default .quarto-post > .metadata {
+  grid-column: 1 !important;
+  width: 100% !important;
+  min-width: 0;
+}
+
 .quarto-listing-default .quarto-post > .body {
   grid-area: body !important;
-  min-width: 0;
 }
 
 .quarto-listing-default .quarto-post > .metadata {
   grid-area: metadata !important;
+  margin-top: .1rem;
+  text-align: left !important;
 }
 
 #home-writing .listing-item {
@@ -850,20 +801,14 @@ body.quarto-dark .post-end strong {
   }
 
   .start-here-grid,
-  .latest-grid,
   .about-intro,
-  .editorial-item,
-  .news-item {
+  .editorial-item {
     grid-template-columns: 1fr;
   }
 
   .start-here-card {
     min-height: 44px;
     padding: .95rem;
-  }
-
-  .news-item {
-    gap: .25rem;
   }
 
   .about-intro {
@@ -898,20 +843,8 @@ body.quarto-dark .post-end strong {
   }
 
   .quarto-listing-default .quarto-post {
-    display: grid !important;
-    grid-template-columns: minmax(0, 1fr) !important;
-    grid-template-areas:
-      "body"
-      "metadata" !important;
     gap: .45rem !important;
     padding: 1.15rem 0 !important;
-  }
-
-  .quarto-listing-default .quarto-post > .body,
-  .quarto-listing-default .quarto-post > .metadata {
-    grid-column: 1 !important;
-    width: 100% !important;
-    min-width: 0;
   }
 
   .quarto-listing-default .listing-title {
@@ -929,10 +862,6 @@ body.quarto-dark .post-end strong {
   .quarto-listing-default .listing-category {
     margin: 0 !important;
     white-space: normal;
-  }
-
-  .quarto-listing-default .metadata {
-    margin-top: .15rem;
   }
 
   .listing-actions-group,
