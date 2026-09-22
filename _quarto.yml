@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Elvis Kwame Ofori"
-  description: "Research on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places."
+  description: "Personal writing on policy, science, economics, technology, Ghana, Ireland, the United States, and research."
   site-url: "https://ElvisKwameOfori123.github.io"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
   image: assets/profile.jpg
@@ -17,33 +17,25 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Research
-        href: research/index.qmd
-      - text: Projects
-        href: projects/index.qmd
-      - text: Publications
-        href: publications/index.qmd
-      - text: Blog
+      - text: Writing
         href: blog/index.qmd
       - text: About
         href: about.qmd
+      - text: Research
+        href: research/index.qmd
+      - text: Contact
+        href: contact.qmd
     right:
       - icon: github
         href: "https://github.com/ElvisKwameOfori123"
         aria-label: GitHub
-      - text: ORCID
-        href: "https://orcid.org/0000-0001-5404-9078"
-        aria-label: ORCID
-      - text: Scholar
-        href: "https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en"
-        aria-label: Google Scholar
       - icon: linkedin
         href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
         aria-label: LinkedIn
   page-footer:
     left: "© Elvis Kwame Ofori"
-    center: "University of Galway · Ryan Institute"
-    right: "[GitHub](https://github.com/ElvisKwameOfori123) · [ORCID](https://orcid.org/0000-0001-5404-9078)"
+    center: "Personal website"
+    right: "[ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)"
 
 format:
   html:
