@@ -490,3 +490,197 @@ body.quarto-dark .navbar {
 #home-writing .listing-categories {
   font-size: .82rem;
 }
+
+
+/* Elvis editorial identity v2 */
+:root {
+  --site-bg: #fffaf4;
+  --site-text: #243442;
+  --site-muted: #68757d;
+  --site-soft: #2f735c;
+  --site-line: rgba(23,59,87,.16);
+  --site-card: #fffdf9;
+  --site-heading: #762844;
+  --site-accent: #1d6287;
+  --site-green: #2f735c;
+  --site-burgundy: #762844;
+  --site-pink: #e6a2b5;
+  --site-pink-soft: #f8e5eb;
+  --site-blue: #173b57;
+  --site-deep: #10283d;
+}
+
+body.quarto-dark {
+  --site-bg: #14283a;
+  --site-text: #f6f0ea;
+  --site-muted: #c6d2d0;
+  --site-soft: #84c9af;
+  --site-line: rgba(240,173,192,.18);
+  --site-card: rgba(9,31,44,.42);
+  --site-heading: #f0adc0;
+  --site-accent: #84c9af;
+  --site-green: #84c9af;
+  --site-burgundy: #f0adc0;
+  --site-pink: #f0adc0;
+  --site-pink-soft: rgba(240,173,192,.11);
+  --site-blue: #79acd0;
+  --site-deep: #081923;
+}
+
+.navbar {
+  position: relative;
+  background: #173b57 !important;
+  border-bottom: 0 !important;
+  box-shadow: none;
+}
+
+body.quarto-dark .navbar {
+  background: #0d2233 !important;
+}
+
+.navbar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -4px;
+  height: 4px;
+  background: linear-gradient(
+    90deg,
+    #1d6287 0 28%,
+    #2f735c 28% 54%,
+    #762844 54% 78%,
+    #e6a2b5 78% 100%
+  );
+}
+
+body:not(.quarto-dark) .navbar-brand,
+body:not(.quarto-dark) .navbar .nav-link,
+body:not(.quarto-dark) .navbar .navbar-nav .nav-link,
+body.quarto-dark .navbar-brand,
+body.quarto-dark .navbar .nav-link,
+body.quarto-dark .navbar .navbar-nav .nav-link {
+  color: #fffaf4 !important;
+}
+
+body:not(.quarto-dark) .navbar .nav-link:hover,
+body:not(.quarto-dark) .navbar .nav-link.active,
+body.quarto-dark .navbar .nav-link:hover,
+body.quarto-dark .navbar .nav-link.active {
+  color: #f0b1c2 !important;
+}
+
+.profile-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.profile-hero::before,
+.profile-hero::after {
+  content: "";
+  position: absolute;
+  border-radius: 999px;
+  z-index: -1;
+  opacity: .13;
+}
+
+.profile-hero::before {
+  width: 230px;
+  height: 230px;
+  background: #2f735c;
+  left: -95px;
+  top: 55px;
+}
+
+.profile-hero::after {
+  width: 175px;
+  height: 175px;
+  background: #e6a2b5;
+  right: -65px;
+  bottom: 28px;
+}
+
+.profile-photo {
+  border: 5px solid transparent !important;
+  background:
+    linear-gradient(var(--site-bg), var(--site-bg)) padding-box,
+    conic-gradient(#1d6287, #2f735c, #762844, #e6a2b5, #1d6287) border-box;
+  box-shadow: 0 12px 30px rgba(23,59,87,.16);
+}
+
+.profile-kicker,
+.editorial-kicker,
+.latest-card .eyebrow,
+.featured-project .meta {
+  color: var(--site-green) !important;
+}
+
+.profile-name,
+.quarto-title-block .title,
+h1 {
+  color: var(--site-burgundy);
+}
+
+body.quarto-dark .profile-name,
+body.quarto-dark .quarto-title-block .title,
+body.quarto-dark h1 {
+  color: var(--site-pink);
+}
+
+.section-heading h2,
+h2 {
+  color: var(--site-blue);
+}
+
+body.quarto-dark .section-heading h2,
+body.quarto-dark h2 {
+  color: var(--site-green);
+}
+
+.quarto-listing .listing-title a,
+#home-writing .listing-title a {
+  color: var(--site-blue) !important;
+}
+
+body.quarto-dark .quarto-listing .listing-title a,
+body.quarto-dark #home-writing .listing-title a {
+  color: var(--site-pink) !important;
+}
+
+.quarto-listing .category {
+  background: var(--site-pink-soft) !important;
+  border: 0 !important;
+  border-radius: 999px !important;
+  color: var(--site-burgundy) !important;
+  padding: .22rem .55rem !important;
+}
+
+body.quarto-dark .quarto-listing .category {
+  color: var(--site-pink) !important;
+}
+
+a {
+  color: var(--site-accent);
+}
+
+a:hover {
+  color: var(--site-burgundy);
+}
+
+blockquote {
+  border-left-color: var(--site-green) !important;
+}
+
+.nav-footer {
+  background: var(--site-deep);
+}
+
+.nav-footer a {
+  color: var(--site-pink);
+}
+
+@media (max-width: 760px) {
+  .navbar::after { height: 3px; }
+  .profile-hero::before { width: 150px; height: 150px; }
+  .profile-hero::after { width: 120px; height: 120px; }
+}
