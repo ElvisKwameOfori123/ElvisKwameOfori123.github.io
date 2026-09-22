@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - preview-v2/**
+    - theme-lab/**
 
 website:
   title: "Elvis Kwame Ofori"
