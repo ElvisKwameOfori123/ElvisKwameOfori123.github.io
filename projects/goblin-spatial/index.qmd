@@ -1,0 +1,29 @@
+---
+title: "GOBLIN-Spatial"
+description: "Spatial modelling of agricultural and land-use transitions."
+toc: true
+---
+
+## The question
+
+This section will explain the problem the project addresses in plain language.
+
+## The model
+
+This section will describe the model architecture and link to technical documentation when public.
+
+## Explore
+
+Interactive maps, Plotly figures, scenario selectors, and other outputs can be added here later.
+
+## Research outputs
+
+- Paper — add when public
+- Code — add GitHub repository when public
+- Data — add link when public
+- Documentation — add link when public
+- Talks — add related presentation links
+
+## Reproduce
+
+This section will provide the minimum instructions needed to reproduce a figure, table, or model run.
