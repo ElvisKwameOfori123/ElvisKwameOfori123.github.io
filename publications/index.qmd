@@ -1,23 +1,20 @@
 ---
 title: "Publications"
-description: "Peer-reviewed publications, working papers, and related research outputs."
+description: "Peer-reviewed publications, working papers and related research outputs."
+title-block-banner: true
 toc: false
 ---
 
-This first version deliberately keeps publications simple. A later iteration can generate this page automatically from BibTeX or structured YAML.
+<p class="page-intro">This page will be the formal research record: peer-reviewed articles, working papers, reports, software, datasets and linked reproducibility materials. I am adding the complete publication list from my scholarly profiles rather than publishing placeholder entries.</p>
 
-## Peer-reviewed
+## Research profiles
 
-**Paper title**  
-Authors · *Journal* · Year  
-Paper · DOI · Code · Data
+[Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0001-5404-9078) ·
+[GitHub](https://github.com/ElvisKwameOfori123)
 
-## Working papers
+## How outputs will be organised
 
-**Working paper title**  
-Authors · Year  
-Preprint · Code · Data
+Each publication entry will connect, where available, to the article, DOI, code, data or data-access instructions, project page, figures and related talks.
 
-## Other outputs
-
-Reports, book chapters, software papers, datasets, and methodological outputs can be listed here when relevant.
+The objective is for this page to become a navigable research archive rather than a static CV copied onto the web.
