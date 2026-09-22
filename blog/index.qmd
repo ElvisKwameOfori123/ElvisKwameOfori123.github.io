@@ -1,6 +1,7 @@
 ---
 title: "Blog"
 description: "Writing about whatever I find interesting."
+title-block-banner: true
 listing:
   contents: posts
   sort: "date desc"
@@ -13,4 +14,4 @@ page-layout: full
 toc: false
 ---
 
-The Blog is intentionally general rather than tied to one research topic. Tags and categories can emerge naturally as the archive grows.
+<p class="page-intro">This is intentionally a general blog. Research may appear here, but so can economics, technology, books, code, data, current affairs, observations, methods and ideas that have nothing to do with my formal research agenda.</p>
