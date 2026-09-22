@@ -9,6 +9,7 @@ website:
   description: "Personal writing on policy, science, economics, technology, Ghana, Ireland, the United States, and research."
   site-url: "https://kwameofori123.com"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
+  favicon: assets/favicon.svg
   image: /assets/profile.jpg
   image-alt: "Elvis Kwame Ofori"
   open-graph: true
@@ -50,6 +51,7 @@ format:
       dark: [darkly, theme-dark.scss]
     css: styles-common.css
     include-in-header: includes/head.html
+    canonical-url: true
     grid:
       body-width: 900px
       margin-width: 220px
