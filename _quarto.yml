@@ -1,15 +1,16 @@
 project:
   type: website
   output-dir: _site
-  resources:
-    - preview-v2/**
-    - theme-lab/**
 
 website:
   title: "Elvis Kwame Ofori"
-  description: "Research, models, projects and writing by Elvis Kwame Ofori."
+  description: "Research on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places."
   site-url: "https://ElvisKwameOfori123.github.io"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
+  image: assets/profile.jpg
+  image-alt: "Elvis Kwame Ofori"
+  open-graph: true
+  twitter-card: true
   search:
     location: navbar
     type: overlay
@@ -22,8 +23,6 @@ website:
         href: projects/index.qmd
       - text: Publications
         href: publications/index.qmd
-      - text: Talks
-        href: talks/index.qmd
       - text: Blog
         href: blog/index.qmd
       - text: About
@@ -38,9 +37,6 @@ website:
       - text: Scholar
         href: "https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en"
         aria-label: Google Scholar
-      - icon: facebook
-        href: "https://www.facebook.com/kwameofori123"
-        aria-label: Facebook
       - icon: linkedin
         href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
         aria-label: LinkedIn
