@@ -7,7 +7,7 @@ website:
   description: "Personal writing on policy, science, economics, technology, Ghana, Ireland, the United States, and research."
   site-url: "https://ElvisKwameOfori123.github.io"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
-  image: assets/profile.jpg
+  image: /assets/profile.jpg
   image-alt: "Elvis Kwame Ofori"
   open-graph: true
   twitter-card: true
