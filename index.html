@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Research on where agricultural and land-use transitions place costs, opportunities and constraints.">
+<meta name="description" content="Personal writing on policy, science, economics, technology, places and research.">
 
 <title>Elvis Kwame Ofori</title>
 <style>
@@ -36,6 +36,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -76,17 +78,75 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-home-writing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-home-writing'] = new List('listing-home-writing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles-common.css">
 <meta property="og:title" content="Elvis Kwame Ofori">
-<meta property="og:description" content="Research on where agricultural and land-use transitions place costs, opportunities and constraints.">
+<meta property="og:description" content="Personal writing on policy, science, economics, technology, places and research.">
 <meta property="og:image" content="https://ElvisKwameOfori123.github.io/assets/profile.jpg">
 <meta property="og:site_name" content="Elvis Kwame Ofori">
 <meta property="og:image:alt" content="Elvis Kwame Ofori">
 <meta name="twitter:title" content="Elvis Kwame Ofori">
-<meta name="twitter:description" content="Research on where agricultural and land-use transitions place costs, opportunities and constraints.">
+<meta name="twitter:description" content="Personal writing on policy, science, economics, technology, places and research.">
 <meta name="twitter:image" content="https://ElvisKwameOfori123.github.io/assets/profile.jpg">
 <meta name="twitter:image:alt" content="Elvis Kwame Ofori">
 <meta name="twitter:card" content="summary_large_image">
@@ -272,24 +332,20 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./research/index.html"> 
-<span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./projects/index.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./publications/index.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./blog/index.html"> 
-<span class="menu-text">Blog</span></a>
+<span class="menu-text">Writing</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research/index.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -297,14 +353,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="https://github.com/ElvisKwameOfori123"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://orcid.org/0000-0001-5404-9078"> 
-<span class="menu-text">ORCID</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&amp;hl=en"> 
-<span class="menu-text">Scholar</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/elvis-ofori-12139b71/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
@@ -323,9 +371,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rk9SRVNJR0hU">FORESIGHT <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RlVTSU9O">FUSION <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGFuZCUyMFVzZQ==">Land Use <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -334,140 +383,81 @@ ul.task-list li input[type="checkbox"] {
 <div class="profile-hero">
 <p><img class="profile-photo" src="assets/profile.jpg" alt="Elvis Kwame Ofori"></p>
 <div class="profile-kicker">
-University of Galway · Ryan Institute
+Ghana · China · Ireland
 </div>
 <h1 class="profile-name">
 Elvis Kwame Ofori
 </h1>
 <div class="profile-role">
-Agricultural, land-use and policy modeller
+Researcher, writer and policy observer
 </div>
 <p class="profile-lead">
-<strong>National climate and land-use targets are set in aggregate, but their costs, opportunities and constraints fall on particular farms, production systems and places.</strong> My research measures that incidence and tests how policy design changes who adjusts, where, and at what cost.
+I am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.
 </p>
 <div class="profile-links">
-<p><a href="https://github.com/ElvisKwameOfori123">GitHub</a> <a href="https://orcid.org/0000-0001-5404-9078">ORCID</a> <a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&amp;hl=en">Google Scholar</a> <a href="https://www.linkedin.com/in/elvis-ofori-12139b71/">LinkedIn</a></p>
+<p><a href="blog/">Writing</a> <a href="about.html">About</a> <a href="research/">Research</a> <a href="contact.html">Contact</a></p>
 </div>
 </div>
 <div class="home-shell">
 <section class="home-section">
 <div class="section-heading">
 <h2 class="anchored">
-News
-</h2>
-</div>
-<div class="news-list">
-<div class="news-item">
-<div class="news-date">
-Sep 2026
-</div>
-<p>
-<a href="projects/goblin-spatial/">GOBLIN-Spatial</a> project page updated with the model question, architecture, evidence base and interpretation boundaries.
-</p>
-</div>
-<div class="news-item">
-<div class="news-date">
-Sep 2026
-</div>
-<p>
-<a href="projects/bioland-us/">BioLand-US</a> public reproducibility repository is available with documented data access and verification workflows.
-</p>
-</div>
-<div class="news-item">
-<div class="news-date">
-Sep 2026
-</div>
-<p>
-New writing: <a href="blog/posts/2026-09-22-fusion-foresight/">Why I’m Excited to Work with FUSION and FORESIGHT</a>.
-</p>
-</div>
-</div>
-</section>
-<section class="home-section">
-<div class="section-heading">
-<h2 class="anchored">
-Research question
-</h2>
-<p><a href="research/">Research statement →</a></p>
-</div>
-<p class="home-statement">
-How can national agricultural, climate and land-use objectives be translated into evidence about the farms, production systems and places that will actually carry the transition? I use spatial modelling, econometrics, microsimulation and optimisation to connect national pathways with local incidence and implementation.
-</p>
-</section>
-<section class="home-section">
-<div class="section-heading">
-<h2 class="anchored">
-Selected projects
-</h2>
-<p><a href="projects/">All projects →</a></p>
-</div>
-<div class="featured-project">
-<div class="meta">
-Spatial foresight · Ireland
-</div>
-<h3 class="anchored">
-<a href="projects/goblin-spatial/">GOBLIN-Spatial</a>
-</h3>
-<p>
-Where does a nationally coherent agricultural and land-use transition fall, and how spatially feasible is the resulting future?
-</p>
-</div>
-<div class="featured-project">
-<div class="meta">
-Bioenergy · United States
-</div>
-<h3 class="anchored">
-<a href="projects/bioland-us/">BioLand-US</a>
-</h3>
-<p>
-How much techno-economic biomass allocation remains plausible after land compatibility and voluntary contractual access are made explicit?
-</p>
-</div>
-<div class="featured-project">
-<div class="meta">
-Land-use persistence · United States
-</div>
-<h3 class="anchored">
-<a href="projects/e-seat/">E-SEAT</a>
-</h3>
-<p>
-How much Corn Belt specialisation would reverse if the ethanol-demand signal weakened, and how much reflects the production structure already in place?
-</p>
-</div>
-</section>
-<section class="home-section">
-<div class="section-heading">
-<h2 class="anchored">
 Latest writing
 </h2>
-<p><a href="blog/">Visit the Blog →</a></p>
+<p><a href="blog/">All writing →</a></p>
 </div>
-<div class="latest-grid">
-<div class="latest-card">
-<div class="eyebrow">
-Research · FUSION · FORESIGHT
-</div>
-<h3 class="anchored">
-<a href="blog/posts/2026-09-22-fusion-foresight/">Why I’m Excited to Work with FUSION and FORESIGHT</a>
+<div id="listing-home-writing" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="UmVzZWFyY2glMkNGVVNJT04lMkNGT1JFU0lHSFQlMkNMYW5kJTIwVXNl" data-listing-date-sort="1790035200000" data-listing-file-modified-sort="1790057797682" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="517">
+<div class="thumbnail"><a href="./blog/posts/2026-09-22-fusion-foresight/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/posts/2026-09-22-fusion-foresight/index.html" class="no-external">Why I’m Excited to Work with FUSION and FORESIGHT</a>
 </h3>
-<p>
-Integrated modelling, GOBLIN, land-use transitions and the research environment around my PhD.
-</p>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RlVTSU9O'); return false;">FUSION</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rk9SRVNJR0hU'); return false;">FORESIGHT</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGFuZCUyMFVzZQ=='); return false;">Land Use</div>
+
 </div>
-<div class="latest-card">
-<div class="eyebrow">
-Blog
+<div class="delink listing-description"><a href="./blog/posts/2026-09-22-fusion-foresight/index.html" class="no-external">
+<p>A personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions.</p>
+</a></div>
 </div>
-<h3 class="anchored">
-<a href="blog/">Research and everything around it</a>
-</h3>
-<p>
-Science, economics, technology, agriculture, data, Ghana, Ireland, the United States, books and other things worth examining.
-</p>
+<div class="metadata">
+<a href="./blog/posts/2026-09-22-fusion-foresight/index.html" class="no-external">
+<div class="listing-date">
+Sep 22, 2026
 </div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
+<section class="home-section">
+<div class="section-heading">
+<h2 class="anchored">
+About my research
+</h2>
+<p><a href="research/">Research →</a></p>
 </div>
+<p class="home-statement">
+My research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway.
+</p>
+</section>
+</div>
+
 
 
 
@@ -892,10 +882,10 @@ Science, economics, technology, agriculture, data, Ghana, Ireland, the United St
 <p>© Elvis Kwame Ofori</p>
 </div>   
     <div class="nav-footer-center">
-<p>University of Galway · Ryan Institute</p>
+<p>Personal website</p>
 </div>
     <div class="nav-footer-right">
-<p><a href="https://github.com/ElvisKwameOfori123">GitHub</a> · <a href="https://orcid.org/0000-0001-5404-9078">ORCID</a></p>
+<p><a href="https://orcid.org/0000-0001-5404-9078">ORCID</a> · <a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&amp;hl=en">Scholar</a></p>
 </div>
   </div>
 </footer>
