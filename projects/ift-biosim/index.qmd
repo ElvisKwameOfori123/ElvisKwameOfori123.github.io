@@ -6,30 +6,25 @@ toc: true
 
 ## The question
 
-IFT-BioSim is a farm-level transition modelling framework for examining how agricultural adjustment differs across heterogeneous farms under common national policy objectives.
+IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.
 
-It asks how opportunity costs, structural conditions, participation decisions, income effects, land reallocation and policy design interact when transition is implemented at farm level.
+It focuses on **who bears adjustment, who responds, and how policy design changes incidence**.
 
 ## What the model represents
 
-The framework is designed to distinguish farms that face very different economic and structural conditions under the same transition objective.
+The framework links:
 
-Core elements include:
-
-- heterogeneous farm structure;
-- livestock adjustment;
+- farm structure and livestock adjustment;
 - opportunity costs;
-- behavioural participation;
+- participation decisions;
 - income and distributional effects;
 - land reallocation; and
-- transition-support design.
+- alternative transition-support rules.
 
-## Policy instruments
+## Why it matters
 
-The model can be used to compare alternative instruments and allocation rules, including levies, recycling mechanisms, auction-style approaches and differentiated support.
+A technically feasible national pathway does not reveal how costly the transition may be for particular farms. IFT-BioSim is designed to make that distribution visible and to test whether alternative compensation or incentive designs change the burden.
 
-The purpose is not only to estimate aggregate adjustment, but to understand who responds, who bears costs, and how policy design changes incidence.
+## Status
 
-## Research outputs
-
-Paper, model documentation, code and scenario materials will be linked here as they become public.
+The framework is under active development. Results are not posted here until they are ready for public release.
