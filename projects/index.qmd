@@ -1,10 +1,10 @@
 ---
 title: "Projects"
-description: "Models, research projects, software and reproducible work."
+description: "Selected research models and reproducible projects."
 toc: false
 ---
 
-<p class="page-intro">These are modelling and research projects rather than a complete list of everything I have worked on. Each project page can eventually connect the research question with papers, code, data access, figures, documentation and talks.</p>
+<p class="page-intro">A small set of active projects that show how I move from national policy questions to spatial, farm-level and implementation evidence.</p>
 
 <div class="editorial-list">
 
@@ -12,23 +12,7 @@ toc: false
 <div class="editorial-kicker">Spatial foresight · Ireland</div>
 <div>
 <h3><a href="goblin-spatial/">GOBLIN-Spatial</a></h3>
-<p>A constraint-preserving framework for agricultural transition incidence, response potential, spatial feasibility and land-system transformability.</p>
-</div>
-</div>
-
-<div class="editorial-item">
-<div class="editorial-kicker">Synthetic populations · Ireland</div>
-<div>
-<h3><a href="agrisyn/">AGRISYN</a></h3>
-<p>Synthetic farm populations for representing within-area agricultural heterogeneity while preserving national and local controls.</p>
-</div>
-</div>
-
-<div class="editorial-item">
-<div class="editorial-kicker">Microsimulation · Ireland</div>
-<div>
-<h3><a href="ift-biosim/">IFT-BioSim</a></h3>
-<p>Farm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.</p>
+<p>Where nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.</p>
 </div>
 </div>
 
@@ -36,7 +20,7 @@ toc: false
 <div class="editorial-kicker">Bioenergy · United States</div>
 <div>
 <h3><a href="bioland-us/">BioLand-US</a></h3>
-<p>Contractual land access and prospective U.S. perennial-biomass mobilisation.</p>
+<p>How compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.</p>
 </div>
 </div>
 
@@ -44,7 +28,15 @@ toc: false
 <div class="editorial-kicker">Econometrics · United States</div>
 <div>
 <h3><a href="e-seat/">E-SEAT</a></h3>
-<p>Ethanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence across the U.S. Corn Belt.</p>
+<p>How much Corn Belt specialisation would reverse under a weaker ethanol-demand signal, and how much reflects structural persistence.</p>
+</div>
+</div>
+
+<div class="editorial-item">
+<div class="editorial-kicker">Farm-level modelling · Ireland</div>
+<div>
+<h3><a href="ift-biosim/">IFT-BioSim</a></h3>
+<p>A farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs.</p>
 </div>
 </div>
 
