@@ -9,9 +9,9 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Writing",
+    "title": "EKO Perspectives",
     "section": "",
-    "text": "This is the centre of the site. The writing is organised around six broad themes: Policy; Land & Agriculture; Economics & Evidence; Science & Technology; Places & Development; and Personal & Ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\n\nPolicy\n\nPersonal & Ideas\n\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\n\nEconomics & Evidence\n\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
+    "text": "EKO Perspectives is the writing side of this site: essays and notes on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\n\nPolicy\n\nPersonal & Ideas\n\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\n\nEconomics & Evidence\n\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html",
@@ -35,11 +35,11 @@
     "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
   },
   {
-    "objectID": "research/index.html#publications",
-    "href": "research/index.html#publications",
+    "objectID": "research/index.html#selected-publications",
+    "href": "research/index.html#selected-publications",
     "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nFor the complete publication record, see:\nGoogle Scholar · ORCID\nA structured publication archive with paper, code and data links will replace these profile links once the bibliography is imported."
+    "section": "Selected publications",
+    "text": "Selected publications\n\nProspect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries. Renewable Energy (2024). DOI\nSustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions. Sustainable Development (2024). DOI\nSynthesizing the role of technological innovation on sustainable development and climate action: Does governance play a role in sub-Saharan Africa? Environmental Development (2023). DOI\nExploring new antecedent metrics for safety performance in Ghana’s oil and gas industry using partial least squares structural equation modelling (PLS-SEM). Resources Policy (2023). DOI\nImpact of Covid-19 on environmental sustainability: A bibliometric analysis. Sustainable Development (2023). DOI\nTaking stock of business strategy and environment (sustainable development): evidence of disparities in research efforts and knowledge gaps — a bibliometric review. Environmental Science and Pollution Research (2023). DOI\n\nFor the complete record, see Google Scholar or ORCID."
   },
   {
     "objectID": "research/index.html#code",
@@ -67,7 +67,7 @@
     "href": "projects/goblin-spatial/index.html#how-it-works",
     "title": "GOBLIN-Spatial",
     "section": "How it works",
-    "text": "How it works\nNational GOBLIN pathway\n        ↓\nTransition incidence\nWhere does adjustment fall?\n        ↓\nSpatial response potential\nWhat can released land support?\n        ↓\nSpatial transformability\nCan competing future land uses fit?\n        ↓\nSpatial flexibility\nIs one geography necessary?\nThe framework is a spatial stress-test of transition pathways, not a prediction of individual farmer or parcel decisions."
+    "text": "How it works\n\n\n\n\n\nflowchart TD\n    A[\"National GOBLIN pathway\"] --&gt; B[\"Transition incidence&lt;br/&gt;Where does adjustment fall?\"]\n    B --&gt; C[\"Spatial response potential&lt;br/&gt;What can released land support?\"]\n    C --&gt; D[\"Spatial transformability&lt;br/&gt;Can competing future land uses fit?\"]\n    D --&gt; E[\"Spatial flexibility&lt;br/&gt;Is one geography necessary?\"]\n\n\n\n\n\n\nThe framework is a spatial stress-test of transition pathways, not a prediction of individual farmer or parcel decisions."
   },
   {
     "objectID": "projects/goblin-spatial/index.html#evidence-and-scale",
@@ -114,7 +114,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nElvis Kwame Ofori\n",
+    "title": "Home",
     "section": "",
     "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.\n\n\nWriting About Research Contact\n\n\n\n\n\n\nLatest writing\n\nAll writing →\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
   },
@@ -137,7 +137,7 @@
     "href": "projects/bioland-us/index.html#scientific-logic",
     "title": "BioLand-US",
     "section": "Scientific logic",
-    "text": "Scientific logic\nThe framework keeps four quantities distinct:\nTechno-economic biomass allocation\n        ↓\nCompatible agricultural land\n        ↓\nContractually accessible land\n        ↓\nProspectively mobilised biomass\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
+    "text": "Scientific logic\nThe framework keeps four quantities distinct:\n\n\n\n\n\nflowchart TD\n    A[\"Techno-economic biomass allocation\"] --&gt; B[\"Compatible agricultural land\"]\n    B --&gt; C[\"Contractually accessible land\"]\n    C --&gt; D[\"Prospectively mobilised biomass\"]\n\n\n\n\n\n\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
   },
   {
     "objectID": "projects/bioland-us/index.html#evidence",

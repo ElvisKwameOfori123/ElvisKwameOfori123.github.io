@@ -1,3 +1,7 @@
+# Home
+
+Personal writing on policy, science, economics, technology, places and research.
+
 ![Elvis Kwame Ofori](assets/profile.jpg)
 
 Ghana · China · Ireland

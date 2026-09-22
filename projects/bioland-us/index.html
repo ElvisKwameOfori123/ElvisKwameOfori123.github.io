@@ -77,6 +77,9 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../styles-common.css">
@@ -299,6 +302,11 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../blog/index.xml"> <i class="bi bi-rss" role="img" aria-label="RSS">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -362,13 +370,21 @@ ul.task-list li input[type="checkbox"] {
 <section id="scientific-logic" class="level2">
 <h2 class="anchored" data-anchor-id="scientific-logic">Scientific logic</h2>
 <p>The framework keeps four quantities distinct:</p>
-<pre class="text"><code>Techno-economic biomass allocation
-        ↓
-Compatible agricultural land
-        ↓
-Contractually accessible land
-        ↓
-Prospectively mobilised biomass</code></pre>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+    A["Techno-economic biomass allocation"] --&gt; B["Compatible agricultural land"]
+    B --&gt; C["Contractually accessible land"]
+    C --&gt; D["Prospectively mobilised biomass"]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 <p>This makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts.</p>
 </section>
 <section id="evidence" class="level2">
@@ -811,7 +827,7 @@ Prospectively mobilised biomass</code></pre>
 <p>© Elvis Kwame Ofori</p>
 </div>   
     <div class="nav-footer-center">
-<p>Personal website</p>
+<p>Views are my own · <a href="../../blog/index.xml">RSS</a></p>
 </div>
     <div class="nav-footer-right">
 <p><a href="mailto:e.ofori1@universityofgalway.ie">Email</a> · <a href="https://orcid.org/0000-0001-5404-9078">ORCID</a> · <a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&amp;hl=en">Scholar</a></p>

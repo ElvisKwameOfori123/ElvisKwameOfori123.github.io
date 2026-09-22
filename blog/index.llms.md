@@ -1,8 +1,8 @@
-# Writing
+# EKO Perspectives
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
-This is the centre of the site. The writing is organised around six broad themes: Policy; Land & Agriculture; Economics & Evidence; Science & Technology; Places & Development; and Personal & Ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.
+**EKO Perspectives** is the writing side of this site: essays and notes on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.
 
 ### [Where my PhD sits: FUSION and FORESIGHT](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
 
