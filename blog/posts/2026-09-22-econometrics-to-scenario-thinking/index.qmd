@@ -2,6 +2,7 @@
 title: "When the future is outside the data"
 description: "Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add."
 date: 2026-09-22
+start-here: true
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Irish_Farm_Field_%2838665262%29.jpeg/1024px-Irish_Farm_Field_%2838665262%29.jpeg"
 image-alt: "An Irish farm field with cattle and grassland"
 categories:
@@ -38,3 +39,5 @@ The skill is not choosing one window. It is knowing what each can show, and reco
 - [OECD: Projecting Emissions Baselines for National Climate Policy](https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf)
 - [OECD Strategic Foresight](https://www.oecd.org/en/about/programmes/strategic-foresight.html)
 - [European Commission: How do we build scenarios in a foresight exercise?](https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en)
+
+{{< include /includes/_post-end.qmd >}}

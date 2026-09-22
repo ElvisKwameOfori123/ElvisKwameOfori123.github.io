@@ -9,7 +9,9 @@ listing:
   contents: blog/posts
   sort: "date desc"
   type: default
-  max-items: 4
+  max-items: 3
+  exclude:
+    start-here: true
   categories: false
   sort-ui: false
   filter-ui: false
@@ -25,13 +27,10 @@ listing:
 
 <div class="profile-role">Researcher, writer and policy observer</div>
 
-<p class="profile-lead">I am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.</p>
+<p class="profile-lead">I write about how policy, evidence and technology shape agriculture, land use and development. This site brings together public-policy analysis, research notes and personal observations shaped by Ghana, China and Ireland.</p>
 
 <div class="profile-links">
-<a href="blog/">Writing</a>
-<a href="about.html">About</a>
-<a href="research/">Research</a>
-<a href="contact.html">Contact</a>
+<a href="blog/">Read EKO Perspectives →</a>
 </div>
 
 </div>
