@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Elvis Kwame Ofori</title>
+<link>https://ElvisKwameOfori123.github.io/blog/</link>
+<atom:link href="https://ElvisKwameOfori123.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Writing about whatever I find interesting.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Starting this site</title>
+  <link>https://ElvisKwameOfori123.github.io/blog/posts/2026-09-22-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a placeholder first post.</p>
+<p>The site is intended to bring together research, projects, code, talks, and general writing without forcing every idea into an academic format.</p>
+<p>Future posts can be about research, economics, technology, books, current affairs, programming, data, or anything else worth developing.</p>
+
+
+
+ ]]></description>
+  <category>Notes</category>
+  <category>Website</category>
+  <guid>https://ElvisKwameOfori123.github.io/blog/posts/2026-09-22-welcome/</guid>
+  <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

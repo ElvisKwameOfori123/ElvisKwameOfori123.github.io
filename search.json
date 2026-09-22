@@ -1,0 +1,373 @@
+[
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talks are stored as structured data rather than manually formatted entries."
+  },
+  {
+    "objectID": "talks/index.html#section",
+    "href": "talks/index.html#section",
+    "title": "Talks",
+    "section": "2026",
+    "text": "2026\n\n\n    \n    \n        \n            September 1, 2026\n        \n        \n            Example research presentation\n            Replace this with a real conference, seminar, workshop, or lecture. | Example location\n            \n            \n                \n                 GitHub\n                \n            \n            \n        \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The Blog is intentionally general rather than tied to one research topic. Tags and categories can emerge naturally as the archive grows.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStarting this site\n\n\n\nNotes\n\nWebsite\n\n\n\nA short note on what I want this website to become.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on ex-ante modelling of agricultural, land-use, bioenergy and environmental policy. I am interested in what happens between a policy target and its eventual implementation: how technical assumptions translate into changes in production, land use and behaviour, how those changes are distributed across places and producers, and what that means for policy design.\nA central theme is that national objectives are implemented through heterogeneous production systems, land resources, farms and places. Aggregate feasibility therefore does not guarantee local feasibility, economic accessibility or behavioural participation."
+  },
+  {
+    "objectID": "research/index.html#research-questions",
+    "href": "research/index.html#research-questions",
+    "title": "Research",
+    "section": "Research questions",
+    "text": "Research questions\nMuch of my work follows a common sequence:\nPolicy objective or proposed intervention\n        ↓\nTechnical and economic assumptions\n        ↓\nProduction-system response\n        ↓\nSpatial and regional incidence\n        ↓\nEconomic and behavioural response\n        ↓\nOpportunities, constraints and uncertainty\n        ↓\nPolicy design, targeting and implementation\nQuestions include:\n\nHow can national agricultural, land-use and bioenergy objectives be translated into realistic spatial and economic pathways?\nWhere do transition costs, opportunities and implementation constraints concentrate?\nWhich technically available resources remain economically accessible and realistically deployable?\nHow do alternative incentives, compensation rules and allocation principles change who bears adjustment?\nHow can national pathway models be connected to local geography and farm-level heterogeneity?\nWhat can be learned before major policy and investment decisions become difficult to reverse?"
+  },
+  {
+    "objectID": "research/index.html#agricultural-and-land-use-transitions",
+    "href": "research/index.html#agricultural-and-land-use-transitions",
+    "title": "Research",
+    "section": "Agricultural and land-use transitions",
+    "text": "Agricultural and land-use transitions\nThis work examines AFOLU mitigation, livestock restructuring, afforestation, wetland rehabilitation, anaerobic digestion, bioeconomy pathways, land-use competition and long-term transition planning.\nRather than treating land release and land opportunity as equivalent, the modelling separates transition-space release, physical resource, eligibility, opportunity, allocation and actual adoption."
+  },
+  {
+    "objectID": "research/index.html#spatial-and-distributional-modelling",
+    "href": "research/index.html#spatial-and-distributional-modelling",
+    "title": "Research",
+    "section": "Spatial and distributional modelling",
+    "text": "Spatial and distributional modelling\nI use spatial reconstruction, local-area allocation, microsimulation and synthetic populations to investigate how nationally coherent changes are distributed across geography.\nThis includes transition exposure, land capability, released-land opportunity, regional heterogeneity and place-sensitive policy analysis."
+  },
+  {
+    "objectID": "research/index.html#behavioural-and-policy-response-modelling",
+    "href": "research/index.html#behavioural-and-policy-response-modelling",
+    "title": "Research",
+    "section": "Behavioural and policy-response modelling",
+    "text": "Behavioural and policy-response modelling\nA second strand examines producer response to policy instruments, including participation, stocking-rate adjustment, opportunity costs, compensation design, additionality and heterogeneous responses to alternative incentives.\nThe aim is to distinguish technical potential from economic accessibility and actual willingness to participate."
+  },
+  {
+    "objectID": "research/index.html#bioenergy-and-resource-mobilisation",
+    "href": "research/index.html#bioenergy-and-resource-mobilisation",
+    "title": "Research",
+    "section": "Bioenergy and resource mobilisation",
+    "text": "Bioenergy and resource mobilisation\nMy bioenergy work examines how resource estimates change when land competition, economic opportunity costs, contractual access and heterogeneous participation are introduced.\nThis includes Irish biomethane and land-use pathways as well as U.S. biomass, biofuel and land-access applications."
+  },
+  {
+    "objectID": "research/index.html#food-climate-and-development",
+    "href": "research/index.html#food-climate-and-development",
+    "title": "Research",
+    "section": "Food, climate and development",
+    "text": "Food, climate and development\nI also maintain a broader interest in food-system sustainability, agricultural productivity, carbon pricing, sustainable diets and climate-development trade-offs, including questions relevant to Sub-Saharan African food systems."
+  },
+  {
+    "objectID": "research/index.html#methods",
+    "href": "research/index.html#methods",
+    "title": "Research",
+    "section": "Methods",
+    "text": "Methods\nMy work draws on:\n\nEconometrics: panel models, conditional logit, correlated random effects and revealed-preference methods;\nBehavioural and microsimulation modelling: producer response, farm-level simulation and policy-incidence analysis;\nOptimisation and synthetic populations: mixed-integer optimisation, constraint-preserving allocation and synthetic farm construction;\nScenario and economic modelling: AFOLU pathways, marginal abatement costs, opportunity costs, bioenergy economics and transition stress-testing;\nSpatial modelling: hierarchical reconstruction, spatial allocation, land capability and resource accessibility;\nProgramming and data: Python, R, Stata, GIS, SQL, Excel-based modelling and reproducible pipelines;\nUncertainty and validation: sensitivity analysis, scenario comparison, explicit assumptions, accounting closure and model diagnostics."
+  },
+  {
+    "objectID": "research/index.html#reusable-modelling-systems",
+    "href": "research/index.html#reusable-modelling-systems",
+    "title": "Research",
+    "section": "Reusable modelling systems",
+    "text": "Reusable modelling systems\nThe longer-term objective is to build reusable modelling and decision-support systems, not just one-off analyses. Where possible, projects are structured so that assumptions, data requirements, scenario controls, code, tests and outputs can be inspected and extended by other researchers and analysts."
+  },
+  {
+    "objectID": "projects/goblin-spatial/index.html",
+    "href": "projects/goblin-spatial/index.html",
+    "title": "GOBLIN-Spatial",
+    "section": "",
+    "text": "This section will explain the problem the project addresses in plain language."
+  },
+  {
+    "objectID": "projects/goblin-spatial/index.html#the-question",
+    "href": "projects/goblin-spatial/index.html#the-question",
+    "title": "GOBLIN-Spatial",
+    "section": "",
+    "text": "This section will explain the problem the project addresses in plain language."
+  },
+  {
+    "objectID": "projects/goblin-spatial/index.html#the-model",
+    "href": "projects/goblin-spatial/index.html#the-model",
+    "title": "GOBLIN-Spatial",
+    "section": "The model",
+    "text": "The model\nThis section will describe the model architecture and link to technical documentation when public."
+  },
+  {
+    "objectID": "projects/goblin-spatial/index.html#explore",
+    "href": "projects/goblin-spatial/index.html#explore",
+    "title": "GOBLIN-Spatial",
+    "section": "Explore",
+    "text": "Explore\nInteractive maps, Plotly figures, scenario selectors, and other outputs can be added here later."
+  },
+  {
+    "objectID": "projects/goblin-spatial/index.html#research-outputs",
+    "href": "projects/goblin-spatial/index.html#research-outputs",
+    "title": "GOBLIN-Spatial",
+    "section": "Research outputs",
+    "text": "Research outputs\n\nPaper — add when public\nCode — add GitHub repository when public\nData — add link when public\nDocumentation — add link when public\nTalks — add related presentation links"
+  },
+  {
+    "objectID": "projects/goblin-spatial/index.html#reproduce",
+    "href": "projects/goblin-spatial/index.html#reproduce",
+    "title": "GOBLIN-Spatial",
+    "section": "Reproduce",
+    "text": "Reproduce\nThis section will provide the minimum instructions needed to reproduce a figure, table, or model run."
+  },
+  {
+    "objectID": "projects/e-seat/index.html",
+    "href": "projects/e-seat/index.html",
+    "title": "E-SEAT",
+    "section": "",
+    "text": "E-SEAT studies the relationship between fuel-market reform and structural land-use persistence in the U.S. Corn Belt.\nIts central question is:\n\nIf the ethanol-demand signal weakens, how much of current Corn Belt specialisation is likely to reverse, and how much reflects the production structure already in place?"
+  },
+  {
+    "objectID": "projects/e-seat/index.html#the-question",
+    "href": "projects/e-seat/index.html#the-question",
+    "title": "E-SEAT",
+    "section": "",
+    "text": "E-SEAT studies the relationship between fuel-market reform and structural land-use persistence in the U.S. Corn Belt.\nIts central question is:\n\nIf the ethanol-demand signal weakens, how much of current Corn Belt specialisation is likely to reverse, and how much reflects the production structure already in place?"
+  },
+  {
+    "objectID": "projects/e-seat/index.html#design",
+    "href": "projects/e-seat/index.html#design",
+    "title": "E-SEAT",
+    "section": "Design",
+    "text": "Design\nThe framework links county-level agricultural data, national corn-ethanol demand, predetermined county conditions, fixed-effects estimation, dynamic analysis, scenario translation, backcasting and spatial diagnostics.\nThe empirical structure covers counties across the Corn Belt over repeated Census of Agriculture waves from 1997 to 2022."
+  },
+  {
+    "objectID": "projects/e-seat/index.html#main-distinction",
+    "href": "projects/e-seat/index.html#main-distinction",
+    "title": "E-SEAT",
+    "section": "Main distinction",
+    "text": "Main distinction\nThe analysis separates responsiveness from starting position.\nA county may respond to a weaker ethanol-demand signal and still remain highly specialised because it begins from a very different agricultural structure."
+  },
+  {
+    "objectID": "projects/e-seat/index.html#workflow",
+    "href": "projects/e-seat/index.html#workflow",
+    "title": "E-SEAT",
+    "section": "Workflow",
+    "text": "Workflow\nSource data\n    ↓\nCounty panel\n    ↓\nFixed-effects estimation\n    ↓\nCounty sensitivity\n    ↓\nScenario translation and backcast\n    ↓\nPersistence diagnostics\n    ↓\nSpatial interpretation"
+  },
+  {
+    "objectID": "projects/e-seat/index.html#reproducibility",
+    "href": "projects/e-seat/index.html#reproducibility",
+    "title": "E-SEAT",
+    "section": "Reproducibility",
+    "text": "Reproducibility\nStata is used for data preparation, estimation, scenario translation and frozen county outputs. Python is used for publication cartography.\nThe public replication archive will be linked here once the full manuscript-facing release is complete."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The projects below connect formal research questions with reusable modelling workflows, code, data documentation and reproducibility materials.\n\n\nGOBLIN-Spatial\nA constraint-preserving spatial foresight framework for agricultural transition incidence, response potential and land-system transformability.\nOpen project →\n\n\nAGRISYN\nSynthetic farm populations for reconstructing within-area agricultural heterogeneity from agricultural and spatial controls.\nOpen project →\n\n\nIFT-BioSim\nFarm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.\nOpen project →\n\n\nBioLand-US\nContractual land access and prospective U.S. perennial-biomass mobilisation.\nOpen project →\n\n\nE-SEAT\nEthanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence in the U.S. Corn Belt.\nOpen project →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elvis Kwame Ofori",
+    "section": "",
+    "text": "Research · Models · Writing\n\n\nElvis Kwame Ofori\nI am a PhD Researcher and Research Assistant at the University of Galway, working across agricultural economics, land-use modelling, climate and environmental policy, and quantitative decision support.\nI develop economic, spatial, behavioural and computational models to examine how agricultural, land-use and bioenergy policies move from national objectives to real production systems and places: where adjustment occurs, who and what is exposed, which alternatives are feasible, and how different policy designs may perform before major decisions are locked in.\n\nExplore research View projects Read the blog"
+  },
+  {
+    "objectID": "projects/bioland-us/index.html",
+    "href": "projects/bioland-us/index.html",
+    "title": "BioLand-US",
+    "section": "",
+    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#the-question",
+    "href": "projects/bioland-us/index.html#the-question",
+    "title": "BioLand-US",
+    "section": "",
+    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#scientific-logic",
+    "href": "projects/bioland-us/index.html#scientific-logic",
+    "title": "BioLand-US",
+    "section": "Scientific logic",
+    "text": "Scientific logic\nThe framework keeps four quantities distinct:\nTechno-economic biomass allocation\n        ↓\nCompatible agricultural land\n        ↓\nContractually accessible land\n        ↓\nProspectively mobilised biomass\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#evidence",
+    "href": "projects/bioland-us/index.html#evidence",
+    "title": "BioLand-US",
+    "section": "Evidence",
+    "text": "Evidence\nThe model combines:\n\nPOLYSYS biomass allocation from the 2023 Billion-Ton analysis;\n2022 U.S. Census of Agriculture land data;\ncounty cash-rent context;\nexperimental evidence on landholder contract participation; and\ncounty-level spatial matching."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#reproducibility",
+    "href": "projects/bioland-us/index.html#reproducibility",
+    "title": "BioLand-US",
+    "section": "Reproducibility",
+    "text": "Reproducibility\nThe public repository contains the code, frozen non-disclosive behavioural parameters, data-access documentation, verification scripts and manuscript-facing outputs while respecting restrictions on respondent-level records.\nView the public GitHub repository →"
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html",
+    "href": "projects/ift-biosim/index.html",
+    "title": "IFT-BioSim",
+    "section": "",
+    "text": "IFT-BioSim is a farm-level transition modelling framework for examining how agricultural adjustment differs across heterogeneous farms under common national policy objectives.\nIt asks how opportunity costs, structural conditions, participation decisions, income effects, land reallocation and policy design interact when transition is implemented at farm level."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#the-question",
+    "href": "projects/ift-biosim/index.html#the-question",
+    "title": "IFT-BioSim",
+    "section": "",
+    "text": "IFT-BioSim is a farm-level transition modelling framework for examining how agricultural adjustment differs across heterogeneous farms under common national policy objectives.\nIt asks how opportunity costs, structural conditions, participation decisions, income effects, land reallocation and policy design interact when transition is implemented at farm level."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#what-the-model-represents",
+    "href": "projects/ift-biosim/index.html#what-the-model-represents",
+    "title": "IFT-BioSim",
+    "section": "What the model represents",
+    "text": "What the model represents\nThe framework is designed to distinguish farms that face very different economic and structural conditions under the same transition objective.\nCore elements include:\n\nheterogeneous farm structure;\nlivestock adjustment;\nopportunity costs;\nbehavioural participation;\nincome and distributional effects;\nland reallocation; and\ntransition-support design."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#policy-instruments",
+    "href": "projects/ift-biosim/index.html#policy-instruments",
+    "title": "IFT-BioSim",
+    "section": "Policy instruments",
+    "text": "Policy instruments\nThe model can be used to compare alternative instruments and allocation rules, including levies, recycling mechanisms, auction-style approaches and differentiated support.\nThe purpose is not only to estimate aggregate adjustment, but to understand who responds, who bears costs, and how policy design changes incidence."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#research-outputs",
+    "href": "projects/ift-biosim/index.html#research-outputs",
+    "title": "IFT-BioSim",
+    "section": "Research outputs",
+    "text": "Research outputs\nPaper, model documentation, code and scenario materials will be linked here as they become public."
+  },
+  {
+    "objectID": "projects/agrisyn/index.html",
+    "href": "projects/agrisyn/index.html",
+    "title": "AGRISYN",
+    "section": "",
+    "text": "This section will explain why synthetic farm populations are useful and what problem AGRISYN addresses."
+  },
+  {
+    "objectID": "projects/agrisyn/index.html#the-question",
+    "href": "projects/agrisyn/index.html#the-question",
+    "title": "AGRISYN",
+    "section": "",
+    "text": "This section will explain why synthetic farm populations are useful and what problem AGRISYN addresses."
+  },
+  {
+    "objectID": "projects/agrisyn/index.html#how-it-works",
+    "href": "projects/agrisyn/index.html#how-it-works",
+    "title": "AGRISYN",
+    "section": "How it works",
+    "text": "How it works\nThis section will describe the construction logic at a high level."
+  },
+  {
+    "objectID": "projects/agrisyn/index.html#explore",
+    "href": "projects/agrisyn/index.html#explore",
+    "title": "AGRISYN",
+    "section": "Explore",
+    "text": "Explore\nInteractive summaries and figures can be added later without changing the site’s basic architecture."
+  },
+  {
+    "objectID": "projects/agrisyn/index.html#research-outputs",
+    "href": "projects/agrisyn/index.html#research-outputs",
+    "title": "AGRISYN",
+    "section": "Research outputs",
+    "text": "Research outputs\n\nPaper — add when public\nCode — add GitHub repository when public\nData — add link when public\nDocumentation — add link when public"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This first version deliberately keeps publications simple. A later iteration can generate this page automatically from BibTeX or structured YAML."
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed",
+    "href": "publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "Peer-reviewed",
+    "text": "Peer-reviewed\nPaper title\nAuthors · Journal · Year\nPaper · DOI · Code · Data"
+  },
+  {
+    "objectID": "publications/index.html#working-papers",
+    "href": "publications/index.html#working-papers",
+    "title": "Publications",
+    "section": "Working papers",
+    "text": "Working papers\nWorking paper title\nAuthors · Year\nPreprint · Code · Data"
+  },
+  {
+    "objectID": "publications/index.html#other-outputs",
+    "href": "publications/index.html#other-outputs",
+    "title": "Publications",
+    "section": "Other outputs",
+    "text": "Other outputs\nReports, book chapters, software papers, datasets, and methodological outputs can be listed here when relevant."
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-welcome/index.html",
+    "href": "blog/posts/2026-09-22-welcome/index.html",
+    "title": "Starting this site",
+    "section": "",
+    "text": "This is a placeholder first post.\nThe site is intended to bring together research, projects, code, talks, and general writing without forcing every idea into an academic format.\nFuture posts can be about research, economics, technology, books, current affairs, programming, data, or anything else worth developing."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD Researcher and Research Assistant in Plant & AgriBiosciences, School of Biological & Chemical Sciences, Ryan Institute, University of Galway.\nMy research sits at the intersection of agricultural economics, land-use modelling, environmental policy and quantitative decision support. I develop economic, spatial, behavioural and computational modelling tools to understand how agricultural, land-use and bioenergy policies may be designed and implemented across different production systems and places.\nA recurring question in my work is how to move from a national target or policy objective to the practical geography and economics of implementation. That means asking where adjustment occurs, which systems and places are affected, what the economic consequences may be, which opportunities and constraints emerge, and how alternative policy designs compare.\nMy current research sits within the wider FORESIGHT and LandingZoNES research environment and builds on the GOBLIN modelling framework. Current work spans agricultural and livestock transitions, land-use change, spatial feasibility, economic exposure, heterogeneous policy response, bioenergy opportunities, and policy design and implementation."
+  },
+  {
+    "objectID": "about.html#what-i-work-on",
+    "href": "about.html#what-i-work-on",
+    "title": "About",
+    "section": "What I work on",
+    "text": "What I work on\nI combine:\n\nAFOLU and agricultural pathway modelling;\nagricultural and environmental economics;\nspatial reconstruction and land-use analysis;\nbehavioural and econometric modelling;\nfarm-level microsimulation;\nsynthetic populations;\noptimisation and scenario analysis;\nbioenergy and resource-access modelling; and\nreproducible, version-controlled research workflows.\n\nThe appropriate scale depends on the decision being studied. Some questions require national pathways, others regional or local geography, and others farm-level or individual-operation detail. My interest is in building modelling systems that can connect these levels where necessary."
+  },
+  {
+    "objectID": "about.html#current-modelling-work",
+    "href": "about.html#current-modelling-work",
+    "title": "About",
+    "section": "Current modelling work",
+    "text": "Current modelling work\nGOBLIN-Spatial resolves nationally coherent agricultural and land-use pathways across local geography and tests transition incidence, response potential, spatial feasibility and flexibility.\nIFT-BioSim examines heterogeneous farm-level transition responses, opportunity costs, participation, land reallocation and transition-support design.\nAGRISYN reconstructs synthetic farm populations from agricultural and spatial controls to represent within-area farm heterogeneity.\nBioLand-US examines whether prospective U.S. perennial-biomass allocations remain accessible once compatible agricultural land and voluntary contractual participation are made explicit.\nE-SEAT studies ethanol-demand exposure and structural land-use persistence across the U.S. Corn Belt using county panel data, fixed-effects estimation and spatial backcasting."
+  },
+  {
+    "objectID": "about.html#reproducible-research",
+    "href": "about.html#reproducible-research",
+    "title": "About",
+    "section": "Reproducible research",
+    "text": "Reproducible research\nI use GitHub to organise research workflows, document assumptions, preserve code and make analytical pipelines easier to inspect and reproduce.\nMy longer-term aim is not only to publish individual analyses, but to develop reusable modelling and decision-support infrastructure: documented code, synthetic datasets, scenario controls, worked examples, validation checks and versioned model releases that other researchers and analysts can inspect, reproduce and extend.\nWhere underlying data are confidential or access-restricted, I do not redistribute protected microdata. Instead, public repositories can provide model scripts, data-access notes, assumptions, validation checks, scenario controls and instructions for authorised reproduction."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nMy academic background spans Plant & AgriBiosciences, management science, agricultural and environmental economics, econometric modelling, spatial analysis and sustainability policy.\nI hold an MSc in Management Science and Engineering, completed in China, and currently undertake doctoral research at the University of Galway."
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About",
+    "section": "Connect",
+    "text": "Connect\n\nGitHub\nORCID\nGoogle Scholar\nLinkedIn\nEmail"
+  },
+  {
+    "objectID": "about.html#disclaimer",
+    "href": "about.html#disclaimer",
+    "title": "About",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThis is my personal website. Views, findings and conclusions expressed here and in associated repositories are my own and should not be interpreted as representing the official position of my university, employers, funders, data providers, supervisors or collaborators."
+  }
+]
