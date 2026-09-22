@@ -35,9 +35,12 @@ website:
       - icon: linkedin
         href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
         aria-label: LinkedIn
+      - icon: rss
+        href: "/blog/index.xml"
+        aria-label: RSS
   page-footer:
     left: "© Elvis Kwame Ofori"
-    center: "Personal website"
+    center: "Views are my own · [RSS](/blog/index.xml)"
     right: "[Email](mailto:e.ofori1@universityofgalway.ie) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)"
 
 format:
