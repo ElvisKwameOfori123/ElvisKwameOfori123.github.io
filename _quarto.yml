@@ -38,6 +38,9 @@ website:
       - text: Scholar
         href: "https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en"
         aria-label: Google Scholar
+      - icon: facebook
+        href: "https://www.facebook.com/kwameofori123"
+        aria-label: Facebook
       - icon: linkedin
         href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
         aria-label: LinkedIn
