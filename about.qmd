@@ -1,0 +1,18 @@
+---
+title: "About"
+---
+
+This page will hold a concise biography, current role, research interests, collaborations, and contact links.
+
+The homepage stays focused on your work and writing rather than becoming a long CV.
+
+## Elsewhere
+
+- [GitHub](https://github.com/ElvisKwameOfori123)
+- ORCID — add your link
+- Google Scholar — add your link
+- LinkedIn — add your link
+
+## Site philosophy
+
+This site is owned and maintained through plain-text files in GitHub. Research and publications are structured separately from the general Blog so the Blog can remain broad and personal.
