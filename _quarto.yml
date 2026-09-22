@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Elvis Kwame Ofori"
-  description: "Research, projects, publications, talks, and writing by Elvis Kwame Ofori."
+  description: "Agricultural, land-use, bioenergy and policy modelling; reproducible research; projects and writing by Elvis Kwame Ofori."
   site-url: "https://ElvisKwameOfori123.github.io"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
   search:
@@ -36,6 +36,7 @@ website:
         aria-label: RSS
   page-footer:
     left: "© Elvis Kwame Ofori"
+    center: "University of Galway · Ryan Institute"
     right: "Built with Quarto · Source on GitHub"
 
 format:
