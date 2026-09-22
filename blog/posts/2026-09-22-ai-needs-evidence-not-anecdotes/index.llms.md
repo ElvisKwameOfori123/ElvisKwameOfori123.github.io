@@ -1,4 +1,4 @@
-# AI is becoming ordinary. The evidence about its effects is not there yet
+# AI is becoming ordinary. The evidence about its effects is still catching up
 
 Science & Technology
 

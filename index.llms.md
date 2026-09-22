@@ -24,7 +24,7 @@ What the MAgPIE repository can teach researchers about modelling agriculture, fo
 
 Sep 22, 2026
 
-### [AI is becoming ordinary. The evidence about its effects is not there yet](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
+### [AI is becoming ordinary. The evidence about its effects is still catching up](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 
 As generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.
 
