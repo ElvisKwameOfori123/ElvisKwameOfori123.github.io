@@ -1,4 +1,5 @@
 ---
+title: "Home"
 pagetitle: "Elvis Kwame Ofori"
 description: "Personal writing on policy, science, economics, technology, places and research."
 toc: false
