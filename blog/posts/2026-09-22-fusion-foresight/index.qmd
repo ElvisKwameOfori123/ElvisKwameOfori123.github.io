@@ -1,45 +1,46 @@
 ---
-title: "Why I’m Excited to Work with FUSION and FORESIGHT"
-description: "A personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions."
+title: "Forecasting asks what will happen. Foresight asks what could."
+description: "On the modelling group I work in, and why working backwards from a target changes the questions worth asking."
 date: 2026-09-22
 categories:
-  - Research life
+  - Policy
   - Ireland
-  - Agriculture and food
 draft: false
-image: foresight1.png
 ---
 
 <figure>
-  <img src="foresight1.png" alt="FORESIGHT project illustration showing a pathway from future land-use goals back to present-day decisions">
-  <figcaption>FORESIGHT project illustration. Source: FUSION, University of Galway. Re-hosted here under the source site's CC BY-SA licence.</figcaption>
+  <img src="foresight1.png" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions">
+  <figcaption><em>FORESIGHT project illustration</em>, <a href="https://fusion-research.eu/foresight.html">FUSION, University of Galway</a>, used under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-One of the most exciting parts of my PhD journey has been working in the **FUSION research environment at the University of Galway** and contributing to research connected with **FORESIGHT**.
+A forecast asks what is likely to happen. Foresight asks something different: which futures are possible, what would it take to reach them, and what do we learn by working backwards from the outcome?
 
-FUSION stands for **FUture Sustainable economy Integrated mOdelling Network**. What attracts me to the group is that it does not treat sustainability as a problem that belongs to one discipline. Its work brings together life-cycle assessment, integrated assessment modelling, land-use analysis and environmental software engineering. The common thread is the use of quantitative models to ask practical questions about how economies, food systems and landscapes could change in the future.
+The distinction sounds academic. In agricultural climate policy, it is practical, and it shapes much of the work I now do.
 
-That way of thinking fits naturally with the questions that interest me.
+I do my PhD within **FUSION**, a modelling group at the University of Galway that works across life-cycle assessment, integrated assessment, land-use analysis and environmental software. Much of my work connects to **FORESIGHT**, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. The project is led by FUSION with the University of Limerick and FERS Ltd.
 
-Agriculture and land use are full of difficult trade-offs. A national climate target can look clear on paper, but implementation happens through real production systems, farms, forests and communities. A pathway that appears technically feasible at national scale may look very different once land availability, livestock systems, economic incentives, spatial variation and alternative uses of land are considered.
+I mention the funding at the start because I will write about Irish climate and agricultural policy on this site, and readers should know where I sit. The views expressed here are my own.
 
-This is where **FORESIGHT**, or *Future ORiEnted ScenarIo modellinG of Holistic land use sTrategies*, becomes especially interesting. The project provides agriculture and land-use modelling evidence for Ireland and continues the development of integrated AFOLU modelling tools such as **GOBLIN**. Its emphasis is not simply on predicting one future. It is about exploring plausible pathways, testing assumptions and understanding what different choices could mean for emissions, land use, resilience and wider sustainability objectives.
+Within FORESIGHT, **GOBLIN** is used as a national land-balance modelling framework for exploring agriculture, forestry and other land-use pathways through backcasting. Rather than predicting what Ireland will do, the approach can begin with a future objective such as climate neutrality and examine combinations of livestock, forestry, wetlands and cropland that could be consistent with it.
 
-For me, that distinction matters. Forecasting asks what is likely to happen. Foresight asks a broader question: **what futures are possible, what would be required to reach them, and what might we learn by working backwards from those outcomes?**
+That is foresight in practice.
 
-My own work increasingly sits in that space. I am interested in taking national agricultural and land-use pathways and resolving them into more detailed spatial and farm-level questions. Where does adjustment occur? Which production systems are most exposed? What alternatives are actually feasible in particular places? How do economic and behavioural responses change the picture? And how can models become reusable decision-support tools rather than one-off academic exercises?
+My own question begins where a nationally coherent pathway can become much less simple.
 
-Working alongside researchers developing GOBLIN and related modelling approaches has reinforced something I increasingly value in research: the model itself is not the final product. The useful output is better evidence for a difficult decision.
+A national reduction in cattle numbers, for example, could fall very differently across a dairy-intensive area and a region dominated by suckler farming. The aggregate change may be identical while the consequences for production systems, land use and local economies are not. That is an illustration of the question, not a result.
 
-That is what makes FUSION and FORESIGHT exciting to me. They create a space where environmental science, economics, modelling and software can meet around real policy problems, while keeping the analytical work transparent and open to improvement.
+I am interested in resolving national pathways down to places and farms: where adjustment falls, what released land can realistically support, and how economic and behavioural differences change the picture.
 
-I expect many posts on this site will grow from that environment. Some will explain models and methods. Others will discuss new papers, data, land-use questions, agriculture, bioenergy or interesting developments in Ireland, the United States and elsewhere.
+What I value most about working this way is a lesson I keep relearning: **the model is not the product**.
 
-The aim is simple: use the blog as a place to think in public, connect research to current questions, and make technical work easier to understand.
+The useful product is better evidence for a difficult decision, produced transparently enough that assumptions can be examined and alternatives tested.
 
-### Sources
+Future posts here will range much more widely than my PhD. I will write about climate and agricultural policy, land use, energy, economics, Ghana and Ireland, useful models and code, books, technology and research life.
 
-- [FUSION: FUture Sustainable economy Integrated mOdelling Network](https://fusion-research.eu/)
-- [About FUSION](https://fusion-research.eu/pages/about-fusion.html)
+The aim is simple: to think in public, and to make technical arguments readable without flattening them.
+
+### Further reading
+
 - [FORESIGHT project](https://fusion-research.eu/foresight.html)
-- [University of Galway Ryan Institute](https://www.universityofgalway.ie/ryaninstitute/)
+- [FUSION research group](https://fusion-research.eu/)
+- [GOBLIN package documentation](https://fusion-research.eu/goblin-package-documentation.html)
