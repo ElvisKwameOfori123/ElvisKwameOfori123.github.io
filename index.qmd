@@ -41,8 +41,8 @@ listing:
 <section class="home-section">
 
 <div class="section-heading">
-<h2>Latest writing</h2>
-<a href="blog/">All writing →</a>
+<h2>Latest from EKO Perspectives</h2>
+<a href="blog/">EKO Perspectives →</a>
 </div>
 
 ::: {#home-writing}
