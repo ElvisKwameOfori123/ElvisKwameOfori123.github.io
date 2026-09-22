@@ -1,6 +1,7 @@
 name: Check site links
 
 on:
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: "17 6 * * 1"
@@ -23,7 +24,7 @@ jobs:
         run: quarto render
 
       - name: Check rendered links
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@v2.8.0
         with:
           args: >-
             --no-progress
