@@ -3,8 +3,8 @@ title: "From Econometrics to Scenario Thinking"
 description: "How my research questions changed from explaining what happened to exploring what could happen, where, and under what conditions."
 date: 2026-09-22
 categories:
-  - Research life
-  - Policy
+  - Economics
+  - Personal notes
 draft: false
 ---
 
