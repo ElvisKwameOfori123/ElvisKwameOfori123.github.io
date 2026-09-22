@@ -1,17 +1,6 @@
 ---
 title: "Publications"
-description: "Peer-reviewed publications, working papers and related research outputs."
-toc: false
+draft: true
 ---
 
-<p class="page-intro">This page is being built as a research archive rather than a copied CV. Publication entries will connect, where available, to the article, DOI, code, data or data-access instructions, project pages and related talks.</p>
-
-## Research profiles
-
-[Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
-[ORCID](https://orcid.org/0000-0001-5404-9078) ·
-[GitHub](https://github.com/ElvisKwameOfori123)
-
-## What will live here
-
-Peer-reviewed articles, working papers, reports, software, datasets and methodological outputs will be organised by research area and year as the archive is completed.
+A structured publication archive will be added from a verified bibliography.
