@@ -16,15 +16,12 @@ The model does not replace or re-optimise the upstream resource allocation. It a
 
 The framework keeps four quantities distinct:
 
-~~~text
-Techno-economic biomass allocation
-        ↓
-Compatible agricultural land
-        ↓
-Contractually accessible land
-        ↓
-Prospectively mobilised biomass
-~~~
+```{mermaid}
+flowchart TD
+    A["Techno-economic biomass allocation"] --> B["Compatible agricultural land"]
+    B --> C["Contractually accessible land"]
+    C --> D["Prospectively mobilised biomass"]
+```
 
 This makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts.
 
