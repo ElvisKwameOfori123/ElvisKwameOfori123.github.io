@@ -62,5 +62,50 @@ FORESIGHT project illustration. Source: FUSION, University of Galway. Re-hosted 
   <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
   <media:content url="https://ElvisKwameOfori123.github.io/blog/posts/2026-09-22-fusion-foresight/foresight1.png" medium="image" type="image/png" height="61" width="144"/>
 </item>
+<item>
+  <title>From Econometrics to Scenario Thinking</title>
+  <link>https://ElvisKwameOfori123.github.io/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For a long time, most of my research began with data from the past.</p>
+<p>I worked with econometric models to examine relationships, test hypotheses and understand how economic, technological and environmental variables moved together. The questions were usually backward-looking in the best sense of the term: <strong>what happened, what was associated with what, and what can the observed data tell us?</strong></p>
+<p>That way of thinking is still important to me. But my PhD has gradually pushed me toward a different kind of question.</p>
+<p>Instead of asking only <em>what happened?</em>, I now spend much more time asking:</p>
+<p><strong>What could happen? What would have to change for it to happen? Where would those changes fall? And what would implementation look like for different people and places?</strong></p>
+<p>That shift sounds small, but it changes the entire research process.</p>
+<p>Econometrics usually begins with observed variation. Scenario thinking often begins with a future condition, a policy target or a set of assumptions that may never have existed in the historical data. A country may set a climate-neutrality target for 2050, for example. There is no historical dataset showing how that exact transition already happened. The researcher has to construct plausible pathways, make assumptions explicit and test what follows from them.</p>
+<p>This is where scenario modelling, foresight and backcasting become useful.</p>
+<p>Strategic foresight is not simply forecasting. The OECD describes it as a way of exploring multiple plausible futures and preparing for the opportunities and challenges they may create. The European Commission similarly emphasises that scenarios are not predictions. They are ways of thinking systematically about how different futures might unfold.</p>
+<p>Backcasting turns the direction around again. Instead of projecting today’s trends forward, it starts with a future objective and asks what would have to happen between that future and the present.</p>
+<p>I find that distinction especially useful for climate, agriculture and land-use policy. A target can be clear at national level while saying very little about implementation. If livestock numbers change, where does that adjustment occur? If land is released, what can it realistically support? If a policy looks affordable in aggregate, are its costs concentrated among particular farms or regions?</p>
+<p>Those are not questions that one method can answer on its own.</p>
+<p>I have also learned that the divide between econometrics and scenario modelling is not as clean as it first appears. Econometric models can support forecasts and counterfactual scenarios, and historical evidence can discipline assumptions about future behaviour. In energy policy, researchers have long combined top-down economic models with more detailed sector or technology models because each sees something the other misses.</p>
+<p>So I do not think of my research as moving <em>away</em> from econometrics.</p>
+<p>It feels more like moving from a single window to a room with several windows.</p>
+<p>Econometrics helps me ask what the observed world can teach us. Scenario modelling asks what different future worlds might require. Spatial models ask where change would occur. Microsimulation asks how apparently uniform policies can produce very different effects across heterogeneous units.</p>
+<p>The interesting part is not choosing one of them.</p>
+<p>It is knowing which question each method is capable of answering, and where its limits begin.</p>
+<section id="further-reading" class="level3">
+<h3 class="anchored" data-anchor-id="further-reading">Further reading</h3>
+<ul>
+<li><a href="https://www.oecd.org/en/about/programmes/strategic-foresight.html">OECD Strategic Foresight</a></li>
+<li><a href="https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en">European Commission: How do we build scenarios in a foresight exercise?</a></li>
+<li><a href="https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts/the-futures-toolkit-html">UK Government Futures Toolkit</a></li>
+<li><a href="https://www.worldbank.org/en/programs/economicpolicy-macro-modeling/mfmod">World Bank macro-modelling and counterfactual scenario analysis</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research life</category>
+  <category>Policy</category>
+  <guid>https://ElvisKwameOfori123.github.io/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</guid>
+  <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>

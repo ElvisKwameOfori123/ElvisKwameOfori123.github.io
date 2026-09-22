@@ -1,14 +1,16 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/2026-09-22-fusion-foresight/index.html"
+      "/blog/posts/2026-09-22-fusion-foresight/index.html",
+      "/blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html"
     ]
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/index.html",
     "items": [
-      "/blog/posts/2026-09-22-fusion-foresight/index.html"
+      "/blog/posts/2026-09-22-fusion-foresight/index.html",
+      "/blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html"
     ]
   }
 ]

@@ -1,94 +1,52 @@
 [
   {
-    "objectID": "blog/posts/2026-09-22-fusion-foresight/index.html",
-    "href": "blog/posts/2026-09-22-fusion-foresight/index.html",
-    "title": "Why I’m Excited to Work with FUSION and FORESIGHT",
+    "objectID": "blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html",
+    "href": "blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html",
+    "title": "From Econometrics to Scenario Thinking",
     "section": "",
-    "text": "FORESIGHT project illustration. Source: FUSION, University of Galway. Re-hosted here under the source site’s CC BY-SA licence.\n\n\nOne of the most exciting parts of my PhD journey has been working in the FUSION research environment at the University of Galway and contributing to research connected with FORESIGHT.\nFUSION stands for FUture Sustainable economy Integrated mOdelling Network. What attracts me to the group is that it does not treat sustainability as a problem that belongs to one discipline. Its work brings together life-cycle assessment, integrated assessment modelling, land-use analysis and environmental software engineering. The common thread is the use of quantitative models to ask practical questions about how economies, food systems and landscapes could change in the future.\nThat way of thinking fits naturally with the questions that interest me.\nAgriculture and land use are full of difficult trade-offs. A national climate target can look clear on paper, but implementation happens through real production systems, farms, forests and communities. A pathway that appears technically feasible at national scale may look very different once land availability, livestock systems, economic incentives, spatial variation and alternative uses of land are considered.\nThis is where FORESIGHT, or Future ORiEnted ScenarIo modellinG of Holistic land use sTrategies, becomes especially interesting. The project provides agriculture and land-use modelling evidence for Ireland and continues the development of integrated AFOLU modelling tools such as GOBLIN. Its emphasis is not simply on predicting one future. It is about exploring plausible pathways, testing assumptions and understanding what different choices could mean for emissions, land use, resilience and wider sustainability objectives.\nFor me, that distinction matters. Forecasting asks what is likely to happen. Foresight asks a broader question: what futures are possible, what would be required to reach them, and what might we learn by working backwards from those outcomes?\nMy own work increasingly sits in that space. I am interested in taking national agricultural and land-use pathways and resolving them into more detailed spatial and farm-level questions. Where does adjustment occur? Which production systems are most exposed? What alternatives are actually feasible in particular places? How do economic and behavioural responses change the picture? And how can models become reusable decision-support tools rather than one-off academic exercises?\nWorking alongside researchers developing GOBLIN and related modelling approaches has reinforced something I increasingly value in research: the model itself is not the final product. The useful output is better evidence for a difficult decision.\nThat is what makes FUSION and FORESIGHT exciting to me. They create a space where environmental science, economics, modelling and software can meet around real policy problems, while keeping the analytical work transparent and open to improvement.\nI expect many posts on this site will grow from that environment. Some will explain models and methods. Others will discuss new papers, data, land-use questions, agriculture, bioenergy or interesting developments in Ireland, the United States and elsewhere.\nThe aim is simple: use the blog as a place to think in public, connect research to current questions, and make technical work easier to understand.\n\nSources\n\nFUSION: FUture Sustainable economy Integrated mOdelling Network\nAbout FUSION\nFORESIGHT project\nUniversity of Galway Ryan Institute"
+    "text": "For a long time, most of my research began with data from the past.\nI worked with econometric models to examine relationships, test hypotheses and understand how economic, technological and environmental variables moved together. The questions were usually backward-looking in the best sense of the term: what happened, what was associated with what, and what can the observed data tell us?\nThat way of thinking is still important to me. But my PhD has gradually pushed me toward a different kind of question.\nInstead of asking only what happened?, I now spend much more time asking:\nWhat could happen? What would have to change for it to happen? Where would those changes fall? And what would implementation look like for different people and places?\nThat shift sounds small, but it changes the entire research process.\nEconometrics usually begins with observed variation. Scenario thinking often begins with a future condition, a policy target or a set of assumptions that may never have existed in the historical data. A country may set a climate-neutrality target for 2050, for example. There is no historical dataset showing how that exact transition already happened. The researcher has to construct plausible pathways, make assumptions explicit and test what follows from them.\nThis is where scenario modelling, foresight and backcasting become useful.\nStrategic foresight is not simply forecasting. The OECD describes it as a way of exploring multiple plausible futures and preparing for the opportunities and challenges they may create. The European Commission similarly emphasises that scenarios are not predictions. They are ways of thinking systematically about how different futures might unfold.\nBackcasting turns the direction around again. Instead of projecting today’s trends forward, it starts with a future objective and asks what would have to happen between that future and the present.\nI find that distinction especially useful for climate, agriculture and land-use policy. A target can be clear at national level while saying very little about implementation. If livestock numbers change, where does that adjustment occur? If land is released, what can it realistically support? If a policy looks affordable in aggregate, are its costs concentrated among particular farms or regions?\nThose are not questions that one method can answer on its own.\nI have also learned that the divide between econometrics and scenario modelling is not as clean as it first appears. Econometric models can support forecasts and counterfactual scenarios, and historical evidence can discipline assumptions about future behaviour. In energy policy, researchers have long combined top-down economic models with more detailed sector or technology models because each sees something the other misses.\nSo I do not think of my research as moving away from econometrics.\nIt feels more like moving from a single window to a room with several windows.\nEconometrics helps me ask what the observed world can teach us. Scenario modelling asks what different future worlds might require. Spatial models ask where change would occur. Microsimulation asks how apparently uniform policies can produce very different effects across heterogeneous units.\nThe interesting part is not choosing one of them.\nIt is knowing which question each method is capable of answering, and where its limits begin.\n\nFurther reading\n\nOECD Strategic Foresight\nEuropean Commission: How do we build scenarios in a foresight exercise?\nUK Government Futures Toolkit\nWorld Bank macro-modelling and counterfactual scenario analysis"
   },
   {
-    "objectID": "projects/ift-biosim/index.html",
-    "href": "projects/ift-biosim/index.html",
-    "title": "IFT-BioSim",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Writing",
     "section": "",
-    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
+    "text": "This is the centre of the site. I write about policy and public affairs, science and technology, economics, agriculture and food, Ghana and Africa, Ireland, the United States, books and ideas, personal observations, and occasionally my own research.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhy I’m Excited to Work with FUSION and FORESIGHT\n\n\n\nResearch life\n\nIreland\n\nAgriculture and food\n\n\n\nA personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Econometrics to Scenario Thinking\n\n\n\nResearch life\n\nPolicy\n\n\n\nHow my research questions changed from explaining what happened to exploring what could happen, where, and under what conditions.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/ift-biosim/index.html#the-question",
-    "href": "projects/ift-biosim/index.html#the-question",
-    "title": "IFT-BioSim",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
+    "text": "My research asks a distributional question:\nI use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented."
   },
   {
-    "objectID": "projects/ift-biosim/index.html#what-the-model-represents",
-    "href": "projects/ift-biosim/index.html#what-the-model-represents",
-    "title": "IFT-BioSim",
-    "section": "What the model represents",
-    "text": "What the model represents\nThe framework links:\n\nfarm structure and livestock adjustment;\nopportunity costs;\nparticipation decisions;\nincome and distributional effects;\nland reallocation; and\nalternative transition-support rules."
+    "objectID": "research/index.html#current-work",
+    "href": "research/index.html#current-work",
+    "title": "Research",
+    "section": "Current work",
+    "text": "Current work\nGOBLIN-Spatial\nSpatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.\nBioLand-US\nA U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.\nIFT-BioSim\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
   },
   {
-    "objectID": "projects/ift-biosim/index.html#why-it-matters",
-    "href": "projects/ift-biosim/index.html#why-it-matters",
-    "title": "IFT-BioSim",
-    "section": "Why it matters",
-    "text": "Why it matters\nA technically feasible national pathway does not reveal how costly the transition may be for particular farms. IFT-BioSim is designed to make that distribution visible and to test whether alternative compensation or incentive designs change the burden."
+    "objectID": "research/index.html#methods",
+    "href": "research/index.html#methods",
+    "title": "Research",
+    "section": "Methods",
+    "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
   },
   {
-    "objectID": "projects/ift-biosim/index.html#status",
-    "href": "projects/ift-biosim/index.html#status",
-    "title": "IFT-BioSim",
-    "section": "Status",
-    "text": "Status\nThe framework is under active development. Results are not posted here until they are ready for public release."
+    "objectID": "research/index.html#publications",
+    "href": "research/index.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nFor the complete publication record, see:\nGoogle Scholar · ORCID\nA structured publication archive with paper, code and data links will replace these profile links once the bibliography is imported."
   },
   {
-    "objectID": "projects/bioland-us/index.html",
-    "href": "projects/bioland-us/index.html",
-    "title": "BioLand-US",
-    "section": "",
-    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#the-question",
-    "href": "projects/bioland-us/index.html#the-question",
-    "title": "BioLand-US",
-    "section": "",
-    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#scientific-logic",
-    "href": "projects/bioland-us/index.html#scientific-logic",
-    "title": "BioLand-US",
-    "section": "Scientific logic",
-    "text": "Scientific logic\nThe framework keeps four quantities distinct:\nTechno-economic biomass allocation\n        ↓\nCompatible agricultural land\n        ↓\nContractually accessible land\n        ↓\nProspectively mobilised biomass\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#evidence",
-    "href": "projects/bioland-us/index.html#evidence",
-    "title": "BioLand-US",
-    "section": "Evidence",
-    "text": "Evidence\nThe model combines:\n\nPOLYSYS biomass allocation from the 2023 Billion-Ton analysis;\n2022 U.S. Census of Agriculture land data;\ncounty cash-rent context;\nexperimental evidence on landholder contract participation; and\ncounty-level spatial matching."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#reproducibility",
-    "href": "projects/bioland-us/index.html#reproducibility",
-    "title": "BioLand-US",
-    "section": "Reproducibility",
-    "text": "Reproducibility\nThe public repository contains the code, frozen non-disclosive behavioural parameters, data-access documentation, verification scripts and manuscript-facing outputs while respecting restrictions on respondent-level records.\nView the public GitHub repository →"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nElvis Kwame Ofori\n",
-    "section": "",
-    "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.\n\n\nWriting About Research Contact\n\n\n\n\n\n\nLatest writing\n\nAll writing →\n\n\n\n\n\n\n\n\n\n\n\nWhy I’m Excited to Work with FUSION and FORESIGHT\n\n\n\nResearch life\n\nIreland\n\nAgriculture and food\n\n\n\nA personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Selected research projects. These pages remain available from the Research section rather than the main navigation.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nWhere nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nHow compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.\n\n\n\n\n\nFarm-level modelling · Ireland\n\n\n\nIFT-BioSim\n\n\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
+    "objectID": "research/index.html#code",
+    "href": "research/index.html#code",
+    "title": "Research",
+    "section": "Code",
+    "text": "Code\nPublic and selected research repositories are available on GitHub."
   },
   {
     "objectID": "projects/goblin-spatial/index.html",
@@ -147,46 +105,95 @@
     "text": "Public status\nThe model architecture and methodological logic are public. Manuscript-facing findings and figures are added only when they are ready for public release."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "My research asks a distributional question:\nI use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented."
+    "text": "Selected research projects. These pages remain available from the Research section rather than the main navigation.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nWhere nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nHow compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.\n\n\n\n\n\nFarm-level modelling · Ireland\n\n\n\nIFT-BioSim\n\n\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
   },
   {
-    "objectID": "research/index.html#current-work",
-    "href": "research/index.html#current-work",
-    "title": "Research",
-    "section": "Current work",
-    "text": "Current work\nGOBLIN-Spatial\nSpatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.\nBioLand-US\nA U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.\nIFT-BioSim\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
-  },
-  {
-    "objectID": "research/index.html#methods",
-    "href": "research/index.html#methods",
-    "title": "Research",
-    "section": "Methods",
-    "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
-  },
-  {
-    "objectID": "research/index.html#publications",
-    "href": "research/index.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nFor the complete publication record, see:\nGoogle Scholar · ORCID\nA structured publication archive with paper, code and data links will replace these profile links once the bibliography is imported."
-  },
-  {
-    "objectID": "research/index.html#code",
-    "href": "research/index.html#code",
-    "title": "Research",
-    "section": "Code",
-    "text": "Code\nPublic and selected research repositories are available on GitHub."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Writing",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nElvis Kwame Ofori\n",
     "section": "",
-    "text": "This is the centre of the site. I write about policy and public affairs, science and technology, economics, agriculture and food, Ghana and Africa, Ireland, the United States, books and ideas, personal observations, and occasionally my own research.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhy I’m Excited to Work with FUSION and FORESIGHT\n\n\n\nResearch life\n\nIreland\n\nAgriculture and food\n\n\n\nA personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.\n\n\nWriting About Research Contact\n\n\n\n\n\n\nLatest writing\n\nAll writing →\n\n\n\n\n\n\n\n\n\n\n\nWhy I’m Excited to Work with FUSION and FORESIGHT\n\n\n\nResearch life\n\nIreland\n\nAgriculture and food\n\n\n\nA personal reflection on the modelling environment shaping my work on agriculture, land use and climate-neutral transitions.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Econometrics to Scenario Thinking\n\n\n\nResearch life\n\nPolicy\n\n\n\nHow my research questions changed from explaining what happened to exploring what could happen, where, and under what conditions.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html",
+    "href": "projects/bioland-us/index.html",
+    "title": "BioLand-US",
+    "section": "",
+    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#the-question",
+    "href": "projects/bioland-us/index.html#the-question",
+    "title": "BioLand-US",
+    "section": "",
+    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#scientific-logic",
+    "href": "projects/bioland-us/index.html#scientific-logic",
+    "title": "BioLand-US",
+    "section": "Scientific logic",
+    "text": "Scientific logic\nThe framework keeps four quantities distinct:\nTechno-economic biomass allocation\n        ↓\nCompatible agricultural land\n        ↓\nContractually accessible land\n        ↓\nProspectively mobilised biomass\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#evidence",
+    "href": "projects/bioland-us/index.html#evidence",
+    "title": "BioLand-US",
+    "section": "Evidence",
+    "text": "Evidence\nThe model combines:\n\nPOLYSYS biomass allocation from the 2023 Billion-Ton analysis;\n2022 U.S. Census of Agriculture land data;\ncounty cash-rent context;\nexperimental evidence on landholder contract participation; and\ncounty-level spatial matching."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#reproducibility",
+    "href": "projects/bioland-us/index.html#reproducibility",
+    "title": "BioLand-US",
+    "section": "Reproducibility",
+    "text": "Reproducibility\nThe public repository contains the code, frozen non-disclosive behavioural parameters, data-access documentation, verification scripts and manuscript-facing outputs while respecting restrictions on respondent-level records.\nView the public GitHub repository →"
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html",
+    "href": "projects/ift-biosim/index.html",
+    "title": "IFT-BioSim",
+    "section": "",
+    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#the-question",
+    "href": "projects/ift-biosim/index.html#the-question",
+    "title": "IFT-BioSim",
+    "section": "",
+    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#what-the-model-represents",
+    "href": "projects/ift-biosim/index.html#what-the-model-represents",
+    "title": "IFT-BioSim",
+    "section": "What the model represents",
+    "text": "What the model represents\nThe framework links:\n\nfarm structure and livestock adjustment;\nopportunity costs;\nparticipation decisions;\nincome and distributional effects;\nland reallocation; and\nalternative transition-support rules."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#why-it-matters",
+    "href": "projects/ift-biosim/index.html#why-it-matters",
+    "title": "IFT-BioSim",
+    "section": "Why it matters",
+    "text": "Why it matters\nA technically feasible national pathway does not reveal how costly the transition may be for particular farms. IFT-BioSim is designed to make that distribution visible and to test whether alternative compensation or incentive designs change the burden."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#status",
+    "href": "projects/ift-biosim/index.html#status",
+    "title": "IFT-BioSim",
+    "section": "Status",
+    "text": "Status\nThe framework is under active development. Results are not posted here until they are ready for public release."
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-fusion-foresight/index.html",
+    "href": "blog/posts/2026-09-22-fusion-foresight/index.html",
+    "title": "Why I’m Excited to Work with FUSION and FORESIGHT",
+    "section": "",
+    "text": "FORESIGHT project illustration. Source: FUSION, University of Galway. Re-hosted here under the source site’s CC BY-SA licence.\n\n\nOne of the most exciting parts of my PhD journey has been working in the FUSION research environment at the University of Galway and contributing to research connected with FORESIGHT.\nFUSION stands for FUture Sustainable economy Integrated mOdelling Network. What attracts me to the group is that it does not treat sustainability as a problem that belongs to one discipline. Its work brings together life-cycle assessment, integrated assessment modelling, land-use analysis and environmental software engineering. The common thread is the use of quantitative models to ask practical questions about how economies, food systems and landscapes could change in the future.\nThat way of thinking fits naturally with the questions that interest me.\nAgriculture and land use are full of difficult trade-offs. A national climate target can look clear on paper, but implementation happens through real production systems, farms, forests and communities. A pathway that appears technically feasible at national scale may look very different once land availability, livestock systems, economic incentives, spatial variation and alternative uses of land are considered.\nThis is where FORESIGHT, or Future ORiEnted ScenarIo modellinG of Holistic land use sTrategies, becomes especially interesting. The project provides agriculture and land-use modelling evidence for Ireland and continues the development of integrated AFOLU modelling tools such as GOBLIN. Its emphasis is not simply on predicting one future. It is about exploring plausible pathways, testing assumptions and understanding what different choices could mean for emissions, land use, resilience and wider sustainability objectives.\nFor me, that distinction matters. Forecasting asks what is likely to happen. Foresight asks a broader question: what futures are possible, what would be required to reach them, and what might we learn by working backwards from those outcomes?\nMy own work increasingly sits in that space. I am interested in taking national agricultural and land-use pathways and resolving them into more detailed spatial and farm-level questions. Where does adjustment occur? Which production systems are most exposed? What alternatives are actually feasible in particular places? How do economic and behavioural responses change the picture? And how can models become reusable decision-support tools rather than one-off academic exercises?\nWorking alongside researchers developing GOBLIN and related modelling approaches has reinforced something I increasingly value in research: the model itself is not the final product. The useful output is better evidence for a difficult decision.\nThat is what makes FUSION and FORESIGHT exciting to me. They create a space where environmental science, economics, modelling and software can meet around real policy problems, while keeping the analytical work transparent and open to improvement.\nI expect many posts on this site will grow from that environment. Some will explain models and methods. Others will discuss new papers, data, land-use questions, agriculture, bioenergy or interesting developments in Ireland, the United States and elsewhere.\nThe aim is simple: use the blog as a place to think in public, connect research to current questions, and make technical work easier to understand.\n\nSources\n\nFUSION: FUture Sustainable economy Integrated mOdelling Network\nAbout FUSION\nFORESIGHT project\nUniversity of Galway Ryan Institute"
   },
   {
     "objectID": "contact.html",
