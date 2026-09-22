@@ -1,0 +1,57 @@
+---
+title: false
+toc: false
+page-layout: full
+---
+
+::: {.hero}
+<div class="hero-kicker">Research · Models · Writing</div>
+
+# Elvis Kwame Ofori
+
+I work at the intersection of environmental economics, agricultural and land-use systems, climate policy, and computational modelling. This site brings together my research, code, projects, talks, and a general blog for ideas and things I find worth writing about.
+
+<div class="hero-links">
+[Explore research](research/index.qmd)
+[Read the blog](blog/index.qmd)
+[View projects](projects/index.qmd)
+</div>
+:::
+
+<hr class="section-rule">
+
+::: {.home-section}
+## Selected work
+
+::: {.feature-grid}
+::: {.feature-card}
+### GOBLIN-Spatial
+Spatial modelling and analysis of agricultural and land-use transitions.
+
+[Explore project →](projects/goblin-spatial/index.qmd)
+:::
+
+::: {.feature-card}
+### AGRISYN
+Synthetic farm populations and reproducible agricultural modelling workflows.
+
+[Explore project →](projects/agrisyn/index.qmd)
+:::
+:::
+:::
+
+::: {.home-section}
+## Latest writing
+
+The Blog is deliberately general. Research, technology, economics, books, data, current affairs, methods, observations, and anything else worth developing can live there.
+
+[Go to Blog →](blog/index.qmd)
+:::
+
+::: {.home-section}
+## Research outputs
+
+Publications, working papers, code, data, presentations, and reproducibility materials can connect back to the projects that produced them.
+
+[Publications →](publications/index.qmd) · [Talks →](talks/index.qmd) · [GitHub →](https://github.com/ElvisKwameOfori123)
+:::
