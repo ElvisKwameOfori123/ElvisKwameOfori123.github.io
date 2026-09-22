@@ -8,26 +8,30 @@ toc: true
 <img src="assets/profile.jpg" alt="Elvis Kwame Ofori">
 <div>
 
-I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway's Ryan Institute**.
+I am **Elvis Kwame Ofori**, a Ghanaian researcher and writer based in Ireland.
 
-My research asks how national agricultural, climate and land-use objectives translate into different costs, opportunities and constraints across farms, production systems and places.
+My path has taken me from Ghana to China and now Ireland, and that movement between places has shaped the way I think about policy. I am interested in how national decisions look very different once they reach households, farms, firms and communities.
 
 </div>
 </div>
+
+## What I write about
+
+This website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and personal observations.
+
+Sometimes the posts will be analytical. Sometimes they will be explanatory. Sometimes they will simply be an attempt to make sense of something I have read, seen or experienced.
 
 ## Research
 
-My current work combines spatial, economic and behavioural modelling of agricultural and land-use transitions.
+I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway's Ryan Institute**. My doctoral work focuses on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places.
 
-The main projects are **GOBLIN-Spatial**, **BioLand-US**, **E-SEAT** and **IFT-BioSim**.
+I work within the wider FUSION and FORESIGHT modelling environment at the University of Galway. My doctoral research is supervised by **David Styles** and **Cathal O'Donoghue**.
 
-## Methods
-
-I work with econometrics, spatial modelling, optimisation, synthetic populations and microsimulation using Python, R, Stata, GIS and SQL.
+[Read about my research →](research/)
 
 ## Background
 
-I hold an **MSc in Management Science and Engineering** and currently undertake doctoral research at the University of Galway.
+Before moving to Ireland, I completed an **MSc in Management Science and Engineering in China**. My earlier research ranged across sustainability, energy, development and environmental policy, and that broader background still shapes what I choose to write about here.
 
 ## Elsewhere
 
@@ -35,9 +39,8 @@ I hold an **MSc in Management Science and Engineering** and currently undertake 
 [ORCID](https://orcid.org/0000-0001-5404-9078) ·
 [Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
 [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) ·
-[Facebook](https://www.facebook.com/kwameofori123) ·
-[Email](mailto:oforikwamee@gmail.com)
+[Facebook](https://www.facebook.com/kwameofori123)
 
 ## Site note
 
-This is my personal website. Views expressed here and in associated repositories are my own and do not necessarily represent the position of my university, funders, data providers, supervisors or collaborators.
+This is my personal website. Views expressed here are my own and do not necessarily represent the position of my university, funders, collaborators or data providers.
