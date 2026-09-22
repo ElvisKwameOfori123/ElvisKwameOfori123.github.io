@@ -18,7 +18,7 @@ Recent developments suggest a more useful phase of research is beginning.
 
 On 8 September 2026, OpenAI announced a \$5 million programme for independent research on how generative AI affects people aged 13 to 17. The proposed research areas include emotional development, relationships, patterns of use, safeguards, AI literacy and differences across cultural and socioeconomic settings. The programme explicitly invites experimental, observational, qualitative and mixed-method work.
 
-The announcement is notable not because company-funded research can settle the question. It cannot. OpenAI has an obvious institutional interest in how evidence about its technology develops, which makes disclosure, independence, publication and replication particularly important. The programme itself acknowledges this by including independence and conflicts disclosure among its review criteria and by encouraging public dissemination of findings.
+The announcement is notable not because company-funded research can settle the question. It cannot. OpenAI has an obvious institutional interest in how evidence about its technology develops, which makes disclosure, independence, publication and replication particularly important. The programme itself acknowledges this by requiring an independence and conflicts disclosure, including independence and credibility among its review criteria, and strongly encouraging researchers to make their findings publicly available.
 
 What matters is the research question it reflects. “AI use” is too broad an exposure to be scientifically satisfying.
 

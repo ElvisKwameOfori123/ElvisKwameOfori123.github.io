@@ -14,9 +14,9 @@ I am Ghanaian, spent several years in China for graduate study, and now live and
 
 [Writing](blog/) [About](about.llms.md) [Research](research/) [Contact](contact.llms.md)
 
-## Latest writing
+## Latest from EKO Perspectives
 
-[All writing →](blog/)
+[EKO Perspectives →](blog/)
 
 ### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
 
