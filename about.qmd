@@ -5,7 +5,7 @@ toc: true
 ---
 
 <div class="about-intro">
-<img src="https://avatars.githubusercontent.com/u/113311989?v=4" alt="Elvis Kwame Ofori">
+<img src="assets/profile.jpg" alt="Elvis Kwame Ofori">
 <div>
 
 I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway's Ryan Institute**.
