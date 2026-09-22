@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - preview-v2/**
 
 website:
   title: "Elvis Kwame Ofori"
