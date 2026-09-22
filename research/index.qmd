@@ -25,14 +25,16 @@ A farm-level framework for studying heterogeneous opportunity costs, participati
 
 My work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL.
 
-## Publications
+## Selected publications
 
-For the complete publication record, see:
+- **Prospect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries.** *Renewable Energy* (2024). [DOI](https://doi.org/10.1016/j.renene.2024.120757)
+- **Sustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions.** *Sustainable Development* (2024). [DOI](https://doi.org/10.1002/sd.2653)
+- **Synthesizing the role of technological innovation on sustainable development and climate action: Does governance play a role in sub-Saharan Africa?** *Environmental Development* (2023). [DOI](https://doi.org/10.1016/j.envdev.2023.100900)
+- **Exploring new antecedent metrics for safety performance in Ghana's oil and gas industry using partial least squares structural equation modelling (PLS-SEM).** *Resources Policy* (2023). [DOI](https://doi.org/10.1016/j.resourpol.2023.103368)
+- **Impact of Covid-19 on environmental sustainability: A bibliometric analysis.** *Sustainable Development* (2023). [DOI](https://doi.org/10.1002/sd.2554)
+- **Taking stock of business strategy and environment (sustainable development): evidence of disparities in research efforts and knowledge gaps — a bibliometric review.** *Environmental Science and Pollution Research* (2023). [DOI](https://doi.org/10.1007/s11356-023-28027-5)
 
-[Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
-[ORCID](https://orcid.org/0000-0001-5404-9078)
-
-A structured publication archive with paper, code and data links will replace these profile links once the bibliography is imported.
+For the complete record, see [Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0001-5404-9078).
 
 ## Code
 
