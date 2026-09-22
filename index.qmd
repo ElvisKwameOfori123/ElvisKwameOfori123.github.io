@@ -7,7 +7,7 @@ page-layout: full
 
 <div class="profile-hero">
 
-<img class="profile-photo" src="https://avatars.githubusercontent.com/u/113311989?v=4" alt="Elvis Kwame Ofori">
+<img class="profile-photo" src="assets/profile.jpg" alt="Elvis Kwame Ofori">
 
 <div class="profile-kicker">University of Galway · Ryan Institute</div>
 
