@@ -1,10 +1,10 @@
 ---
-title: "Forecasting asks what will happen. Foresight asks what could."
-description: "On the modelling group I work in, and why working backwards from a target changes the questions worth asking."
+title: "Where my PhD sits: FUSION and FORESIGHT"
+description: "The modelling environment around my PhD, who supports it, and why that context matters when I write about policy."
 date: 2026-09-22
 categories:
   - Policy
-  - Ireland
+  - Personal & Ideas
 draft: false
 ---
 
@@ -13,31 +13,19 @@ draft: false
   <figcaption><em>FORESIGHT project illustration</em>, <a href="https://fusion-research.eu/foresight.html">FUSION, University of Galway</a>, used under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-A forecast asks what is likely to happen. Foresight asks something different: which futures are possible, what would it take to reach them, and what do we learn by working backwards from the outcome?
+A personal website makes it easy to write as though ideas arrive from nowhere. They do not. The questions I ask, the models I use and the policy problems I encounter are shaped partly by the research environment in which I work.
 
-The distinction sounds academic. In agricultural climate policy, it is practical, and it shapes much of the work I now do.
+I am doing my PhD within **FUSION**, the FUture Sustainable economy Integrated mOdelling Network at the University of Galway. The group brings together work in life-cycle assessment, integrated assessment, land-use modelling and environmental software. What I find useful about that mix is that an agricultural or climate problem does not have to remain inside one disciplinary box.
 
-I do my PhD within **FUSION**, a modelling group at the University of Galway that works across life-cycle assessment, integrated assessment, land-use analysis and environmental software. Much of my work connects to **FORESIGHT**, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. The project is led by FUSION with the University of Limerick and FERS Ltd.
+Much of my PhD also connects to **FORESIGHT**, a project funded by Ireland's Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. The project is led by FUSION with the University of Limerick and FERS Ltd.
 
-I mention the funding at the start because I will write about Irish climate and agricultural policy on this site, and readers should know where I sit. The views expressed here are my own.
+That funding relationship is worth stating plainly. I expect to write about Irish agriculture, climate and land-use policy on this site. Readers should therefore know that I work within a government-funded modelling programme connected to those questions. The views I express here are my own and do not represent the position of the University of Galway, the Department, funders or collaborators.
 
-Within FORESIGHT, **GOBLIN** is used as a national land-balance modelling framework for exploring agriculture, forestry and other land-use pathways through backcasting. Rather than predicting what Ireland will do, the approach can begin with a future objective such as climate neutrality and examine combinations of livestock, forestry, wetlands and cropland that could be consistent with it.
+One of the main modelling tools in this environment is **GOBLIN**, which links agriculture, forestry and other land uses within a national land-balance framework. My own interests increasingly begin at the point where a national pathway has to meet geography and heterogeneous farms. A nationally coherent change may look very different when it reaches dairy, beef or other production systems in different parts of the country.
 
-That is foresight in practice.
+That is the part of the research environment I value most: models are treated as tools for interrogating difficult decisions rather than as ends in themselves. A result is more useful when its assumptions are visible, when alternatives can be tested and when the limits of what the model claims are clear.
 
-My own question begins where a nationally coherent pathway can become much less simple.
-
-A national reduction in cattle numbers, for example, could fall very differently across a dairy-intensive area and a region dominated by suckler farming. The aggregate change may be identical while the consequences for production systems, land use and local economies are not. That is an illustration of the question, not a result.
-
-I am interested in resolving national pathways down to places and farms: where adjustment falls, what released land can realistically support, and how economic and behavioural differences change the picture.
-
-What I value most about working this way is a lesson I keep relearning: **the model is not the product**.
-
-The useful product is better evidence for a difficult decision, produced transparently enough that assumptions can be examined and alternatives tested.
-
-Future posts here will range much more widely than my PhD. I will write about climate and agricultural policy, land use, energy, economics, Ghana and Ireland, useful models and code, books, technology and research life.
-
-The aim is simple: to think in public, and to make technical arguments readable without flattening them.
+This site is much broader than that work. I will write about policy, economics, technology, Ghana, Ireland, the United States, land use, useful code and repositories, books and personal observations. But when my writing touches Irish climate or agricultural policy, this is the institutional context readers should have in mind.
 
 ### Further reading
 
