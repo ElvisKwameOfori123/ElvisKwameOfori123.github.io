@@ -1,0 +1,35 @@
+# About
+
+About Elvis Kwame Ofori
+
+![Elvis Kwame Ofori](assets/profile.jpg)
+
+I am **Elvis Kwame Ofori**, a Ghanaian researcher and writer based in Ireland.
+
+My path has taken me from Ghana to China and now Ireland, and that movement between places has shaped the way I think about policy. I am interested in how national decisions look very different once they reach households, farms, firms and communities.
+
+## What I write about
+
+This website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and personal observations.
+
+Sometimes the posts will be analytical. Sometimes they will be explanatory. Sometimes they will simply be an attempt to make sense of something I have read, seen or experienced.
+
+## Research
+
+I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway’s Ryan Institute**. My doctoral work focuses on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places.
+
+I work within the wider FUSION and FORESIGHT modelling environment at the University of Galway. My doctoral research is supervised by **David Styles** and **Cathal O’Donoghue**.
+
+[Read about my research →](research/)
+
+## Background
+
+Before moving to Ireland, I completed an **MSc in Management Science and Engineering in China**. My earlier research ranged across sustainability, energy, development and environmental policy, and that broader background still shapes what I choose to write about here.
+
+## Elsewhere
+
+[GitHub](https://github.com/ElvisKwameOfori123) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) · [Facebook](https://www.facebook.com/kwameofori123) · [Email](mailto:e.ofori1@universityofgalway.ie)
+
+## Site note
+
+This is my personal website. Views expressed here are my own and do not necessarily represent the position of my university, funders, collaborators or data providers.

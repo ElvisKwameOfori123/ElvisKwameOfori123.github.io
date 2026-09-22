@@ -1,0 +1,17 @@
+# Elvis Kwame Ofori
+
+> Personal writing on policy, science, economics, technology, Ghana, Ireland, the United States, and research.
+
+## Pages
+
+- [When the future is outside the data](https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
+- [Writing](https://kwameofori123.com/blog/index.llms.md)
+- [Research](https://kwameofori123.com/research/index.llms.md)
+- [GOBLIN-Spatial](https://kwameofori123.com/projects/goblin-spatial/index.llms.md)
+- [Projects](https://kwameofori123.com/projects/index.llms.md)
+- [index](https://kwameofori123.com/index.llms.md)
+- [BioLand-US](https://kwameofori123.com/projects/bioland-us/index.llms.md)
+- [IFT-BioSim](https://kwameofori123.com/projects/ift-biosim/index.llms.md)
+- [Where my PhD sits: FUSION and FORESIGHT](https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+- [Contact](https://kwameofori123.com/contact.llms.md)
+- [About](https://kwameofori123.com/about.llms.md)

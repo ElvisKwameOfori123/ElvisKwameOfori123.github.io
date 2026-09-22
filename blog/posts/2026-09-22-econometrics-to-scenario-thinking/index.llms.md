@@ -1,0 +1,40 @@
+# When the future is outside the data
+
+Economics & Evidence
+
+Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.
+
+Published
+
+September 22, 2026
+
+For most of my research life, questions began with observed data. I used econometric models to estimate relationships, test hypotheses and ask how economic, technological and environmental variables respond to one another. That work is not merely backward-looking. Econometrics is routinely used to estimate counterfactual responses to policies that have not yet been implemented.
+
+What changed during my PhD was not a move from the past to the future. It was the **distance between the future being modelled and the conditions contained in the data**.
+
+Estimated relationships are most defensible around the range of variation from which they were learned. As a policy experiment moves farther beyond that support, the exercise becomes increasingly dependent on extrapolation and modelling assumptions. A regression can still produce a number, but the fact that it can calculate an answer does not mean the historical data have directly identified behaviour under those new conditions.
+
+That problem matters in climate and land-use policy because some plausible pathways involve changes much larger than ordinary year-to-year variation. [Ireland’s Land Use Review](https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php), for example, examined scenarios involving large-scale rewetting of grassland on organic soils and substantial additional forestry by 2050. Those are not small marginal adjustments around today’s land system. They are structural changes whose consequences cannot simply be read from a historical coefficient.
+
+![An Irish farm field with cattle and agricultural grassland](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Irish_Farm_Field_%2838665262%29.jpeg/1024px-Irish_Farm_Field_%2838665262%29.jpeg)
+
+Irish farm field. Photograph by Daniel Hanrahan.
+
+*Source: [Daniel Hanrahan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Irish_Farm_Field_(38665262).jpeg), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
+
+This is where scenario modelling becomes useful. A scenario model can start from a policy target or a set of explicit assumptions and ask what follows if those conditions hold. Backcasting takes the logic further by beginning with a future objective and working backwards to the changes that would have to occur between that future and the present. The important point is that these exercises are not predictions. They are structured ways of exploring futures that historical data alone cannot reveal.
+
+The two approaches therefore need each other. Scenario models are only as credible as the assumptions they contain, and behavioural assumptions should be disciplined wherever possible by evidence from the observed world. Econometric evidence helps tell us how people, firms or farms have responded to incentives and constraints we have actually seen. Scenario models then make explicit what must be assumed when the policy question moves outside that experience.
+
+Climate modelling has long faced a similar distinction between **top-down** economic approaches and **bottom-up** technology or sector models. The OECD notes that the two approaches answer different questions: top-down models emphasise economy-wide coherence, while bottom-up models offer more technological detail. Neither view is complete on its own.
+
+So I do not think of my work as moving away from econometrics. It feels more like moving from a single window to a room with several. Econometrics shows what observed variation can teach us. Scenario models ask what different futures would require. Spatial models ask where change would fall, and microsimulation asks how one policy can land differently across thousands of heterogeneous farms.
+
+The skill is not choosing one window. It is knowing what each can show, and recognising where its view ends.
+
+### Further reading
+
+- [EPA: Land Use Review — Fluxes, Scenarios and Capacity](https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php)
+- [OECD: Projecting Emissions Baselines for National Climate Policy](https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf)
+- [OECD Strategic Foresight](https://www.oecd.org/en/about/programmes/strategic-foresight.html)
+- [European Commission: How do we build scenarios in a foresight exercise?](https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en)

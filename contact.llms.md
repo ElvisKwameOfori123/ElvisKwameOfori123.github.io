@@ -1,0 +1,11 @@
+# Contact
+
+Contact Elvis Kwame Ofori
+
+For academic, research or professional correspondence, the best way to reach me is through my University of Galway email.
+
+**University email:** <e.ofori1@universityofgalway.ie>
+
+You can also find me on:
+
+[LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) · [GitHub](https://github.com/ElvisKwameOfori123) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [Facebook](https://www.facebook.com/kwameofori123)
