@@ -1,52 +1,43 @@
 ---
-title: "From Econometrics to Scenario Thinking"
-description: "How my research questions changed from explaining what happened to exploring what could happen, where, and under what conditions."
+title: "When the future is outside the data"
+description: "Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add."
 date: 2026-09-22
 categories:
-  - Economics
-  - Personal notes
+  - Economics & Evidence
 draft: false
 ---
 
-For a long time, most of my research began with data from the past.
+For most of my research life, questions began with observed data. I used econometric models to estimate relationships, test hypotheses and ask how economic, technological and environmental variables respond to one another. That work is not merely backward-looking. Econometrics is routinely used to estimate counterfactual responses to policies that have not yet been implemented.
 
-I worked with econometric models to examine relationships, test hypotheses and understand how economic, technological and environmental variables moved together. The questions were usually backward-looking in the best sense of the term: **what happened, what was associated with what, and what can the observed data tell us?**
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Scatterplot_with_simple_line_regression.png" alt="A schematic scatterplot with a fitted linear regression line">
+  <figcaption>A simple regression learns a relationship from observed points. Illustration by Greenkiwibird via <a href="https://commons.wikimedia.org/wiki/File:Scatterplot_with_simple_line_regression.png">Wikimedia Commons</a>, released under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</figcaption>
+</figure>
 
-That way of thinking is still important to me. But my PhD has gradually pushed me toward a different kind of question.
+What changed during my PhD was not a move from the past to the future. It was the **distance between the future being modelled and the conditions contained in the data**.
 
-Instead of asking only *what happened?*, I now spend much more time asking:
+Estimated relationships are most defensible around the range of variation from which they were learned. As a policy experiment moves farther beyond that support, the exercise becomes increasingly dependent on extrapolation and modelling assumptions. A regression can still produce a number, but the fact that it can calculate an answer does not mean the historical data have directly identified behaviour under those new conditions.
 
-**What could happen? What would have to change for it to happen? Where would those changes fall? And what would implementation look like for different people and places?**
+That problem matters in climate and land-use policy because some plausible pathways involve changes much larger than ordinary year-to-year variation. Ireland's Land Use Review, for example, examined scenarios involving large-scale rewetting of grassland on organic soils and substantial additional forestry by 2050. Those are not small marginal adjustments around today's land system. They are structural changes whose consequences cannot simply be read from a historical coefficient.
 
-That shift sounds small, but it changes the entire research process.
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Irish_Farm_Field_%2838665262%29.jpeg" alt="An Irish farm field with cattle and agricultural grassland">
+  <figcaption>Irish farm field. Photograph by Daniel Hanrahan via <a href="https://commons.wikimedia.org/wiki/File:Irish_Farm_Field_(38665262).jpeg">Wikimedia Commons</a>, used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</figcaption>
+</figure>
 
-Econometrics usually begins with observed variation. Scenario thinking often begins with a future condition, a policy target or a set of assumptions that may never have existed in the historical data. A country may set a climate-neutrality target for 2050, for example. There is no historical dataset showing how that exact transition already happened. The researcher has to construct plausible pathways, make assumptions explicit and test what follows from them.
+This is where scenario modelling becomes useful. A scenario model can start from a policy target or a set of explicit assumptions and ask what follows if those conditions hold. Backcasting takes the logic further by beginning with a future objective and working backwards to the changes that would have to occur between that future and the present. The important point is that these exercises are not predictions. They are structured ways of exploring futures that historical data alone cannot reveal.
 
-This is where scenario modelling, foresight and backcasting become useful.
+The two approaches therefore need each other. Scenario models are only as credible as the assumptions they contain, and behavioural assumptions should be disciplined wherever possible by evidence from the observed world. Econometric evidence helps tell us how people, firms or farms have responded to incentives and constraints we have actually seen. Scenario models then make explicit what must be assumed when the policy question moves outside that experience.
 
-Strategic foresight is not simply forecasting. The OECD describes it as a way of exploring multiple plausible futures and preparing for the opportunities and challenges they may create. The European Commission similarly emphasises that scenarios are not predictions. They are ways of thinking systematically about how different futures might unfold.
+Climate modelling has long faced a similar distinction between **top-down** economic approaches and **bottom-up** technology or sector models. The OECD notes that the two approaches answer different questions: top-down models emphasise economy-wide coherence, while bottom-up models offer more technological detail. Neither view is complete on its own.
 
-Backcasting turns the direction around again. Instead of projecting today's trends forward, it starts with a future objective and asks what would have to happen between that future and the present.
+So I do not think of my work as moving away from econometrics. It feels more like moving from a single window to a room with several. Econometrics shows what observed variation can teach us. Scenario models ask what different futures would require. Spatial models ask where change would fall, and microsimulation asks how one policy can land differently across thousands of heterogeneous farms.
 
-I find that distinction especially useful for climate, agriculture and land-use policy. A target can be clear at national level while saying very little about implementation. If livestock numbers change, where does that adjustment occur? If land is released, what can it realistically support? If a policy looks affordable in aggregate, are its costs concentrated among particular farms or regions?
-
-Those are not questions that one method can answer on its own.
-
-I have also learned that the divide between econometrics and scenario modelling is not as clean as it first appears. Econometric models can support forecasts and counterfactual scenarios, and historical evidence can discipline assumptions about future behaviour. In energy policy, researchers have long combined top-down economic models with more detailed sector or technology models because each sees something the other misses.
-
-So I do not think of my research as moving *away* from econometrics.
-
-It feels more like moving from a single window to a room with several windows.
-
-Econometrics helps me ask what the observed world can teach us. Scenario modelling asks what different future worlds might require. Spatial models ask where change would occur. Microsimulation asks how apparently uniform policies can produce very different effects across heterogeneous units.
-
-The interesting part is not choosing one of them.
-
-It is knowing which question each method is capable of answering, and where its limits begin.
+The skill is not choosing one window. It is knowing what each can show, and recognising where its view ends.
 
 ### Further reading
 
+- [EPA: Land Use Review — Fluxes, Scenarios and Capacity](https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php)
+- [OECD: Projecting Emissions Baselines for National Climate Policy](https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf)
 - [OECD Strategic Foresight](https://www.oecd.org/en/about/programmes/strategic-foresight.html)
 - [European Commission: How do we build scenarios in a foresight exercise?](https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en)
-- [UK Government Futures Toolkit](https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts/the-futures-toolkit-html)
-- [World Bank macro-modelling and counterfactual scenario analysis](https://www.worldbank.org/en/programs/economicpolicy-macro-modeling/mfmod)
