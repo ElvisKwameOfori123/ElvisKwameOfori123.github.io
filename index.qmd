@@ -22,6 +22,7 @@ page-layout: full
 <a href="https://orcid.org/0000-0001-5404-9078">ORCID</a>
 <a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en">Google Scholar</a>
 <a href="https://www.linkedin.com/in/elvis-ofori-12139b71/">LinkedIn</a>
+<a href="https://www.facebook.com/kwameofori123">Facebook</a>
 </div>
 
 </div>
