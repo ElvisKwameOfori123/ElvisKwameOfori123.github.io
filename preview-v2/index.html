@@ -1,0 +1,461 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Elvis Kwame Ofori · Design preview</title>
+  <meta name="description" content="Design preview for Elvis Kwame Ofori's personal research and writing website.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --ink:#12241d;
+      --forest:#163e31;
+      --forest-2:#0e2e25;
+      --paper:#f7f2e8;
+      --paper-2:#efe7d8;
+      --gold:#d89a37;
+      --sage:#9eaf9f;
+      --muted:#66736c;
+      --line:#d9cfbe;
+      --white:#fffdf8;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;
+      background:var(--paper);
+      color:var(--ink);
+      font-family:"DM Sans",sans-serif;
+      line-height:1.65;
+    }
+    a{color:inherit}
+    .site{
+      min-height:100vh;
+      overflow:hidden;
+    }
+    .topbar{
+      position:sticky;
+      top:0;
+      z-index:20;
+      background:rgba(247,242,232,.94);
+      backdrop-filter:blur(12px);
+      border-bottom:1px solid rgba(18,36,29,.10);
+    }
+    .nav{
+      max-width:1220px;
+      margin:auto;
+      padding:18px 28px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:24px;
+    }
+    .brand{
+      font-family:"Manrope",sans-serif;
+      font-weight:700;
+      letter-spacing:-.03em;
+      text-decoration:none;
+      font-size:1.08rem;
+    }
+    .navlinks{
+      display:flex;
+      gap:22px;
+      flex-wrap:wrap;
+      justify-content:flex-end;
+    }
+    .navlinks a{
+      text-decoration:none;
+      font-size:.88rem;
+      color:#415149;
+    }
+    .navlinks a:hover{color:var(--forest)}
+    .hero{
+      max-width:1220px;
+      margin:auto;
+      padding:78px 28px 64px;
+      display:grid;
+      grid-template-columns:minmax(0,1.45fr) minmax(280px,.75fr);
+      gap:70px;
+      align-items:center;
+    }
+    .eyebrow{
+      font-size:.75rem;
+      letter-spacing:.16em;
+      text-transform:uppercase;
+      font-weight:700;
+      color:#587161;
+      margin-bottom:20px;
+    }
+    h1{
+      font-family:"Manrope",sans-serif;
+      font-size:clamp(3.7rem,8.2vw,7.8rem);
+      line-height:.88;
+      letter-spacing:-.07em;
+      margin:0;
+      color:var(--forest-2);
+      max-width:850px;
+    }
+    .role{
+      margin:26px 0 0;
+      font-family:"Source Serif 4",serif;
+      font-size:clamp(1.5rem,2.8vw,2.4rem);
+      line-height:1.2;
+      color:#375849;
+      max-width:720px;
+    }
+    .lead{
+      font-size:1.06rem;
+      max-width:710px;
+      color:#4c5b53;
+      margin:22px 0 0;
+    }
+    .actions{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      margin-top:28px;
+    }
+    .btn{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding:11px 15px;
+      border:1px solid #9eaa9f;
+      text-decoration:none;
+      font-weight:700;
+      font-size:.86rem;
+      border-radius:999px;
+    }
+    .btn.primary{
+      background:var(--forest);
+      color:var(--white);
+      border-color:var(--forest);
+    }
+    .portrait-wrap{
+      position:relative;
+      padding:18px 0 18px 18px;
+    }
+    .portrait-wrap:before{
+      content:"";
+      position:absolute;
+      right:-26px;
+      top:-30px;
+      width:210px;
+      height:210px;
+      border-radius:50%;
+      background:var(--gold);
+      opacity:.85;
+      z-index:-1;
+    }
+    .portrait{
+      width:100%;
+      display:block;
+      border-radius:120px 120px 18px 18px;
+      aspect-ratio:4/5;
+      object-fit:cover;
+      box-shadow:20px 24px 0 rgba(22,62,49,.10);
+    }
+    .portrait-meta{
+      margin-top:20px;
+      font-size:.82rem;
+      color:#5f6f66;
+    }
+    .statement{
+      background:var(--forest-2);
+      color:#eef4ef;
+    }
+    .statement-inner{
+      max-width:1220px;
+      margin:auto;
+      padding:72px 28px;
+      display:grid;
+      grid-template-columns:180px 1fr;
+      gap:34px;
+    }
+    .label{
+      font-size:.73rem;
+      letter-spacing:.15em;
+      text-transform:uppercase;
+      font-weight:700;
+      color:var(--gold);
+      padding-top:8px;
+    }
+    .statement p{
+      margin:0;
+      font-family:"Source Serif 4",serif;
+      font-size:clamp(1.8rem,3.6vw,3.3rem);
+      line-height:1.17;
+      max-width:920px;
+    }
+    .section{
+      max-width:1220px;
+      margin:auto;
+      padding:70px 28px;
+    }
+    .section-head{
+      display:grid;
+      grid-template-columns:180px 1fr;
+      gap:34px;
+      align-items:end;
+      margin-bottom:30px;
+    }
+    .section-head h2{
+      font-family:"Manrope",sans-serif;
+      font-size:clamp(2rem,4vw,4rem);
+      line-height:1;
+      letter-spacing:-.05em;
+      margin:0;
+      color:var(--forest-2);
+    }
+    .projects{
+      border-top:1px solid var(--line);
+    }
+    .project{
+      display:grid;
+      grid-template-columns:64px minmax(0,1fr) 190px;
+      gap:28px;
+      padding:28px 0;
+      border-bottom:1px solid var(--line);
+      align-items:start;
+    }
+    .num{
+      font-family:"Manrope",sans-serif;
+      font-size:.78rem;
+      color:#879188;
+      padding-top:4px;
+    }
+    .project h3{
+      margin:0 0 8px;
+      font-family:"Manrope",sans-serif;
+      font-size:1.28rem;
+      letter-spacing:-.025em;
+    }
+    .project h3 a{text-decoration:none}
+    .project p{
+      margin:0;
+      max-width:760px;
+      color:#526057;
+      font-size:.96rem;
+    }
+    .project-meta{
+      text-align:right;
+      text-transform:uppercase;
+      letter-spacing:.08em;
+      font-size:.68rem;
+      color:#748077;
+      padding-top:5px;
+    }
+    .methods{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      margin-top:8px;
+    }
+    .chip{
+      background:var(--white);
+      border:1px solid var(--line);
+      border-radius:999px;
+      padding:8px 12px;
+      font-size:.78rem;
+      color:#405047;
+    }
+    .writing{
+      background:var(--paper-2);
+      border-top:1px solid var(--line);
+      border-bottom:1px solid var(--line);
+    }
+    .writing-inner{
+      max-width:1220px;
+      margin:auto;
+      padding:70px 28px;
+      display:grid;
+      grid-template-columns:180px 1.2fr .8fr;
+      gap:34px;
+      align-items:start;
+    }
+    .big-link{
+      font-family:"Source Serif 4",serif;
+      font-size:clamp(1.8rem,3.2vw,3rem);
+      line-height:1.15;
+      text-decoration:none;
+      color:var(--forest-2);
+    }
+    .writing-note{
+      color:#5f6c64;
+      padding-top:6px;
+    }
+    footer{
+      background:var(--forest-2);
+      color:#dce6df;
+    }
+    .footer-inner{
+      max-width:1220px;
+      margin:auto;
+      padding:30px 28px;
+      display:flex;
+      justify-content:space-between;
+      gap:20px;
+      flex-wrap:wrap;
+      font-size:.82rem;
+    }
+    .footer-inner a{color:#f0c16f}
+    @media(max-width:860px){
+      .hero{grid-template-columns:1fr;gap:42px;padding-top:52px}
+      .portrait-wrap{max-width:360px}
+      .statement-inner,.section-head,.writing-inner{grid-template-columns:1fr;gap:14px}
+      .project{grid-template-columns:44px 1fr}
+      .project-meta{grid-column:2;text-align:left}
+    }
+    @media(max-width:560px){
+      .nav{align-items:flex-start;flex-direction:column}
+      .navlinks{gap:14px}
+      h1{font-size:clamp(3.2rem,18vw,5.2rem)}
+      .project{grid-template-columns:1fr;gap:8px}
+      .project-meta{grid-column:1}
+    }
+  </style>
+</head>
+<body>
+<div class="site">
+<header class="topbar">
+  <nav class="nav">
+    <a class="brand" href="../">Elvis Kwame Ofori</a>
+    <div class="navlinks">
+      <a href="../research/">Research</a>
+      <a href="../projects/">Projects</a>
+      <a href="../publications/">Publications</a>
+      <a href="../talks/">Talks</a>
+      <a href="../blog/">Blog</a>
+      <a href="../about.html">About</a>
+    </div>
+  </nav>
+</header>
+
+<main>
+<section class="hero">
+  <div>
+    <div class="eyebrow">University of Galway · Ryan Institute</div>
+    <h1>Elvis Kwame Ofori</h1>
+    <div class="role">Agricultural, land-use and policy modeller</div>
+    <p class="lead">I build economic, spatial, behavioural and computational models to understand how agricultural, climate, land-use and bioenergy policies translate from national objectives into real farms, production systems and places.</p>
+    <p class="lead">The central question is practical: what changes, where does it change, who carries the adjustment, and which policy designs remain workable once implementation is made explicit?</p>
+    <div class="actions">
+      <a class="btn primary" href="../research/">Explore research</a>
+      <a class="btn" href="../projects/">Projects and models</a>
+      <a class="btn" href="../blog/">Read the blog</a>
+    </div>
+  </div>
+  <aside class="portrait-wrap">
+    <img class="portrait" src="https://avatars.githubusercontent.com/u/113311989?v=4" alt="Elvis Kwame Ofori">
+    <div class="portrait-meta">PhD Researcher & Research Assistant<br>Plant & AgriBiosciences · University of Galway</div>
+  </aside>
+</section>
+
+<section class="statement">
+  <div class="statement-inner">
+    <div class="label">Research focus</div>
+    <p>From national targets to the economics, behaviour and geography of implementation.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <div class="label">Selected work</div>
+    <h2>Models and research projects</h2>
+  </div>
+
+  <div class="projects">
+    <article class="project">
+      <div class="num">01</div>
+      <div>
+        <h3><a href="../projects/goblin-spatial/">GOBLIN-Spatial</a></h3>
+        <p>Spatial foresight for agricultural transition incidence, response potential, land opportunity and local implementation constraints.</p>
+      </div>
+      <div class="project-meta">Ireland<br>Spatial modelling</div>
+    </article>
+
+    <article class="project">
+      <div class="num">02</div>
+      <div>
+        <h3><a href="../projects/agrisyn/">AGRISYN</a></h3>
+        <p>Synthetic farm populations for reconstructing within-area agricultural heterogeneity while preserving national and local controls.</p>
+      </div>
+      <div class="project-meta">Ireland<br>Synthetic populations</div>
+    </article>
+
+    <article class="project">
+      <div class="num">03</div>
+      <div>
+        <h3><a href="../projects/ift-biosim/">IFT-BioSim</a></h3>
+        <p>Farm-level transition bioeconomic microsimulation for heterogeneous opportunity costs, participation and policy design.</p>
+      </div>
+      <div class="project-meta">Ireland<br>Microsimulation</div>
+    </article>
+
+    <article class="project">
+      <div class="num">04</div>
+      <div>
+        <h3><a href="../projects/bioland-us/">BioLand-US</a></h3>
+        <p>Prospective U.S. perennial-biomass mobilisation after compatible land and voluntary contractual access are made explicit.</p>
+      </div>
+      <div class="project-meta">United States<br>Bioenergy</div>
+    </article>
+
+    <article class="project">
+      <div class="num">05</div>
+      <div>
+        <h3><a href="../projects/e-seat/">E-SEAT</a></h3>
+        <p>County-level analysis of ethanol-demand exposure and structural land-use persistence across the U.S. Corn Belt.</p>
+      </div>
+      <div class="project-meta">United States<br>Econometrics</div>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <div class="label">Methods</div>
+    <h2>Quantitative work across scales</h2>
+  </div>
+  <div class="methods">
+    <span class="chip">Econometrics</span>
+    <span class="chip">Microsimulation</span>
+    <span class="chip">Spatial modelling</span>
+    <span class="chip">Synthetic populations</span>
+    <span class="chip">Optimisation</span>
+    <span class="chip">Scenario analysis</span>
+    <span class="chip">AFOLU modelling</span>
+    <span class="chip">Bioenergy economics</span>
+    <span class="chip">Python</span>
+    <span class="chip">R</span>
+    <span class="chip">Stata</span>
+    <span class="chip">GIS</span>
+    <span class="chip">SQL</span>
+  </div>
+</section>
+
+<section class="writing">
+  <div class="writing-inner">
+    <div class="label">Writing</div>
+    <a class="big-link" href="../blog/">Research ideas, economics, technology, books, data, methods, current affairs and whatever else I find worth writing about.</a>
+    <div class="writing-note">The Blog stays broad. Formal research has its own home elsewhere on the site.</div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div>© Elvis Kwame Ofori · University of Galway</div>
+    <div>
+      <a href="https://github.com/ElvisKwameOfori123">GitHub</a> ·
+      <a href="https://orcid.org/0000-0001-5404-9078">ORCID</a> ·
+      <a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://www.linkedin.com/in/elvis-ofori-12139b71/">LinkedIn</a>
+    </div>
+  </div>
+</footer>
+</div>
+</body>
+</html>
