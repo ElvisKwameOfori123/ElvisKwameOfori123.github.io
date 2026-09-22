@@ -684,3 +684,12 @@ blockquote {
   .profile-hero::before { width: 150px; height: 150px; }
   .profile-hero::after { width: 120px; height: 120px; }
 }
+
+
+/* Image overflow safety */
+main img,
+figure img,
+.quarto-figure img {
+  max-width: 100%;
+  height: auto;
+}
