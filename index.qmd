@@ -9,41 +9,65 @@ page-layout: full
 
 # Elvis Kwame Ofori
 
-I work at the intersection of environmental economics, agricultural and land-use systems, climate policy, and computational modelling. This site brings together my research, code, projects, talks, and a general blog for ideas and things I find worth writing about.
+I am a PhD Researcher and Research Assistant at the University of Galway, working across agricultural economics, land-use modelling, climate and environmental policy, and quantitative decision support.
+
+I develop economic, spatial, behavioural and computational models to examine how agricultural, land-use and bioenergy policies move from national objectives to real production systems and places: where adjustment occurs, who and what is exposed, which alternatives are feasible, and how different policy designs may perform before major decisions are locked in.
 
 <div class="hero-links">
 [Explore research](research/index.qmd)
-[Read the blog](blog/index.qmd)
 [View projects](projects/index.qmd)
+[Read the blog](blog/index.qmd)
 </div>
 :::
 
 <hr class="section-rule">
 
 ::: {.home-section}
-## Selected work
+## Current work
 
 ::: {.feature-grid}
 ::: {.feature-card}
 ### GOBLIN-Spatial
-Spatial modelling and analysis of agricultural and land-use transitions.
+A constraint-preserving spatial foresight framework for agricultural transition incidence, response potential and land-system transformability.
 
 [Explore project →](projects/goblin-spatial/index.qmd)
 :::
 
 ::: {.feature-card}
 ### AGRISYN
-Synthetic farm populations and reproducible agricultural modelling workflows.
+Synthetic farm populations for representing within-area agricultural heterogeneity and supporting spatial and distributional analysis.
 
 [Explore project →](projects/agrisyn/index.qmd)
+:::
+
+::: {.feature-card}
+### IFT-BioSim
+Farm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.
+
+[Explore project →](projects/ift-biosim/index.qmd)
+:::
+
+::: {.feature-card}
+### BioLand-US
+A U.S. implementation model linking techno-economic biomass allocation with compatible land and voluntary contractual participation.
+
+[Explore project →](projects/bioland-us/index.qmd)
 :::
 :::
 :::
 
 ::: {.home-section}
-## Latest writing
+## Research approach
 
-The Blog is deliberately general. Research, technology, economics, books, data, current affairs, methods, observations, and anything else worth developing can live there.
+My work connects national pathway modelling with spatial reconstruction, econometrics, microsimulation, synthetic populations, optimisation, scenario analysis and reproducible research workflows. The broader aim is to build modelling and decision-support systems that can be inspected, tested, adapted and extended.
+
+[Research themes and methods →](research/index.qmd)
+:::
+
+::: {.home-section}
+## Blog
+
+The Blog is deliberately general. It is a place for research ideas, technology, economics, books, data, current affairs, methods, observations and anything else I find worth writing about.
 
 [Go to Blog →](blog/index.qmd)
 :::
@@ -51,7 +75,7 @@ The Blog is deliberately general. Research, technology, economics, books, data, 
 ::: {.home-section}
 ## Research outputs
 
-Publications, working papers, code, data, presentations, and reproducibility materials can connect back to the projects that produced them.
+Publications, working papers, code, data, presentations and reproducibility materials connect back to the projects that produced them.
 
 [Publications →](publications/index.qmd) · [Talks →](talks/index.qmd) · [GitHub →](https://github.com/ElvisKwameOfori123)
 :::
