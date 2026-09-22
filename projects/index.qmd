@@ -1,44 +1,52 @@
 ---
 title: "Projects"
-description: "Models, research projects, software, and reproducible work."
+description: "Models, research projects, software and reproducible work."
+title-block-banner: true
 toc: false
 ---
 
-The projects below connect formal research questions with reusable modelling workflows, code, data documentation and reproducibility materials.
+<p class="page-intro">These projects connect formal research questions with reusable modelling workflows, documented assumptions, code, data access and reproducibility materials.</p>
 
-::: {.feature-grid}
-::: {.feature-card}
-### GOBLIN-Spatial
-A constraint-preserving spatial foresight framework for agricultural transition incidence, response potential and land-system transformability.
+<div class="editorial-list">
 
-[Open project →](goblin-spatial/index.qmd)
-:::
+<div class="editorial-item">
+<div class="editorial-kicker">Spatial foresight · Ireland</div>
+<div>
+<h3><a href="goblin-spatial/">GOBLIN-Spatial</a></h3>
+<p>A constraint-preserving framework for agricultural transition incidence, response potential, spatial feasibility and land-system transformability.</p>
+</div>
+</div>
 
-::: {.feature-card}
-### AGRISYN
-Synthetic farm populations for reconstructing within-area agricultural heterogeneity from agricultural and spatial controls.
+<div class="editorial-item">
+<div class="editorial-kicker">Synthetic populations · Ireland</div>
+<div>
+<h3><a href="agrisyn/">AGRISYN</a></h3>
+<p>Synthetic farm populations for representing within-area agricultural heterogeneity while preserving agricultural and spatial controls.</p>
+</div>
+</div>
 
-[Open project →](agrisyn/index.qmd)
-:::
+<div class="editorial-item">
+<div class="editorial-kicker">Microsimulation · Ireland</div>
+<div>
+<h3><a href="ift-biosim/">IFT-BioSim</a></h3>
+<p>Farm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.</p>
+</div>
+</div>
 
-::: {.feature-card}
-### IFT-BioSim
-Farm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.
+<div class="editorial-item">
+<div class="editorial-kicker">Bioenergy · United States</div>
+<div>
+<h3><a href="bioland-us/">BioLand-US</a></h3>
+<p>Contractual land access and prospective U.S. perennial-biomass mobilisation, linking resource allocation with compatible land and voluntary participation.</p>
+</div>
+</div>
 
-[Open project →](ift-biosim/index.qmd)
-:::
+<div class="editorial-item">
+<div class="editorial-kicker">Econometrics · United States</div>
+<div>
+<h3><a href="e-seat/">E-SEAT</a></h3>
+<p>Ethanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence across the U.S. Corn Belt.</p>
+</div>
+</div>
 
-::: {.feature-card}
-### BioLand-US
-Contractual land access and prospective U.S. perennial-biomass mobilisation.
-
-[Open project →](bioland-us/index.qmd)
-:::
-
-::: {.feature-card}
-### E-SEAT
-Ethanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence in the U.S. Corn Belt.
-
-[Open project →](e-seat/index.qmd)
-:::
-:::
+</div>
