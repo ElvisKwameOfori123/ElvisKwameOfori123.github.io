@@ -1,0 +1,25 @@
+---
+title: "Research"
+description: "Research themes, papers, methods, and ongoing work."
+toc: false
+---
+
+This page will explain the research agenda in a few durable themes rather than simply listing every paper.
+
+## Research themes
+
+### Climate and environmental economics
+Questions about incentives, mitigation, transition pathways, and policy design.
+
+### Agricultural and land-use transitions
+Questions about production, land allocation, environmental constraints, and transition exposure.
+
+### Computational and synthetic-population modelling
+Methods for representing heterogeneous farms, households, places, and behaviours.
+
+### Policy design and distributional effects
+How policy costs, benefits, risks, and adjustment burdens are distributed.
+
+## From questions to reproducible outputs
+
+Each major project can connect its paper, model documentation, code repository, data, figures, talks, and related writing.
