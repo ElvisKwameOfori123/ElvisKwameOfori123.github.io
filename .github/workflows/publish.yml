@@ -6,9 +6,6 @@ on:
 
 name: Render and Publish Quarto site
 
-concurrency:
-  group: website-publish
-  cancel-in-progress: true
 
 permissions:
   contents: write
