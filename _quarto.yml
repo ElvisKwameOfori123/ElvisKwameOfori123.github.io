@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Elvis Kwame Ofori"
-  description: "Agricultural, land-use, bioenergy and policy modelling; reproducible research; projects and writing by Elvis Kwame Ofori."
+  description: "Agricultural, land-use and policy modelling, reproducible research, projects and writing by Elvis Kwame Ofori."
   site-url: "https://ElvisKwameOfori123.github.io"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
   search:
@@ -13,8 +13,6 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Home
-        href: index.qmd
       - text: Research
         href: research/index.qmd
       - text: Projects
@@ -31,19 +29,21 @@ website:
       - icon: github
         href: "https://github.com/ElvisKwameOfori123"
         aria-label: GitHub
-      - icon: rss
-        href: blog/index.xml
-        aria-label: RSS
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
+        aria-label: LinkedIn
   page-footer:
     left: "© Elvis Kwame Ofori"
     center: "University of Galway · Ryan Institute"
-    right: "Built with Quarto · Source on GitHub"
+    right: "[GitHub](https://github.com/ElvisKwameOfori123) · [ORCID](https://orcid.org/0000-0001-5404-9078)"
 
 format:
   html:
     theme:
-      - cosmo
       - styles.scss
+    grid:
+      body-width: 920px
+      margin-width: 260px
     toc: true
     code-copy: true
     code-overflow: wrap
