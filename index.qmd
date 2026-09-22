@@ -31,25 +31,26 @@ page-layout: full
 <section class="home-section">
 
 <div class="section-heading">
-<h2>Current</h2>
+<h2>News</h2>
 </div>
 
-<div class="featured-project">
-<div class="meta">Doctoral research · Ireland</div>
-<h3><a href="projects/goblin-spatial/">GOBLIN-Spatial</a></h3>
-<p>Resolving nationally coherent AFOLU pathways across local geography to identify where agricultural adjustment falls and whether future land-use requirements can fit.</p>
+<div class="news-list">
+
+<div class="news-item">
+<div class="news-date">Sep 2026</div>
+<p><a href="projects/goblin-spatial/">GOBLIN-Spatial</a> project page updated with the model question, architecture, evidence base and interpretation boundaries.</p>
 </div>
 
-<div class="featured-project">
-<div class="meta">Public code · United States</div>
-<h3><a href="projects/bioland-us/">BioLand-US</a></h3>
-<p>Testing how compatible agricultural land and voluntary contractual access constrain prospective perennial-biomass mobilisation.</p>
+<div class="news-item">
+<div class="news-date">Sep 2026</div>
+<p><a href="projects/bioland-us/">BioLand-US</a> public reproducibility repository is available with documented data access and verification workflows.</p>
 </div>
 
-<div class="featured-project">
-<div class="meta">Latest writing</div>
-<h3><a href="blog/posts/2026-09-22-fusion-foresight/">Why I’m Excited to Work with FUSION and FORESIGHT</a></h3>
-<p>A short reflection on integrated modelling, GOBLIN and the research environment shaping my current work.</p>
+<div class="news-item">
+<div class="news-date">Sep 2026</div>
+<p>New writing: <a href="blog/posts/2026-09-22-fusion-foresight/">Why I’m Excited to Work with FUSION and FORESIGHT</a>.</p>
+</div>
+
 </div>
 
 </section>
