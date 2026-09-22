@@ -1,11 +1,10 @@
 ---
 title: "Projects"
 description: "Models, research projects, software and reproducible work."
-title-block-banner: true
 toc: false
 ---
 
-<p class="page-intro">These projects connect formal research questions with reusable modelling workflows, documented assumptions, code, data access and reproducibility materials.</p>
+<p class="page-intro">These are modelling and research projects rather than a complete list of everything I have worked on. Each project page can eventually connect the research question with papers, code, data access, figures, documentation and talks.</p>
 
 <div class="editorial-list">
 
@@ -21,7 +20,7 @@ toc: false
 <div class="editorial-kicker">Synthetic populations · Ireland</div>
 <div>
 <h3><a href="agrisyn/">AGRISYN</a></h3>
-<p>Synthetic farm populations for representing within-area agricultural heterogeneity while preserving agricultural and spatial controls.</p>
+<p>Synthetic farm populations for representing within-area agricultural heterogeneity while preserving national and local controls.</p>
 </div>
 </div>
 
@@ -37,7 +36,7 @@ toc: false
 <div class="editorial-kicker">Bioenergy · United States</div>
 <div>
 <h3><a href="bioland-us/">BioLand-US</a></h3>
-<p>Contractual land access and prospective U.S. perennial-biomass mobilisation, linking resource allocation with compatible land and voluntary participation.</p>
+<p>Contractual land access and prospective U.S. perennial-biomass mobilisation.</p>
 </div>
 </div>
 
