@@ -4,20 +4,41 @@ description: "Models, research projects, software, and reproducible work."
 toc: false
 ---
 
+The projects below connect formal research questions with reusable modelling workflows, code, data documentation and reproducibility materials.
+
 ::: {.feature-grid}
 ::: {.feature-card}
 ### GOBLIN-Spatial
-Spatial modelling and analysis of agricultural and land-use transitions.
+A constraint-preserving spatial foresight framework for agricultural transition incidence, response potential and land-system transformability.
 
 [Open project →](goblin-spatial/index.qmd)
 :::
 
 ::: {.feature-card}
 ### AGRISYN
-Synthetic agricultural populations for environmental and economic analysis.
+Synthetic farm populations for reconstructing within-area agricultural heterogeneity from agricultural and spatial controls.
 
 [Open project →](agrisyn/index.qmd)
 :::
+
+::: {.feature-card}
+### IFT-BioSim
+Farm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.
+
+[Open project →](ift-biosim/index.qmd)
 :::
 
-Future projects can be added as they become public. Each project gets one durable landing page rather than scattering links across the website.
+::: {.feature-card}
+### BioLand-US
+Contractual land access and prospective U.S. perennial-biomass mobilisation.
+
+[Open project →](bioland-us/index.qmd)
+:::
+
+::: {.feature-card}
+### E-SEAT
+Ethanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence in the U.S. Corn Belt.
+
+[Open project →](e-seat/index.qmd)
+:::
+:::
