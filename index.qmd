@@ -1,27 +1,36 @@
 ---
 pagetitle: "Elvis Kwame Ofori"
-description: "Research on where agricultural and land-use transitions place costs, opportunities and constraints."
+description: "Personal writing on policy, science, economics, technology, places and research."
 toc: false
 page-layout: full
+listing:
+  id: home-writing
+  contents: blog/posts
+  sort: "date desc"
+  type: default
+  max-items: 4
+  categories: true
+  sort-ui: false
+  filter-ui: false
 ---
 
 <div class="profile-hero">
 
 <img class="profile-photo" src="assets/profile.jpg" alt="Elvis Kwame Ofori">
 
-<div class="profile-kicker">University of Galway · Ryan Institute</div>
+<div class="profile-kicker">Ghana · China · Ireland</div>
 
 <h1 class="profile-name">Elvis Kwame Ofori</h1>
 
-<div class="profile-role">Agricultural, land-use and policy modeller</div>
+<div class="profile-role">Researcher, writer and policy observer</div>
 
-<p class="profile-lead"><strong>National climate and land-use targets are set in aggregate, but their costs, opportunities and constraints fall on particular farms, production systems and places.</strong> My research measures that incidence and tests how policy design changes who adjusts, where, and at what cost.</p>
+<p class="profile-lead">I am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.</p>
 
 <div class="profile-links">
-<a href="https://github.com/ElvisKwameOfori123">GitHub</a>
-<a href="https://orcid.org/0000-0001-5404-9078">ORCID</a>
-<a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en">Google Scholar</a>
-<a href="https://www.linkedin.com/in/elvis-ofori-12139b71/">LinkedIn</a>
+<a href="blog/">Writing</a>
+<a href="about.html">About</a>
+<a href="research/">Research</a>
+<a href="contact.html">Contact</a>
 </div>
 
 </div>
@@ -31,90 +40,23 @@ page-layout: full
 <section class="home-section">
 
 <div class="section-heading">
-<h2>News</h2>
-</div>
-
-<div class="news-list">
-
-<div class="news-item">
-<div class="news-date">Sep 2026</div>
-<p><a href="projects/goblin-spatial/">GOBLIN-Spatial</a> project page updated with the model question, architecture, evidence base and interpretation boundaries.</p>
-</div>
-
-<div class="news-item">
-<div class="news-date">Sep 2026</div>
-<p><a href="projects/bioland-us/">BioLand-US</a> public reproducibility repository is available with documented data access and verification workflows.</p>
-</div>
-
-<div class="news-item">
-<div class="news-date">Sep 2026</div>
-<p>New writing: <a href="blog/posts/2026-09-22-fusion-foresight/">Why I’m Excited to Work with FUSION and FORESIGHT</a>.</p>
-</div>
-
-</div>
-
-</section>
-
-<section class="home-section">
-
-<div class="section-heading">
-<h2>Research question</h2>
-<a href="research/">Research statement →</a>
-</div>
-
-<p class="home-statement">How can national agricultural, climate and land-use objectives be translated into evidence about the farms, production systems and places that will actually carry the transition? I use spatial modelling, econometrics, microsimulation and optimisation to connect national pathways with local incidence and implementation.</p>
-
-</section>
-
-<section class="home-section">
-
-<div class="section-heading">
-<h2>Selected projects</h2>
-<a href="projects/">All projects →</a>
-</div>
-
-<div class="featured-project">
-<div class="meta">Spatial foresight · Ireland</div>
-<h3><a href="projects/goblin-spatial/">GOBLIN-Spatial</a></h3>
-<p>Where does a nationally coherent agricultural and land-use transition fall, and how spatially feasible is the resulting future?</p>
-</div>
-
-<div class="featured-project">
-<div class="meta">Bioenergy · United States</div>
-<h3><a href="projects/bioland-us/">BioLand-US</a></h3>
-<p>How much techno-economic biomass allocation remains plausible after land compatibility and voluntary contractual access are made explicit?</p>
-</div>
-
-<div class="featured-project">
-<div class="meta">Land-use persistence · United States</div>
-<h3><a href="projects/e-seat/">E-SEAT</a></h3>
-<p>How much Corn Belt specialisation would reverse if the ethanol-demand signal weakened, and how much reflects the production structure already in place?</p>
-</div>
-
-</section>
-
-<section class="home-section">
-
-<div class="section-heading">
 <h2>Latest writing</h2>
-<a href="blog/">Visit the Blog →</a>
+<a href="blog/">All writing →</a>
 </div>
 
-<div class="latest-grid">
+::: {#home-writing}
+:::
 
-<div class="latest-card">
-<div class="eyebrow">Research · FUSION · FORESIGHT</div>
-<h3><a href="blog/posts/2026-09-22-fusion-foresight/">Why I’m Excited to Work with FUSION and FORESIGHT</a></h3>
-<p>Integrated modelling, GOBLIN, land-use transitions and the research environment around my PhD.</p>
+</section>
+
+<section class="home-section">
+
+<div class="section-heading">
+<h2>About my research</h2>
+<a href="research/">Research →</a>
 </div>
 
-<div class="latest-card">
-<div class="eyebrow">Blog</div>
-<h3><a href="blog/">Research and everything around it</a></h3>
-<p>Science, economics, technology, agriculture, data, Ghana, Ireland, the United States, books and other things worth examining.</p>
-</div>
-
-</div>
+<p class="home-statement">My research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway.</p>
 
 </section>
 
