@@ -10,34 +10,24 @@ toc: true
 
 I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway's Ryan Institute**.
 
-My research sits at the intersection of agricultural economics, land-use modelling, environmental policy and quantitative decision support. I am particularly interested in the gap between a national target and what implementation actually means for different farms, production systems, land resources and places.
+My research asks how national agricultural, climate and land-use objectives translate into different costs, opportunities and constraints across farms, production systems and places.
 
 </div>
 </div>
 
 ## Research
 
-My work spans agricultural and livestock transitions, land-use change, spatial feasibility, economic exposure, heterogeneous policy response, bioenergy opportunities, and policy design and implementation.
+My current work combines spatial, economic and behavioural modelling of agricultural and land-use transitions.
 
-Rather than treating every question at one scale, I use the resolution that fits the decision. Some problems need national pathways, others local geography, and others farm-level or individual-operation detail.
-
-Current modelling work includes **GOBLIN-Spatial**, **AGRISYN**, **IFT-BioSim**, **BioLand-US** and **E-SEAT**.
+The main projects are **GOBLIN-Spatial**, **BioLand-US**, **E-SEAT** and **IFT-BioSim**.
 
 ## Methods
 
-I work across econometrics, spatial modelling, synthetic populations, microsimulation, optimisation, scenario analysis and reproducible computational workflows, using tools including Python, R, Stata, GIS and SQL.
-
-## Reproducible research
-
-I use GitHub to organise analytical workflows, document assumptions and make models easier to inspect and reproduce. My longer-term aim is to build reusable modelling and decision-support infrastructure rather than a collection of one-off analyses.
-
-Where source data are confidential or restricted, public repositories can still provide code, assumptions, data-access notes, scenario controls, validation checks and instructions for authorised reproduction.
+I work with econometrics, spatial modelling, optimisation, synthetic populations and microsimulation using Python, R, Stata, GIS and SQL.
 
 ## Background
 
-I hold an **MSc in Management Science and Engineering**, completed in China, and currently undertake doctoral research at the University of Galway.
-
-My academic work has developed across management science, agricultural and environmental economics, econometrics, sustainability policy and computational modelling.
+I hold an **MSc in Management Science and Engineering** and currently undertake doctoral research at the University of Galway.
 
 ## Elsewhere
 
@@ -50,4 +40,4 @@ My academic work has developed across management science, agricultural and envir
 
 ## Site note
 
-This is my personal website. Views and conclusions expressed here and in associated repositories are my own and do not necessarily represent the position of my university, funders, data providers, supervisors or collaborators.
+This is my personal website. Views expressed here and in associated repositories are my own and do not necessarily represent the position of my university, funders, data providers, supervisors or collaborators.
