@@ -1,0 +1,23 @@
+---
+title: "Projects"
+description: "Models, research projects, software, and reproducible work."
+toc: false
+---
+
+::: {.feature-grid}
+::: {.feature-card}
+### GOBLIN-Spatial
+Spatial modelling and analysis of agricultural and land-use transitions.
+
+[Open project →](goblin-spatial/index.qmd)
+:::
+
+::: {.feature-card}
+### AGRISYN
+Synthetic agricultural populations for environmental and economic analysis.
+
+[Open project →](agrisyn/index.qmd)
+:::
+:::
+
+Future projects can be added as they become public. Each project gets one durable landing page rather than scattering links across the website.
