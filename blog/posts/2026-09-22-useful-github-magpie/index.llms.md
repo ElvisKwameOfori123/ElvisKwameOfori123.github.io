@@ -37,7 +37,7 @@ The repository is therefore worth exploring less as a piece of code to copy than
 ## Further reading
 
 - [MAgPIE repository](https://github.com/magpiemodel/magpie)
-- [MAgPIE tutorials](https://magpiemodel.github.io/tutorials/)
+- [MAgPIE tutorials](https://magpiemodel.github.io/tutorials.html)
 - [Framework description in *Geoscientific Model Development*](https://doi.org/10.5194/gmd-12-1299-2019)
 
 **Elvis Kwame Ofori**\
