@@ -38,6 +38,31 @@ listing:
 
 <div class="home-shell">
 
+<section class="home-section start-here-section">
+
+<div class="section-heading">
+<h2>Start here</h2>
+<span class="section-note">Two pieces that show what EKO Perspectives is about.</span>
+</div>
+
+<div class="start-here-grid">
+
+<a class="start-here-card" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
+<span class="start-here-kicker">Economics & Evidence</span>
+<strong>When the future is outside the data</strong>
+<span>Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.</span>
+</a>
+
+<a class="start-here-card" href="blog/posts/2026-09-22-acres-landscape-actions/">
+<span class="start-here-kicker">Land & Agriculture · Policy</span>
+<strong>When environmental policy needs a landscape, not just a farm</strong>
+<span>Why some environmental problems need coordination beyond individual holdings.</span>
+</a>
+
+</div>
+
+</section>
+
 <section class="home-section">
 
 <div class="section-heading">
