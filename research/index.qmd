@@ -1,25 +1,82 @@
 ---
 title: "Research"
-description: "Research themes, papers, methods, and ongoing work."
-toc: false
+description: "Agricultural, land-use, bioenergy and policy modelling across national, spatial and farm scales."
+toc: true
 ---
 
-This page will explain the research agenda in a few durable themes rather than simply listing every paper.
+My research focuses on **ex-ante modelling of agricultural, land-use, bioenergy and environmental policy**. I am interested in what happens between a policy target and its eventual implementation: how technical assumptions translate into changes in production, land use and behaviour, how those changes are distributed across places and producers, and what that means for policy design.
 
-## Research themes
+A central theme is that national objectives are implemented through heterogeneous production systems, land resources, farms and places. Aggregate feasibility therefore does not guarantee local feasibility, economic accessibility or behavioural participation.
 
-### Climate and environmental economics
-Questions about incentives, mitigation, transition pathways, and policy design.
+## Research questions
 
-### Agricultural and land-use transitions
-Questions about production, land allocation, environmental constraints, and transition exposure.
+Much of my work follows a common sequence:
 
-### Computational and synthetic-population modelling
-Methods for representing heterogeneous farms, households, places, and behaviours.
+~~~text
+Policy objective or proposed intervention
+        ↓
+Technical and economic assumptions
+        ↓
+Production-system response
+        ↓
+Spatial and regional incidence
+        ↓
+Economic and behavioural response
+        ↓
+Opportunities, constraints and uncertainty
+        ↓
+Policy design, targeting and implementation
+~~~
 
-### Policy design and distributional effects
-How policy costs, benefits, risks, and adjustment burdens are distributed.
+Questions include:
 
-## From questions to reproducible outputs
+- How can national agricultural, land-use and bioenergy objectives be translated into realistic spatial and economic pathways?
+- Where do transition costs, opportunities and implementation constraints concentrate?
+- Which technically available resources remain economically accessible and realistically deployable?
+- How do alternative incentives, compensation rules and allocation principles change who bears adjustment?
+- How can national pathway models be connected to local geography and farm-level heterogeneity?
+- What can be learned before major policy and investment decisions become difficult to reverse?
 
-Each major project can connect its paper, model documentation, code repository, data, figures, talks, and related writing.
+## Agricultural and land-use transitions
+
+This work examines AFOLU mitigation, livestock restructuring, afforestation, wetland rehabilitation, anaerobic digestion, bioeconomy pathways, land-use competition and long-term transition planning.
+
+Rather than treating land release and land opportunity as equivalent, the modelling separates transition-space release, physical resource, eligibility, opportunity, allocation and actual adoption.
+
+## Spatial and distributional modelling
+
+I use spatial reconstruction, local-area allocation, microsimulation and synthetic populations to investigate how nationally coherent changes are distributed across geography.
+
+This includes transition exposure, land capability, released-land opportunity, regional heterogeneity and place-sensitive policy analysis.
+
+## Behavioural and policy-response modelling
+
+A second strand examines producer response to policy instruments, including participation, stocking-rate adjustment, opportunity costs, compensation design, additionality and heterogeneous responses to alternative incentives.
+
+The aim is to distinguish technical potential from economic accessibility and actual willingness to participate.
+
+## Bioenergy and resource mobilisation
+
+My bioenergy work examines how resource estimates change when land competition, economic opportunity costs, contractual access and heterogeneous participation are introduced.
+
+This includes Irish biomethane and land-use pathways as well as U.S. biomass, biofuel and land-access applications.
+
+## Food, climate and development
+
+I also maintain a broader interest in food-system sustainability, agricultural productivity, carbon pricing, sustainable diets and climate-development trade-offs, including questions relevant to Sub-Saharan African food systems.
+
+## Methods
+
+My work draws on:
+
+- **Econometrics:** panel models, conditional logit, correlated random effects and revealed-preference methods;
+- **Behavioural and microsimulation modelling:** producer response, farm-level simulation and policy-incidence analysis;
+- **Optimisation and synthetic populations:** mixed-integer optimisation, constraint-preserving allocation and synthetic farm construction;
+- **Scenario and economic modelling:** AFOLU pathways, marginal abatement costs, opportunity costs, bioenergy economics and transition stress-testing;
+- **Spatial modelling:** hierarchical reconstruction, spatial allocation, land capability and resource accessibility;
+- **Programming and data:** Python, R, Stata, GIS, SQL, Excel-based modelling and reproducible pipelines;
+- **Uncertainty and validation:** sensitivity analysis, scenario comparison, explicit assumptions, accounting closure and model diagnostics.
+
+## Reusable modelling systems
+
+The longer-term objective is to build **reusable modelling and decision-support systems**, not just one-off analyses. Where possible, projects are structured so that assumptions, data requirements, scenario controls, code, tests and outputs can be inspected and extended by other researchers and analysts.
