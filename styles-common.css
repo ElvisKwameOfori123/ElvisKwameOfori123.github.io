@@ -693,3 +693,9 @@ figure img,
   max-width: 100%;
   height: auto;
 }
+
+
+/* Homepage metadata title */
+body:has(.profile-hero) #title-block-header {
+  display: none;
+}
