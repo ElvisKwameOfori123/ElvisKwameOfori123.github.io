@@ -445,28 +445,10 @@ code { color: var(--site-accent); }
 }
 
 
-/* restrained academic navigation */
+/* restrained navigation effect; colours are defined by the
+   editorial identity block below so light and dark modes cannot conflict. */
 .navbar {
   backdrop-filter: blur(10px);
-}
-
-body:not(.quarto-dark) .navbar {
-  background: rgba(251,250,247,.96) !important;
-}
-
-body:not(.quarto-dark) .navbar-brand,
-body:not(.quarto-dark) .navbar .nav-link,
-body:not(.quarto-dark) .navbar .navbar-nav .nav-link {
-  color: #17293d !important;
-}
-
-body:not(.quarto-dark) .navbar .nav-link:hover,
-body:not(.quarto-dark) .navbar .nav-link.active {
-  color: #a94f4d !important;
-}
-
-body.quarto-dark .navbar {
-  background: rgba(11,27,42,.97) !important;
 }
 
 
@@ -987,5 +969,178 @@ pre,
 
   .profile-hero::after {
     right: -80px;
+  }
+}
+
+
+/* Navigation and mobile usability corrections */
+.navbar,
+body:not(.quarto-dark) .navbar {
+  background: #173b57 !important;
+}
+
+body.quarto-dark .navbar {
+  background: #0d2233 !important;
+}
+
+.navbar-brand,
+.navbar-title,
+.navbar .nav-link,
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-toggler,
+.navbar #quarto-search,
+.navbar .quarto-navigation-tool {
+  color: #fffaf4 !important;
+}
+
+.navbar .navbar-toggler {
+  border-color: rgba(255,250,244,.35);
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active,
+.navbar .quarto-navigation-tool:hover {
+  color: #f0b1c2 !important;
+}
+
+.nav-footer,
+.nav-footer p,
+.nav-footer-left,
+.nav-footer-center,
+.nav-footer-right {
+  color: #f7efe8 !important;
+}
+
+.nav-footer a {
+  color: var(--site-pink) !important;
+}
+
+/* Homepage primary links are real touch targets rather than tiny text links. */
+.profile-links {
+  gap: .65rem;
+}
+
+.profile-links a {
+  min-height: 44px;
+  padding: .58rem .9rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--site-line);
+  border-radius: 999px;
+  background: var(--site-card);
+  color: var(--site-blue);
+  font-weight: 600;
+  line-height: 1;
+}
+
+.profile-links a:hover,
+.profile-links a:focus-visible {
+  background: var(--site-pink-soft);
+  color: var(--site-burgundy);
+}
+
+body.quarto-dark .profile-links a {
+  color: var(--site-pink);
+  background: rgba(9,31,44,.52);
+}
+
+@media (max-width: 991.98px) {
+  .navbar-collapse .nav-link {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (max-width: 760px) {
+  /* Put Writing categories back into the phone experience.
+     Quarto normally hides the margin sidebar on small screens. */
+  body:has(#listing-listing) #quarto-content {
+    display: block !important;
+  }
+
+  body:has(#listing-listing) #quarto-margin-sidebar {
+    display: block !important;
+    position: static !important;
+    width: auto !important;
+    max-width: none !important;
+    height: auto !important;
+    margin: 1rem .95rem .8rem !important;
+    padding: 0 !important;
+  }
+
+  body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category-title {
+    display: none;
+  }
+
+  body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category {
+    display: flex !important;
+    flex-wrap: nowrap;
+    gap: .45rem;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding: .1rem 0 .35rem;
+  }
+
+  body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category::-webkit-scrollbar {
+    display: none;
+  }
+
+  body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
+    flex: 0 0 auto;
+    min-height: 38px;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+    padding: .45rem .72rem;
+    border: 1px solid var(--site-line);
+    border-radius: 999px;
+    background: var(--site-pink-soft);
+    color: var(--site-burgundy);
+    font-family: "Montserrat", sans-serif;
+    font-size: .78rem;
+    cursor: pointer;
+  }
+
+  body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
+    color: var(--site-pink);
+  }
+
+  /* Make each post a self-contained phone card in the correct visual order. */
+  .quarto-listing-default .quarto-post {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "thumbnail"
+      "body"
+      "metadata" !important;
+    grid-auto-rows: auto !important;
+  }
+
+  .quarto-listing-default .quarto-post > .thumbnail {
+    grid-area: thumbnail !important;
+  }
+
+  .quarto-listing-default .quarto-post > .body {
+    grid-area: body !important;
+  }
+
+  .quarto-listing-default .quarto-post > .metadata {
+    grid-area: metadata !important;
+  }
+
+  .quarto-listing-default .thumbnail img {
+    display: block;
+    width: 100% !important;
+    max-height: 210px;
+    object-fit: cover;
+    border-radius: 7px;
+    margin-bottom: .35rem;
+  }
+
+  .profile-links a {
+    min-width: 92px;
   }
 }
