@@ -7,7 +7,13 @@ categories:
   - Ireland
   - Agriculture and food
 draft: false
+image: foresight1.png
 ---
+
+<figure>
+  <img src="foresight1.png" alt="FORESIGHT project illustration showing a pathway from future land-use goals back to present-day decisions">
+  <figcaption>FORESIGHT project illustration. Source: FUSION, University of Galway. Re-hosted here under the source site's CC BY-SA licence.</figcaption>
+</figure>
 
 One of the most exciting parts of my PhD journey has been working in the **FUSION research environment at the University of Galway** and contributing to research connected with **FORESIGHT**.
 
