@@ -4,7 +4,7 @@ description: "Selected research models and reproducible projects."
 toc: false
 ---
 
-<p class="page-intro">A small set of active projects that show how I move from national policy questions to spatial, farm-level and implementation evidence.</p>
+<p class="page-intro">Selected research projects. These pages remain available from the Research section rather than the main navigation.</p>
 
 <div class="editorial-list">
 
@@ -21,14 +21,6 @@ toc: false
 <div>
 <h3><a href="bioland-us/">BioLand-US</a></h3>
 <p>How compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.</p>
-</div>
-</div>
-
-<div class="editorial-item">
-<div class="editorial-kicker">Econometrics · United States</div>
-<div>
-<h3><a href="e-seat/">E-SEAT</a></h3>
-<p>How much Corn Belt specialisation would reverse under a weaker ethanol-demand signal, and how much reflects structural persistence.</p>
 </div>
 </div>
 
