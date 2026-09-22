@@ -6,6 +6,10 @@ on:
 
 name: Render and Publish Quarto site
 
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
 
 permissions:
   contents: write
