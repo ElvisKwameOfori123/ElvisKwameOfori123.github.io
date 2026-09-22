@@ -1,153 +1,117 @@
 ---
 pagetitle: "Elvis Kwame Ofori"
-description: "Agricultural, land-use and policy modeller working across economic, spatial, behavioural and computational methods."
+description: "Research, models, projects and writing by Elvis Kwame Ofori."
 toc: false
 page-layout: full
 ---
 
-<div class="home-wrap">
+<div class="profile-hero">
 
-<div class="home-hero">
-<div class="hero-copy">
+<img class="profile-photo" src="https://avatars.githubusercontent.com/u/113311989?v=4" alt="Elvis Kwame Ofori">
 
-<div class="eyebrow">University of Galway · Ryan Institute</div>
+<div class="profile-kicker">University of Galway · Ryan Institute</div>
 
-<h1>Elvis Kwame Ofori</h1>
+<h1 class="profile-name">Elvis Kwame Ofori</h1>
 
-<p class="hero-role">Agricultural, land-use and policy modeller</p>
+<div class="profile-role">Agricultural, land-use and policy modeller</div>
 
-<p class="hero-lead">I develop economic, spatial, behavioural and computational models to understand how climate, agricultural, land-use and bioenergy policies move from national objectives to real production systems, farms and places.</p>
+<p class="profile-lead">I develop economic, spatial, behavioural and computational models to understand how agricultural, land-use, climate and bioenergy policy moves from national objectives to real farms, production systems and places.</p>
 
-<p class="hero-lead">My work asks where adjustment occurs, who and what is exposed, which alternatives are feasible, and how policy design changes implementation outcomes.</p>
-
-<div class="hero-actions">
-<a class="primary" href="research/">Research</a>
-<a class="secondary" href="projects/">Projects & models</a>
-<a class="secondary" href="blog/">Blog</a>
+<div class="profile-links">
+<a href="https://github.com/ElvisKwameOfori123">GitHub</a>
+<a href="https://orcid.org/0000-0001-5404-9078">ORCID</a>
+<a href="https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en">Google Scholar</a>
+<a href="https://www.linkedin.com/in/elvis-ofori-12139b71/">LinkedIn</a>
 </div>
 
 </div>
 
-<div class="hero-portrait">
-<img src="https://avatars.githubusercontent.com/u/113311989?v=4" alt="Elvis Kwame Ofori">
-<div class="hero-caption">PhD Researcher & Research Assistant<br>Plant & AgriBiosciences · University of Galway</div>
-</div>
-</div>
+<div class="home-shell">
 
 <section class="home-section">
+
 <div class="section-heading">
-<div class="section-label">Research</div>
-<h2>From national targets to the economics and geography of implementation.</h2>
+<h2>Research</h2>
+<a href="research/">Explore research →</a>
 </div>
 
-<p class="research-statement">A national pathway can be technically feasible and still be difficult to implement locally. My research connects aggregate targets with heterogeneous farms, production systems, land resources and places so that policy design can be tested before major decisions are locked in.</p>
+<p class="home-statement">A national pathway can be technically feasible and still be difficult to implement locally. My work connects aggregate objectives with heterogeneous farms, land resources, production systems and places, asking where adjustment occurs, what it costs, and how policy design changes implementation.</p>
+
 </section>
 
 <section class="home-section">
+
 <div class="section-heading">
-<div class="section-label">Selected work</div>
-<h2>Models and research projects</h2>
+<h2>Featured work</h2>
+<a href="projects/">All projects →</a>
 </div>
 
-<div class="project-list">
-
-<div class="project-row">
-<div class="project-number">01</div>
-<div class="project-main">
+<div class="featured-project">
+<div class="meta">Spatial foresight · Ireland</div>
 <h3><a href="projects/goblin-spatial/">GOBLIN-Spatial</a></h3>
-<p>Spatial foresight for agricultural transition incidence, response potential, land opportunity and local implementation constraints.</p>
-</div>
-<div class="project-meta">Ireland<br>Spatial modelling</div>
+<p>Resolving nationally coherent agricultural and land-use transitions across local geography to examine exposure, feasibility and implementation constraints.</p>
 </div>
 
-<div class="project-row">
-<div class="project-number">02</div>
-<div class="project-main">
-<h3><a href="projects/agrisyn/">AGRISYN</a></h3>
-<p>Synthetic farm populations that reconstruct within-area agricultural heterogeneity while preserving national and local controls.</p>
-</div>
-<div class="project-meta">Ireland<br>Synthetic populations</div>
-</div>
-
-<div class="project-row">
-<div class="project-number">03</div>
-<div class="project-main">
+<div class="featured-project">
+<div class="meta">Farm-level modelling · Ireland</div>
 <h3><a href="projects/ift-biosim/">IFT-BioSim</a></h3>
-<p>Farm-level transition bioeconomic microsimulation for heterogeneous opportunity costs, participation and policy design.</p>
-</div>
-<div class="project-meta">Ireland<br>Microsimulation</div>
+<p>Bioeconomic microsimulation of heterogeneous opportunity costs, participation, transition support and policy incidence.</p>
 </div>
 
-<div class="project-row">
-<div class="project-number">04</div>
-<div class="project-main">
+<div class="featured-project">
+<div class="meta">Bioenergy · United States</div>
 <h3><a href="projects/bioland-us/">BioLand-US</a></h3>
-<p>Prospective U.S. perennial-biomass mobilisation after compatible land and voluntary contractual access are made explicit.</p>
-</div>
-<div class="project-meta">United States<br>Bioenergy</div>
+<p>Linking prospective biomass allocation with compatible agricultural land and voluntary contractual access.</p>
 </div>
 
-<div class="project-row">
-<div class="project-number">05</div>
-<div class="project-main">
-<h3><a href="projects/e-seat/">E-SEAT</a></h3>
-<p>County-level analysis of ethanol-demand exposure and structural land-use persistence across the U.S. Corn Belt.</p>
-</div>
-<div class="project-meta">United States<br>Econometrics</div>
-</div>
-
-</div>
 </section>
 
 <section class="home-section">
+
 <div class="section-heading">
-<div class="section-label">Methods</div>
-<h2>Quantitative work across scales</h2>
+<h2>Latest writing</h2>
+<a href="blog/">Visit the Blog →</a>
 </div>
 
-<div class="method-strip">
+<div class="latest-grid">
+
+<div class="latest-card">
+<div class="eyebrow">Blog</div>
+<h3><a href="blog/">A general place to write</a></h3>
+<p>Research sometimes, but also economics, technology, books, Ghana, Ireland, code, data, current affairs and observations.</p>
+</div>
+
+<div class="latest-card">
+<div class="eyebrow">Notes</div>
+<h3><a href="blog/posts/2026-09-22-welcome/">Starting this site</a></h3>
+<p>A short note on why I want research, code, projects and broader writing to live together rather than in separate corners of the internet.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="home-section">
+
+<div class="section-heading">
+<h2>Explore</h2>
+</div>
+
+<div class="topic-cloud">
+<span>Agricultural economics</span>
+<span>Land use</span>
+<span>Climate policy</span>
+<span>Bioenergy</span>
+<span>Spatial modelling</span>
 <span>Econometrics</span>
 <span>Microsimulation</span>
-<span>Spatial modelling</span>
 <span>Synthetic populations</span>
-<span>Optimisation</span>
-<span>Scenario analysis</span>
-<span>AFOLU modelling</span>
-<span>Bioenergy economics</span>
 <span>Python</span>
 <span>R</span>
 <span>Stata</span>
-<span>GIS</span>
-<span>SQL</span>
-</div>
-</section>
-
-<section class="home-section">
-<div class="section-heading">
-<div class="section-label">Writing</div>
-<h2>A general blog, not another academic filing cabinet.</h2>
+<span>Writing</span>
 </div>
 
-<div class="writing-panel">
-<div>
-<a class="big-link" href="blog/">Notes, arguments, methods, technology, economics, books, data and whatever else I find worth writing about →</a>
-</div>
-<div class="writing-note">
-The formal research record lives under Research, Projects and Publications. The Blog stays intentionally broad.
-</div>
-</div>
-</section>
-
-<section class="home-section">
-<div class="section-heading">
-<div class="section-label">Elsewhere</div>
-<h2>Research profiles and code</h2>
-</div>
-
-[GitHub](https://github.com/ElvisKwameOfori123) ·
-[ORCID](https://orcid.org/0000-0001-5404-9078) ·
-[Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
-[LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/)
 </section>
 
 </div>
