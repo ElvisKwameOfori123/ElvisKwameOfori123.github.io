@@ -2,8 +2,6 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
-**EKO Perspectives** is the writing side of this site. I use it to think through public questions, evidence, places and ideas that seem worth examining carefully.
-
 ### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
 
 What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
