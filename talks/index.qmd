@@ -1,11 +1,6 @@
 ---
 title: "Talks"
-description: "Talks, workshops, lectures and presentations."
-toc: false
+draft: true
 ---
 
-<p class="page-intro">This page will collect selected conference presentations, seminars, workshops and teaching materials, with slides, code and related project links where available.</p>
-
-## Selected talks
-
-I am currently adding the talk archive. I would rather publish verified events and materials than fill the page with placeholders.
+Talks will be published here once verified slides and event details are ready.
