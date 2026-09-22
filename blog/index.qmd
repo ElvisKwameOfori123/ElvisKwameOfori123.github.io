@@ -13,4 +13,4 @@ page-layout: full
 toc: false
 ---
 
-<p class="page-intro"><strong>EKO Perspectives</strong> is the writing side of this site: essays and notes on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.</p>
+<p class="page-intro"><strong>EKO Perspectives</strong> is the writing side of this site. I use it to think through public questions, evidence, places and ideas that seem worth examining carefully.</p>
