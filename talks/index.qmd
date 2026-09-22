@@ -1,21 +1,11 @@
 ---
 title: "Talks"
-description: "Talks, workshops, lectures, and presentations."
-listing:
-  - id: talks_2026
-    contents: talks_2026.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-page-layout: full
-toc: true
-toc-location: right
-toc-title: Year
-date-format: "MMMM D, YYYY"
+description: "Talks, workshops, lectures and presentations."
+toc: false
 ---
 
-Talks are stored as structured data rather than manually formatted entries.
+<p class="page-intro">This page will collect selected conference presentations, seminars, workshops and teaching materials, with slides, code and related project links where available.</p>
 
-## 2026
+## Selected talks
 
-:::{#talks_2026}
-:::
+I am currently adding the talk archive. I would rather publish verified events and materials than fill the page with placeholders.
