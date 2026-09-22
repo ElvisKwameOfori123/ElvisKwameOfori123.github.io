@@ -9,7 +9,7 @@ listing:
   sort: "date desc"
   type: default
   max-items: 4
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 ---
