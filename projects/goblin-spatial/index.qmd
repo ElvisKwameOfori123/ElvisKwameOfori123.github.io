@@ -16,21 +16,13 @@ GOBLIN supplies the national pathway. GOBLIN-Spatial resolves its geography and 
 
 ## How it works
 
-~~~text
-National GOBLIN pathway
-        ↓
-Transition incidence
-Where does adjustment fall?
-        ↓
-Spatial response potential
-What can released land support?
-        ↓
-Spatial transformability
-Can competing future land uses fit?
-        ↓
-Spatial flexibility
-Is one geography necessary?
-~~~
+```{mermaid}
+flowchart TD
+    A["National GOBLIN pathway"] --> B["Transition incidence<br/>Where does adjustment fall?"]
+    B --> C["Spatial response potential<br/>What can released land support?"]
+    C --> D["Spatial transformability<br/>Can competing future land uses fit?"]
+    D --> E["Spatial flexibility<br/>Is one geography necessary?"]
+```
 
 The framework is a spatial stress-test of transition pathways, not a prediction of individual farmer or parcel decisions.
 
