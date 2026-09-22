@@ -4,6 +4,24 @@ Policy, land and agriculture, economics and evidence, science and technology, pl
 
 **EKO Perspectives** is the writing side of this site: essays and notes on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.
 
+### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+
+What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
+
+Sep 22, 2026
+
+### [AI is becoming ordinary. The evidence about its effects is not there yet](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
+
+As generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.
+
+Sep 22, 2026
+
+### [When environmental policy needs a landscape, not just a farm](../blog/posts/2026-09-22-acres-landscape-actions/index.llms.md)
+
+Ireland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.
+
+Sep 22, 2026
+
 ### [Where my PhD sits: FUSION and FORESIGHT](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
 
 The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.

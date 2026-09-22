@@ -1,0 +1,39 @@
+# When environmental policy needs a landscape, not just a farm
+
+Land & Agriculture
+
+Policy
+
+Ireland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.
+
+Published
+
+September 22, 2026
+
+A field boundary can belong to one farmer while the ecological process crossing it belongs to no one. Water moves downhill. Invasive species spread. Habitats connect or fragment across property lines. A threatened species does not organise its life around a farm map.
+
+That simple mismatch is one of the harder problems in agricultural environmental policy. Governments usually pay individual landholders, because contracts, eligibility and accountability need identifiable participants. Yet many of the outcomes being purchased are partly landscape outcomes.
+
+Ireland’s Agri-Climate Rural Environment Scheme, or ACRES, is an interesting attempt to work across that boundary. ACRES is the main agri-environment climate measure under Ireland’s CAP Strategic Plan for 2023–2027. The Department of Agriculture describes it as a €1.5 billion programme intended to support up to 50,000 farm families while addressing biodiversity, climate, air and water objectives. By Budget 2026, the government reported almost 54,000 participating farmers and allocated €280 million to the scheme for that year.
+
+The important design feature is not simply its size. ACRES combines actions on individual farms with a Co-operation approach in selected areas. In February 2026, the Department opened a second application window for what it calls Landscape Actions. These are intended to address environmental problems whose scale is larger than a single parcel. The examples given by the Department include invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.
+
+This matters because environmental effectiveness and administrative convenience often point to different spatial scales.
+
+Consider water quality. A farmer can change nutrient management on one holding, but the condition of a river reflects pressures accumulated across a catchment. The same logic applies to habitat connectivity. Protecting one good patch of habitat may achieve less if neighbouring patches disappear. Conversely, coordinated actions across several holdings can create an ecological result that no participant could deliver alone.
+
+There is also an economic problem. If environmental benefits spill beyond the farm undertaking the action, the individual farmer may have little private reason to supply the socially desirable amount. Agri-environment payments are partly a response to that gap. Landscape coordination adds another layer: it tries to align multiple private decisions with an outcome that depends on their combination.
+
+ACRES does not eliminate the difficulty. Coordination has costs. Someone has to identify the relevant landscape, decide which actions fit it, work with landholders and judge whether the intervention is succeeding. Results-based payments also raise difficult questions about how much of an observed ecological outcome can reasonably be attributed to management rather than weather, soils or other factors outside a farmer’s control.
+
+There is a second caution. “Landscape-scale” should not become a synonym for centrally prescribing one preferred land use across a large area. Agricultural landscapes are heterogeneous. The same intervention can have different costs and environmental returns depending on soils, existing production, farm structure and what is nearby. Better coordination therefore requires better spatial evidence, not simply larger planning units.
+
+That is what makes the Irish experiment worth watching. The interesting question is not whether farm-level or landscape-level policy is superior. Both are needed. The more useful question is which environmental problem belongs at which scale.
+
+Agricultural policy has traditionally been good at counting hectares, animals, payments and participants. The next step is harder: recognising that the environmental value of a hectare can depend on what happens beyond its boundary.
+
+## Further reading
+
+- [Department of Agriculture: ACRES](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/services/agri-climate-rural-environment-scheme-acres/)
+- [Department of Agriculture: second application window for ACRES Landscape Actions, 11 February 2026](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-announces-opening-of-second-application-window-for-acres-landscape-actions/)
+- [Budget 2026 agriculture allocations](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-secures-additional-170-million-in-budget-2026-9-increase-brings-departmental-vote-to-over-23-billion/)

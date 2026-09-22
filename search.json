@@ -7,46 +7,116 @@
     "text": "For most of my research life, questions began with observed data. I used econometric models to estimate relationships, test hypotheses and ask how economic, technological and environmental variables respond to one another. That work is not merely backward-looking. Econometrics is routinely used to estimate counterfactual responses to policies that have not yet been implemented.\nWhat changed during my PhD was not a move from the past to the future. It was the distance between the future being modelled and the conditions contained in the data.\nEstimated relationships are most defensible around the range of variation from which they were learned. As a policy experiment moves farther beyond that support, the exercise becomes increasingly dependent on extrapolation and modelling assumptions. A regression can still produce a number, but the fact that it can calculate an answer does not mean the historical data have directly identified behaviour under those new conditions.\nThat problem matters in climate and land-use policy because some plausible pathways involve changes much larger than ordinary year-to-year variation. Ireland’s Land Use Review, for example, examined scenarios involving large-scale rewetting of grassland on organic soils and substantial additional forestry by 2050. Those are not small marginal adjustments around today’s land system. They are structural changes whose consequences cannot simply be read from a historical coefficient.\n\n\n\nIrish farm field. Photograph by Daniel Hanrahan.\n\n\nSource: Daniel Hanrahan / Wikimedia Commons, used under CC BY 3.0.\nThis is where scenario modelling becomes useful. A scenario model can start from a policy target or a set of explicit assumptions and ask what follows if those conditions hold. Backcasting takes the logic further by beginning with a future objective and working backwards to the changes that would have to occur between that future and the present. The important point is that these exercises are not predictions. They are structured ways of exploring futures that historical data alone cannot reveal.\nThe two approaches therefore need each other. Scenario models are only as credible as the assumptions they contain, and behavioural assumptions should be disciplined wherever possible by evidence from the observed world. Econometric evidence helps tell us how people, firms or farms have responded to incentives and constraints we have actually seen. Scenario models then make explicit what must be assumed when the policy question moves outside that experience.\nClimate modelling has long faced a similar distinction between top-down economic approaches and bottom-up technology or sector models. The OECD notes that the two approaches answer different questions: top-down models emphasise economy-wide coherence, while bottom-up models offer more technological detail. Neither view is complete on its own.\nSo I do not think of my work as moving away from econometrics. It feels more like moving from a single window to a room with several. Econometrics shows what observed variation can teach us. Scenario models ask what different futures would require. Spatial models ask where change would fall, and microsimulation asks how one policy can land differently across thousands of heterogeneous farms.\nThe skill is not choosing one window. It is knowing what each can show, and recognising where its view ends.\n\nFurther reading\n\nEPA: Land Use Review — Fluxes, Scenarios and Capacity\nOECD: Projecting Emissions Baselines for National Climate Policy\nOECD Strategic Foresight\nEuropean Commission: How do we build scenarios in a foresight exercise?"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "EKO Perspectives",
+    "objectID": "blog/posts/2026-09-22-acres-landscape-actions/index.html",
+    "href": "blog/posts/2026-09-22-acres-landscape-actions/index.html",
+    "title": "When environmental policy needs a landscape, not just a farm",
     "section": "",
-    "text": "EKO Perspectives is the writing side of this site: essays and notes on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\n\nPolicy\n\nPersonal & Ideas\n\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\n\nEconomics & Evidence\n\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
+    "text": "A field boundary can belong to one farmer while the ecological process crossing it belongs to no one. Water moves downhill. Invasive species spread. Habitats connect or fragment across property lines. A threatened species does not organise its life around a farm map.\nThat simple mismatch is one of the harder problems in agricultural environmental policy. Governments usually pay individual landholders, because contracts, eligibility and accountability need identifiable participants. Yet many of the outcomes being purchased are partly landscape outcomes.\nIreland’s Agri-Climate Rural Environment Scheme, or ACRES, is an interesting attempt to work across that boundary. ACRES is the main agri-environment climate measure under Ireland’s CAP Strategic Plan for 2023–2027. The Department of Agriculture describes it as a €1.5 billion programme intended to support up to 50,000 farm families while addressing biodiversity, climate, air and water objectives. By Budget 2026, the government reported almost 54,000 participating farmers and allocated €280 million to the scheme for that year.\nThe important design feature is not simply its size. ACRES combines actions on individual farms with a Co-operation approach in selected areas. In February 2026, the Department opened a second application window for what it calls Landscape Actions. These are intended to address environmental problems whose scale is larger than a single parcel. The examples given by the Department include invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.\nThis matters because environmental effectiveness and administrative convenience often point to different spatial scales.\nConsider water quality. A farmer can change nutrient management on one holding, but the condition of a river reflects pressures accumulated across a catchment. The same logic applies to habitat connectivity. Protecting one good patch of habitat may achieve less if neighbouring patches disappear. Conversely, coordinated actions across several holdings can create an ecological result that no participant could deliver alone.\nThere is also an economic problem. If environmental benefits spill beyond the farm undertaking the action, the individual farmer may have little private reason to supply the socially desirable amount. Agri-environment payments are partly a response to that gap. Landscape coordination adds another layer: it tries to align multiple private decisions with an outcome that depends on their combination.\nACRES does not eliminate the difficulty. Coordination has costs. Someone has to identify the relevant landscape, decide which actions fit it, work with landholders and judge whether the intervention is succeeding. Results-based payments also raise difficult questions about how much of an observed ecological outcome can reasonably be attributed to management rather than weather, soils or other factors outside a farmer’s control.\nThere is a second caution. “Landscape-scale” should not become a synonym for centrally prescribing one preferred land use across a large area. Agricultural landscapes are heterogeneous. The same intervention can have different costs and environmental returns depending on soils, existing production, farm structure and what is nearby. Better coordination therefore requires better spatial evidence, not simply larger planning units.\nThat is what makes the Irish experiment worth watching. The interesting question is not whether farm-level or landscape-level policy is superior. Both are needed. The more useful question is which environmental problem belongs at which scale.\nAgricultural policy has traditionally been good at counting hectares, animals, payments and participants. The next step is harder: recognising that the environmental value of a hectare can depend on what happens beyond its boundary."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "blog/posts/2026-09-22-acres-landscape-actions/index.html#further-reading",
+    "href": "blog/posts/2026-09-22-acres-landscape-actions/index.html#further-reading",
+    "title": "When environmental policy needs a landscape, not just a farm",
+    "section": "Further reading",
+    "text": "Further reading\n\nDepartment of Agriculture: ACRES\nDepartment of Agriculture: second application window for ACRES Landscape Actions, 11 February 2026\nBudget 2026 agriculture allocations"
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-useful-github-magpie/index.html",
+    "href": "blog/posts/2026-09-22-useful-github-magpie/index.html",
+    "title": "Useful GitHub: MAgPIE and the discipline of open land-system modelling",
     "section": "",
-    "text": "My research asks a distributional question:\nI use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented."
+    "text": "Some GitHub repositories are useful because you can borrow a function. Others are useful because they reveal how a serious modelling system is organised. MAgPIE belongs to the second group.\nMAgPIE, the Model of Agricultural Production and its Impact on the Environment, is an open-source framework maintained by researchers associated with the Potsdam Institute for Climate Impact Research. It models global land systems, explicitly representing agriculture and forestry and linking economic drivers to spatially explicit biophysical constraints.\nThe basic modelling question is large: given demand for food, bioenergy and timber, technological change, production costs, crop yields, forest growth, land and water constraints, what patterns of production and land use can satisfy those demands at minimum cost?\nThat makes MAgPIE very different from a farm calculator or a statistical forecasting package. It is an optimisation model embedded in a wider modelling architecture. It is coupled to LPJmL, a grid-based vegetation model, and uses biophysical information at 0.5-degree resolution. Regional economic conditions and demands enter the model, while the optimisation determines land-use patterns, yields and production costs consistent with those conditions.\nFor researchers interested in land-use policy, the repository is valuable even if they never run the full model.\nThe first lesson is modularity. Large models become difficult to audit when assumptions are buried in a single script. MAgPIE separates model components, configuration and scenario settings. New scenarios can be defined through configuration rather than by rewriting the entire model. That sounds mundane, but it is one of the differences between code that produces one paper and infrastructure that can support a research programme.\nThe second lesson is reproducibility beyond code. The README does not pretend that publishing source files alone makes a model reproducible. It documents software requirements, installation, configuration, execution and outputs. The project provides tutorials, versioned documentation, a citation file and guidance for modifying the model. It also explicitly encourages model-based publications and consulting work to make source code available.\nThe third lesson concerns data provenance. MAgPIE’s contribution guidance says model dependencies should be publicly available where possible and warns against input data that cannot be shared. Its data-processing workflow is designed around reproducibility rather than treating data preparation as an invisible stage before the “real” modelling begins.\nThere are important barriers. This is not a lightweight Python package that a new user can install in five minutes. The main model is written in GAMS, uses R around the workflow, and currently requires a GAMS licence with the CONOPT solver. The developers recommend substantial computing resources, including at least 16 GB of memory. For many researchers, especially those wanting a transparent teaching model or a small national application, that is a significant entry cost.\nIts scale also matters. A global land-system optimisation model answers different questions from a spatial microsimulation of farms or a parcel-level land allocation model. MAgPIE can explore internally consistent global transitions and competition among food, forestry and bioenergy demands. It should not be read as predicting which individual farmer will change enterprise or which exact parcel will convert.\nThat distinction is itself useful. Good modelling starts by matching resolution to the decision being studied.\nThe repository is therefore worth exploring less as a piece of code to copy than as an example of research architecture: modular scenarios, explicit assumptions, documented dependencies, reproducible data preparation and outputs that can be traced back to the model. Those practices travel well across modelling traditions."
   },
   {
-    "objectID": "research/index.html#current-work",
-    "href": "research/index.html#current-work",
-    "title": "Research",
-    "section": "Current work",
-    "text": "Current work\nGOBLIN-Spatial\nSpatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.\nBioLand-US\nA U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.\nIFT-BioSim\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
+    "objectID": "blog/posts/2026-09-22-useful-github-magpie/index.html#further-reading",
+    "href": "blog/posts/2026-09-22-useful-github-magpie/index.html#further-reading",
+    "title": "Useful GitHub: MAgPIE and the discipline of open land-system modelling",
+    "section": "Further reading",
+    "text": "Further reading\n\nMAgPIE repository\nMAgPIE tutorials\nFramework description in Geoscientific Model Development"
   },
   {
-    "objectID": "research/index.html#methods",
-    "href": "research/index.html#methods",
-    "title": "Research",
-    "section": "Methods",
-    "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
+    "objectID": "projects/ift-biosim/index.html",
+    "href": "projects/ift-biosim/index.html",
+    "title": "IFT-BioSim",
+    "section": "",
+    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
   },
   {
-    "objectID": "research/index.html#selected-publications",
-    "href": "research/index.html#selected-publications",
-    "title": "Research",
-    "section": "Selected publications",
-    "text": "Selected publications\n\nProspect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries. Renewable Energy (2024). DOI\nSustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions. Sustainable Development (2024). DOI\nSynthesizing the role of technological innovation on sustainable development and climate action: Does governance play a role in sub-Saharan Africa? Environmental Development (2023). DOI\nExploring new antecedent metrics for safety performance in Ghana’s oil and gas industry using partial least squares structural equation modelling (PLS-SEM). Resources Policy (2023). DOI\nImpact of Covid-19 on environmental sustainability: A bibliometric analysis. Sustainable Development (2023). DOI\nTaking stock of business strategy and environment (sustainable development): evidence of disparities in research efforts and knowledge gaps — a bibliometric review. Environmental Science and Pollution Research (2023). DOI\n\nFor the complete record, see Google Scholar or ORCID."
+    "objectID": "projects/ift-biosim/index.html#the-question",
+    "href": "projects/ift-biosim/index.html#the-question",
+    "title": "IFT-BioSim",
+    "section": "",
+    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
   },
   {
-    "objectID": "research/index.html#code",
-    "href": "research/index.html#code",
-    "title": "Research",
-    "section": "Code",
-    "text": "Code\nPublic and selected research repositories are available on GitHub."
+    "objectID": "projects/ift-biosim/index.html#what-the-model-represents",
+    "href": "projects/ift-biosim/index.html#what-the-model-represents",
+    "title": "IFT-BioSim",
+    "section": "What the model represents",
+    "text": "What the model represents\nThe framework links:\n\nfarm structure and livestock adjustment;\nopportunity costs;\nparticipation decisions;\nincome and distributional effects;\nland reallocation; and\nalternative transition-support rules."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#why-it-matters",
+    "href": "projects/ift-biosim/index.html#why-it-matters",
+    "title": "IFT-BioSim",
+    "section": "Why it matters",
+    "text": "Why it matters\nA technically feasible national pathway does not reveal how costly the transition may be for particular farms. IFT-BioSim is designed to make that distribution visible and to test whether alternative compensation or incentive designs change the burden."
+  },
+  {
+    "objectID": "projects/ift-biosim/index.html#status",
+    "href": "projects/ift-biosim/index.html#status",
+    "title": "IFT-BioSim",
+    "section": "Status",
+    "text": "Status\nThe framework is under active development. Results are not posted here until they are ready for public release."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html",
+    "href": "projects/bioland-us/index.html",
+    "title": "BioLand-US",
+    "section": "",
+    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#the-question",
+    "href": "projects/bioland-us/index.html#the-question",
+    "title": "BioLand-US",
+    "section": "",
+    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#scientific-logic",
+    "href": "projects/bioland-us/index.html#scientific-logic",
+    "title": "BioLand-US",
+    "section": "Scientific logic",
+    "text": "Scientific logic\nThe framework keeps four quantities distinct:\n\n\n\n\n\nflowchart TD\n    A[\"Techno-economic biomass allocation\"] --&gt; B[\"Compatible agricultural land\"]\n    B --&gt; C[\"Contractually accessible land\"]\n    C --&gt; D[\"Prospectively mobilised biomass\"]\n\n\n\n\n\n\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#evidence",
+    "href": "projects/bioland-us/index.html#evidence",
+    "title": "BioLand-US",
+    "section": "Evidence",
+    "text": "Evidence\nThe model combines:\n\nPOLYSYS biomass allocation from the 2023 Billion-Ton analysis;\n2022 U.S. Census of Agriculture land data;\ncounty cash-rent context;\nexperimental evidence on landholder contract participation; and\ncounty-level spatial matching."
+  },
+  {
+    "objectID": "projects/bioland-us/index.html#reproducibility",
+    "href": "projects/bioland-us/index.html#reproducibility",
+    "title": "BioLand-US",
+    "section": "Reproducibility",
+    "text": "Reproducibility\nThe public repository contains the code, frozen non-disclosive behavioural parameters, data-access documentation, verification scripts and manuscript-facing outputs while respecting restrictions on respondent-level records.\nView the public GitHub repository →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.\n\n\nWriting About Research Contact\n\n\n\n\n\n\nLatest writing\n\nAll writing →\n\n\n\n\n\n\n\n\n\n\n\nUseful GitHub: MAgPIE and the discipline of open land-system modelling\n\n\nWhat the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI is becoming ordinary. The evidence about its effects is not there yet\n\n\nAs generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen environmental policy needs a landscape, not just a farm\n\n\nIreland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Selected research projects. These pages remain available from the Research section rather than the main navigation.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nWhere nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nHow compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.\n\n\n\n\n\nFarm-level modelling · Ireland\n\n\n\nIFT-BioSim\n\n\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
   },
   {
     "objectID": "projects/goblin-spatial/index.html",
@@ -105,88 +175,60 @@
     "text": "Public status\nThe model architecture and methodological logic are public. Manuscript-facing findings and figures are added only when they are ready for public release."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Selected research projects. These pages remain available from the Research section rather than the main navigation.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nWhere nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nHow compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.\n\n\n\n\n\nFarm-level modelling · Ireland\n\n\n\nIFT-BioSim\n\n\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
+    "text": "My research asks a distributional question:\nI use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "research/index.html#current-work",
+    "href": "research/index.html#current-work",
+    "title": "Research",
+    "section": "Current work",
+    "text": "Current work\nGOBLIN-Spatial\nSpatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.\nBioLand-US\nA U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.\nIFT-BioSim\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
+  },
+  {
+    "objectID": "research/index.html#methods",
+    "href": "research/index.html#methods",
+    "title": "Research",
+    "section": "Methods",
+    "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
+  },
+  {
+    "objectID": "research/index.html#selected-publications",
+    "href": "research/index.html#selected-publications",
+    "title": "Research",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nProspect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries. Renewable Energy (2024). DOI\nSustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions. Sustainable Development (2024). DOI\nSynthesizing the role of technological innovation on sustainable development and climate action: Does governance play a role in sub-Saharan Africa? Environmental Development (2023). DOI\nExploring new antecedent metrics for safety performance in Ghana’s oil and gas industry using partial least squares structural equation modelling (PLS-SEM). Resources Policy (2023). DOI\nImpact of Covid-19 on environmental sustainability: A bibliometric analysis. Sustainable Development (2023). DOI\nTaking stock of business strategy and environment (sustainable development): evidence of disparities in research efforts and knowledge gaps — a bibliometric review. Environmental Science and Pollution Research (2023). DOI\n\nFor the complete record, see Google Scholar or ORCID."
+  },
+  {
+    "objectID": "research/index.html#code",
+    "href": "research/index.html#code",
+    "title": "Research",
+    "section": "Code",
+    "text": "Code\nPublic and selected research repositories are available on GitHub."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "EKO Perspectives",
     "section": "",
-    "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.\n\n\nWriting About Research Contact\n\n\n\n\n\n\nLatest writing\n\nAll writing →\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
+    "text": "EKO Perspectives is the writing side of this site: essays and notes on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUseful GitHub: MAgPIE and the discipline of open land-system modelling\n\n\n\nScience & Technology\n\nLand & Agriculture\n\n\n\nWhat the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI is becoming ordinary. The evidence about its effects is not there yet\n\n\n\nScience & Technology\n\nEconomics & Evidence\n\n\n\nAs generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen environmental policy needs a landscape, not just a farm\n\n\n\nLand & Agriculture\n\nPolicy\n\n\n\nIreland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\n\nPolicy\n\nPersonal & Ideas\n\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\n\nEconomics & Evidence\n\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/bioland-us/index.html",
-    "href": "projects/bioland-us/index.html",
-    "title": "BioLand-US",
+    "objectID": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
+    "href": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
+    "title": "AI is becoming ordinary. The evidence about its effects is not there yet",
     "section": "",
-    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
+    "text": "The most important question about artificial intelligence may soon stop being what the systems can do. It may become what repeated use does to people.\nThat shift is already visible in education. Generative AI has moved from novelty to ordinary infrastructure remarkably quickly. Students can use it to explain a difficult concept, critique an essay, generate practice questions or simply produce an answer. Those uses are not equivalent, yet public debate often compresses them into a single question: is AI good or bad for learning?\nRecent developments suggest a more useful phase of research is beginning.\nOn 8 September 2026, OpenAI announced a $5 million programme for independent research on how generative AI affects people aged 13 to 17. The proposed research areas include emotional development, relationships, patterns of use, safeguards, AI literacy and differences across cultural and socioeconomic settings. The programme explicitly invites experimental, observational, qualitative and mixed-method work.\nThe announcement is notable not because company-funded research can settle the question. It cannot. OpenAI has an obvious institutional interest in how evidence about its technology develops, which makes disclosure, independence, publication and replication particularly important. The programme itself acknowledges this by including independence and conflicts disclosure among its review criteria and by encouraging public dissemination of findings.\nWhat matters is the research question it reflects. “AI use” is too broad an exposure to be scientifically satisfying.\nImagine two students who each spend thirty minutes with the same model. One asks it to solve a problem and copies the answer. The other attempts the problem first, asks the model to identify weaknesses, challenges its explanation and revises the work. Recording both as thirty minutes of AI use would hide the mechanism that actually interests us.\nThe same difficulty appears in emerging evidence on educational outcomes. A 2026 meta-analysis in Humanities and Social Sciences Communications reported generally positive pooled effects of generative-AI-supported approaches on outcomes including academic achievement, higher-order thinking and writing. That is useful evidence, but meta-analysis does not make heterogeneity disappear. Effects can depend on the intervention, subject, learner, comparison group, study quality and the way the AI is incorporated into teaching.\nThere is also a measurement problem created by the speed of the technology itself. A study designed around one generation of models can be published into a world of more capable systems. Interfaces, safeguards and user behaviour change too. Evidence can therefore age unusually quickly even when the underlying study was rigorous.\nFor universities and schools, this argues against two easy responses. One is prohibition based on the assumption that every use substitutes for thinking. The other is adoption based on the assumption that access automatically improves learning. Both jump ahead of the evidence.\nA better approach is to specify the outcome and the mechanism. Are we interested in exam performance, retention six months later, writing quality, confidence, critical reasoning, time saved, social interaction or dependence on external assistance? Does AI provide feedback after an attempt, or replace the attempt? Are gains concentrated among students who already know how to evaluate an answer? Do effects persist when the tool is removed?\nThose are less dramatic questions than asking whether AI will transform education. They are also more answerable.\nThe broader lesson extends beyond classrooms. As AI becomes embedded in research, public services and professional work, capability benchmarks will tell us only part of what we need to know. A system can perform impressively in isolation while producing ambiguous effects once humans reorganise their behaviour around it.\nThe next frontier of AI research is therefore partly social science: not merely measuring the machine, but measuring the human-machine system that forms around it."
   },
   {
-    "objectID": "projects/bioland-us/index.html#the-question",
-    "href": "projects/bioland-us/index.html#the-question",
-    "title": "BioLand-US",
-    "section": "",
-    "text": "BioLand-US asks a practical implementation question:\n\nWhen a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?\n\nThe model does not replace or re-optimise the upstream resource allocation. It adds an explicit implementation layer."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#scientific-logic",
-    "href": "projects/bioland-us/index.html#scientific-logic",
-    "title": "BioLand-US",
-    "section": "Scientific logic",
-    "text": "Scientific logic\nThe framework keeps four quantities distinct:\n\n\n\n\n\nflowchart TD\n    A[\"Techno-economic biomass allocation\"] --&gt; B[\"Compatible agricultural land\"]\n    B --&gt; C[\"Contractually accessible land\"]\n    C --&gt; D[\"Prospectively mobilised biomass\"]\n\n\n\n\n\n\nThis makes it possible to distinguish technical allocation from land compatibility and actual access through voluntary contracts."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#evidence",
-    "href": "projects/bioland-us/index.html#evidence",
-    "title": "BioLand-US",
-    "section": "Evidence",
-    "text": "Evidence\nThe model combines:\n\nPOLYSYS biomass allocation from the 2023 Billion-Ton analysis;\n2022 U.S. Census of Agriculture land data;\ncounty cash-rent context;\nexperimental evidence on landholder contract participation; and\ncounty-level spatial matching."
-  },
-  {
-    "objectID": "projects/bioland-us/index.html#reproducibility",
-    "href": "projects/bioland-us/index.html#reproducibility",
-    "title": "BioLand-US",
-    "section": "Reproducibility",
-    "text": "Reproducibility\nThe public repository contains the code, frozen non-disclosive behavioural parameters, data-access documentation, verification scripts and manuscript-facing outputs while respecting restrictions on respondent-level records.\nView the public GitHub repository →"
-  },
-  {
-    "objectID": "projects/ift-biosim/index.html",
-    "href": "projects/ift-biosim/index.html",
-    "title": "IFT-BioSim",
-    "section": "",
-    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
-  },
-  {
-    "objectID": "projects/ift-biosim/index.html#the-question",
-    "href": "projects/ift-biosim/index.html#the-question",
-    "title": "IFT-BioSim",
-    "section": "",
-    "text": "IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.\nIt focuses on who bears adjustment, who responds, and how policy design changes incidence."
-  },
-  {
-    "objectID": "projects/ift-biosim/index.html#what-the-model-represents",
-    "href": "projects/ift-biosim/index.html#what-the-model-represents",
-    "title": "IFT-BioSim",
-    "section": "What the model represents",
-    "text": "What the model represents\nThe framework links:\n\nfarm structure and livestock adjustment;\nopportunity costs;\nparticipation decisions;\nincome and distributional effects;\nland reallocation; and\nalternative transition-support rules."
-  },
-  {
-    "objectID": "projects/ift-biosim/index.html#why-it-matters",
-    "href": "projects/ift-biosim/index.html#why-it-matters",
-    "title": "IFT-BioSim",
-    "section": "Why it matters",
-    "text": "Why it matters\nA technically feasible national pathway does not reveal how costly the transition may be for particular farms. IFT-BioSim is designed to make that distribution visible and to test whether alternative compensation or incentive designs change the burden."
-  },
-  {
-    "objectID": "projects/ift-biosim/index.html#status",
-    "href": "projects/ift-biosim/index.html#status",
-    "title": "IFT-BioSim",
-    "section": "Status",
-    "text": "Status\nThe framework is under active development. Results are not posted here until they are ready for public release."
+    "objectID": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html#further-reading",
+    "href": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html#further-reading",
+    "title": "AI is becoming ordinary. The evidence about its effects is not there yet",
+    "section": "Further reading",
+    "text": "Further reading\n\nOpenAI: research grants on AI and teen development, 8 September 2026\nGenerative AI technologies and educational outcomes: a comprehensive meta-analysis"
   },
   {
     "objectID": "blog/posts/2026-09-22-fusion-foresight/index.html",
