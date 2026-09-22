@@ -26,6 +26,12 @@ I work within the wider FUSION and FORESIGHT modelling environment at the Univer
 
 Before moving to Ireland, I completed an **MSc in Management Science and Engineering in China**. My earlier research ranged across sustainability, energy, development and environmental policy, and that broader background still shapes what I choose to write about here.
 
+## Editorial standards
+
+**EKO Perspectives** is a personal publication. I use public sources wherever possible and link directly to the evidence behind factual claims. I do not publish confidential, restricted, unpublished or under-review research results belonging to me or collaborators.
+
+Where an affiliation, funder or research relationship is relevant to a post, I disclose it. If I make a substantive correction after publication, I note the correction and the date on the post. These standards are intended to keep the distinction clear between public evidence, my interpretation and work that is not yet public.
+
 ## Elsewhere
 
 [GitHub](https://github.com/ElvisKwameOfori123) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) · [Facebook](https://www.facebook.com/kwameofori123) · [Email](mailto:e.ofori1@universityofgalway.ie)
