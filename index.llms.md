@@ -14,6 +14,14 @@ I am Ghanaian, spent several years in China for graduate study, and now live and
 
 [Writing](blog/) [About](about.llms.md) [Research](research/) [Contact](contact.llms.md)
 
+## Start here
+
+Two pieces that show what EKO Perspectives is about.
+
+[Economics & Evidence **When the future is outside the data** Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.](blog/posts/2026-09-22-econometrics-to-scenario-thinking/)
+
+[Land & Agriculture · Policy **When environmental policy needs a landscape, not just a farm** Why some environmental problems need coordination beyond individual holdings.](blog/posts/2026-09-22-acres-landscape-actions/)
+
 ## Latest from EKO Perspectives
 
 [EKO Perspectives →](blog/)
