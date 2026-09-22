@@ -35,7 +35,7 @@ website:
   page-footer:
     left: "© Elvis Kwame Ofori"
     center: "Personal website"
-    right: "[ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)"
+    right: "[Email](mailto:e.ofori1@universityofgalway.ie) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)"
 
 format:
   html:
