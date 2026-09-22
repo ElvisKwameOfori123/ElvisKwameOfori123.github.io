@@ -1,19 +1,153 @@
 ---
+pagetitle: "Elvis Kwame Ofori"
+description: "Agricultural, land-use and policy modeller working across economic, spatial, behavioural and computational methods."
 toc: false
 page-layout: full
 ---
 
-::: {.hero}
-<div class="hero-kicker">Research · Models · Writing</div>
+<div class="home-wrap">
 
-# Elvis Kwame Ofori
+<div class="home-hero">
+<div class="hero-copy">
 
-I am a PhD Researcher and Research Assistant at the University of Galway, working across agricultural economics, land-use modelling, climate and environmental policy, and quantitative decision support.
+<div class="eyebrow">University of Galway · Ryan Institute</div>
 
-I develop economic, spatial, behavioural and computational models to examine how agricultural, land-use and bioenergy policies move from national objectives to real production systems and places: where adjustment occurs, who and what is exposed, which alternatives are feasible, and how different policy designs may perform before major decisions are locked in.
+<h1>Elvis Kwame Ofori</h1>
 
-<div class="hero-links">
-[Explore research](research/index.qmd)
-[View projects](projects/index.qmd)
-[Read the blog](blog/index.qmd)
+<p class="hero-role">Agricultural, land-use and policy modeller</p>
+
+<p class="hero-lead">I develop economic, spatial, behavioural and computational models to understand how climate, agricultural, land-use and bioenergy policies move from national objectives to real production systems, farms and places.</p>
+
+<p class="hero-lead">My work asks where adjustment occurs, who and what is exposed, which alternatives are feasible, and how policy design changes implementation outcomes.</p>
+
+<div class="hero-actions">
+<a class="primary" href="research/">Research</a>
+<a class="secondary" href="projects/">Projects & models</a>
+<a class="secondary" href="blog/">Blog</a>
+</div>
+
+</div>
+
+<div class="hero-portrait">
+<img src="https://avatars.githubusercontent.com/u/113311989?v=4" alt="Elvis Kwame Ofori">
+<div class="hero-caption">PhD Researcher & Research Assistant<br>Plant & AgriBiosciences · University of Galway</div>
+</div>
+</div>
+
+<section class="home-section">
+<div class="section-heading">
+<div class="section-label">Research</div>
+<h2>From national targets to the economics and geography of implementation.</h2>
+</div>
+
+<p class="research-statement">A national pathway can be technically feasible and still be difficult to implement locally. My research connects aggregate targets with heterogeneous farms, production systems, land resources and places so that policy design can be tested before major decisions are locked in.</p>
+</section>
+
+<section class="home-section">
+<div class="section-heading">
+<div class="section-label">Selected work</div>
+<h2>Models and research projects</h2>
+</div>
+
+<div class="project-list">
+
+<div class="project-row">
+<div class="project-number">01</div>
+<div class="project-main">
+<h3><a href="projects/goblin-spatial/">GOBLIN-Spatial</a></h3>
+<p>Spatial foresight for agricultural transition incidence, response potential, land opportunity and local implementation constraints.</p>
+</div>
+<div class="project-meta">Ireland<br>Spatial modelling</div>
+</div>
+
+<div class="project-row">
+<div class="project-number">02</div>
+<div class="project-main">
+<h3><a href="projects/agrisyn/">AGRISYN</a></h3>
+<p>Synthetic farm populations that reconstruct within-area agricultural heterogeneity while preserving national and local controls.</p>
+</div>
+<div class="project-meta">Ireland<br>Synthetic populations</div>
+</div>
+
+<div class="project-row">
+<div class="project-number">03</div>
+<div class="project-main">
+<h3><a href="projects/ift-biosim/">IFT-BioSim</a></h3>
+<p>Farm-level transition bioeconomic microsimulation for heterogeneous opportunity costs, participation and policy design.</p>
+</div>
+<div class="project-meta">Ireland<br>Microsimulation</div>
+</div>
+
+<div class="project-row">
+<div class="project-number">04</div>
+<div class="project-main">
+<h3><a href="projects/bioland-us/">BioLand-US</a></h3>
+<p>Prospective U.S. perennial-biomass mobilisation after compatible land and voluntary contractual access are made explicit.</p>
+</div>
+<div class="project-meta">United States<br>Bioenergy</div>
+</div>
+
+<div class="project-row">
+<div class="project-number">05</div>
+<div class="project-main">
+<h3><a href="projects/e-seat/">E-SEAT</a></h3>
+<p>County-level analysis of ethanol-demand exposure and structural land-use persistence across the U.S. Corn Belt.</p>
+</div>
+<div class="project-meta">United States<br>Econometrics</div>
+</div>
+
+</div>
+</section>
+
+<section class="home-section">
+<div class="section-heading">
+<div class="section-label">Methods</div>
+<h2>Quantitative work across scales</h2>
+</div>
+
+<div class="method-strip">
+<span>Econometrics</span>
+<span>Microsimulation</span>
+<span>Spatial modelling</span>
+<span>Synthetic populations</span>
+<span>Optimisation</span>
+<span>Scenario analysis</span>
+<span>AFOLU modelling</span>
+<span>Bioenergy economics</span>
+<span>Python</span>
+<span>R</span>
+<span>Stata</span>
+<span>GIS</span>
+<span>SQL</span>
+</div>
+</section>
+
+<section class="home-section">
+<div class="section-heading">
+<div class="section-label">Writing</div>
+<h2>A general blog, not another academic filing cabinet.</h2>
+</div>
+
+<div class="writing-panel">
+<div>
+<a class="big-link" href="blog/">Notes, arguments, methods, technology, economics, books, data and whatever else I find worth writing about →</a>
+</div>
+<div class="writing-note">
+The formal research record lives under Research, Projects and Publications. The Blog stays intentionally broad.
+</div>
+</div>
+</section>
+
+<section class="home-section">
+<div class="section-heading">
+<div class="section-label">Elsewhere</div>
+<h2>Research profiles and code</h2>
+</div>
+
+[GitHub](https://github.com/ElvisKwameOfori123) ·
+[ORCID](https://orcid.org/0000-0001-5404-9078) ·
+[Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) ·
+[LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/)
+</section>
+
 </div>
