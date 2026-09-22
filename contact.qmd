@@ -4,9 +4,11 @@ description: "Contact Elvis Kwame Ofori"
 toc: false
 ---
 
-The easiest way to reach me is by email or through one of the profiles below.
+For academic, research or professional correspondence, the best way to reach me is through my University of Galway email.
 
-**Email:** [oforikwamee@gmail.com](mailto:oforikwamee@gmail.com)
+**University email:** [e.ofori1@universityofgalway.ie](mailto:e.ofori1@universityofgalway.ie)
+
+You can also find me on:
 
 [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) ·
 [GitHub](https://github.com/ElvisKwameOfori123) ·
