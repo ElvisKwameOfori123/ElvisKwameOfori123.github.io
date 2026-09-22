@@ -1,6 +1,6 @@
 ---
 title: "Writing"
-description: "Policy, science, economics, technology, places, books, research life and personal notes."
+description: "Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas."
 listing:
   contents: posts
   sort: "date desc"
@@ -13,4 +13,4 @@ page-layout: full
 toc: false
 ---
 
-<p class="page-intro">This is the centre of the site. I write about policy and public affairs, science and technology, economics, agriculture and food, Ghana and Africa, Ireland, the United States, books and ideas, personal observations, and occasionally my own research.</p>
+<p class="page-intro">This is the centre of the site. The writing is organised around six broad themes: Policy; Land & Agriculture; Economics & Evidence; Science & Technology; Places & Development; and Personal & Ideas. Individual posts may cross more than one theme, but the categories stay deliberately broad.</p>
