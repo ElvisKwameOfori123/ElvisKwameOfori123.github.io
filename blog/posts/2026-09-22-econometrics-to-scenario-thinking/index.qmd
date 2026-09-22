@@ -1,0 +1,52 @@
+---
+title: "From Econometrics to Scenario Thinking"
+description: "How my research questions changed from explaining what happened to exploring what could happen, where, and under what conditions."
+date: 2026-09-22
+categories:
+  - Research life
+  - Policy
+draft: false
+---
+
+For a long time, most of my research began with data from the past.
+
+I worked with econometric models to examine relationships, test hypotheses and understand how economic, technological and environmental variables moved together. The questions were usually backward-looking in the best sense of the term: **what happened, what was associated with what, and what can the observed data tell us?**
+
+That way of thinking is still important to me. But my PhD has gradually pushed me toward a different kind of question.
+
+Instead of asking only *what happened?*, I now spend much more time asking:
+
+**What could happen? What would have to change for it to happen? Where would those changes fall? And what would implementation look like for different people and places?**
+
+That shift sounds small, but it changes the entire research process.
+
+Econometrics usually begins with observed variation. Scenario thinking often begins with a future condition, a policy target or a set of assumptions that may never have existed in the historical data. A country may set a climate-neutrality target for 2050, for example. There is no historical dataset showing how that exact transition already happened. The researcher has to construct plausible pathways, make assumptions explicit and test what follows from them.
+
+This is where scenario modelling, foresight and backcasting become useful.
+
+Strategic foresight is not simply forecasting. The OECD describes it as a way of exploring multiple plausible futures and preparing for the opportunities and challenges they may create. The European Commission similarly emphasises that scenarios are not predictions. They are ways of thinking systematically about how different futures might unfold.
+
+Backcasting turns the direction around again. Instead of projecting today's trends forward, it starts with a future objective and asks what would have to happen between that future and the present.
+
+I find that distinction especially useful for climate, agriculture and land-use policy. A target can be clear at national level while saying very little about implementation. If livestock numbers change, where does that adjustment occur? If land is released, what can it realistically support? If a policy looks affordable in aggregate, are its costs concentrated among particular farms or regions?
+
+Those are not questions that one method can answer on its own.
+
+I have also learned that the divide between econometrics and scenario modelling is not as clean as it first appears. Econometric models can support forecasts and counterfactual scenarios, and historical evidence can discipline assumptions about future behaviour. In energy policy, researchers have long combined top-down economic models with more detailed sector or technology models because each sees something the other misses.
+
+So I do not think of my research as moving *away* from econometrics.
+
+It feels more like moving from a single window to a room with several windows.
+
+Econometrics helps me ask what the observed world can teach us. Scenario modelling asks what different future worlds might require. Spatial models ask where change would occur. Microsimulation asks how apparently uniform policies can produce very different effects across heterogeneous units.
+
+The interesting part is not choosing one of them.
+
+It is knowing which question each method is capable of answering, and where its limits begin.
+
+### Further reading
+
+- [OECD Strategic Foresight](https://www.oecd.org/en/about/programmes/strategic-foresight.html)
+- [European Commission: How do we build scenarios in a foresight exercise?](https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en)
+- [UK Government Futures Toolkit](https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts/the-futures-toolkit-html)
+- [World Bank macro-modelling and counterfactual scenario analysis](https://www.worldbank.org/en/programs/economicpolicy-macro-modeling/mfmod)
