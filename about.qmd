@@ -1,18 +1,66 @@
 ---
 title: "About"
+description: "About Elvis Kwame Ofori"
 ---
 
-This page will hold a concise biography, current role, research interests, collaborations, and contact links.
+I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences, School of Biological & Chemical Sciences, Ryan Institute, University of Galway**.
 
-The homepage stays focused on your work and writing rather than becoming a long CV.
+My research sits at the intersection of **agricultural economics, land-use modelling, environmental policy and quantitative decision support**. I develop economic, spatial, behavioural and computational modelling tools to understand how agricultural, land-use and bioenergy policies may be designed and implemented across different production systems and places.
 
-## Elsewhere
+A recurring question in my work is how to move from a national target or policy objective to the practical geography and economics of implementation. That means asking where adjustment occurs, which systems and places are affected, what the economic consequences may be, which opportunities and constraints emerge, and how alternative policy designs compare.
+
+My current research sits within the wider **FORESIGHT** and **LandingZoNES** research environment and builds on the **GOBLIN** modelling framework. Current work spans agricultural and livestock transitions, land-use change, spatial feasibility, economic exposure, heterogeneous policy response, bioenergy opportunities, and policy design and implementation.
+
+## What I work on
+
+I combine:
+
+- AFOLU and agricultural pathway modelling;
+- agricultural and environmental economics;
+- spatial reconstruction and land-use analysis;
+- behavioural and econometric modelling;
+- farm-level microsimulation;
+- synthetic populations;
+- optimisation and scenario analysis;
+- bioenergy and resource-access modelling; and
+- reproducible, version-controlled research workflows.
+
+The appropriate scale depends on the decision being studied. Some questions require national pathways, others regional or local geography, and others farm-level or individual-operation detail. My interest is in building modelling systems that can connect these levels where necessary.
+
+## Current modelling work
+
+**GOBLIN-Spatial** resolves nationally coherent agricultural and land-use pathways across local geography and tests transition incidence, response potential, spatial feasibility and flexibility.
+
+**IFT-BioSim** examines heterogeneous farm-level transition responses, opportunity costs, participation, land reallocation and transition-support design.
+
+**AGRISYN** reconstructs synthetic farm populations from agricultural and spatial controls to represent within-area farm heterogeneity.
+
+**BioLand-US** examines whether prospective U.S. perennial-biomass allocations remain accessible once compatible agricultural land and voluntary contractual participation are made explicit.
+
+**E-SEAT** studies ethanol-demand exposure and structural land-use persistence across the U.S. Corn Belt using county panel data, fixed-effects estimation and spatial backcasting.
+
+## Reproducible research
+
+I use GitHub to organise research workflows, document assumptions, preserve code and make analytical pipelines easier to inspect and reproduce.
+
+My longer-term aim is not only to publish individual analyses, but to develop **reusable modelling and decision-support infrastructure**: documented code, synthetic datasets, scenario controls, worked examples, validation checks and versioned model releases that other researchers and analysts can inspect, reproduce and extend.
+
+Where underlying data are confidential or access-restricted, I do not redistribute protected microdata. Instead, public repositories can provide model scripts, data-access notes, assumptions, validation checks, scenario controls and instructions for authorised reproduction.
+
+## Background
+
+My academic background spans **Plant & AgriBiosciences, management science, agricultural and environmental economics, econometric modelling, spatial analysis and sustainability policy**.
+
+I hold an **MSc in Management Science and Engineering**, completed in China, and currently undertake doctoral research at the University of Galway.
+
+## Connect
 
 - [GitHub](https://github.com/ElvisKwameOfori123)
-- ORCID — add your link
-- Google Scholar — add your link
-- LinkedIn — add your link
+- [ORCID](https://orcid.org/0000-0001-5404-9078)
+- [Google Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/)
+- [Email](mailto:oforikwamee@gmail.com)
 
-## Site philosophy
+## Disclaimer
 
-This site is owned and maintained through plain-text files in GitHub. Research and publications are structured separately from the general Blog so the Blog can remain broad and personal.
+This is my personal website. Views, findings and conclusions expressed here and in associated repositories are my own and should not be interpreted as representing the official position of my university, employers, funders, data providers, supervisors or collaborators.
