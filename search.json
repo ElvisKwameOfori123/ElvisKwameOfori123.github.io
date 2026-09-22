@@ -18,7 +18,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "The Blog is intentionally general rather than tied to one research topic. Tags and categories can emerge naturally as the archive grows.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStarting this site\n\n\n\nNotes\n\nWebsite\n\n\n\nA short note on what I want this website to become.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
+    "text": "This is intentionally a general blog. Research may appear here, but so can economics, technology, books, code, data, current affairs, observations, methods and ideas that have nothing to do with my formal research agenda.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStarting this site\n\n\n\nNotes\n\nWebsite\n\n\n\nA short note on what I want this website to become.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html",
@@ -172,7 +172,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "The projects below connect formal research questions with reusable modelling workflows, code, data documentation and reproducibility materials.\n\n\nGOBLIN-Spatial\nA constraint-preserving spatial foresight framework for agricultural transition incidence, response potential and land-system transformability.\nOpen project →\n\n\nAGRISYN\nSynthetic farm populations for reconstructing within-area agricultural heterogeneity from agricultural and spatial controls.\nOpen project →\n\n\nIFT-BioSim\nFarm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.\nOpen project →\n\n\nBioLand-US\nContractual land access and prospective U.S. perennial-biomass mobilisation.\nOpen project →\n\n\nE-SEAT\nEthanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence in the U.S. Corn Belt.\nOpen project →"
+    "text": "These projects connect formal research questions with reusable modelling workflows, documented assumptions, code, data access and reproducibility materials.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nA constraint-preserving framework for agricultural transition incidence, response potential, spatial feasibility and land-system transformability.\n\n\n\n\n\nSynthetic populations · Ireland\n\n\n\nAGRISYN\n\n\nSynthetic farm populations for representing within-area agricultural heterogeneity while preserving agricultural and spatial controls.\n\n\n\n\n\nMicrosimulation · Ireland\n\n\n\nIFT-BioSim\n\n\nFarm-level transition bioeconomic microsimulation for heterogeneous adjustment, opportunity costs, participation and policy design.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nContractual land access and prospective U.S. perennial-biomass mobilisation, linking resource allocation with compatible land and voluntary participation.\n\n\n\n\n\nEconometrics · United States\n\n\n\nE-SEAT\n\n\nEthanol Spatial Exposure and Agricultural Transition, examining fuel-market reform and structural land-use persistence across the U.S. Corn Belt."
   },
   {
     "objectID": "index.html",
@@ -291,28 +291,21 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "This first version deliberately keeps publications simple. A later iteration can generate this page automatically from BibTeX or structured YAML."
+    "text": "This page will be the formal research record: peer-reviewed articles, working papers, reports, software, datasets and linked reproducibility materials. I am adding the complete publication list from my scholarly profiles rather than publishing placeholder entries."
   },
   {
-    "objectID": "publications/index.html#peer-reviewed",
-    "href": "publications/index.html#peer-reviewed",
+    "objectID": "publications/index.html#research-profiles",
+    "href": "publications/index.html#research-profiles",
     "title": "Publications",
-    "section": "Peer-reviewed",
-    "text": "Peer-reviewed\nPaper title\nAuthors · Journal · Year\nPaper · DOI · Code · Data"
+    "section": "Research profiles",
+    "text": "Research profiles\nGoogle Scholar · ORCID · GitHub"
   },
   {
-    "objectID": "publications/index.html#working-papers",
-    "href": "publications/index.html#working-papers",
+    "objectID": "publications/index.html#how-outputs-will-be-organised",
+    "href": "publications/index.html#how-outputs-will-be-organised",
     "title": "Publications",
-    "section": "Working papers",
-    "text": "Working papers\nWorking paper title\nAuthors · Year\nPreprint · Code · Data"
-  },
-  {
-    "objectID": "publications/index.html#other-outputs",
-    "href": "publications/index.html#other-outputs",
-    "title": "Publications",
-    "section": "Other outputs",
-    "text": "Other outputs\nReports, book chapters, software papers, datasets, and methodological outputs can be listed here when relevant."
+    "section": "How outputs will be organised",
+    "text": "How outputs will be organised\nEach publication entry will connect, where available, to the article, DOI, code, data or data-access instructions, project page, figures and related talks.\nThe objective is for this page to become a navigable research archive rather than a static CV copied onto the web."
   },
   {
     "objectID": "blog/posts/2026-09-22-welcome/index.html",
