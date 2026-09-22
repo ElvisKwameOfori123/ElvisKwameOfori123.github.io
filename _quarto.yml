@@ -49,6 +49,7 @@ format:
       light: [cosmo, theme-light.scss]
       dark: [darkly, theme-dark.scss]
     css: styles-common.css
+    include-in-header: includes/head.html
     grid:
       body-width: 900px
       margin-width: 220px
