@@ -38,3 +38,8 @@ The skill is not choosing one window. It is knowing what each can show, and reco
 - [OECD: Projecting Emissions Baselines for National Climate Policy](https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf)
 - [OECD Strategic Foresight](https://www.oecd.org/en/about/programmes/strategic-foresight.html)
 - [European Commission: How do we build scenarios in a foresight exercise?](https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en)
+
+**Elvis Kwame Ofori**\
+Researcher and writer behind *EKO Perspectives*.
+
+[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)

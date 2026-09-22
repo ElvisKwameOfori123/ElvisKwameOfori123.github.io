@@ -10,9 +10,9 @@ Ghana · China · Ireland
 
 Researcher, writer and policy observer
 
-I am Ghanaian, spent several years in China for graduate study, and now live and work in Ireland. I write about public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life, and whatever else seems worth thinking through carefully.
+I write about how policy, evidence and technology shape agriculture, land use and development. This site brings together public-policy analysis, research notes and personal observations shaped by Ghana, China and Ireland.
 
-[Writing](blog/) [About](about.llms.md) [Research](research/) [Contact](contact.llms.md)
+[Read EKO Perspectives →](blog/)
 
 ## Start here
 
@@ -35,12 +35,6 @@ Sep 22, 2026
 ### [AI is becoming ordinary. The evidence about its effects is still catching up](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 
 As generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.
-
-Sep 22, 2026
-
-### [When environmental policy needs a landscape, not just a farm](blog/posts/2026-09-22-acres-landscape-actions/index.llms.md)
-
-Ireland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.
 
 Sep 22, 2026
 

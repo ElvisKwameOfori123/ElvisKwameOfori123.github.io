@@ -1216,3 +1216,141 @@ body.quarto-dark .start-here-card strong {
     padding: .95rem;
   }
 }
+
+
+/* Editorial simplification v1
+   Clear hierarchy: burgundy headings, Atlantic-blue links, neutral metadata. */
+.navbar::after {
+  background: var(--site-burgundy) !important;
+}
+
+.profile-hero::before,
+.profile-hero::after {
+  display: none !important;
+}
+
+.profile-kicker,
+.editorial-kicker,
+.latest-card .eyebrow,
+.featured-project .meta,
+.start-here-kicker {
+  color: var(--site-muted) !important;
+}
+
+.quarto-listing .category,
+body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
+  background: rgba(29,98,135,.08) !important;
+  color: var(--site-blue) !important;
+}
+
+body.quarto-dark .quarto-listing .category,
+body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
+  background: rgba(121,172,208,.12) !important;
+  color: #b8d7ec !important;
+}
+
+.nav-footer a {
+  color: #fffaf4 !important;
+}
+
+.nav-footer a:hover,
+.nav-footer a:focus-visible {
+  color: #ffffff !important;
+}
+
+.profile-links {
+  justify-content: center;
+}
+
+.profile-links a {
+  min-width: 0;
+  padding: .55rem 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--site-blue);
+}
+
+.profile-links a:hover,
+.profile-links a:focus-visible,
+body.quarto-dark .profile-links a {
+  background: transparent;
+}
+
+body.quarto-dark .profile-links a {
+  color: #b8d7ec;
+}
+
+/* Keep listing imagery inside articles, but make index pages consistently text-led. */
+.quarto-listing-default .quarto-post > .thumbnail {
+  display: none !important;
+}
+
+.quarto-listing-default .quarto-post {
+  grid-template-columns: minmax(0, 1fr) auto !important;
+  grid-template-areas: "body metadata" !important;
+}
+
+.quarto-listing-default .quarto-post > .body {
+  grid-area: body !important;
+  min-width: 0;
+}
+
+.quarto-listing-default .quarto-post > .metadata {
+  grid-area: metadata !important;
+}
+
+/* Consistent article ending */
+.post-end {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--site-line);
+  color: var(--site-muted);
+  font-size: .94rem;
+}
+
+.post-end p {
+  margin-bottom: .55rem;
+}
+
+.post-end strong {
+  color: var(--site-heading);
+  font-family: "Montserrat", sans-serif;
+}
+
+@media (max-width: 760px) {
+  .profile-hero {
+    text-align: left;
+  }
+
+  .profile-photo {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .profile-lead {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .profile-links {
+    justify-content: flex-start;
+  }
+
+  .quarto-title-block .title {
+    font-size: clamp(1.55rem, 7.4vw, 1.95rem);
+    line-height: 1.12;
+    letter-spacing: -.025em;
+  }
+
+  .quarto-listing-default .quarto-post {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "body"
+      "metadata" !important;
+  }
+
+  .post-end {
+    margin-top: 2rem;
+  }
+}

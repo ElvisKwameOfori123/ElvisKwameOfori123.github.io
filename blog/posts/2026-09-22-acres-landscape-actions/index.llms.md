@@ -37,3 +37,8 @@ Agricultural policy has traditionally been good at counting hectares, animals, p
 - [Department of Agriculture: ACRES](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/services/agri-climate-rural-environment-scheme-acres/)
 - [Department of Agriculture: second application window for ACRES Landscape Actions, 11 February 2026](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-announces-opening-of-second-application-window-for-acres-landscape-actions/)
 - [Budget 2026 agriculture allocations](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-secures-additional-170-million-in-budget-2026-9-increase-brings-departmental-vote-to-over-23-billion/)
+
+**Elvis Kwame Ofori**\
+Researcher and writer behind *EKO Perspectives*.
+
+[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)

@@ -33,3 +33,8 @@ This site is much broader than that work. I will write about policy, economics, 
 - [FORESIGHT project](https://fusion-research.eu/foresight.html)
 - [FUSION research group](https://fusion-research.eu/)
 - [GOBLIN package documentation](https://fusion-research.eu/goblin-package-documentation.html)
+
+**Elvis Kwame Ofori**\
+Researcher and writer behind *EKO Perspectives*.
+
+[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)

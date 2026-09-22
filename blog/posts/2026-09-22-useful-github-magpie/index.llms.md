@@ -39,3 +39,8 @@ The repository is therefore worth exploring less as a piece of code to copy than
 - [MAgPIE repository](https://github.com/magpiemodel/magpie)
 - [MAgPIE tutorials](https://magpiemodel.github.io/tutorials/)
 - [Framework description in *Geoscientific Model Development*](https://doi.org/10.5194/gmd-12-1299-2019)
+
+**Elvis Kwame Ofori**\
+Researcher and writer behind *EKO Perspectives*.
+
+[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)

@@ -42,3 +42,8 @@ The next frontier of AI research is therefore partly social science: not merely 
 
 - [OpenAI: research grants on AI and teen development, 8 September 2026](https://openai.com/index/teen-development-research-grants/)
 - [Generative AI technologies and educational outcomes: a comprehensive meta-analysis](https://www.nature.com/articles/s41599-026-06903-y)
+
+**Elvis Kwame Ofori**\
+Researcher and writer behind *EKO Perspectives*.
+
+[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)
