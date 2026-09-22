@@ -13,6 +13,7 @@ website:
   image-alt: "Elvis Kwame Ofori"
   open-graph: true
   twitter-card: true
+  llms-txt: true
   search:
     location: navbar
     type: overlay
