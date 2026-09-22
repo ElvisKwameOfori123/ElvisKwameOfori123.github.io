@@ -48,7 +48,9 @@ website:
 format:
   html:
     theme:
-      - styles.scss
+      light: [cosmo, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles-common.css
     grid:
       body-width: 900px
       margin-width: 220px
