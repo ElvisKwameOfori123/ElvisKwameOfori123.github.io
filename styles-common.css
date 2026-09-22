@@ -133,10 +133,9 @@ main.content {
 .profile-kicker {
   margin-bottom: .65rem;
   color: var(--site-soft);
-  font-size: .72rem;
+  font-size: .82rem;
   font-weight: 600;
-  letter-spacing: .12em;
-  text-transform: uppercase;
+  letter-spacing: .02em;
 }
 
 .profile-name {
@@ -229,9 +228,8 @@ main.content {
 .news-date {
   color: var(--site-soft);
   font-family: "Montserrat", sans-serif;
-  font-size: .72rem;
+  font-size: .8rem;
   font-weight: 600;
-  text-transform: uppercase;
 }
 
 .news-item p {
@@ -251,9 +249,8 @@ main.content {
 .featured-project .meta {
   margin-bottom: .2rem;
   color: var(--site-soft);
-  font-size: .68rem;
-  letter-spacing: .08em;
-  text-transform: uppercase;
+  font-size: .8rem;
+  letter-spacing: .01em;
 }
 
 .featured-project h3 {
@@ -291,9 +288,8 @@ main.content {
 
 .latest-card .eyebrow {
   color: var(--site-soft);
-  font-size: .68rem;
-  letter-spacing: .08em;
-  text-transform: uppercase;
+  font-size: .8rem;
+  letter-spacing: .01em;
 }
 
 .latest-card h3 {
@@ -349,9 +345,8 @@ main.content {
 
 .editorial-kicker {
   color: var(--site-soft);
-  font-size: .7rem;
-  letter-spacing: .07em;
-  text-transform: uppercase;
+  font-size: .8rem;
+  letter-spacing: .01em;
 }
 
 .editorial-item h3 {
@@ -472,4 +467,26 @@ body:not(.quarto-dark) .navbar .nav-link.active {
 
 body.quarto-dark .navbar {
   background: rgba(11,27,42,.97) !important;
+}
+
+
+/* Homepage writing feed */
+#home-writing .listing-item {
+  padding: 1.2rem 0 !important;
+  border-bottom: 1px solid var(--site-line) !important;
+}
+#home-writing .listing-title,
+#home-writing .listing-title a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.08rem;
+  color: var(--site-heading) !important;
+  text-decoration: none;
+}
+#home-writing .listing-description {
+  color: var(--site-muted) !important;
+  max-width: 720px;
+}
+#home-writing .listing-date,
+#home-writing .listing-categories {
+  font-size: .82rem;
 }
