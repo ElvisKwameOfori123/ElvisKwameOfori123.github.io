@@ -27,3 +27,5 @@ I still find econometric evidence indispensable here. If a scenario assumes that
 There is an older distinction in climate policy between top-down economic models and bottom-up technology or sector models. An [OECD paper on emissions baselines](https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf) puts the difference fairly plainly: the first gives you economy-wide coherence, while the second can give you much more detail about technologies and sectors. I increasingly think the same way about the mix of methods I use. Econometrics tells me what observed variation can teach me. Scenario models let me ask what a different future would require. Spatial models force the question of where the change lands. Microsimulation makes it harder to forget that thousands of farms facing the same policy may not respond in the same way.
 
 I have not found a single method that does all of this particularly well. I am no longer sure I would want one to.
+
+{{< include /includes/_post-end.qmd >}}
