@@ -1,0 +1,42 @@
+---
+title: "A synthetic population is not useful just because it looks real"
+description: "Spatial microsimulation can reconstruct detailed small-area populations, but the harder question is how we know whether those synthetic populations are good enough for the decisions built on them."
+date: 2026-09-23
+draft: true
+categories:
+  - Economics & Evidence
+  - Science & Technology
+---
+
+Suppose a dataset tells us how many people live in each district, while a survey tells us much more about individuals but cannot identify every small place reliably. We want both things at once: local geography and individual detail. Spatial microsimulation is one way of trying to build that bridge.
+
+The basic idea is less mysterious than the name suggests. Researchers begin with microdata containing detailed records of people, households, farms or other units. They also have aggregate information for small geographic areas, such as counts by age, employment, household type or another characteristic. An algorithm then reweights, selects or constructs micro-level records so that the synthetic population resembles the known totals in each area.
+
+This can be extremely useful. A national average may conceal large local differences, while confidential microdata often cannot simply be mapped. A synthetic population can provide a working representation of who or what is likely to be located where, allowing policy models to ask questions at a scale closer to implementation.
+
+But matching the inputs is only the beginning.
+
+Imagine that a model is instructed to reproduce a district's population by age and sex. It may match those totals almost perfectly while still getting the relationship between income, health, employment and household structure wrong. The synthetic data can therefore look convincing on the variables used to construct it and still perform poorly on variables that matter for the eventual policy question.
+
+This is why validation is not a decorative final step. It is part of the model.
+
+A useful recent example comes from public health. In August 2026, Emma Von Hoene and colleagues published an evaluation of SHAPE, a spatial microsimulation framework for small-area health estimation. Their framework uses hierarchical iterative proportional fitting to estimate two health-risk behaviours and eleven health outcomes. They evaluated it using data for New York and Florida, comparing synthetic estimates with direct county estimates from the Behavioral Risk Factor Surveillance System and model-based estimates from CDC PLACES.
+
+The results are instructive precisely because they are not perfect. The authors report that performance varied across locations, spatial scales and outcomes. Average consistency with direct estimates was moderate, at roughly 0.54 by their reported correlation measure, compared with roughly 0.66 for CDC PLACES. SHAPE aligned more strongly with CDC PLACES, with average correlations of about 0.81 at county level and 0.74 at census-tract level.
+
+Those numbers should not be read as a universal score for spatial microsimulation. They belong to one framework, particular outcomes, specific datasets and two U.S. states. Their value is methodological. The paper demonstrates the importance of evaluating a synthetic population against information that was not merely forced into the construction process.
+
+For general readers, three validation questions are worth keeping in mind. First, does the synthetic population reproduce the totals it was designed to match? Second, does it preserve relationships between characteristics that matter for the intended analysis? Third, when independent observations exist, does the model reproduce patterns it was not explicitly told to reproduce?
+
+There is a fourth question that is often neglected: does an error matter for the decision being studied? A small mismatch in one characteristic may be inconsequential for one policy and decisive for another. A synthetic population built to study access to hospitals needs different strengths from one designed to estimate household tax burdens or agricultural land-use responses.
+
+This changes how we should think about synthetic data. The aim is not to manufacture a miniature world that is indistinguishable from reality. That standard is impossible. The aim is to create a transparent representation that preserves the features necessary for a particular analytical purpose, while making its weaknesses visible.
+
+Good microsimulation therefore requires a certain modesty. More detail can produce better questions, but detail alone does not produce truth. The credibility comes from knowing what was constrained, what was predicted, what was independently checked and where the representation begins to fail.
+
+## Further reading
+
+- [Von Hoene et al. (2026), *Evaluation of a spatial microsimulation framework for small-area estimation of population health outcomes using the Behavioral Risk Factor Surveillance System*](https://doi.org/10.1186/s12942-026-00485-3)
+- [Article page, *International Journal of Health Geographics*](https://link.springer.com/article/10.1186/s12942-026-00485-3)
+
+{{< include /includes/_post-end.qmd >}}
