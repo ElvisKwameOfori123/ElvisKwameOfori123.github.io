@@ -14,25 +14,19 @@ September 22, 2026
 
 *FORESIGHT project illustration*, [FUSION, University of Galway](https://fusion-research.eu/foresight.html), used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-A personal website makes it easy to write as though ideas arrive from nowhere. They do not. The questions I ask, the models I use and the policy problems I encounter are shaped partly by the research environment in which I work.
+I thought it was worth putting the institutional background to my PhD somewhere on this site, partly because I expect to write about Irish agriculture and climate policy here and I do not want the work to appear as though it comes from nowhere.
 
-I am doing my PhD within **FUSION**, the FUture Sustainable economy Integrated mOdelling Network at the University of Galway. The group brings together work in life-cycle assessment, integrated assessment, land-use modelling and environmental software. What I find useful about that mix is that an agricultural or climate problem does not have to remain inside one disciplinary box.
+I am doing the PhD within [FUSION, the FUture Sustainable economy Integrated mOdelling Network](https://fusion-research.eu/) at the University of Galway. The group works across life-cycle assessment, integrated assessment, land-use modelling and environmental software. In practice that means a question about agriculture does not have to stay inside an agricultural model. It can lead into forestry, energy, emissions accounting, land allocation or another part of the system.
 
-Much of my PhD also connects to **FORESIGHT**, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. The project is led by FUSION with the University of Limerick and FERS Ltd.
+Much of my work also sits alongside [FORESIGHT](https://fusion-research.eu/foresight.html), a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. FUSION leads the project with the University of Limerick and FERS Ltd. That relationship matters for this website. When I write about Irish climate, agriculture or land-use policy, readers should know that I work inside a government-funded modelling programme connected to those subjects. The views here are my own and do not represent the University of Galway, the Department, funders or collaborators.
 
-That funding relationship is worth stating plainly. I expect to write about Irish agriculture, climate and land-use policy on this site. Readers should therefore know that I work within a government-funded modelling programme connected to those questions. The views I express here are my own and do not represent the position of the University of Galway, the Department, funders or collaborators.
+One of the modelling tools in this environment is [GOBLIN](https://fusion-research.eu/goblin-package-documentation.html), which links agriculture, forestry and other land uses within a national land-balance framework. What has interested me increasingly is what happens after a national pathway has been made internally coherent. A national result can say that livestock, forestry or another land use changes by a certain amount, but eventually that change has to meet geography and farms that differ from one another.
 
-One of the main modelling tools in this environment is **GOBLIN**, which links agriculture, forestry and other land uses within a national land-balance framework. My own interests increasingly begin at the point where a national pathway has to meet geography and heterogeneous farms. A nationally coherent change may look very different when it reaches dairy, beef or other production systems in different parts of the country.
+That is where a lot of my own questions begin. The same national adjustment can look quite different when it reaches dairy, beef or other production systems in different parts of the country. A model can be perfectly consistent in aggregate and still leave difficult questions about where the transition falls, who carries it and whether the land implied by several objectives can actually fit in the same places.
 
-That is the part of the research environment I value most: models are treated as tools for interrogating difficult decisions rather than as ends in themselves. A result is more useful when its assumptions are visible, when alternatives can be tested and when the limits of what the model claims are clear.
+I like working in an environment where models are treated as things to question rather than things to admire. Assumptions should be visible enough to change, alternatives should be easy enough to test, and a result should come with some sense of what the model cannot tell us. That sounds obvious when written down. It is less obvious once a model becomes large and technically impressive.
 
-This site is much broader than that work. I will write about policy, economics, technology, Ghana, Ireland, the United States, land use, useful code and repositories, books and personal observations. But when my writing touches Irish climate or agricultural policy, this is the institutional context readers should have in mind.
-
-### Further reading
-
-- [FORESIGHT project](https://fusion-research.eu/foresight.html)
-- [FUSION research group](https://fusion-research.eu/)
-- [GOBLIN package documentation](https://fusion-research.eu/goblin-package-documentation.html)
+The site will range much more widely than my PhD. I will write about economics, technology, Ghana, Ireland, the United States, books, code and whatever else seems worth thinking through. But when a post touches Irish agriculture or climate policy, this is the background I want readers to have in mind.
 
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.

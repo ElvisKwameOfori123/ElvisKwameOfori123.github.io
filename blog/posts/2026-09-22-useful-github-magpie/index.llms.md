@@ -10,11 +10,9 @@ Published
 
 September 22, 2026
 
-Some GitHub repositories are useful because you can borrow a function. Others are useful because they reveal how a serious modelling system is organised. MAgPIE belongs to the second group.
+I was looking through the [MAgPIE repository](https://github.com/magpiemodel/magpie) because I wanted to see how a large land-system model is actually organised once it has grown beyond the scale of one paper. That turned out to be more useful than looking for a particular function. The repository is interesting because the code, configuration, documentation and scenario machinery make visible a lot of decisions that are normally hidden behind the finished results.
 
-MAgPIE, the Model of Agricultural Production and its Impact on the Environment, is an open-source framework maintained by researchers associated with the Potsdam Institute for Climate Impact Research. It models global land systems, explicitly representing agriculture and forestry and linking economic drivers to spatially explicit biophysical constraints.
-
-The basic modelling question is large: given demand for food, bioenergy and timber, technological change, production costs, crop yields, forest growth, land and water constraints, what patterns of production and land use can satisfy those demands at minimum cost?
+MAgPIE stands for the Model of Agricultural Production and its Impact on the Environment. It is an optimisation model used to study global agriculture, forestry and land-use change, with economic demand on one side and spatially explicit biophysical constraints on the other. The broad question is easy to state and difficult to solve: given demand for food, timber and bioenergy, along with yields, costs, land, water and other constraints, what pattern of production and land use can satisfy those demands at minimum cost?
 
 ![Demand and scenario assumptions and biophysical constraints enter the MAgPIE optimisation model, which produces land-use patterns, yields and production costs.](magpie-architecture.svg)
 
@@ -22,29 +20,15 @@ A simplified view of how MAgPIE turns demand and biophysical constraints into a 
 
 *Simplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.*
 
-That makes MAgPIE very different from a farm calculator or a statistical forecasting package. It is an optimisation model embedded in a wider modelling architecture. It is coupled to LPJmL, a grid-based vegetation model, and uses biophysical information at 0.5-degree resolution. Regional economic conditions and demands enter the model, while the optimisation determines land-use patterns, yields and production costs consistent with those conditions.
+What interested me first was the modularity. Large models become difficult to reason about when every assumption is buried in one script. MAgPIE separates components and lets scenario choices live in configuration rather than forcing the modeller to rewrite the model every time the question changes. That sounds like a software-engineering point, and it is, but it is also a modelling point. A model that can only be understood by the person who wrote the original script is difficult to interrogate, however sophisticated the equations are.
 
-For researchers interested in land-use policy, the repository is valuable even if they never run the full model.
+The same is true of reproducibility. The repository does not treat publishing source code as the end of the job. It documents software requirements, installation, configuration, execution and outputs, and the project maintains [tutorials](https://magpiemodel.github.io/tutorials.html) and versioned documentation around the model. There is also a clear attempt to make dependencies and data preparation part of the reproducible workflow rather than an invisible stage that happens before the “real” model starts. The underlying framework is described in [this paper in *Geoscientific Model Development*](https://doi.org/10.5194/gmd-12-1299-2019).
 
-The first lesson is modularity. Large models become difficult to audit when assumptions are buried in a single script. MAgPIE separates model components, configuration and scenario settings. New scenarios can be defined through configuration rather than by rewriting the entire model. That sounds mundane, but it is one of the differences between code that produces one paper and infrastructure that can support a research programme.
+There are practical barriers. MAgPIE is not a lightweight Python package. The core model is written in GAMS, with R used around the workflow, and running it requires software and computing resources that will put off some potential users. That is worth remembering when open-source models are discussed as though publishing the repository automatically makes the model easy to reproduce. Openness and accessibility are related, but they are not the same thing.
 
-The second lesson is reproducibility beyond code. The README does not pretend that publishing source files alone makes a model reproducible. It documents software requirements, installation, configuration, execution and outputs. The project provides tutorials, versioned documentation, a citation file and guidance for modifying the model. It also explicitly encourages model-based publications and consulting work to make source code available. The model is licensed under **GNU AGPL v3 or later**, with an additional MAgPIE licence exception documented in the repository.
+Its scale creates another useful boundary. MAgPIE can say a great deal about globally consistent land transitions and competition among food, forestry and bioenergy. It is not trying to tell us which individual farmer changes enterprise or which exact parcel converts next year. A farm microsimulation model and a global optimisation model are not competing versions of the same thing. They answer different questions.
 
-The third lesson concerns data provenance. MAgPIE’s contribution guidance says model dependencies should be publicly available where possible and warns against input data that cannot be shared. Its data-processing workflow is designed around reproducibility rather than treating data preparation as an invisible stage before the “real” modelling begins.
-
-There are important barriers. This is not a lightweight Python package that a new user can install in five minutes. The main model is written in GAMS, uses R around the workflow, and currently requires a GAMS licence with the CONOPT solver. The developers recommend substantial computing resources, including at least 16 GB of memory. For many researchers, especially those wanting a transparent teaching model or a small national application, that is a significant entry cost.
-
-Its scale also matters. A global land-system optimisation model answers different questions from a spatial microsimulation of farms or a parcel-level land allocation model. MAgPIE can explore internally consistent global transitions and competition among food, forestry and bioenergy demands. It should not be read as predicting which individual farmer will change enterprise or which exact parcel will convert.
-
-That distinction is itself useful. Good modelling starts by matching resolution to the decision being studied.
-
-The repository is therefore worth exploring less as a piece of code to copy than as an example of research architecture: modular scenarios, explicit assumptions, documented dependencies, reproducible data preparation and outputs that can be traced back to the model. Those practices travel well across modelling traditions.
-
-## Further reading
-
-- [MAgPIE repository](https://github.com/magpiemodel/magpie)
-- [MAgPIE tutorials](https://magpiemodel.github.io/tutorials.html)
-- [Framework description in *Geoscientific Model Development*](https://doi.org/10.5194/gmd-12-1299-2019)
+That is probably what I took from the repository more than anything else. I would not try to copy MAgPIE into a smaller national model. I would copy the discipline around it: keep assumptions visible, separate components cleanly, make scenario settings explicit, trace outputs back through the data pipeline, and be clear about the level at which the model can actually speak. Those habits travel rather well.
 
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.

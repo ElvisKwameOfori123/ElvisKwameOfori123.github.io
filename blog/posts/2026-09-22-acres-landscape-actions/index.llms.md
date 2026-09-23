@@ -10,9 +10,7 @@ Published
 
 September 22, 2026
 
-A field boundary can belong to one farmer while the ecological process crossing it belongs to no one. Water moves downhill. Invasive species spread. Habitats connect or fragment across property lines. A threatened species does not organise its life around a farm map.
-
-That simple mismatch is one of the harder problems in agricultural environmental policy. Governments usually pay individual landholders, because contracts, eligibility and accountability need identifiable participants. Yet many of the outcomes being purchased are partly landscape outcomes.
+I keep coming back to a fairly simple problem in agri-environment policy. The contract is usually with a farmer, but the thing the policy is trying to improve often does not stop at the farm gate. Water runs downhill. Habitats connect across holdings. Invasive species spread. A bird or pollinator has no reason to care where one parcel ends and the next begins.
 
 ![Three adjoining farm parcels are crossed by a river and a habitat corridor, showing how ecological processes extend across individual holdings.](acres-landscape.svg)
 
@@ -20,29 +18,19 @@ Farm boundaries are administrative. Water and habitat processes cross them.
 
 *Original schematic for EKO Perspectives.*
 
-Ireland’s Agri-Climate Rural Environment Scheme, or ACRES, is an interesting attempt to work across that boundary. ACRES is Ireland’s agri-environment climate scheme under its CAP Strategic Plan. The Department of Agriculture describes it as a €1.5 billion programme intended to support up to 50,000 farm families while addressing biodiversity, climate, air and water objectives. By Budget 2026, the government reported almost 54,000 participating farmers and allocated €280 million to the scheme for that year.
+Ireland’s [Agri-Climate Rural Environment Scheme, ACRES](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/services/agri-climate-rural-environment-scheme-acres/), is interesting partly because it has begun to deal with that mismatch directly. The scheme still works through individual participants, as any payment scheme has to, but its Co-operation approach allows some problems to be treated at a larger spatial scale. In February 2026 the Department opened a second application window for [Landscape Actions](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-announces-opening-of-second-application-window-for-acres-landscape-actions/), with examples including invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.
 
-The important design feature is not simply its size. ACRES combines actions on individual farms with a Co-operation approach in selected areas. In February 2026, the Department opened a second application window for what it calls Landscape Actions. These are intended to address environmental problems whose scale is larger than a single parcel. The examples given by the Department include invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.
+The scheme is large enough that the administrative experiment matters. The Department describes ACRES as a €1.5 billion programme intended to support up to 50,000 farm families, and [Budget 2026](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-secures-additional-170-million-in-budget-2026-9-increase-brings-departmental-vote-to-over-23-billion/) reported almost 54,000 participating farmers with €280 million allocated for that year. But the number of participants is not really the part I find most interesting. It is the question of scale.
 
-This matters because environmental effectiveness and administrative convenience often point to different spatial scales.
+Take water quality. A farmer can change nutrient management on one holding, but the river receives whatever happens across the catchment. Habitat connectivity is similar. Protecting one good patch may do relatively little if every neighbouring patch disappears, while several modest actions can become much more useful when they connect. The environmental outcome depends on the combination of decisions, even though each decision is made and paid for separately.
 
-Consider water quality. A farmer can change nutrient management on one holding, but the condition of a river reflects pressures accumulated across a catchment. The same logic applies to habitat connectivity. Protecting one good patch of habitat may achieve less if neighbouring patches disappear. Conversely, coordinated actions across several holdings can create an ecological result that no participant could deliver alone.
+There is a familiar economic problem hiding inside this. Some of the benefit produced on one farm spills over to other farms or to the wider public, which means the private incentive to provide it can be weaker than the social value. Agri-environment payments already try to close part of that gap. Landscape coordination adds another difficulty because the value of one participant’s action may depend on whether several other people act as well.
 
-There is also an economic problem. If environmental benefits spill beyond the farm undertaking the action, the individual farmer may have little private reason to supply the socially desirable amount. Agri-environment payments are partly a response to that gap. Landscape coordination adds another layer: it tries to align multiple private decisions with an outcome that depends on their combination.
+I do not think “landscape scale” solves this by itself. Coordination costs money and time. Someone still has to decide what the relevant landscape is, which actions make sense there, and how to judge an outcome that may also be affected by weather, soils and processes outside the farmer’s control. Results-based payments make this especially awkward because the thing being rewarded is often partly the product of management and partly the product of place.
 
-ACRES does not eliminate the difficulty. Coordination has costs. Someone has to identify the relevant landscape, decide which actions fit it, work with landholders and judge whether the intervention is succeeding. Results-based payments also raise difficult questions about how much of an observed ecological outcome can reasonably be attributed to management rather than weather, soils or other factors outside a farmer’s control.
+There is another reason to be cautious. A larger planning unit can easily become an excuse for assuming that the same intervention belongs everywhere inside it. Irish agricultural landscapes are too heterogeneous for that. The costs, production effects and environmental returns from the same action can change with soil, farm system and what is happening next door.
 
-There is a second caution. “Landscape-scale” should not become a synonym for centrally prescribing one preferred land use across a large area. Agricultural landscapes are heterogeneous. The same intervention can have different costs and environmental returns depending on soils, existing production, farm structure and what is nearby. Better coordination therefore requires better spatial evidence, not simply larger planning units.
-
-That is what makes the Irish experiment worth watching. The interesting question is not whether farm-level or landscape-level policy is superior. Both are needed. The more useful question is which environmental problem belongs at which scale.
-
-Agricultural policy has traditionally been good at counting hectares, animals, payments and participants. The next step is harder: recognising that the environmental value of a hectare can depend on what happens beyond its boundary.
-
-## Further reading
-
-- [Department of Agriculture: ACRES](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/services/agri-climate-rural-environment-scheme-acres/)
-- [Department of Agriculture: second application window for ACRES Landscape Actions, 11 February 2026](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-announces-opening-of-second-application-window-for-acres-landscape-actions/)
-- [Budget 2026 agriculture allocations](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/press-releases/minister-heydon-secures-additional-170-million-in-budget-2026-9-increase-brings-departmental-vote-to-over-23-billion/)
+So the question I am left with is not whether environmental policy should be farm-based or landscape-based. It is more specific than that: which environmental problems can sensibly be handled one holding at a time, and which ones become badly specified if we insist on doing so?
 
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.
