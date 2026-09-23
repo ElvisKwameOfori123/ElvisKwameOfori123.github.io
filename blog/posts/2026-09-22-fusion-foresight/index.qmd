@@ -2,6 +2,8 @@
 title: "Where my PhD sits: FUSION and FORESIGHT"
 description: "The modelling environment around my PhD, who supports it, and why that context matters when I write about policy."
 date: 2026-09-22
+image: "foresight1.jpg"
+image-alt: "FORESIGHT project illustration showing a pathway through a green landscape"
 categories:
   - Policy
   - Personal & Ideas

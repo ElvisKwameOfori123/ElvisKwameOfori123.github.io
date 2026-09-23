@@ -2,6 +2,8 @@
 title: "Useful GitHub: MAgPIE and the discipline of open land-system modelling"
 description: "What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly."
 date: 2026-09-22
+image: "magpie-architecture.svg"
+image-alt: "A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs"
 categories: ["Science & Technology", "Land & Agriculture"]
 ---
 
@@ -10,6 +12,10 @@ Some GitHub repositories are useful because you can borrow a function. Others ar
 MAgPIE, the Model of Agricultural Production and its Impact on the Environment, is an open-source framework maintained by researchers associated with the Potsdam Institute for Climate Impact Research. It models global land systems, explicitly representing agriculture and forestry and linking economic drivers to spatially explicit biophysical constraints.
 
 The basic modelling question is large: given demand for food, bioenergy and timber, technological change, production costs, crop yields, forest growth, land and water constraints, what patterns of production and land use can satisfy those demands at minimum cost?
+
+![A simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.](magpie-architecture.svg){fig-alt="Demand and scenario assumptions and biophysical constraints enter the MAgPIE optimisation model, which produces land-use patterns, yields and production costs." width="92%" fig-align="center"}
+
+*Simplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.*
 
 That makes MAgPIE very different from a farm calculator or a statistical forecasting package. It is an optimisation model embedded in a wider modelling architecture. It is coupled to LPJmL, a grid-based vegetation model, and uses biophysical information at 0.5-degree resolution. Regional economic conditions and demands enter the model, while the optimisation determines land-use patterns, yields and production costs consistent with those conditions.
 

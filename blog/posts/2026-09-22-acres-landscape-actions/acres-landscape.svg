@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Farm boundaries and ecological processes do not line up</title>
+<desc id="desc">Three adjacent farm parcels are crossed by a river and a habitat corridor, illustrating why water and biodiversity outcomes can depend on coordinated action across holdings.</desc>
+<rect width="1200" height="630" fill="#fffaf4"/>
+<text x="80" y="90" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#173b57">Farm boundaries and ecological processes do not line up</text>
+<line x1="80" y1="120" x2="1120" y2="120" stroke="#d7cfc6" stroke-width="2"/>
+<rect x="95" y="175" width="310" height="290" fill="#f4efe7" stroke="#68757d" stroke-width="3"/>
+<rect x="405" y="175" width="330" height="290" fill="#f8f2e8" stroke="#68757d" stroke-width="3"/>
+<rect x="735" y="175" width="370" height="290" fill="#f3eee6" stroke="#68757d" stroke-width="3"/>
+<text x="250" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#68757d">Farm A</text>
+<text x="570" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#68757d">Farm B</text>
+<text x="920" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#68757d">Farm C</text>
+<path d="M80 315 C230 245, 340 395, 500 320 S790 245, 1120 345" fill="none" stroke="#1d6287" stroke-width="18"/>
+<path d="M110 420 C300 355, 430 455, 610 390 S890 350, 1090 410" fill="none" stroke="#2f735c" stroke-width="22" opacity="0.8"/>
+<text x="860" y="290" font-family="Arial, sans-serif" font-size="20" fill="#1d6287">water</text>
+<text x="875" y="445" font-family="Arial, sans-serif" font-size="20" fill="#2f735c">habitat corridor</text>
+<line x1="405" y1="175" x2="405" y2="465" stroke="#762844" stroke-width="2" stroke-dasharray="9 8"/>
+<line x1="735" y1="175" x2="735" y2="465" stroke="#762844" stroke-width="2" stroke-dasharray="9 8"/>
+<text x="95" y="535" font-family="Georgia, serif" font-size="24" fill="#243442">Contracts stop at property lines. Water, species and habitat connections do not.</text>
+</svg>
