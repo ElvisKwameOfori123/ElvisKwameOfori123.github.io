@@ -24,3 +24,5 @@ There is a timing problem as well. The technology can change between study desig
 For universities and schools, I think this makes both the blanket ban and the blanket embrace difficult to defend from evidence alone. The useful questions are narrower. Does the system give feedback after a student has tried, or does it replace the attempt? Are we measuring exam performance, long-term retention, writing quality, confidence, critical reasoning or simply time saved? Do any gains remain when the tool is taken away? Are some students better placed than others to recognise a plausible but wrong answer?
 
 These questions are less dramatic than asking whether AI will transform education, but they can actually be studied. The same problem will probably appear outside education too. A model can perform extremely well on a benchmark while producing a much less obvious effect once people reorganise their work around it. I suspect the interesting unit of analysis will increasingly be the human-machine arrangement rather than the model on its own.
+
+{{< include /includes/_post-end.qmd >}}
