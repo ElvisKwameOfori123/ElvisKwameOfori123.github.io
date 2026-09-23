@@ -50,7 +50,7 @@ jobs:
 
           econ_dir = Path("blog/posts/2026-09-22-econometrics-to-scenario-thinking")
           econ_jpg = econ_dir / "irish-farm-field.jpg"
-          url = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Irish_Farm_Field_%2838665262%29.jpeg/1024px-Irish_Farm_Field_%2838665262%29.jpeg"
+          url = "https://upload.wikimedia.org/wikipedia/commons/d/d2/Irish_Farm_Field_%2838665262%29.jpeg"
           response = requests.get(url, timeout=60, headers={"User-Agent": "EKO-Perspectives-image-localiser/1.0"})
           response.raise_for_status()
 
