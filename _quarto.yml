@@ -42,9 +42,9 @@ website:
         href: "/blog/index.xml"
         aria-label: RSS
   page-footer:
-    left: "© Elvis Kwame Ofori"
-    center: "Views are my own · [RSS](/blog/index.xml)"
-    right: "[Email](mailto:e.ofori1@universityofgalway.ie) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)"
+    left: "© Elvis Kwame Ofori · Views are my own"
+    center: "[Privacy](/privacy.html) · [Copyright & reuse](/copyright.html) · [Accessibility](/accessibility.html) · [Editorial standards](/about.html#editorial-standards)"
+    right: "[Email](mailto:e.ofori1@universityofgalway.ie) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [RSS](/blog/index.xml)"
 
 format:
   html:
