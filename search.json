@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html",
-    "href": "blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html",
-    "title": "When the future is outside the data",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "For a long time, most of the questions I worked on began with data that had already been observed. I would estimate a relationship, test a hypothesis, worry about identification, and then ask what the result might tell us about policy. Econometrics is perfectly capable of saying something about situations that have not yet happened, of course. Much of applied economics is built around counterfactuals. But during my PhD I started running into a slightly different problem: some of the futures I was being asked to think about were much farther from the data than I was used to.\nThat distance matters. An estimated relationship is usually most convincing around the range of variation from which it was learned. Move far enough beyond that range and the regression will still give you a number, but more of the answer is now coming from the model and less from anything we have actually observed. This is not a criticism of econometrics. It is simply a boundary that becomes easier to see when the policy question is large enough.\nThe Irish Land Use Review is a good example of the kind of problem I mean. Its scenarios include substantial additional forestry and large-scale rewetting of grassland on organic soils by 2050. Those are not ordinary year-to-year movements in the land system. They ask what happens when the structure itself changes.\n\n\n\nIrish farm field. Photograph by Daniel Hanrahan.\n\n\nSource: Daniel Hanrahan / Wikimedia Commons, used under CC BY 3.0.\nThis is where I began to understand scenario modelling differently. A scenario is not a forecast wearing a different name. It can begin with a target, a policy assumption or a possible future condition and ask what else would have to change if that condition were true. Backcasting pushes the idea further by starting from the future objective and working backwards toward the present. The European Commission has a useful short explanation of scenario building in foresight, and the OECD’s strategic foresight work makes much the same distinction between exploring plausible futures and trying to predict one.\nI still find econometric evidence indispensable here. If a scenario assumes that farms will respond to a price, payment or constraint in a particular way, observed behaviour is one of the best places to discipline that assumption. The trouble starts when we pretend the historical estimate can carry the whole exercise after the system has moved well outside the conditions under which the estimate was obtained. At that point it is better to say openly which parts come from evidence and which parts come from scenario assumptions.\nThere is an older distinction in climate policy between top-down economic models and bottom-up technology or sector models. An OECD paper on emissions baselines puts the difference fairly plainly: the first gives you economy-wide coherence, while the second can give you much more detail about technologies and sectors. I increasingly think the same way about the mix of methods I use. Econometrics tells me what observed variation can teach me. Scenario models let me ask what a different future would require. Spatial models force the question of where the change lands. Microsimulation makes it harder to forget that thousands of farms facing the same policy may not respond in the same way.\nI have not found a single method that does all of this particularly well. I am no longer sure I would want one to.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
-  },
-  {
-    "objectID": "blog/posts/2026-09-22-acres-landscape-actions/index.html",
-    "href": "blog/posts/2026-09-22-acres-landscape-actions/index.html",
-    "title": "When environmental policy needs a landscape, not just a farm",
-    "section": "",
-    "text": "I keep coming back to a fairly simple problem in agri-environment policy. The contract is usually with a farmer, but the thing the policy is trying to improve often does not stop at the farm gate. Water runs downhill. Habitats connect across holdings. Invasive species spread. A bird or pollinator has no reason to care where one parcel ends and the next begins.\n\n\n\nFarm boundaries are administrative. Water and habitat processes cross them.\n\n\nOriginal schematic for EKO Perspectives.\nIreland’s Agri-Climate Rural Environment Scheme, ACRES, is interesting partly because it has begun to deal with that mismatch directly. The scheme still works through individual participants, as any payment scheme has to, but its Co-operation approach allows some problems to be treated at a larger spatial scale. In February 2026 the Department opened a second application window for Landscape Actions, with examples including invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.\nThe scheme is large enough that the administrative experiment matters. The Department describes ACRES as a €1.5 billion programme intended to support up to 50,000 farm families, and Budget 2026 reported almost 54,000 participating farmers with €280 million allocated for that year. But the number of participants is not really the part I find most interesting. It is the question of scale.\nTake water quality. A farmer can change nutrient management on one holding, but the river receives whatever happens across the catchment. Habitat connectivity is similar. Protecting one good patch may do relatively little if every neighbouring patch disappears, while several modest actions can become much more useful when they connect. The environmental outcome depends on the combination of decisions, even though each decision is made and paid for separately.\nThere is a familiar economic problem hiding inside this. Some of the benefit produced on one farm spills over to other farms or to the wider public, which means the private incentive to provide it can be weaker than the social value. Agri-environment payments already try to close part of that gap. Landscape coordination adds another difficulty because the value of one participant’s action may depend on whether several other people act as well.\nI do not think “landscape scale” solves this by itself. Coordination costs money and time. Someone still has to decide what the relevant landscape is, which actions make sense there, and how to judge an outcome that may also be affected by weather, soils and processes outside the farmer’s control. Results-based payments make this especially awkward because the thing being rewarded is often partly the product of management and partly the product of place.\nThere is another reason to be cautious. A larger planning unit can easily become an excuse for assuming that the same intervention belongs everywhere inside it. Irish agricultural landscapes are too heterogeneous for that. The costs, production effects and environmental returns from the same action can change with soil, farm system and what is happening next door.\nSo the question I am left with is not whether environmental policy should be farm-based or landscape-based. It is more specific than that: which environmental problems can sensibly be handled one holding at a time, and which ones become badly specified if we insist on doing so?\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
-  },
-  {
-    "objectID": "blog/posts/2026-09-22-useful-github-magpie/index.html",
-    "href": "blog/posts/2026-09-22-useful-github-magpie/index.html",
-    "title": "Useful GitHub: MAgPIE and the discipline of open land-system modelling",
-    "section": "",
-    "text": "I was looking through the MAgPIE repository because I wanted to see how a large land-system model is actually organised once it has grown beyond the scale of one paper. That turned out to be more useful than looking for a particular function. The repository is interesting because the code, configuration, documentation and scenario machinery make visible a lot of decisions that are normally hidden behind the finished results.\nMAgPIE stands for the Model of Agricultural Production and its Impact on the Environment. It is an optimisation model used to study global agriculture, forestry and land-use change, with economic demand on one side and spatially explicit biophysical constraints on the other. The broad question is easy to state and difficult to solve: given demand for food, timber and bioenergy, along with yields, costs, land, water and other constraints, what pattern of production and land use can satisfy those demands at minimum cost?\n\n\n\nA simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.\n\n\nSimplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.\nWhat interested me first was the modularity. Large models become difficult to reason about when every assumption is buried in one script. MAgPIE separates components and lets scenario choices live in configuration rather than forcing the modeller to rewrite the model every time the question changes. That sounds like a software-engineering point, and it is, but it is also a modelling point. A model that can only be understood by the person who wrote the original script is difficult to interrogate, however sophisticated the equations are.\nThe same is true of reproducibility. The repository does not treat publishing source code as the end of the job. It documents software requirements, installation, configuration, execution and outputs, and the project maintains tutorials and versioned documentation around the model. There is also a clear attempt to make dependencies and data preparation part of the reproducible workflow rather than an invisible stage that happens before the “real” model starts. The underlying framework is described in this paper in Geoscientific Model Development.\nThere are practical barriers. MAgPIE is not a lightweight Python package. The core model is written in GAMS, with R used around the workflow, and running it requires software and computing resources that will put off some potential users. That is worth remembering when open-source models are discussed as though publishing the repository automatically makes the model easy to reproduce. Openness and accessibility are related, but they are not the same thing.\nIts scale creates another useful boundary. MAgPIE can say a great deal about globally consistent land transitions and competition among food, forestry and bioenergy. It is not trying to tell us which individual farmer changes enterprise or which exact parcel converts next year. A farm microsimulation model and a global optimisation model are not competing versions of the same thing. They answer different questions.\nThat is probably what I took from the repository more than anything else. I would not try to copy MAgPIE into a smaller national model. I would copy the discipline around it: keep assumptions visible, separate components cleanly, make scenario settings explicit, trace outputs back through the data pipeline, and be clear about the level at which the model can actually speak. Those habits travel rather well.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
+    "text": "For academic, research or professional correspondence, the best way to reach me is through my University of Galway email.\nUniversity email: e.ofori1@universityofgalway.ie\nYou can also find me on:\nLinkedIn · GitHub · ORCID · Google Scholar · Facebook"
   },
   {
     "objectID": "projects/ift-biosim/index.html",
@@ -56,6 +42,167 @@
     "text": "Status\nThe framework is under active development. Results are not posted here until they are ready for public release."
   },
   {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Selected research projects. These pages remain available from the Research section rather than the main navigation.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nWhere nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nHow compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.\n\n\n\n\n\nFarm-level modelling · Ireland\n\n\n\nIFT-BioSim\n\n\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Elvis Kwame Ofori, a Ghanaian researcher and writer based in Ireland.\nMy path has taken me from Ghana to China and now Ireland, and that movement between places has shaped the way I think about policy. I am interested in how national decisions look very different once they reach households, farms, firms and communities."
+  },
+  {
+    "objectID": "about.html#what-i-write-about",
+    "href": "about.html#what-i-write-about",
+    "title": "About",
+    "section": "What I write about",
+    "text": "What I write about\nThis website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and personal observations.\nSometimes the posts will be analytical. Sometimes they will be explanatory. Sometimes they will simply be an attempt to make sense of something I have read, seen or experienced."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "Research",
+    "text": "Research\nI am a PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway’s Ryan Institute. My doctoral work focuses on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places.\nI work within the wider FUSION and FORESIGHT modelling environment at the University of Galway. My doctoral research is supervised by David Styles and Cathal O’Donoghue.\nRead about my research →"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nBefore moving to Ireland, I completed an MSc in Management Science and Engineering in China. My earlier research ranged across sustainability, energy, development and environmental policy, and that broader background still shapes what I choose to write about here."
+  },
+  {
+    "objectID": "about.html#editorial-standards",
+    "href": "about.html#editorial-standards",
+    "title": "About",
+    "section": "Editorial standards",
+    "text": "Editorial standards\nEKO Perspectives is a personal publication. I use public sources wherever possible and link directly to the evidence behind factual claims. I do not publish confidential, restricted, unpublished or under-review research results belonging to me or collaborators.\nWhere an affiliation, funder or research relationship is relevant to a post, I disclose it. If I make a substantive correction after publication, I note the correction and the date on the post. These standards are intended to keep the distinction clear between public evidence, my interpretation and work that is not yet public."
+  },
+  {
+    "objectID": "about.html#elsewhere",
+    "href": "about.html#elsewhere",
+    "title": "About",
+    "section": "Elsewhere",
+    "text": "Elsewhere\nGitHub · ORCID · Google Scholar · LinkedIn · Facebook · Email"
+  },
+  {
+    "objectID": "about.html#site-note",
+    "href": "about.html#site-note",
+    "title": "About",
+    "section": "Site note",
+    "text": "Site note\nThis is my personal website. Views expressed here are my own and do not necessarily represent the position of my university, funders, collaborators or data providers."
+  },
+  {
+    "objectID": "copyright.html",
+    "href": "copyright.html",
+    "title": "Copyright & reuse",
+    "section": "",
+    "text": "Last updated: 23 September 2026.\nUnless a page says otherwise, original writing and original graphics published on EKO Perspectives are © Elvis Kwame Ofori. All rights reserved.\nYou are welcome to link to public pages on this site and to quote brief passages with clear attribution and a link back to the original page, subject to applicable copyright law. If you would like to reproduce a substantial part of an article, republish an original figure, translate a full post, or use material commercially, please ask first.\nSome posts contain photographs, quotations, code, data, figures or other material created by third parties. Those items remain subject to their original copyright or open-source licence. Where relevant, I identify the source and licence on the page. Nothing on this site changes the rights attached to third-party material.\nCode snippets and examples that refer to external software repositories may also be governed by the licence of the original project. Please check the linked repository before reusing code.\nIf you believe material on this site infringes your copyright, or if an attribution or licence notice needs correction, email e.ofori1@universityofgalway.ie with enough information to identify the material and explain the concern. I will review legitimate requests and correct or remove material where appropriate."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI write about how policy, evidence and technology shape agriculture, land use and development. This site brings together public-policy analysis, research notes and personal observations shaped by Ghana, China and Ireland.\n\n\nRead EKO Perspectives →\n\n\n\n\n\n\nStart here\n\nTwo pieces that show what EKO Perspectives is about.\n\n\n Economics & Evidence When the future is outside the data Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add. \n Land & Agriculture · Policy When environmental policy needs a landscape, not just a farm Why some environmental problems need coordination beyond individual holdings. \n\n\n\n\n\nLatest from EKO Perspectives\n\nEKO Perspectives →\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI is becoming ordinary. The evidence about its effects is still catching up\n\n\nAs generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nUseful GitHub: MAgPIE and the discipline of open land-system modelling\n\n\nWhat the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-useful-github-magpie/index.html",
+    "href": "blog/posts/2026-09-22-useful-github-magpie/index.html",
+    "title": "Useful GitHub: MAgPIE and the discipline of open land-system modelling",
+    "section": "",
+    "text": "I was looking through the MAgPIE repository because I wanted to see how a large land-system model is actually organised once it has grown beyond the scale of one paper. That turned out to be more useful than looking for a particular function. The repository is interesting because the code, configuration, documentation and scenario machinery make visible a lot of decisions that are normally hidden behind the finished results.\nMAgPIE stands for the Model of Agricultural Production and its Impact on the Environment. It is an optimisation model used to study global agriculture, forestry and land-use change, with economic demand on one side and spatially explicit biophysical constraints on the other. The broad question is easy to state and difficult to solve: given demand for food, timber and bioenergy, along with yields, costs, land, water and other constraints, what pattern of production and land use can satisfy those demands at minimum cost?\n\n\n\nA simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.\n\n\nSimplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.\nWhat interested me first was the modularity. Large models become difficult to reason about when every assumption is buried in one script. MAgPIE separates components and lets scenario choices live in configuration rather than forcing the modeller to rewrite the model every time the question changes. That sounds like a software-engineering point, and it is, but it is also a modelling point. A model that can only be understood by the person who wrote the original script is difficult to interrogate, however sophisticated the equations are.\nThe same is true of reproducibility. The repository does not treat publishing source code as the end of the job. It documents software requirements, installation, configuration, execution and outputs, and the project maintains tutorials and versioned documentation around the model. There is also a clear attempt to make dependencies and data preparation part of the reproducible workflow rather than an invisible stage that happens before the “real” model starts. The underlying framework is described in this paper in Geoscientific Model Development.\nThere are practical barriers. MAgPIE is not a lightweight Python package. The core model is written in GAMS, with R used around the workflow, and running it requires software and computing resources that will put off some potential users. That is worth remembering when open-source models are discussed as though publishing the repository automatically makes the model easy to reproduce. Openness and accessibility are related, but they are not the same thing.\nIts scale creates another useful boundary. MAgPIE can say a great deal about globally consistent land transitions and competition among food, forestry and bioenergy. It is not trying to tell us which individual farmer changes enterprise or which exact parcel converts next year. A farm microsimulation model and a global optimisation model are not competing versions of the same thing. They answer different questions.\nThat is probably what I took from the repository more than anything else. I would not try to copy MAgPIE into a smaller national model. I would copy the discipline around it: keep assumptions visible, separate components cleanly, make scenario settings explicit, trace outputs back through the data pipeline, and be clear about the level at which the model can actually speak. Those habits travel rather well.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
+    "href": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
+    "title": "AI is becoming ordinary. The evidence about its effects is still catching up",
+    "section": "",
+    "text": "I was reading OpenAI’s call for research on AI and teen development and one part of it stayed with me. The programme asks researchers to look at emotional development, relationships, patterns of use, safeguards, AI literacy and differences across social and cultural settings. That is a much more interesting set of questions than the one public discussion keeps returning to: is AI good or bad for learning?\nOn 8 September 2026, OpenAI announced $5 million for independent research on how generative AI affects people aged 13 to 17. The funding source obviously matters. A company developing the technology has an institutional interest in the evidence that develops around it, which makes independence, disclosure, publication and replication important. The programme at least acknowledges the issue by requiring conflict disclosures, including independence and credibility among its review criteria, and encouraging public release of findings.\nWhat I like about the call is the implicit admission that “AI use” is not a very satisfactory exposure variable. Two students can spend thirty minutes with the same model and be doing almost opposite things. One can ask for an answer and copy it. The other can attempt the problem first, ask for criticism, argue with the response and revise the work. A study that records both as thirty minutes of AI use has measured time rather well and behaviour rather badly.\n\n\n\nThe same amount of AI exposure can conceal very different learning behaviour.\n\n\nOriginal schematic for EKO Perspectives.\nThis is also why I am cautious about broad claims from early studies. A 2026 meta-analysis in Humanities and Social Sciences Communications reported generally positive pooled effects of generative-AI-supported approaches on outcomes including academic achievement, higher-order thinking and writing. That is useful evidence, but the pooled estimate is only the beginning of the interesting question. The intervention matters, as do the subject, the learner, the comparison group, study quality and the role the system actually played in the learning process.\nThere is a timing problem as well. The technology can change between study design and publication. Models improve, interfaces change, safeguards are added, and users learn new habits. A rigorous result can therefore become historically specific rather quickly. Social scientists are used to treatments changing in the real world, but generative AI compresses the timetable.\nFor universities and schools, I think this makes both the blanket ban and the blanket embrace difficult to defend from evidence alone. The useful questions are narrower. Does the system give feedback after a student has tried, or does it replace the attempt? Are we measuring exam performance, long-term retention, writing quality, confidence, critical reasoning or simply time saved? Do any gains remain when the tool is taken away? Are some students better placed than others to recognise a plausible but wrong answer?\nThese questions are less dramatic than asking whether AI will transform education, but they can actually be studied. The same problem will probably appear outside education too. A model can perform extremely well on a benchmark while producing a much less obvious effect once people reorganise their work around it. I suspect the interesting unit of analysis will increasingly be the human-machine arrangement rather than the model on its own.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html",
+    "href": "blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.html",
+    "title": "When the future is outside the data",
+    "section": "",
+    "text": "For a long time, most of the questions I worked on began with data that had already been observed. I would estimate a relationship, test a hypothesis, worry about identification, and then ask what the result might tell us about policy. Econometrics is perfectly capable of saying something about situations that have not yet happened, of course. Much of applied economics is built around counterfactuals. But during my PhD I started running into a slightly different problem: some of the futures I was being asked to think about were much farther from the data than I was used to.\nThat distance matters. An estimated relationship is usually most convincing around the range of variation from which it was learned. Move far enough beyond that range and the regression will still give you a number, but more of the answer is now coming from the model and less from anything we have actually observed. This is not a criticism of econometrics. It is simply a boundary that becomes easier to see when the policy question is large enough.\nThe Irish Land Use Review is a good example of the kind of problem I mean. Its scenarios include substantial additional forestry and large-scale rewetting of grassland on organic soils by 2050. Those are not ordinary year-to-year movements in the land system. They ask what happens when the structure itself changes.\n\n\n\nIrish farm field. Photograph by Daniel Hanrahan.\n\n\nSource: Daniel Hanrahan / Wikimedia Commons, used under CC BY 3.0.\nThis is where I began to understand scenario modelling differently. A scenario is not a forecast wearing a different name. It can begin with a target, a policy assumption or a possible future condition and ask what else would have to change if that condition were true. Backcasting pushes the idea further by starting from the future objective and working backwards toward the present. The European Commission has a useful short explanation of scenario building in foresight, and the OECD’s strategic foresight work makes much the same distinction between exploring plausible futures and trying to predict one.\nI still find econometric evidence indispensable here. If a scenario assumes that farms will respond to a price, payment or constraint in a particular way, observed behaviour is one of the best places to discipline that assumption. The trouble starts when we pretend the historical estimate can carry the whole exercise after the system has moved well outside the conditions under which the estimate was obtained. At that point it is better to say openly which parts come from evidence and which parts come from scenario assumptions.\nThere is an older distinction in climate policy between top-down economic models and bottom-up technology or sector models. An OECD paper on emissions baselines puts the difference fairly plainly: the first gives you economy-wide coherence, while the second can give you much more detail about technologies and sectors. I increasingly think the same way about the mix of methods I use. Econometrics tells me what observed variation can teach me. Scenario models let me ask what a different future would require. Spatial models force the question of where the change lands. Microsimulation makes it harder to forget that thousands of farms facing the same policy may not respond in the same way.\nI have not found a single method that does all of this particularly well. I am no longer sure I would want one to.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "EKO Perspectives",
+    "section": "",
+    "text": "When the future is outside the data\n\n\n\nEconomics & Evidence\n\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\n\nPolicy\n\nPersonal & Ideas\n\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI is becoming ordinary. The evidence about its effects is still catching up\n\n\n\nScience & Technology\n\nEconomics & Evidence\n\n\n\nAs generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen environmental policy needs a landscape, not just a farm\n\n\n\nLand & Agriculture\n\nPolicy\n\n\n\nIreland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nUseful GitHub: MAgPIE and the discipline of open land-system modelling\n\n\n\nScience & Technology\n\nLand & Agriculture\n\n\n\nWhat the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-fusion-foresight/index.html",
+    "href": "blog/posts/2026-09-22-fusion-foresight/index.html",
+    "title": "Where my PhD sits: FUSION and FORESIGHT",
+    "section": "",
+    "text": "FORESIGHT project illustration, FUSION, University of Galway, used under CC BY-SA 4.0.\n\n\nI thought it was worth putting the institutional background to my PhD somewhere on this site, partly because I expect to write about Irish agriculture and climate policy here and I do not want the work to appear as though it comes from nowhere.\nI am doing the PhD within FUSION, the FUture Sustainable economy Integrated mOdelling Network at the University of Galway. The group works across life-cycle assessment, integrated assessment, land-use modelling and environmental software. In practice that means a question about agriculture does not have to stay inside an agricultural model. It can lead into forestry, energy, emissions accounting, land allocation or another part of the system.\nMuch of my work also sits alongside FORESIGHT, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. FUSION leads the project with the University of Limerick and FERS Ltd. That relationship matters for this website. When I write about Irish climate, agriculture or land-use policy, readers should know that I work inside a government-funded modelling programme connected to those subjects. The views here are my own and do not represent the University of Galway, the Department, funders or collaborators.\nOne of the modelling tools in this environment is GOBLIN, which links agriculture, forestry and other land uses within a national land-balance framework. What has interested me increasingly is what happens after a national pathway has been made internally coherent. A national result can say that livestock, forestry or another land use changes by a certain amount, but eventually that change has to meet geography and farms that differ from one another.\nThat is where a lot of my own questions begin. The same national adjustment can look quite different when it reaches dairy, beef or other production systems in different parts of the country. A model can be perfectly consistent in aggregate and still leave difficult questions about where the transition falls, who carries it and whether the land implied by several objectives can actually fit in the same places.\nI like working in an environment where models are treated as things to question rather than things to admire. Assumptions should be visible enough to change, alternatives should be easy enough to test, and a result should come with some sense of what the model cannot tell us. That sounds obvious when written down. It is less obvious once a model becomes large and technically impressive.\nThe site will range much more widely than my PhD. I will write about economics, technology, Ghana, Ireland, the United States, books, code and whatever else seems worth thinking through. But when a post touches Irish agriculture or climate policy, this is the background I want readers to have in mind.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
+  },
+  {
+    "objectID": "blog/posts/2026-09-22-acres-landscape-actions/index.html",
+    "href": "blog/posts/2026-09-22-acres-landscape-actions/index.html",
+    "title": "When environmental policy needs a landscape, not just a farm",
+    "section": "",
+    "text": "I keep coming back to a fairly simple problem in agri-environment policy. The contract is usually with a farmer, but the thing the policy is trying to improve often does not stop at the farm gate. Water runs downhill. Habitats connect across holdings. Invasive species spread. A bird or pollinator has no reason to care where one parcel ends and the next begins.\n\n\n\nFarm boundaries are administrative. Water and habitat processes cross them.\n\n\nOriginal schematic for EKO Perspectives.\nIreland’s Agri-Climate Rural Environment Scheme, ACRES, is interesting partly because it has begun to deal with that mismatch directly. The scheme still works through individual participants, as any payment scheme has to, but its Co-operation approach allows some problems to be treated at a larger spatial scale. In February 2026 the Department opened a second application window for Landscape Actions, with examples including invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.\nThe scheme is large enough that the administrative experiment matters. The Department describes ACRES as a €1.5 billion programme intended to support up to 50,000 farm families, and Budget 2026 reported almost 54,000 participating farmers with €280 million allocated for that year. But the number of participants is not really the part I find most interesting. It is the question of scale.\nTake water quality. A farmer can change nutrient management on one holding, but the river receives whatever happens across the catchment. Habitat connectivity is similar. Protecting one good patch may do relatively little if every neighbouring patch disappears, while several modest actions can become much more useful when they connect. The environmental outcome depends on the combination of decisions, even though each decision is made and paid for separately.\nThere is a familiar economic problem hiding inside this. Some of the benefit produced on one farm spills over to other farms or to the wider public, which means the private incentive to provide it can be weaker than the social value. Agri-environment payments already try to close part of that gap. Landscape coordination adds another difficulty because the value of one participant’s action may depend on whether several other people act as well.\nI do not think “landscape scale” solves this by itself. Coordination costs money and time. Someone still has to decide what the relevant landscape is, which actions make sense there, and how to judge an outcome that may also be affected by weather, soils and processes outside the farmer’s control. Results-based payments make this especially awkward because the thing being rewarded is often partly the product of management and partly the product of place.\nThere is another reason to be cautious. A larger planning unit can easily become an excuse for assuming that the same intervention belongs everywhere inside it. Irish agricultural landscapes are too heterogeneous for that. The costs, production effects and environmental returns from the same action can change with soil, farm system and what is happening next door.\nSo the question I am left with is not whether environmental policy should be farm-based or landscape-based. It is more specific than that: which environmental problems can sensibly be handled one holding at a time, and which ones become badly specified if we insist on doing so?\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy",
+    "section": "",
+    "text": "Last updated: 23 September 2026.\nEKO Perspectives is a personal website run by Elvis Kwame Ofori. I try to collect as little personal information as possible.\nThis site does not currently use advertising trackers, behavioural analytics, newsletter tracking, user accounts, comments or a contact form. I do not intentionally set advertising or analytics cookies.\nThe site is hosted through GitHub Pages. As with most web hosting services, GitHub may process technical information needed to deliver and secure the site, such as IP addresses, browser or device information, and server logs, under its own privacy terms.\nThe site also loads Google Fonts from Google’s servers. When your browser requests those font files, technical information such as your IP address and browser details may be transmitted to Google. External websites linked from EKO Perspectives have their own privacy practices, which I do not control.\nIf you contact me by email, I receive the information you choose to provide, including your email address and message. I use that information to respond to you and, where appropriate, to maintain a record of our correspondence. The legal basis for this processing is my legitimate interest in corresponding with readers, collaborators and other people who contact me. I keep correspondence only for as long as it remains reasonably useful or necessary.\nWhere data-protection law applies, you may have rights to ask for access to, correction of, deletion of, restriction of, or objection to the processing of your personal data. You may also have the right to complain to the Irish Data Protection Commission.\nFor privacy questions or requests, contact e.ofori1@universityofgalway.ie.\nThis notice will be updated if the site later adds analytics, newsletters, advertising, comments, forms or other services that materially change how personal information is handled."
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility",
+    "section": "",
+    "text": "Last updated: 23 September 2026.\nI want EKO Perspectives to be usable by as many readers as possible, across different devices, browsers and ways of navigating the web.\nThe site is designed with responsive layouts, readable contrast, keyboard-accessible navigation, descriptive page titles and alternative text for images where appropriate. I also try to keep articles visually simple and avoid unnecessary interface elements that make reading harder.\nAccessibility is an ongoing process rather than a one-time check. If you encounter a page that is difficult to read or navigate, an image without useful alternative text, a broken link, poor contrast, or another accessibility problem, please email e.ofori1@universityofgalway.ie. If possible, include the page address and a short description of what went wrong.\nI will use that feedback to improve the site where I reasonably can."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research asks a distributional question:\nI use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented."
+  },
+  {
+    "objectID": "research/index.html#current-work",
+    "href": "research/index.html#current-work",
+    "title": "Research",
+    "section": "Current work",
+    "text": "Current work\nGOBLIN-Spatial\nSpatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.\nBioLand-US\nA U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.\nIFT-BioSim\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
+  },
+  {
+    "objectID": "research/index.html#methods",
+    "href": "research/index.html#methods",
+    "title": "Research",
+    "section": "Methods",
+    "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
+  },
+  {
+    "objectID": "research/index.html#selected-publications",
+    "href": "research/index.html#selected-publications",
+    "title": "Research",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nProspect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries. Renewable Energy (2024). DOI\nSustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions. Sustainable Development (2024). DOI\nSynthesizing the role of technological innovation on sustainable development and climate action: Does governance play a role in sub-Saharan Africa? Environmental Development (2023). DOI\nExploring new antecedent metrics for safety performance in Ghana’s oil and gas industry using partial least squares structural equation modelling (PLS-SEM). Resources Policy (2023). DOI\nImpact of Covid-19 on environmental sustainability: A bibliometric analysis. Sustainable Development (2023). DOI\nTaking stock of business strategy and environment (sustainable development): evidence of disparities in research efforts and knowledge gaps — a bibliometric review. Environmental Science and Pollution Research (2023). DOI\n\nFor the complete record, see Google Scholar or ORCID."
+  },
+  {
+    "objectID": "research/index.html#code",
+    "href": "research/index.html#code",
+    "title": "Research",
+    "section": "Code",
+    "text": "Code\nPublic and selected research repositories are available on GitHub."
+  },
+  {
     "objectID": "projects/bioland-us/index.html",
     "href": "projects/bioland-us/index.html",
     "title": "BioLand-US",
@@ -89,20 +236,6 @@
     "title": "BioLand-US",
     "section": "Reproducibility",
     "text": "Reproducibility\nThe public repository contains the code, frozen non-disclosive behavioural parameters, data-access documentation, verification scripts and manuscript-facing outputs while respecting restrictions on respondent-level records.\nView the public GitHub repository →"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Ghana · China · Ireland\n\n\nElvis Kwame Ofori\n\n\nResearcher, writer and policy observer\n\n\nI write about how policy, evidence and technology shape agriculture, land use and development. This site brings together public-policy analysis, research notes and personal observations shaped by Ghana, China and Ireland.\n\n\nRead EKO Perspectives →\n\n\n\n\n\n\nStart here\n\nTwo pieces that show what EKO Perspectives is about.\n\n\n Economics & Evidence When the future is outside the data Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add. \n Land & Agriculture · Policy When environmental policy needs a landscape, not just a farm Why some environmental problems need coordination beyond individual holdings. \n\n\n\n\n\nLatest from EKO Perspectives\n\nEKO Perspectives →\n\n\n\n\n\n\n\n\n\n\n\nUseful GitHub: MAgPIE and the discipline of open land-system modelling\n\n\nWhat the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI is becoming ordinary. The evidence about its effects is still catching up\n\n\nAs generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\nAbout my research\n\nResearch →\n\n\nMy research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Selected research projects. These pages remain available from the Research section rather than the main navigation.\n\n\n\n\nSpatial foresight · Ireland\n\n\n\nGOBLIN-Spatial\n\n\nWhere nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.\n\n\n\n\n\nBioenergy · United States\n\n\n\nBioLand-US\n\n\nHow compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.\n\n\n\n\n\nFarm-level modelling · Ireland\n\n\n\nIFT-BioSim\n\n\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
   },
   {
     "objectID": "projects/goblin-spatial/index.html",
@@ -159,117 +292,5 @@
     "title": "GOBLIN-Spatial",
     "section": "Public status",
     "text": "Public status\nThe model architecture and methodological logic are public. Manuscript-facing findings and figures are added only when they are ready for public release."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research asks a distributional question:\nI use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented."
-  },
-  {
-    "objectID": "research/index.html#current-work",
-    "href": "research/index.html#current-work",
-    "title": "Research",
-    "section": "Current work",
-    "text": "Current work\nGOBLIN-Spatial\nSpatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.\nBioLand-US\nA U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.\nIFT-BioSim\nA farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs."
-  },
-  {
-    "objectID": "research/index.html#methods",
-    "href": "research/index.html#methods",
-    "title": "Research",
-    "section": "Methods",
-    "text": "Methods\nMy work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL."
-  },
-  {
-    "objectID": "research/index.html#selected-publications",
-    "href": "research/index.html#selected-publications",
-    "title": "Research",
-    "section": "Selected publications",
-    "text": "Selected publications\n\nProspect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries. Renewable Energy (2024). DOI\nSustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions. Sustainable Development (2024). DOI\nSynthesizing the role of technological innovation on sustainable development and climate action: Does governance play a role in sub-Saharan Africa? Environmental Development (2023). DOI\nExploring new antecedent metrics for safety performance in Ghana’s oil and gas industry using partial least squares structural equation modelling (PLS-SEM). Resources Policy (2023). DOI\nImpact of Covid-19 on environmental sustainability: A bibliometric analysis. Sustainable Development (2023). DOI\nTaking stock of business strategy and environment (sustainable development): evidence of disparities in research efforts and knowledge gaps — a bibliometric review. Environmental Science and Pollution Research (2023). DOI\n\nFor the complete record, see Google Scholar or ORCID."
-  },
-  {
-    "objectID": "research/index.html#code",
-    "href": "research/index.html#code",
-    "title": "Research",
-    "section": "Code",
-    "text": "Code\nPublic and selected research repositories are available on GitHub."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "EKO Perspectives",
-    "section": "",
-    "text": "Useful GitHub: MAgPIE and the discipline of open land-system modelling\n\n\n\nScience & Technology\n\nLand & Agriculture\n\n\n\nWhat the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI is becoming ordinary. The evidence about its effects is still catching up\n\n\n\nScience & Technology\n\nEconomics & Evidence\n\n\n\nAs generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen environmental policy needs a landscape, not just a farm\n\n\n\nLand & Agriculture\n\nPolicy\n\n\n\nIreland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhere my PhD sits: FUSION and FORESIGHT\n\n\n\nPolicy\n\nPersonal & Ideas\n\n\n\nThe modelling environment around my PhD, who supports it, and why that context matters when I write about policy.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the future is outside the data\n\n\n\nEconomics & Evidence\n\n\n\nWhy climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.\n\n\n\n\n\nSep 22, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
-    "href": "blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
-    "title": "AI is becoming ordinary. The evidence about its effects is still catching up",
-    "section": "",
-    "text": "I was reading OpenAI’s call for research on AI and teen development and one part of it stayed with me. The programme asks researchers to look at emotional development, relationships, patterns of use, safeguards, AI literacy and differences across social and cultural settings. That is a much more interesting set of questions than the one public discussion keeps returning to: is AI good or bad for learning?\nOn 8 September 2026, OpenAI announced $5 million for independent research on how generative AI affects people aged 13 to 17. The funding source obviously matters. A company developing the technology has an institutional interest in the evidence that develops around it, which makes independence, disclosure, publication and replication important. The programme at least acknowledges the issue by requiring conflict disclosures, including independence and credibility among its review criteria, and encouraging public release of findings.\nWhat I like about the call is the implicit admission that “AI use” is not a very satisfactory exposure variable. Two students can spend thirty minutes with the same model and be doing almost opposite things. One can ask for an answer and copy it. The other can attempt the problem first, ask for criticism, argue with the response and revise the work. A study that records both as thirty minutes of AI use has measured time rather well and behaviour rather badly.\n\n\n\nThe same amount of AI exposure can conceal very different learning behaviour.\n\n\nOriginal schematic for EKO Perspectives.\nThis is also why I am cautious about broad claims from early studies. A 2026 meta-analysis in Humanities and Social Sciences Communications reported generally positive pooled effects of generative-AI-supported approaches on outcomes including academic achievement, higher-order thinking and writing. That is useful evidence, but the pooled estimate is only the beginning of the interesting question. The intervention matters, as do the subject, the learner, the comparison group, study quality and the role the system actually played in the learning process.\nThere is a timing problem as well. The technology can change between study design and publication. Models improve, interfaces change, safeguards are added, and users learn new habits. A rigorous result can therefore become historically specific rather quickly. Social scientists are used to treatments changing in the real world, but generative AI compresses the timetable.\nFor universities and schools, I think this makes both the blanket ban and the blanket embrace difficult to defend from evidence alone. The useful questions are narrower. Does the system give feedback after a student has tried, or does it replace the attempt? Are we measuring exam performance, long-term retention, writing quality, confidence, critical reasoning or simply time saved? Do any gains remain when the tool is taken away? Are some students better placed than others to recognise a plausible but wrong answer?\nThese questions are less dramatic than asking whether AI will transform education, but they can actually be studied. The same problem will probably appear outside education too. A model can perform extremely well on a benchmark while producing a much less obvious effect once people reorganise their work around it. I suspect the interesting unit of analysis will increasingly be the human-machine arrangement rather than the model on its own.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
-  },
-  {
-    "objectID": "blog/posts/2026-09-22-fusion-foresight/index.html",
-    "href": "blog/posts/2026-09-22-fusion-foresight/index.html",
-    "title": "Where my PhD sits: FUSION and FORESIGHT",
-    "section": "",
-    "text": "FORESIGHT project illustration, FUSION, University of Galway, used under CC BY-SA 4.0.\n\n\nI thought it was worth putting the institutional background to my PhD somewhere on this site, partly because I expect to write about Irish agriculture and climate policy here and I do not want the work to appear as though it comes from nowhere.\nI am doing the PhD within FUSION, the FUture Sustainable economy Integrated mOdelling Network at the University of Galway. The group works across life-cycle assessment, integrated assessment, land-use modelling and environmental software. In practice that means a question about agriculture does not have to stay inside an agricultural model. It can lead into forestry, energy, emissions accounting, land allocation or another part of the system.\nMuch of my work also sits alongside FORESIGHT, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. FUSION leads the project with the University of Limerick and FERS Ltd. That relationship matters for this website. When I write about Irish climate, agriculture or land-use policy, readers should know that I work inside a government-funded modelling programme connected to those subjects. The views here are my own and do not represent the University of Galway, the Department, funders or collaborators.\nOne of the modelling tools in this environment is GOBLIN, which links agriculture, forestry and other land uses within a national land-balance framework. What has interested me increasingly is what happens after a national pathway has been made internally coherent. A national result can say that livestock, forestry or another land use changes by a certain amount, but eventually that change has to meet geography and farms that differ from one another.\nThat is where a lot of my own questions begin. The same national adjustment can look quite different when it reaches dairy, beef or other production systems in different parts of the country. A model can be perfectly consistent in aggregate and still leave difficult questions about where the transition falls, who carries it and whether the land implied by several objectives can actually fit in the same places.\nI like working in an environment where models are treated as things to question rather than things to admire. Assumptions should be visible enough to change, alternatives should be easy enough to test, and a result should come with some sense of what the model cannot tell us. That sounds obvious when written down. It is less obvious once a model becomes large and technically impressive.\nThe site will range much more widely than my PhD. I will write about economics, technology, Ghana, Ireland, the United States, books, code and whatever else seems worth thinking through. But when a post touches Irish agriculture or climate policy, this is the background I want readers to have in mind.\n\nElvis Kwame Ofori\nResearcher and writer behind EKO Perspectives.\nMore from EKO Perspectives · Follow via RSS · About the author"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "For academic, research or professional correspondence, the best way to reach me is through my University of Galway email.\nUniversity email: e.ofori1@universityofgalway.ie\nYou can also find me on:\nLinkedIn · GitHub · ORCID · Google Scholar · Facebook"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am Elvis Kwame Ofori, a Ghanaian researcher and writer based in Ireland.\nMy path has taken me from Ghana to China and now Ireland, and that movement between places has shaped the way I think about policy. I am interested in how national decisions look very different once they reach households, farms, firms and communities."
-  },
-  {
-    "objectID": "about.html#what-i-write-about",
-    "href": "about.html#what-i-write-about",
-    "title": "About",
-    "section": "What I write about",
-    "text": "What I write about\nThis website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and personal observations.\nSometimes the posts will be analytical. Sometimes they will be explanatory. Sometimes they will simply be an attempt to make sense of something I have read, seen or experienced."
-  },
-  {
-    "objectID": "about.html#research",
-    "href": "about.html#research",
-    "title": "About",
-    "section": "Research",
-    "text": "Research\nI am a PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway’s Ryan Institute. My doctoral work focuses on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places.\nI work within the wider FUSION and FORESIGHT modelling environment at the University of Galway. My doctoral research is supervised by David Styles and Cathal O’Donoghue.\nRead about my research →"
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About",
-    "section": "Background",
-    "text": "Background\nBefore moving to Ireland, I completed an MSc in Management Science and Engineering in China. My earlier research ranged across sustainability, energy, development and environmental policy, and that broader background still shapes what I choose to write about here."
-  },
-  {
-    "objectID": "about.html#editorial-standards",
-    "href": "about.html#editorial-standards",
-    "title": "About",
-    "section": "Editorial standards",
-    "text": "Editorial standards\nEKO Perspectives is a personal publication. I use public sources wherever possible and link directly to the evidence behind factual claims. I do not publish confidential, restricted, unpublished or under-review research results belonging to me or collaborators.\nWhere an affiliation, funder or research relationship is relevant to a post, I disclose it. If I make a substantive correction after publication, I note the correction and the date on the post. These standards are intended to keep the distinction clear between public evidence, my interpretation and work that is not yet public."
-  },
-  {
-    "objectID": "about.html#elsewhere",
-    "href": "about.html#elsewhere",
-    "title": "About",
-    "section": "Elsewhere",
-    "text": "Elsewhere\nGitHub · ORCID · Google Scholar · LinkedIn · Facebook · Email"
-  },
-  {
-    "objectID": "about.html#site-note",
-    "href": "about.html#site-note",
-    "title": "About",
-    "section": "Site note",
-    "text": "Site note\nThis is my personal website. Views expressed here are my own and do not necessarily represent the position of my university, funders, collaborators or data providers."
   }
 ]

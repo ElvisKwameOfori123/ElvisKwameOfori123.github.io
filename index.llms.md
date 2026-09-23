@@ -26,11 +26,11 @@ Two pieces that show what EKO Perspectives is about.
 
 [EKO Perspectives →](blog/)
 
-[![A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs](./blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg)](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+[![FORESIGHT project illustration showing a pathway through a green landscape](./blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
 
-### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+### [Where my PhD sits: FUSION and FORESIGHT](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
 
-What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
+The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
 
 Sep 22, 2026
 
@@ -42,11 +42,11 @@ As generative AI moves into classrooms and everyday life, the important scientif
 
 Sep 22, 2026
 
-[![FORESIGHT project illustration showing a pathway through a green landscape](./blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+[![A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs](./blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg)](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
 
-### [Where my PhD sits: FUSION and FORESIGHT](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
 
-The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
+What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
 
 Sep 22, 2026
 
