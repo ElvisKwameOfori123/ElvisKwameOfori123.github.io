@@ -90,13 +90,13 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../../styles-common.css">
 <meta property="og:title" content="Useful GitHub: MAgPIE and the discipline of open land-system modelling – Elvis Kwame Ofori">
 <meta property="og:description" content="What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.">
-<meta property="og:image" content="https://kwameofori123.com/assets/profile.jpg">
+<meta property="og:image" content="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg">
 <meta property="og:site_name" content="Elvis Kwame Ofori">
-<meta property="og:image:alt" content="Elvis Kwame Ofori">
+<meta property="og:image:alt" content="A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs">
 <meta name="twitter:title" content="Useful GitHub: MAgPIE and the discipline of open land-system modelling – Elvis Kwame Ofori">
 <meta name="twitter:description" content="What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.">
-<meta name="twitter:image" content="https://kwameofori123.com/assets/profile.jpg">
-<meta name="twitter:image:alt" content="Elvis Kwame Ofori">
+<meta name="twitter:image" content="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg">
+<meta name="twitter:image:alt" content="A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/">
 </head>
@@ -375,6 +375,13 @@ ul.task-list li input[type="checkbox"] {
 <p>Some GitHub repositories are useful because you can borrow a function. Others are useful because they reveal how a serious modelling system is organised. MAgPIE belongs to the second group.</p>
 <p>MAgPIE, the Model of Agricultural Production and its Impact on the Environment, is an open-source framework maintained by researchers associated with the Potsdam Institute for Climate Impact Research. It models global land systems, explicitly representing agriculture and forestry and linking economic drivers to spatially explicit biophysical constraints.</p>
 <p>The basic modelling question is large: given demand for food, bioenergy and timber, technological change, production costs, crop yields, forest growth, land and water constraints, what patterns of production and land use can satisfy those demands at minimum cost?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="magpie-architecture.svg" class="img-fluid figure-img" style="width:92.0%" alt="Demand and scenario assumptions and biophysical constraints enter the MAgPIE optimisation model, which produces land-use patterns, yields and production costs."></p>
+<figcaption>A simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.</figcaption>
+</figure>
+</div>
+<p><em>Simplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.</em></p>
 <p>That makes MAgPIE very different from a farm calculator or a statistical forecasting package. It is an optimisation model embedded in a wider modelling architecture. It is coupled to LPJmL, a grid-based vegetation model, and uses biophysical information at 0.5-degree resolution. Regional economic conditions and demands enter the model, while the optimisation determines land-use patterns, yields and production costs consistent with those conditions.</p>
 <p>For researchers interested in land-use policy, the repository is valuable even if they never run the full model.</p>
 <p>The first lesson is modularity. Large models become difficult to audit when assumptions are buried in a single script. MAgPIE separates model components, configuration and scenario settings. New scenarios can be defined through configuration rather than by rewriting the entire model. That sounds mundane, but it is one of the differences between code that produces one paper and infrastructure that can support a research programme.</p>

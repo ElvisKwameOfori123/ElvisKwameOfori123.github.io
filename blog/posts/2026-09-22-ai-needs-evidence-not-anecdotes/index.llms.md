@@ -24,6 +24,12 @@ What matters is the research question it reflects. “AI use” is too broad an 
 
 Imagine two students who each spend thirty minutes with the same model. One asks it to solve a problem and copies the answer. The other attempts the problem first, asks the model to identify weaknesses, challenges its explanation and revises the work. Recording both as thirty minutes of AI use would hide the mechanism that actually interests us.
 
+![Thirty minutes of AI use branches into copying an answer or attempting a task, asking for feedback and revising.](ai-use-mechanism.svg)
+
+The same amount of AI exposure can conceal very different learning behaviour.
+
+*Original schematic for EKO Perspectives.*
+
 The same difficulty appears in emerging evidence on educational outcomes. A 2026 meta-analysis in *Humanities and Social Sciences Communications* reported generally positive pooled effects of generative-AI-supported approaches on outcomes including academic achievement, higher-order thinking and writing. That is useful evidence, but meta-analysis does not make heterogeneity disappear. Effects can depend on the intervention, subject, learner, comparison group, study quality and the way the AI is incorporated into teaching.
 
 There is also a measurement problem created by the speed of the technology itself. A study designed around one generation of models can be published into a world of more capable systems. Interfaces, safeguards and user behaviour change too. Evidence can therefore age unusually quickly even when the underlying study was rigorous.

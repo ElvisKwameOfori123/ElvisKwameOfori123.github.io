@@ -14,6 +14,12 @@ A field boundary can belong to one farmer while the ecological process crossing 
 
 That simple mismatch is one of the harder problems in agricultural environmental policy. Governments usually pay individual landholders, because contracts, eligibility and accountability need identifiable participants. Yet many of the outcomes being purchased are partly landscape outcomes.
 
+![Three adjoining farm parcels are crossed by a river and a habitat corridor, showing how ecological processes extend across individual holdings.](acres-landscape.svg)
+
+Farm boundaries are administrative. Water and habitat processes cross them.
+
+*Original schematic for EKO Perspectives.*
+
 Ireland’s Agri-Climate Rural Environment Scheme, or ACRES, is an interesting attempt to work across that boundary. ACRES is Ireland’s agri-environment climate scheme under its CAP Strategic Plan. The Department of Agriculture describes it as a €1.5 billion programme intended to support up to 50,000 farm families while addressing biodiversity, climate, air and water objectives. By Budget 2026, the government reported almost 54,000 participating farmers and allocated €280 million to the scheme for that year.
 
 The important design feature is not simply its size. ACRES combines actions on individual farms with a Co-operation approach in selected areas. In February 2026, the Department opened a second application window for what it calls Landscape Actions. These are intended to address environmental problems whose scale is larger than a single parcel. The examples given by the Department include invasive species, scrub encroachment in species-rich grassland, threatened species and water-quality protection.

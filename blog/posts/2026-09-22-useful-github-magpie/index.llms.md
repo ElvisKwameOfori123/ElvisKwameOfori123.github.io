@@ -16,6 +16,12 @@ MAgPIE, the Model of Agricultural Production and its Impact on the Environment, 
 
 The basic modelling question is large: given demand for food, bioenergy and timber, technological change, production costs, crop yields, forest growth, land and water constraints, what patterns of production and land use can satisfy those demands at minimum cost?
 
+![Demand and scenario assumptions and biophysical constraints enter the MAgPIE optimisation model, which produces land-use patterns, yields and production costs.](magpie-architecture.svg)
+
+A simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.
+
+*Simplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.*
+
 That makes MAgPIE very different from a farm calculator or a statistical forecasting package. It is an optimisation model embedded in a wider modelling architecture. It is coupled to LPJmL, a grid-based vegetation model, and uses biophysical information at 0.5-degree resolution. Regional economic conditions and demands enter the model, while the optimisation determines land-use patterns, yields and production costs consistent with those conditions.
 
 For researchers interested in land-use policy, the repository is valuable even if they never run the full model.
