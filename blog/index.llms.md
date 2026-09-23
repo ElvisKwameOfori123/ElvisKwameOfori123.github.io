@@ -26,7 +26,7 @@ The modelling environment around my PhD, who supports it, and why that context m
 
 Sep 22, 2026
 
-[![An Irish farm field with cattle and grassland](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Irish_Farm_Field_%2838665262%29.jpeg/1024px-Irish_Farm_Field_%2838665262%29.jpeg)](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
+[![An Irish farm field with cattle and grassland](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg)](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 
 ### [When the future is outside the data](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 

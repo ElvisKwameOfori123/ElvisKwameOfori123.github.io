@@ -16,7 +16,7 @@ Estimated relationships are most defensible around the range of variation from w
 
 That problem matters in climate and land-use policy because some plausible pathways involve changes much larger than ordinary year-to-year variation. [Ireland’s Land Use Review](https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php), for example, examined scenarios involving large-scale rewetting of grassland on organic soils and substantial additional forestry by 2050. Those are not small marginal adjustments around today’s land system. They are structural changes whose consequences cannot simply be read from a historical coefficient.
 
-![An Irish farm field with cattle and agricultural grassland](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Irish_Farm_Field_%2838665262%29.jpeg/1024px-Irish_Farm_Field_%2838665262%29.jpeg)
+![An Irish farm field with cattle and agricultural grassland](irish-farm-field.jpg)
 
 Irish farm field. Photograph by Daniel Hanrahan.
 

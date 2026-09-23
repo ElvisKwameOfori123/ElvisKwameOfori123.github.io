@@ -10,7 +10,7 @@ Published
 
 September 22, 2026
 
-![FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions](foresight1.png)
+![FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions](foresight1.jpg)
 
 *FORESIGHT project illustration*, [FUSION, University of Galway](https://fusion-research.eu/foresight.html), used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
