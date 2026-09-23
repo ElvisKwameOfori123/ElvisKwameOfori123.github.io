@@ -1,0 +1,37 @@
+---
+title: "Ghana's recovery now has to reach the road"
+description: "Macroeconomic stabilisation matters, but Ghana's next test is whether lower inflation and stronger growth translate into cheaper movement, better market access and productive jobs."
+date: 2026-09-23
+draft: true
+categories:
+  - Places & Development
+  - Policy
+---
+
+An economy can look healthier in the national accounts while daily economic life remains stubbornly expensive. Ghana is entering that uncomfortable stage of recovery.
+
+The headline indicators have improved markedly. Ghana Statistical Service reported annual consumer-price inflation of 5.0 per cent in August 2026 and real GDP growth of 6.0 per cent in the second quarter. The World Bank's latest Ghana Economic Update also describes a substantial macroeconomic recovery after the crisis years, while warning that stabilisation has not yet produced enough quality jobs.
+
+That distinction matters. Falling inflation is not the same thing as falling prices, and GDP growth does not tell us whether a trader can move tomatoes without losing part of the load, whether a manufacturer can obtain inputs reliably, or whether a worker can reach a job at reasonable cost. Macroeconomic repair creates room for development. It does not complete the job.
+
+The World Bank's August 2026 update makes transport unusually central to this argument. It reports that roads carry more than 95 per cent of Ghana's passenger and freight traffic, while identifying chronic under-maintenance, fragmented governance, weak links between transport modes and limited climate resilience as constraints on productivity. Rail freight has declined over decades, leaving even more pressure on roads. The report's recommendations include more sustainable road-maintenance funding, stronger coordination, better rail and port connections, improved road safety and wider use of digital logistics systems.
+
+There is a useful policy lesson here. Infrastructure debates often become debates about construction. New roads, interchanges and rail lines are visible, politically legible investments. Maintenance is quieter. Yet an asset that deteriorates faster than it is maintained can turn capital spending into a recurring liability. The relevant question is therefore not only how much infrastructure Ghana builds, but how reliably the country funds, manages and connects what it already has.
+
+This is especially important for agriculture. In June, Ghana launched an AgriConnect Compact focused on food security, jobs, value addition and investment in value chains including cocoa, oil palm, rice, maize and poultry. Its ambitions depend on irrigation, seeds and farm productivity, but also on what happens after production. Food has to move. Processors need dependable supplies. Exporters need predictable logistics. A productivity gain at the farm gate can be diluted if transport losses, delays and costs remain high.
+
+There is also a distributional question. Transport constraints do not fall evenly across space. A road improvement near a major commercial corridor may have very different effects from maintaining feeder roads connecting smaller farming communities. Aggregate spending figures cannot answer who gains access, whose travel time falls, or which markets become reachable. That is why project appraisal needs to sit alongside spatial evidence about people, firms, production and services.
+
+None of this means that transport is a single explanation for Ghana's development challenges. The World Bank itself places transport within a broader agenda that includes fiscal discipline, revenue mobilisation, energy and cocoa-sector reforms, and private investment. Its recommendations are the institution's assessment, not a guarantee that every proposed intervention will produce the expected return. Project selection, procurement, maintenance incentives and local conditions still determine outcomes.
+
+The more interesting question for Ghana in 2026 is therefore changing. During a crisis, the immediate objective is stability. As stability returns, the standard becomes harder: can improved macroeconomic conditions alter the practical costs of producing, moving, hiring and investing?
+
+A recovery becomes tangible when it changes those ordinary constraints. For a country whose people and goods move overwhelmingly by road, the quality of that movement is not a side issue. It is one of the places where the recovery will either become productive or remain largely statistical.
+
+## Further reading
+
+- [Ghana Statistical Service: key economic indicators](https://statsghana.gov.gh/)
+- [World Bank, *Ghana Must Turn Strong Recovery into Quality Jobs and Lasting Growth*, 26 August 2026](https://www.worldbank.org/en/news/press-release/2026/08/26/ghana-must-turn-strong-recovery-into-quality-jobs-and-lasting-growth)
+- [World Bank, *Ghana Launches AgriConnect Compact*, 3 June 2026](https://www.worldbank.org/en/news/press-release/2026/06/03/ghana-launches-agriconnect-compact-to-strengthen-food-security-create-jobs-and-mobilize-investment)
+
+{{< include /includes/_post-end.qmd >}}
