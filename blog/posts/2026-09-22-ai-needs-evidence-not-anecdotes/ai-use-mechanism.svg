@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Two students can spend the same time with AI but use it in very different ways</title>
+<desc id="desc">Thirty minutes of AI use branches into copying an answer or attempting a task, asking for feedback and revising, showing that equal exposure time can hide different learning mechanisms.</desc>
+<rect width="1200" height="630" fill="#fffaf4"/>
+<text x="80" y="90" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#173b57">“AI use” is not one exposure</text>
+<line x1="80" y1="120" x2="1120" y2="120" stroke="#d7cfc6" stroke-width="2"/>
+<rect x="420" y="165" width="360" height="95" fill="#ffffff" stroke="#173b57" stroke-width="2"/>
+<text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#243442">30 minutes with the same model</text>
+<line x1="515" y1="260" x2="330" y2="355" stroke="#2f735c" stroke-width="4"/>
+<polygon points="330,355 342,335 350,354" fill="#2f735c"/>
+<line x1="685" y1="260" x2="870" y2="355" stroke="#2f735c" stroke-width="4"/>
+<polygon points="870,355 850,354 858,335" fill="#2f735c"/>
+<rect x="130" y="355" width="360" height="120" fill="#ffffff" stroke="#762844" stroke-width="2"/>
+<text x="310" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#762844">Copy the answer</text>
+<text x="310" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#68757d">little evidence of the learning mechanism</text>
+<rect x="710" y="355" width="360" height="120" fill="#ffffff" stroke="#173b57" stroke-width="2"/>
+<text x="890" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#173b57">Attempt → feedback → revise</text>
+<text x="890" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#68757d">same time, different behaviour</text>
+<text x="600" y="555" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#243442">Exposure time can be identical while the mechanism is not.</text>
+</svg>
