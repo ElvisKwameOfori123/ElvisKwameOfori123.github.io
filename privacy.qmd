@@ -1,0 +1,23 @@
+---
+title: "Privacy"
+description: "How EKO Perspectives handles personal information and third-party services."
+toc: false
+---
+
+*Last updated: 23 September 2026.*
+
+EKO Perspectives is a personal website run by **Elvis Kwame Ofori**. I try to collect as little personal information as possible.
+
+This site does not currently use advertising trackers, behavioural analytics, newsletter tracking, user accounts, comments or a contact form. I do not intentionally set advertising or analytics cookies.
+
+The site is hosted through **GitHub Pages**. As with most web hosting services, GitHub may process technical information needed to deliver and secure the site, such as IP addresses, browser or device information, and server logs, under its own privacy terms.
+
+The site also loads **Google Fonts** from Google's servers. When your browser requests those font files, technical information such as your IP address and browser details may be transmitted to Google. External websites linked from EKO Perspectives have their own privacy practices, which I do not control.
+
+If you contact me by email, I receive the information you choose to provide, including your email address and message. I use that information to respond to you and, where appropriate, to maintain a record of our correspondence. The legal basis for this processing is my legitimate interest in corresponding with readers, collaborators and other people who contact me. I keep correspondence only for as long as it remains reasonably useful or necessary.
+
+Where data-protection law applies, you may have rights to ask for access to, correction of, deletion of, restriction of, or objection to the processing of your personal data. You may also have the right to complain to the **Irish Data Protection Commission**.
+
+For privacy questions or requests, contact [e.ofori1@universityofgalway.ie](mailto:e.ofori1@universityofgalway.ie).
+
+This notice will be updated if the site later adds analytics, newsletters, advertising, comments, forms or other services that materially change how personal information is handled.
