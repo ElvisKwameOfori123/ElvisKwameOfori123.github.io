@@ -27,3 +27,5 @@ I do not think "landscape scale" solves this by itself. Coordination costs money
 There is another reason to be cautious. A larger planning unit can easily become an excuse for assuming that the same intervention belongs everywhere inside it. Irish agricultural landscapes are too heterogeneous for that. The costs, production effects and environmental returns from the same action can change with soil, farm system and what is happening next door.
 
 So the question I am left with is not whether environmental policy should be farm-based or landscape-based. It is more specific than that: which environmental problems can sensibly be handled one holding at a time, and which ones become badly specified if we insist on doing so?
+
+{{< include /includes/_post-end.qmd >}}
