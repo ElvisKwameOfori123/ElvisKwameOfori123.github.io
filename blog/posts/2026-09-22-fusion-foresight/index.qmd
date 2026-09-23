@@ -9,7 +9,7 @@ draft: false
 ---
 
 <figure>
-  <img src="foresight1.png" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions">
+  <img src="foresight1.jpg" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions">
   <figcaption><em>FORESIGHT project illustration</em>, <a href="https://fusion-research.eu/foresight.html">FUSION, University of Galway</a>, used under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
