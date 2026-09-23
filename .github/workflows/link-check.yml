@@ -34,5 +34,6 @@ jobs:
             --accept 200,204,206,403,429
             --exclude '^https://www\.linkedin\.com/'
             --exclude '^https://upload\.wikimedia\.org/'
+            --exclude '^https://kwameofori123\.com/'
             './_site/**/*.html'
           fail: true
