@@ -28,3 +28,5 @@ That is where a lot of my own questions begin. The same national adjustment can 
 I like working in an environment where models are treated as things to question rather than things to admire. Assumptions should be visible enough to change, alternatives should be easy enough to test, and a result should come with some sense of what the model cannot tell us. That sounds obvious when written down. It is less obvious once a model becomes large and technically impressive.
 
 The site will range much more widely than my PhD. I will write about economics, technology, Ghana, Ireland, the United States, books, code and whatever else seems worth thinking through. But when a post touches Irish agriculture or climate policy, this is the background I want readers to have in mind.
+
+{{< include /includes/_post-end.qmd >}}
