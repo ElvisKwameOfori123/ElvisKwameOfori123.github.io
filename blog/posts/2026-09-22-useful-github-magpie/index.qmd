@@ -24,3 +24,5 @@ There are practical barriers. MAgPIE is not a lightweight Python package. The co
 Its scale creates another useful boundary. MAgPIE can say a great deal about globally consistent land transitions and competition among food, forestry and bioenergy. It is not trying to tell us which individual farmer changes enterprise or which exact parcel converts next year. A farm microsimulation model and a global optimisation model are not competing versions of the same thing. They answer different questions.
 
 That is probably what I took from the repository more than anything else. I would not try to copy MAgPIE into a smaller national model. I would copy the discipline around it: keep assumptions visible, separate components cleanly, make scenario settings explicit, trace outputs back through the data pipeline, and be clear about the level at which the model can actually speak. Those habits travel rather well.
+
+{{< include /includes/_post-end.qmd >}}
