@@ -1,0 +1,39 @@
+---
+title: "Carbon policy looks different when the household comes back into the model"
+description: "Green EUROMOD links household emissions with Europe's tax-benefit microsimulation framework, making it possible to examine climate, fiscal and distributional effects together."
+date: 2026-09-23
+draft: true
+categories:
+  - Economics & Evidence
+  - Policy
+---
+
+Climate policy can look efficient in an aggregate model and still create a difficult household problem. A carbon price may reduce emissions at an acceptable economy-wide cost while placing very different burdens on a low-income rural household, an urban renter and a high-consuming household. The average can hide the politics as well as the welfare effects.
+
+A March 2026 working paper from the European Commission's Joint Research Centre takes that distributional problem seriously. Antonio F. Amores, Silvia De Poli, Ilda Dreoni, David Klenert and Sofia Maier introduce Green EUROMOD, an environmental extension of EUROMOD, the European Union's tax-benefit microsimulation model.
+
+EUROMOD already provides a common framework for applying tax and benefit rules to harmonised household microdata across EU countries. It is a static microsimulation model: policy rules are applied to household-level records, allowing analysts to compare disposable incomes, work incentives and government budgets under different policy settings. Since 2024, its coverage has also included consumption taxes.
+
+Green EUROMOD adds an environmental layer. According to the authors, the framework associates household consumption with both direct and indirect greenhouse-gas emissions across all 27 EU Member States. Direct emissions include sources such as household heating and private transport. Indirect emissions arise through the production and supply chains behind the goods and services households consume, with the framework distinguishing emissions embodied in domestic production, other EU countries and imports from the rest of the world.
+
+That linkage matters because carbon policy has at least three effects that are often analysed separately. It changes environmental incentives. It raises or reallocates public revenue. And it changes the purchasing power of households. Putting those effects into one microsimulation framework makes it easier to examine a policy that is environmentally credible but distributionally difficult, or a compensation package that protects incomes but weakens the intended environmental signal.
+
+The working paper demonstrates the framework in two applications. First, it estimates household carbon footprints across income and emissions distributions for the 27 EU countries. Second, it examines the extent to which greenhouse-gas emissions are already implicitly priced through existing value-added and excise taxes. This baseline question is important. A new carbon price does not enter a tax-free economy. Households already face consumption taxes and excises whose effective relationship with emissions varies across products and countries.
+
+For policy analysis, the interesting possibility is therefore not simply estimating who pays a carbon tax. It is examining packages. Revenue can be returned through transfers, tax reductions or other mechanisms, and microsimulation can reveal which households gain or lose under alternative designs. The model can also make cross-country differences visible rather than assuming that one European household structure or tax system represents all 27 Member States.
+
+There are limits. EUROMOD is fundamentally static, so it does not by itself tell us how households, firms or technologies evolve over many years. The EUROMOD documentation notes that consumption-tax simulations can incorporate alternative behavioural assumptions, but assumptions remain different from observing long-run adaptation. Household emissions estimates also depend on how expenditure data are linked to emissions intensities and supply chains. A detailed model can organise those uncertainties; it cannot remove them.
+
+The paper is also a working paper rather than the final word on environmental microsimulation. Its strongest contribution is architectural. It shows how environmental accounting and established tax-benefit modelling can be connected in a common analytical system.
+
+That connection is increasingly important. Climate policy is rarely judged only by tonnes of carbon avoided. Governments also face questions about affordability, revenue, inequality and political durability. Treating these as separate modelling exercises risks discovering the distributional problem after a policy has already been designed.
+
+Green EUROMOD points toward a better sequence: put households into the climate-policy model early enough that fairness is part of policy design, not an adjustment made at the end.
+
+## Further reading
+
+- [Amores et al. (2026), *Green EUROMOD: the environmental extension of the EU's tax-benefit microsimulation model*](https://euromod-web.jrc.ec.europa.eu/research/publications/green-euromod-environmental-extension-eus-tax-benefit-microsimulation-model)
+- [European Commission Joint Research Centre: What is EUROMOD?](https://euromod-web.jrc.ec.europa.eu/overview/what-is-euromod)
+- [European Commission Joint Research Centre: EUROMOD](https://joint-research-centre.ec.europa.eu/euromod_en)
+
+{{< include /includes/_post-end.qmd >}}
