@@ -14,7 +14,7 @@ There is nothing inherently foolish about doing that. A forest can be represente
 
 His forestry example makes the point nicely. A forest organised around a narrow measure of timber production can look admirably ordered while losing ecological relationships that the accounting system did not value. A planned settlement can make sense on a map while working badly for people whose movements, trades and social ties were never visible in the plan. The simplification makes intervention possible. It can also conceal some of the knowledge needed to make the intervention work.
 
-That is uncomfortable territory for modelling, which is one reason I find the book useful. Models also depend on legibility. We choose variables, harmonise categories, construct representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. A scenario model turns an uncertain future into a manageable set of assumptions. None of this is a defect. It is what makes modelling possible.
+That is uncomfortable territory for modelling, which is one reason I find the book useful. Models also depend on legibility. We choose variables, harmonise categories, construct representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. [Scenario thinking](/blog/posts/2026-09-22-econometrics-to-scenario-thinking/) turns an uncertain future into a manageable set of assumptions. None of this is a defect. It is what makes modelling possible.
 
 The wrong response would be to conclude that the answer is simply more detail. Complexity is not the same thing as realism. A model with a thousand weakly identified parameters can obscure more than a transparent model with twenty. Policy also needs common categories. A programme cannot be administered if every case has an entirely private definition.
 
@@ -29,3 +29,5 @@ Scott gives considerable weight to practical knowledge, which he discusses throu
 The point is not to choose local knowledge over formal evidence. It is to notice when one is quietly being asked to substitute for the other.
 
 That is the part of *Seeing Like a State* that stays with me. Standardising the world makes some things visible by pushing other things out of view. A model is useful partly because it does the same thing deliberately. The discipline is to be equally deliberate about what has disappeared.
+
+{{< include /includes/_post-end.qmd >}}
