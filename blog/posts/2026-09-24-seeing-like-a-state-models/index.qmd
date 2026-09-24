@@ -8,35 +8,26 @@ draft: true
 
 A model has to leave things out. So does a map, a census, a farm typology and a government form. The interesting question is what happens after the simplification becomes useful.
 
-James C. Scott's *Seeing Like a State* is usually described as a critique of large-scale social planning. Published in 1998, the book ranges across scientific forestry, cadastral maps, urban design, Soviet collectivisation, Tanzanian villagisation and agricultural modernisation. Its recurring concern is what Scott calls legibility: the process by which complicated social and ecological worlds are translated into categories that institutions can see, count and administer.
+James C. Scott's [*Seeing Like a State*](https://yalebooks.yale.edu/book/9780300252989/seeing-like-a-state/) is usually described as a critique of large-scale social planning. First published in 1998, it ranges across scientific forestry, cadastral maps, urban design, Soviet collectivisation, Tanzanian villagisation and agricultural modernisation. Its recurring concern is what Scott calls legibility: the process by which complicated social and ecological worlds are translated into categories that institutions can see, count and administer.
 
-The idea is deceptively familiar. A forest can be represented as timber volume. Land becomes hectares inside mapped parcels. People become entries in a census. Farms become dairy, cattle, sheep, tillage or mixed. None of those classifications is necessarily wrong. In many cases they are indispensable. A state that cannot count people, identify property or measure resources will struggle to tax, provide services or implement policy.
-
-Scott's warning begins when the representation is mistaken for the thing represented.
+The idea is deceptively familiar. A forest can be represented as timber volume. Land becomes hectares inside mapped parcels. People become entries in a census. Farms become dairy, cattle, sheep, tillage or mixed. None of those classifications is necessarily wrong. In many cases they are indispensable. A state that cannot count people, identify property or measure resources will struggle to tax, provide services or implement policy. Scott's warning begins when the representation is mistaken for the thing represented.
 
 His examples show why. A forest managed to maximise a narrow measure of timber can appear beautifully ordered while losing ecological relationships that the accounting system did not value. A planned settlement can look rational from above while ignoring how people actually move, trade, work and maintain social ties. The simplification makes intervention possible, but it can also hide the knowledge required for the intervention to work.
 
-For someone interested in modelling, this is uncomfortable in a productive way.
-
-Models depend on legibility. We choose variables, harmonise categories, construct representative agents, aggregate activities and impose boundaries around systems. Spatial models divide continuous landscapes into units. Microsimulation assigns people or farms to defined types. Scenario models translate uncertain futures into a manageable set of assumptions. Even a beautifully detailed model remains a deliberate reduction of reality.
+That is uncomfortable in a useful way for anyone who builds models. Models depend on legibility. We choose variables, harmonise categories, construct representative agents, aggregate activities and impose boundaries around systems. Spatial models divide continuous landscapes into units. Microsimulation assigns people or farms to defined types. Scenario models translate uncertain futures into a manageable set of assumptions. Even a beautifully detailed model remains a deliberate reduction of reality.
 
 The wrong lesson from Scott would be that simplification is inherently dangerous and that models should therefore become ever more complicated. Complexity is not automatically realism. A model with a thousand poorly identified parameters may obscure more than a transparent model with twenty. Policy also requires some common categories. Governments cannot administer a programme in which every case has an entirely private definition.
 
-A better lesson is to ask what a simplification cannot see.
+A more useful habit is to ask what the simplification cannot see.
 
 Suppose a land-use model identifies the least-cost spatial arrangement for meeting an emissions target. That result may be internally correct while remaining incomplete. Who owns the land selected for change? Are there tenure constraints? Does the model recognise labour? What local practices make an apparently interchangeable hectare quite different from another? Does a technically optimal transition depend on behaviour the model has assumed rather than observed?
 
-These questions do not invalidate the model. They tell us what kind of claim the model can support.
+Those questions do not invalidate the model. They tell us what kind of claim the model can support.
 
 Scott also gives considerable weight to practical knowledge, what he discusses through the Greek term *mētis*. It is knowledge accumulated through experience and adaptation to local conditions, often difficult to formalise. Modern policy analysis has its own versions of this tension. Administrative data may show that two farms have the same area and enterprise type, while a farmer or adviser immediately sees differences in soil, fragmentation, family labour, access, machinery, succession or local markets.
 
-The challenge is not to choose between formal evidence and local knowledge. It is to know when one is being asked to substitute for the other.
+The problem is not choosing between formal evidence and local knowledge. It is knowing when one is being asked to substitute for the other.
 
-That is why *Seeing Like a State* remains useful well beyond political theory. It is a book about institutions, but also about measurement. It asks what becomes visible when we standardise the world and what disappears at the same moment.
+That is why I find *Seeing Like a State* useful well beyond political theory. It is a book about institutions, but it is also a book about measurement. It keeps returning to the same awkward fact: standardising the world makes some things visible by pushing other things out of view.
 
-I find that question more useful than a general warning against models. Every model is a map. Good modelling begins by knowing what the map was built to show, and resisting the temptation to claim that everything outside its legend has therefore ceased to matter.
-
-## Further reading
-
-- [Yale University Press: Seeing Like a State](https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/)
-- Scott, J. C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
+Every model is a map. Good modelling begins by knowing what the map was built to show, and resisting the temptation to claim that everything outside its legend has therefore ceased to matter.
