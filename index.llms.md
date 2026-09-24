@@ -32,17 +32,19 @@ Reading James C. Scott’s Seeing Like a State as a warning about simplification
 
 Sep 24, 2026
 
-### [Useful GitHub: LUTO2 and the hard problem of choosing land uses](blog/posts/2026-09-24-useful-github-luto2/index.llms.md)
-
-Australia’s open LUTO2 model shows what spatial land-use optimisation looks like when food, carbon, biodiversity, water and economics have to occupy the same map.
-
-Sep 24, 2026
-
 ### [Wildfire policy begins before the fire](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
 Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
 
 Sep 24, 2026
+
+[![FORESIGHT project illustration showing a pathway through a green landscape](./blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+
+### [Where my PhD sits: FUSION and FORESIGHT](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+
+The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
+
+Sep 22, 2026
 
 ## About my research
 

@@ -8,12 +8,6 @@ Reading James C. Scott’s Seeing Like a State as a warning about simplification
 
 Sep 24, 2026
 
-### [Useful GitHub: LUTO2 and the hard problem of choosing land uses](../blog/posts/2026-09-24-useful-github-luto2/index.llms.md)
-
-Australia’s open LUTO2 model shows what spatial land-use optimisation looks like when food, carbon, biodiversity, water and economics have to occupy the same map.
-
-Sep 24, 2026
-
 ### [Wildfire policy begins before the fire](../blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
 Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
@@ -49,13 +43,5 @@ Sep 22, 2026
 ### [When environmental policy needs a landscape, not just a farm](../blog/posts/2026-09-22-acres-landscape-actions/index.llms.md)
 
 Ireland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.
-
-Sep 22, 2026
-
-[![A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs](../blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg)](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
-
-### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
-
-What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
 
 Sep 22, 2026
