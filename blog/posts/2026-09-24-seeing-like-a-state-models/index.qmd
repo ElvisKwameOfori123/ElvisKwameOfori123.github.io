@@ -1,0 +1,33 @@
+---
+title: "A map can clarify the world and still leave something out"
+description: "Reading James C. Scott's Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy."
+date: 2026-09-24
+categories: ["Economics & Evidence", "Personal & Ideas"]
+draft: false
+---
+
+A model has to leave things out. That is obvious enough. I think the more interesting question begins after the simplification starts working, because that is when it becomes easy to forget that it was a simplification in the first place.
+
+James C. Scott's [*Seeing Like a State*](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) is usually read as a critique of large-scale schemes of social improvement. The book moves through scientific forestry, cadastral maps, urban planning, collectivisation, villagisation and agricultural modernisation. The thread running through those examples is what Scott calls legibility: complicated social and ecological worlds are translated into categories that institutions can count, compare and administer.
+
+There is nothing inherently foolish about doing that. A forest can be represented as timber volume. Land can be divided into mapped parcels. People can be counted in a census. Farms can be classified as dairy, cattle, sheep, tillage or mixed. A government that cannot identify property, measure resources or count people will have trouble taxing, planning services or administering policy. Scott's warning is narrower and more useful than a rejection of measurement. Trouble begins when the representation starts to stand in for the thing represented.
+
+His forestry example makes the point nicely. A forest organised around a narrow measure of timber production can look admirably ordered while losing ecological relationships that the accounting system did not value. A planned settlement can make sense on a map while working badly for people whose movements, trades and social ties were never visible in the plan. The simplification makes intervention possible. It can also conceal some of the knowledge needed to make the intervention work.
+
+That is uncomfortable territory for modelling, which is one reason I find the book useful. Models also depend on legibility. We choose variables, harmonise categories, construct representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. [Scenario thinking](/blog/posts/2026-09-22-econometrics-to-scenario-thinking/) turns an uncertain future into a manageable set of assumptions. None of this is a defect. It is what makes modelling possible.
+
+The wrong response would be to conclude that the answer is simply more detail. Complexity is not the same thing as realism. A model with a thousand weakly identified parameters can obscure more than a transparent model with twenty. Policy also needs common categories. A programme cannot be administered if every case has an entirely private definition.
+
+The more useful habit is to ask what the simplification cannot see.
+
+Take a land-use model that finds the least-cost spatial arrangement for meeting an emissions target. The optimisation may be internally correct and still leave important questions outside the model. Who owns the land selected for change? Are there tenure constraints? Does the model recognise labour? Are two hectares that look interchangeable in the data actually very different because of soil, fragmentation, access or local markets? Does the transition depend on behaviour that has been assumed rather than observed?
+
+Those questions do not make the model useless. They help define the claim it can support.
+
+Scott gives considerable weight to practical knowledge, which he discusses through the Greek term *mētis*. It is knowledge accumulated through experience and adaptation to local conditions, often difficult to formalise. There is an obvious analogue in agricultural analysis. Administrative data may tell us that two farms have the same area and enterprise type, while a farmer or adviser immediately sees differences in soil, family labour, machinery, succession, fragmentation or market access.
+
+The point is not to choose local knowledge over formal evidence. It is to notice when one is quietly being asked to substitute for the other.
+
+That is the part of *Seeing Like a State* that stays with me. Standardising the world makes some things visible by pushing other things out of view. A model is useful partly because it does the same thing deliberately. The discipline is to be equally deliberate about what has disappeared.
+
+{{< include /includes/_post-end.qmd >}}
