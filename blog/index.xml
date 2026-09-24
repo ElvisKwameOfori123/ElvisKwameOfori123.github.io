@@ -15,30 +15,28 @@
 <link>https://kwameofori123.com/blog/</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Useful GitHub: MAgPIE and the discipline of open land-system modelling</title>
-  <link>https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/</link>
+  <title>A map can clarify the world and still leave something out</title>
+  <link>https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>I was looking through the <a href="https://github.com/magpiemodel/magpie">MAgPIE repository</a> because I wanted to see how a large land-system model is actually organised once it has grown beyond the scale of one paper. That turned out to be more useful than looking for a particular function. The repository is interesting because the code, configuration, documentation and scenario machinery make visible a lot of decisions that are normally hidden behind the finished results.</p>
-<p>MAgPIE stands for the Model of Agricultural Production and its Impact on the Environment. It is an optimisation model used to study global agriculture, forestry and land-use change, with economic demand on one side and spatially explicit biophysical constraints on the other. The broad question is easy to state and difficult to solve: given demand for food, timber and bioenergy, along with yields, costs, land, water and other constraints, what pattern of production and land use can satisfy those demands at minimum cost?</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg" class="img-fluid figure-img" style="width:92.0%" alt="Demand and scenario assumptions and biophysical constraints enter the MAgPIE optimisation model, which produces land-use patterns, yields and production costs."></p>
-<figcaption>A simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.</figcaption>
-</figure>
-</div>
-<p><em>Simplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.</em></p>
-<p>What interested me first was the modularity. Large models become difficult to reason about when every assumption is buried in one script. MAgPIE separates components and lets scenario choices live in configuration rather than forcing the modeller to rewrite the model every time the question changes. That sounds like a software-engineering point, and it is, but it is also a modelling point. A model that can only be understood by the person who wrote the original script is difficult to interrogate, however sophisticated the equations are.</p>
-<p>The same is true of reproducibility. The repository does not treat publishing source code as the end of the job. It documents software requirements, installation, configuration, execution and outputs, and the project maintains <a href="https://magpiemodel.github.io/tutorials.html">tutorials</a> and versioned documentation around the model. There is also a clear attempt to make dependencies and data preparation part of the reproducible workflow rather than an invisible stage that happens before the “real” model starts. The underlying framework is described in <a href="https://doi.org/10.5194/gmd-12-1299-2019">this paper in <em>Geoscientific Model Development</em></a>. The current <a href="https://github.com/magpiemodel/magpie/releases/tag/v4.14.1">v4.14.1 release</a> was published on 25 August 2026, and the repository was still receiving commits in September. The code is licensed under AGPL-3.0-or-later, with a MAgPIE-specific licence exception described in the repository.</p>
-<p>There are practical barriers. MAgPIE is not a lightweight package. The core model is written in GAMS, with R used around the workflow. The current installation notes require a GAMS licence with CONOPT, GAMS 50.1 or later and R 4.3 or later, and recommend at least 16 GB of memory. That is worth remembering when open-source models are discussed as though publishing the repository automatically makes the model easy to reproduce. Openness and accessibility are related, but they are not the same thing.</p>
-<p>Its scale creates another useful boundary. MAgPIE can say a great deal about globally consistent land transitions and competition among food, forestry and bioenergy. It is not trying to tell us which individual farmer changes enterprise or which exact parcel converts next year. A farm microsimulation model and a global optimisation model are not competing versions of the same thing. They answer different questions.</p>
-<p>That is probably what I took from the repository more than anything else. I would not try to copy MAgPIE into a smaller national model. I would copy the discipline around it: keep assumptions visible, separate components cleanly, make scenario settings explicit, trace outputs back through the data pipeline, and be clear about the level at which the model can actually speak. Those habits travel rather well.</p>
+<p>A model has to leave things out. That is obvious enough. I think the more interesting question begins after the simplification starts working, because that is when it becomes easy to forget that it was a simplification in the first place.</p>
+<p>James C. Scott’s <a href="https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/"><em>Seeing Like a State</em></a> is usually read as a critique of large-scale schemes of social improvement. The book moves through scientific forestry, cadastral maps, urban planning, collectivisation, villagisation and agricultural modernisation. The thread running through those examples is what Scott calls legibility: complicated social and ecological worlds are translated into categories that institutions can count, compare and administer.</p>
+<p>There is nothing inherently foolish about doing that. A forest can be represented as timber volume. Land can be divided into mapped parcels. People can be counted in a census. Farms can be classified as dairy, cattle, sheep, tillage or mixed. A government that cannot identify property, measure resources or count people will have trouble taxing, planning services or administering policy. Scott’s warning is narrower and more useful than a rejection of measurement. Trouble begins when the representation starts to stand in for the thing represented.</p>
+<p>His forestry example makes the point nicely. A forest organised around a narrow measure of timber production can look admirably ordered while losing ecological relationships that the accounting system did not value. A planned settlement can make sense on a map while working badly for people whose movements, trades and social ties were never visible in the plan. The simplification makes intervention possible. It can also conceal some of the knowledge needed to make the intervention work.</p>
+<p>That is uncomfortable territory for modelling, which is one reason I find the book useful. Models also depend on legibility. We choose variables, harmonise categories, construct representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. <a href="../../../blog/posts/2026-09-22-econometrics-to-scenario-thinking/">Scenario thinking</a> turns an uncertain future into a manageable set of assumptions. None of this is a defect. It is what makes modelling possible.</p>
+<p>The wrong response would be to conclude that the answer is simply more detail. Complexity is not the same thing as realism. A model with a thousand weakly identified parameters can obscure more than a transparent model with twenty. Policy also needs common categories. A programme cannot be administered if every case has an entirely private definition.</p>
+<p>The more useful habit is to ask what the simplification cannot see.</p>
+<p>Take a land-use model that finds the least-cost spatial arrangement for meeting an emissions target. The optimisation may be internally correct and still leave important questions outside the model. Who owns the land selected for change? Are there tenure constraints? Does the model recognise labour? Are two hectares that look interchangeable in the data actually very different because of soil, fragmentation, access or local markets? Does the transition depend on behaviour that has been assumed rather than observed?</p>
+<p>Those questions do not make the model useless. They help define the claim it can support.</p>
+<p>Scott gives considerable weight to practical knowledge, which he discusses through the Greek term <em>mētis</em>. It is knowledge accumulated through experience and adaptation to local conditions, often difficult to formalise. There is an obvious analogue in agricultural analysis. Administrative data may tell us that two farms have the same area and enterprise type, while a farmer or adviser immediately sees differences in soil, family labour, machinery, succession, fragmentation or market access.</p>
+<p>The point is not to choose local knowledge over formal evidence. It is to notice when one is quietly being asked to substitute for the other.</p>
+<p>That is the part of <em>Seeing Like a State</em> that stays with me. Standardising the world makes some things visible by pushing other things out of view. A model is useful partly because it does the same thing deliberately. The discipline is to be equally deliberate about what has disappeared.</p>
 <div class="post-end">
 <p><strong>Elvis Kwame Ofori</strong><br>
 Researcher and writer behind <em>EKO Perspectives</em>.</p>
@@ -48,11 +46,150 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 
 
  ]]></description>
-  <category>Science &amp; Technology</category>
+  <category>Economics &amp; Evidence</category>
+  <category>Personal &amp; Ideas</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/</guid>
+  <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Useful GitHub: LUTO2 and the hard problem of choosing land uses</title>
+  <link>https://kwameofori123.com/blog/posts/2026-09-24-useful-github-luto2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I was looking through the public <a href="https://github.com/land-use-trade-offs/luto-2.0">LUTO2 repository</a> and got interested in something less glamorous than the maps. The folder structure tells you quite a lot about how the model thinks.</p>
+<p>LUTO2, the Land-Use Trade-Offs Model Version 2.0, is an integrated land-systems model for Australia developed through Deakin University and Climateworks Centre, with research contributions from CSIRO. It searches for spatial arrangements of land use and management through time while accounting for climate and biodiversity targets alongside economics, food production and water security. The code is released under the GNU GPL v3 licence. The repository is still active: its latest tagged release, <a href="https://github.com/land-use-trade-offs/luto-2.0/releases/tag/v2.4-beta">v2.4-beta</a>, was published on 21 August 2026, and new commits were still landing in September.</p>
+<p>What caught my attention was the separation of the different pieces of the problem. Agricultural and non-agricultural economics are broken into modules for costs, revenues, greenhouse gases, biodiversity, water, production quantities and land-use transitions. The solver layer then builds the variables, constraints and objective that are passed to Gurobi. Reporting sits downstream of that and turns the solution into maps, trajectories and other outputs.</p>
+<p>That sounds like software housekeeping, but it is also a modelling choice. An integrated land-use result is not produced by one grand equation. It is assembled from several accounting systems that have to agree with one another. Keeping those pieces visible makes it easier to ask where an unexpected result came from. Was it a transition cost? A biodiversity constraint? A water limit? A demand target? The optimiser?</p>
+<p>The current repository extends the modelling horizon to 2100 and includes a wider set of land-use options, management measures, sustainability indicators and demand-side changes than the original LUTO model. It also points to stakeholder consultation used in developing the modelling approach. For me, though, the transferable part is not the Australian scale. It is the architecture.</p>
+<p>I was especially interested in the way the repository now handles infeasibility. Before a solve, LUTO2 can check whether individual constraint rows are impossible, redundant or tight given the available variable bounds. If the model still fails, there are tools for digging further into the conflicting constraints. That is useful because an infeasible scenario is not always a programming mistake. Several perfectly reasonable policy targets can become impossible when they are asked to occupy the same finite landscape under the same transition rules.</p>
+<p>There is a broader lesson there. A model should not merely produce a solution when everything fits. It should also help explain why things do not fit when they do not.</p>
+<p>The reporting system follows the same logic. A national total is rarely enough for a spatial model. If land is being reallocated, you want to know where, when and under which constraints. Maps are part of that, but so are trajectories and disaggregated indicators. The output has to leave enough of the model’s reasoning visible for someone to interrogate it.</p>
+<p>The repository also puts a useful limit on what we mean by “open source.” The code is public, but the README says the input database is about 40 GB and contains sensitive data that must be requested from the development team. The current environment pins Python 3.12 and <code>gurobipy</code> 13.0.0; the README lists 50 GB of disk space and treats full-resolution work as an HPC workload. CPLEX bindings are present as a planned alternative, but Gurobi remains the solver the model uses today. So the public repository gives substantial transparency about the model’s structure without making every published run effortless to reproduce.</p>
+<p>That distinction matters. I had much the same reaction when looking at <a href="../../../blog/posts/2026-09-22-useful-github-magpie/">MAgPIE</a>: open code is one layer of reproducibility. Accessible inputs, documented environments, solver access and enough computing resources are other layers.</p>
+<p>LUTO2 is a very large model, and most smaller projects will not need its machinery. What is worth borrowing is the visible chain from assumptions, to separate calculations, to constraints, to spatial choices, and then to outputs that can be checked. The final map is only one part of that chain.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+
+ ]]></description>
   <category>Land &amp; Agriculture</category>
-  <guid>https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/</guid>
+  <category>Science &amp; Technology</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-09-24-useful-github-luto2/</guid>
+  <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Wildfire policy begins before the fire</title>
+  <link>https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>One thing in the European Commission’s March 2026 wildfire strategy is easy to miss if fire is thought of mainly as an emergency. A great deal of wildfire policy happens when there is no fire.</p>
+<p>The Commission’s <a href="https://ec.europa.eu/echo/files/civil_protection/communication_on_integrated_wildfire_risk_management.pdf">Communication on Integrated Wildfire Risk Management</a>, adopted on 25 March, treats prevention, preparedness, response and recovery as parts of the same system. Its guidance for <a href="https://agriculture.ec.europa.eu/cap-my-country/sustainability/environmental-sustainability/wildfire-prevention-and-restoration-agriculture-and-forests_en">agriculture and forests</a> gives farmers and foresters a role throughout that cycle. Grazing, agroforestry, thinning, firebreaks and other forms of land management can affect fuel accumulation and the structure of the landscape long before an ignition occurs.</p>
+<p>Ireland is not Mediterranean Europe, and it would be misleading to import the southern European fire story wholesale. The risk profile is different. Still, Irish guidance already treats wildfire as more than a firefighting problem. The Department of Agriculture, Food and the Marine’s <a href="https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/fire-management/">fire-management page</a> identifies a spring fire-risk season and currently lists three Fire Danger Notices for 2026. The <a href="https://www.gov.ie/en/office-of-emergency-planning/guidance/wildfires/">Office of Emergency Planning</a> identifies peatlands, turf-cutting bogs, uplands and immature forest lands among the areas particularly prone to wildfire, and notes that active farming, appropriate grazing and other fuel-reduction measures can reduce risk.</p>
+<p>That raises a more interesting question than whether Ireland is becoming Spain or Greece. How much of Irish wildfire policy belongs inside ordinary land management?</p>
+<p>Some of the answer is already visible. <a href="https://teagasc.ie/crops/forestry/advice/forest-protection/dealing-with-wildfires/">Teagasc’s guidance for forest owners</a> stresses fire plans, maintained firebreaks, access routes, water sources and cooperation with neighbouring landowners. None of this looks dramatic beside aircraft, fire engines or an evacuation. That is precisely the point. The interventions matter because they happen before an emergency.</p>
+<p>There is a familiar policy problem here. The benefits and risks of landscape management do not stop at a property boundary. A well-managed parcel may reduce fuel in a wider area. A blocked access route or unmanaged strip can create problems for neighbours. Prevention therefore has some of the same <a href="../../../blog/posts/2026-09-22-acres-landscape-actions/">coordination difficulties that appear in water quality, biodiversity and invasive-species policy</a>: the relevant ecological unit is often larger than the individual holding through which policy is administered.</p>
+<p>The European approach is useful because it widens the unit of analysis without pretending that every landscape should be managed in the same way. Farms and forests matter, but so do mosaics of land uses and the relationships between neighbouring holdings. Peatlands and habitats have their own ecological objectives, and poorly designed fuel reduction can damage the things a policy is meant to protect. Prescribed burning, where used, also requires expertise, legal compliance and careful timing.</p>
+<p>There is another reason for caution. A plausible mechanism is not the same thing as demonstrated effectiveness everywhere. Grazing can reduce some fuels, but the effect depends on stocking, vegetation, season, terrain and the ecological system being managed. The useful policy questions are therefore more specific: where does an intervention work, at what intensity, at what cost, and with what consequences for biodiversity, carbon and farming?</p>
+<p>By the time a hillside is burning, many of those choices have already been made. That is why the quiet parts of wildfire policy may turn out to be the more interesting ones.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>Policy</category>
+  <category>Land &amp; Agriculture</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/</guid>
+  <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>When the future is outside the data</title>
+  <link>https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For a long time, most of the questions I worked on began with data that had already been observed. I would estimate a relationship, test a hypothesis, worry about identification, and then ask what the result might tell us about policy. Econometrics is perfectly capable of saying something about situations that have not yet happened, of course. Much of applied economics is built around counterfactuals. But during my PhD I started running into a slightly different problem: some of the futures I was being asked to think about were much farther from the data than I was used to.</p>
+<p>That distance matters. An estimated relationship is usually most convincing around the range of variation from which it was learned. Move far enough beyond that range and the regression will still give you a number, but more of the answer is now coming from the model and less from anything we have actually observed. This is not a criticism of econometrics. It is simply a boundary that becomes easier to see when the policy question is large enough.</p>
+<p><a href="https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php">The Irish Land Use Review</a> is a good example of the kind of problem I mean. Its scenarios include substantial additional forestry and large-scale rewetting of grassland on organic soils by 2050. Those are not ordinary year-to-year movements in the land system. They ask what happens when the structure itself changes.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" class="img-fluid figure-img" style="width:82.0%" alt="An Irish farm field with cattle and agricultural grassland"></p>
+<figcaption>Irish farm field. Photograph by Daniel Hanrahan.</figcaption>
+</figure>
+</div>
+<p><em>Source: <a href="https://commons.wikimedia.org/wiki/File:Irish_Farm_Field_(38665262).jpeg">Daniel Hanrahan / Wikimedia Commons</a>, used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</em></p>
+<p>This is where I began to understand scenario modelling differently. A scenario is not a forecast wearing a different name. It can begin with a target, a policy assumption or a possible future condition and ask what else would have to change if that condition were true. Backcasting pushes the idea further by starting from the future objective and working backwards toward the present. The <a href="https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en">European Commission has a useful short explanation of scenario building in foresight</a>, and the <a href="https://www.oecd.org/en/about/programmes/strategic-foresight.html">OECD’s strategic foresight work</a> makes much the same distinction between exploring plausible futures and trying to predict one.</p>
+<p>I still find econometric evidence indispensable here. If a scenario assumes that farms will respond to a price, payment or constraint in a particular way, observed behaviour is one of the best places to discipline that assumption. The trouble starts when we pretend the historical estimate can carry the whole exercise after the system has moved well outside the conditions under which the estimate was obtained. At that point it is better to say openly which parts come from evidence and which parts come from scenario assumptions.</p>
+<p>There is an older distinction in climate policy between top-down economic models and bottom-up technology or sector models. An <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf">OECD paper on emissions baselines</a> puts the difference fairly plainly: the first gives you economy-wide coherence, while the second can give you much more detail about technologies and sectors. I increasingly think the same way about the mix of methods I use. Econometrics tells me what observed variation can teach me. Scenario models let me ask what a different future would require. Spatial models force the question of where the change lands. Microsimulation makes it harder to forget that thousands of farms facing the same policy may not respond in the same way.</p>
+<p>I have not found a single method that does all of this particularly well. I am no longer sure I would want one to.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>Economics &amp; Evidence</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</guid>
   <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg" medium="image" type="image/svg+xml"/>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Where my PhD sits: FUSION and FORESIGHT</title>
+  <link>https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<figure class="figure">
+<img src="https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/foresight1.jpg" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions" class="figure-img">
+<figcaption>
+<em>FORESIGHT project illustration</em>, <a href="https://fusion-research.eu/foresight.html">FUSION, University of Galway</a>, used under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+</figcaption>
+</figure>
+<p>I thought it was worth putting the institutional background to my PhD somewhere on this site, partly because I expect to write about Irish agriculture and climate policy here and I do not want the work to appear as though it comes from nowhere.</p>
+<p>I am doing the PhD within <a href="https://fusion-research.eu/">FUSION, the FUture Sustainable economy Integrated mOdelling Network</a> at the University of Galway. The group works across life-cycle assessment, integrated assessment, land-use modelling and environmental software. In practice that means a question about agriculture does not have to stay inside an agricultural model. It can lead into forestry, energy, emissions accounting, land allocation or another part of the system.</p>
+<p>Much of my work also sits alongside <a href="https://fusion-research.eu/foresight.html">FORESIGHT</a>, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. FUSION leads the project with the University of Limerick and FERS Ltd.&nbsp;That relationship matters for this website. When I write about Irish climate, agriculture or land-use policy, readers should know that I work inside a government-funded modelling programme connected to those subjects. The views here are my own and do not represent the University of Galway, the Department, funders or collaborators.</p>
+<p>One of the modelling tools in this environment is <a href="https://fusion-research.eu/goblin-package-documentation.html">GOBLIN</a>, which links agriculture, forestry and other land uses within a national land-balance framework. What has interested me increasingly is what happens after a national pathway has been made internally coherent. A national result can say that livestock, forestry or another land use changes by a certain amount, but eventually that change has to meet geography and farms that differ from one another.</p>
+<p>That is where a lot of my own questions begin. The same national adjustment can look quite different when it reaches dairy, beef or other production systems in different parts of the country. A model can be perfectly consistent in aggregate and still leave difficult questions about where the transition falls, who carries it and whether the land implied by several objectives can actually fit in the same places.</p>
+<p>I like working in an environment where models are treated as things to question rather than things to admire. Assumptions should be visible enough to change, alternatives should be easy enough to test, and a result should come with some sense of what the model cannot tell us. That sounds obvious when written down. It is less obvious once a model becomes large and technically impressive.</p>
+<p>The site will range much more widely than my PhD. I will write about economics, technology, Ghana, Ireland, the United States, books, code and whatever else seems worth thinking through. But when a post touches Irish agriculture or climate policy, this is the background I want readers to have in mind.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>Policy</category>
+  <category>Personal &amp; Ideas</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/</guid>
+  <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/foresight1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>AI is becoming ordinary. The evidence about its effects is still catching up</title>
@@ -132,65 +269,28 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
   <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
-  <title>Where my PhD sits: FUSION and FORESIGHT</title>
-  <link>https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/</link>
+  <title>Useful GitHub: MAgPIE and the discipline of open land-system modelling</title>
+  <link>https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<figure class="figure">
-<img src="https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/foresight1.jpg" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions" class="figure-img">
-<figcaption>
-<em>FORESIGHT project illustration</em>, <a href="https://fusion-research.eu/foresight.html">FUSION, University of Galway</a>, used under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-</figcaption>
-</figure>
-<p>I thought it was worth putting the institutional background to my PhD somewhere on this site, partly because I expect to write about Irish agriculture and climate policy here and I do not want the work to appear as though it comes from nowhere.</p>
-<p>I am doing the PhD within <a href="https://fusion-research.eu/">FUSION, the FUture Sustainable economy Integrated mOdelling Network</a> at the University of Galway. The group works across life-cycle assessment, integrated assessment, land-use modelling and environmental software. In practice that means a question about agriculture does not have to stay inside an agricultural model. It can lead into forestry, energy, emissions accounting, land allocation or another part of the system.</p>
-<p>Much of my work also sits alongside <a href="https://fusion-research.eu/foresight.html">FORESIGHT</a>, a project funded by Ireland’s Department of the Environment, Climate and Communications under a services contract to provide agriculture and land-use modelling to the Climate Action Modelling Group. FUSION leads the project with the University of Limerick and FERS Ltd.&nbsp;That relationship matters for this website. When I write about Irish climate, agriculture or land-use policy, readers should know that I work inside a government-funded modelling programme connected to those subjects. The views here are my own and do not represent the University of Galway, the Department, funders or collaborators.</p>
-<p>One of the modelling tools in this environment is <a href="https://fusion-research.eu/goblin-package-documentation.html">GOBLIN</a>, which links agriculture, forestry and other land uses within a national land-balance framework. What has interested me increasingly is what happens after a national pathway has been made internally coherent. A national result can say that livestock, forestry or another land use changes by a certain amount, but eventually that change has to meet geography and farms that differ from one another.</p>
-<p>That is where a lot of my own questions begin. The same national adjustment can look quite different when it reaches dairy, beef or other production systems in different parts of the country. A model can be perfectly consistent in aggregate and still leave difficult questions about where the transition falls, who carries it and whether the land implied by several objectives can actually fit in the same places.</p>
-<p>I like working in an environment where models are treated as things to question rather than things to admire. Assumptions should be visible enough to change, alternatives should be easy enough to test, and a result should come with some sense of what the model cannot tell us. That sounds obvious when written down. It is less obvious once a model becomes large and technically impressive.</p>
-<p>The site will range much more widely than my PhD. I will write about economics, technology, Ghana, Ireland, the United States, books, code and whatever else seems worth thinking through. But when a post touches Irish agriculture or climate policy, this is the background I want readers to have in mind.</p>
-<div class="post-end">
-<p><strong>Elvis Kwame Ofori</strong><br>
-Researcher and writer behind <em>EKO Perspectives</em>.</p>
-<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
-</div>
-
-
-
- ]]></description>
-  <category>Policy</category>
-  <category>Personal &amp; Ideas</category>
-  <guid>https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/</guid>
-  <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/foresight1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>When the future is outside the data</title>
-  <link>https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>For a long time, most of the questions I worked on began with data that had already been observed. I would estimate a relationship, test a hypothesis, worry about identification, and then ask what the result might tell us about policy. Econometrics is perfectly capable of saying something about situations that have not yet happened, of course. Much of applied economics is built around counterfactuals. But during my PhD I started running into a slightly different problem: some of the futures I was being asked to think about were much farther from the data than I was used to.</p>
-<p>That distance matters. An estimated relationship is usually most convincing around the range of variation from which it was learned. Move far enough beyond that range and the regression will still give you a number, but more of the answer is now coming from the model and less from anything we have actually observed. This is not a criticism of econometrics. It is simply a boundary that becomes easier to see when the policy question is large enough.</p>
-<p><a href="https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php">The Irish Land Use Review</a> is a good example of the kind of problem I mean. Its scenarios include substantial additional forestry and large-scale rewetting of grassland on organic soils by 2050. Those are not ordinary year-to-year movements in the land system. They ask what happens when the structure itself changes.</p>
+<p>I was looking through the <a href="https://github.com/magpiemodel/magpie">MAgPIE repository</a> because I wanted to see how a large land-system model is actually organised once it has grown beyond the scale of one paper. That turned out to be more useful than looking for a particular function. The repository is interesting because the code, configuration, documentation and scenario machinery make visible a lot of decisions that are normally hidden behind the finished results.</p>
+<p>MAgPIE stands for the Model of Agricultural Production and its Impact on the Environment. It is an optimisation model used to study global agriculture, forestry and land-use change, with economic demand on one side and spatially explicit biophysical constraints on the other. The broad question is easy to state and difficult to solve: given demand for food, timber and bioenergy, along with yields, costs, land, water and other constraints, what pattern of production and land use can satisfy those demands at minimum cost?</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" class="img-fluid figure-img" style="width:82.0%" alt="An Irish farm field with cattle and agricultural grassland"></p>
-<figcaption>Irish farm field. Photograph by Daniel Hanrahan.</figcaption>
+<p><img src="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg" class="img-fluid figure-img" style="width:92.0%" alt="Demand and scenario assumptions and biophysical constraints enter the MAgPIE optimisation model, which produces land-use patterns, yields and production costs."></p>
+<figcaption>A simplified view of how MAgPIE turns demand and biophysical constraints into a land-system optimisation problem.</figcaption>
 </figure>
 </div>
-<p><em>Source: <a href="https://commons.wikimedia.org/wiki/File:Irish_Farm_Field_(38665262).jpeg">Daniel Hanrahan / Wikimedia Commons</a>, used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</em></p>
-<p>This is where I began to understand scenario modelling differently. A scenario is not a forecast wearing a different name. It can begin with a target, a policy assumption or a possible future condition and ask what else would have to change if that condition were true. Backcasting pushes the idea further by starting from the future objective and working backwards toward the present. The <a href="https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en">European Commission has a useful short explanation of scenario building in foresight</a>, and the <a href="https://www.oecd.org/en/about/programmes/strategic-foresight.html">OECD’s strategic foresight work</a> makes much the same distinction between exploring plausible futures and trying to predict one.</p>
-<p>I still find econometric evidence indispensable here. If a scenario assumes that farms will respond to a price, payment or constraint in a particular way, observed behaviour is one of the best places to discipline that assumption. The trouble starts when we pretend the historical estimate can carry the whole exercise after the system has moved well outside the conditions under which the estimate was obtained. At that point it is better to say openly which parts come from evidence and which parts come from scenario assumptions.</p>
-<p>There is an older distinction in climate policy between top-down economic models and bottom-up technology or sector models. An <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/projecting-emissions-baselines-for-national-climate-policy_g17a244b/5k3tpsz58wvc-en.pdf">OECD paper on emissions baselines</a> puts the difference fairly plainly: the first gives you economy-wide coherence, while the second can give you much more detail about technologies and sectors. I increasingly think the same way about the mix of methods I use. Econometrics tells me what observed variation can teach me. Scenario models let me ask what a different future would require. Spatial models force the question of where the change lands. Microsimulation makes it harder to forget that thousands of farms facing the same policy may not respond in the same way.</p>
-<p>I have not found a single method that does all of this particularly well. I am no longer sure I would want one to.</p>
+<p><em>Simplified schematic for EKO Perspectives, based on the public MAgPIE model documentation.</em></p>
+<p>What interested me first was the modularity. Large models become difficult to reason about when every assumption is buried in one script. MAgPIE separates components and lets scenario choices live in configuration rather than forcing the modeller to rewrite the model every time the question changes. That sounds like a software-engineering point, and it is, but it is also a modelling point. A model that can only be understood by the person who wrote the original script is difficult to interrogate, however sophisticated the equations are.</p>
+<p>The same is true of reproducibility. The repository does not treat publishing source code as the end of the job. It documents software requirements, installation, configuration, execution and outputs, and the project maintains <a href="https://magpiemodel.github.io/tutorials.html">tutorials</a> and versioned documentation around the model. There is also a clear attempt to make dependencies and data preparation part of the reproducible workflow rather than an invisible stage that happens before the “real” model starts. The underlying framework is described in <a href="https://doi.org/10.5194/gmd-12-1299-2019">this paper in <em>Geoscientific Model Development</em></a>. The current <a href="https://github.com/magpiemodel/magpie/releases/tag/v4.14.1">v4.14.1 release</a> was published on 25 August 2026, and the repository was still receiving commits in September. The code is licensed under AGPL-3.0-or-later, with a MAgPIE-specific licence exception described in the repository.</p>
+<p>There are practical barriers. MAgPIE is not a lightweight package. The core model is written in GAMS, with R used around the workflow. The current installation notes require a GAMS licence with CONOPT, GAMS 50.1 or later and R 4.3 or later, and recommend at least 16 GB of memory. That is worth remembering when open-source models are discussed as though publishing the repository automatically makes the model easy to reproduce. Openness and accessibility are related, but they are not the same thing.</p>
+<p>Its scale creates another useful boundary. MAgPIE can say a great deal about globally consistent land transitions and competition among food, forestry and bioenergy. It is not trying to tell us which individual farmer changes enterprise or which exact parcel converts next year. A farm microsimulation model and a global optimisation model are not competing versions of the same thing. They answer different questions.</p>
+<p>That is probably what I took from the repository more than anything else. I would not try to copy MAgPIE into a smaller national model. I would copy the discipline around it: keep assumptions visible, separate components cleanly, make scenario settings explicit, trace outputs back through the data pipeline, and be clear about the level at which the model can actually speak. Those habits travel rather well.</p>
 <div class="post-end">
 <p><strong>Elvis Kwame Ofori</strong><br>
 Researcher and writer behind <em>EKO Perspectives</em>.</p>
@@ -200,10 +300,11 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 
 
  ]]></description>
-  <category>Economics &amp; Evidence</category>
-  <guid>https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</guid>
+  <category>Science &amp; Technology</category>
+  <category>Land &amp; Agriculture</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/</guid>
   <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg" medium="image" type="image/svg+xml"/>
 </item>
 </channel>
 </rss>

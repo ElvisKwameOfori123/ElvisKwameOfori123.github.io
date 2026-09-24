@@ -26,29 +26,23 @@ Two pieces that show what EKO Perspectives is about.
 
 [EKO Perspectives →](blog/)
 
-[![A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs](./blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg)](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+### [A map can clarify the world and still leave something out](blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
 
-### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+Reading James C. Scott’s Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy.
 
-What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
+Sep 24, 2026
 
-Sep 22, 2026
+### [Useful GitHub: LUTO2 and the hard problem of choosing land uses](blog/posts/2026-09-24-useful-github-luto2/index.llms.md)
 
-[![A diagram showing that the same amount of time using AI can involve copying an answer or attempting a task, asking for feedback and revising](./blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg)](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
+Australia’s open LUTO2 model shows what spatial land-use optimisation looks like when food, carbon, biodiversity, water and economics have to occupy the same map.
 
-### [AI is becoming ordinary. The evidence about its effects is still catching up](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
+Sep 24, 2026
 
-As generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.
+### [Wildfire policy begins before the fire](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
-Sep 22, 2026
+Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
 
-[![FORESIGHT project illustration showing a pathway through a green landscape](./blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
-
-### [Where my PhD sits: FUSION and FORESIGHT](blog/posts/2026-09-22-fusion-foresight/index.llms.md)
-
-The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
-
-Sep 22, 2026
+Sep 24, 2026
 
 ## About my research
 

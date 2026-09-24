@@ -2,11 +2,37 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
-[![A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs](../blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg)](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+### [A map can clarify the world and still leave something out](../blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
 
-### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
+Reading James C. Scott’s Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy.
 
-What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
+Sep 24, 2026
+
+### [Useful GitHub: LUTO2 and the hard problem of choosing land uses](../blog/posts/2026-09-24-useful-github-luto2/index.llms.md)
+
+Australia’s open LUTO2 model shows what spatial land-use optimisation looks like when food, carbon, biodiversity, water and economics have to occupy the same map.
+
+Sep 24, 2026
+
+### [Wildfire policy begins before the fire](../blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
+
+Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
+
+Sep 24, 2026
+
+[![An Irish farm field with cattle and grassland](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg)](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
+
+### [When the future is outside the data](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
+
+Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.
+
+Sep 22, 2026
+
+[![FORESIGHT project illustration showing a pathway through a green landscape](../blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+
+### [Where my PhD sits: FUSION and FORESIGHT](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+
+The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
 
 Sep 22, 2026
 
@@ -26,18 +52,10 @@ Ireland’s ACRES landscape actions show why some land-use problems cannot be so
 
 Sep 22, 2026
 
-[![FORESIGHT project illustration showing a pathway through a green landscape](../blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+[![A simplified diagram showing demand and biophysical constraints entering the MAgPIE optimisation model and producing land-use patterns, yields and production costs](../blog/posts/2026-09-22-useful-github-magpie/magpie-architecture.svg)](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
 
-### [Where my PhD sits: FUSION and FORESIGHT](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
+### [Useful GitHub: MAgPIE and the discipline of open land-system modelling](../blog/posts/2026-09-22-useful-github-magpie/index.llms.md)
 
-The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
-
-Sep 22, 2026
-
-[![An Irish farm field with cattle and grassland](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg)](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
-
-### [When the future is outside the data](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
-
-Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.
+What the MAgPIE repository can teach researchers about modelling agriculture, forestry and land-use futures reproducibly.
 
 Sep 22, 2026

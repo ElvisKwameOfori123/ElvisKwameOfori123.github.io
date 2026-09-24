@@ -1,0 +1,38 @@
+# Useful GitHub: LUTO2 and the hard problem of choosing land uses
+
+Land & Agriculture
+
+Science & Technology
+
+Australia’s open LUTO2 model shows what spatial land-use optimisation looks like when food, carbon, biodiversity, water and economics have to occupy the same map.
+
+Published
+
+September 24, 2026
+
+I was looking through the public [LUTO2 repository](https://github.com/land-use-trade-offs/luto-2.0) and got interested in something less glamorous than the maps. The folder structure tells you quite a lot about how the model thinks.
+
+LUTO2, the Land-Use Trade-Offs Model Version 2.0, is an integrated land-systems model for Australia developed through Deakin University and Climateworks Centre, with research contributions from CSIRO. It searches for spatial arrangements of land use and management through time while accounting for climate and biodiversity targets alongside economics, food production and water security. The code is released under the GNU GPL v3 licence. The repository is still active: its latest tagged release, [v2.4-beta](https://github.com/land-use-trade-offs/luto-2.0/releases/tag/v2.4-beta), was published on 21 August 2026, and new commits were still landing in September.
+
+What caught my attention was the separation of the different pieces of the problem. Agricultural and non-agricultural economics are broken into modules for costs, revenues, greenhouse gases, biodiversity, water, production quantities and land-use transitions. The solver layer then builds the variables, constraints and objective that are passed to Gurobi. Reporting sits downstream of that and turns the solution into maps, trajectories and other outputs.
+
+That sounds like software housekeeping, but it is also a modelling choice. An integrated land-use result is not produced by one grand equation. It is assembled from several accounting systems that have to agree with one another. Keeping those pieces visible makes it easier to ask where an unexpected result came from. Was it a transition cost? A biodiversity constraint? A water limit? A demand target? The optimiser?
+
+The current repository extends the modelling horizon to 2100 and includes a wider set of land-use options, management measures, sustainability indicators and demand-side changes than the original LUTO model. It also points to stakeholder consultation used in developing the modelling approach. For me, though, the transferable part is not the Australian scale. It is the architecture.
+
+I was especially interested in the way the repository now handles infeasibility. Before a solve, LUTO2 can check whether individual constraint rows are impossible, redundant or tight given the available variable bounds. If the model still fails, there are tools for digging further into the conflicting constraints. That is useful because an infeasible scenario is not always a programming mistake. Several perfectly reasonable policy targets can become impossible when they are asked to occupy the same finite landscape under the same transition rules.
+
+There is a broader lesson there. A model should not merely produce a solution when everything fits. It should also help explain why things do not fit when they do not.
+
+The reporting system follows the same logic. A national total is rarely enough for a spatial model. If land is being reallocated, you want to know where, when and under which constraints. Maps are part of that, but so are trajectories and disaggregated indicators. The output has to leave enough of the model’s reasoning visible for someone to interrogate it.
+
+The repository also puts a useful limit on what we mean by “open source.” The code is public, but the README says the input database is about 40 GB and contains sensitive data that must be requested from the development team. The current environment pins Python 3.12 and `gurobipy` 13.0.0; the README lists 50 GB of disk space and treats full-resolution work as an HPC workload. CPLEX bindings are present as a planned alternative, but Gurobi remains the solver the model uses today. So the public repository gives substantial transparency about the model’s structure without making every published run effortless to reproduce.
+
+That distinction matters. I had much the same reaction when looking at [MAgPIE](../../../blog/posts/2026-09-22-useful-github-magpie/): open code is one layer of reproducibility. Accessible inputs, documented environments, solver access and enough computing resources are other layers.
+
+LUTO2 is a very large model, and most smaller projects will not need its machinery. What is worth borrowing is the visible chain from assumptions, to separate calculations, to constraints, to spatial choices, and then to outputs that can be checked. The final map is only one part of that chain.
+
+**Elvis Kwame Ofori**\
+Researcher and writer behind *EKO Perspectives*.
+
+[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)
