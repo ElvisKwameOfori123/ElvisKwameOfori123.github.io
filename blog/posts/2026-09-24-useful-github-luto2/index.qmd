@@ -8,36 +8,26 @@ draft: true
 
 Land-use modelling becomes interesting when two desirable things want the same hectare.
 
-A parcel may produce food, store carbon, support biodiversity, provide water benefits or earn income under another land use. National targets add another layer: the resulting landscape still has to satisfy demands that operate well beyond the parcel itself. Once those objectives interact, drawing a future land-use map becomes an optimisation problem rather than a colouring exercise.
+A parcel may produce food, store carbon, support biodiversity, provide water benefits or earn income under another land use. National targets add another layer because the resulting landscape still has to satisfy demands that operate well beyond the parcel itself. Once those objectives interact, drawing a future land-use map becomes an optimisation problem rather than a colouring exercise.
 
-That is what makes the public LUTO2 repository worth examining.
+I have been looking through the public [LUTO2 repository](https://github.com/land-use-trade-offs/luto-2.0) with that problem in mind. LUTO2, the Land-Use Trade-Offs Model Version 2.0, is an integrated land-systems model for Australia developed through Deakin University and Climateworks Centre, with research contributions from CSIRO. The repository describes the model as a way of finding spatial arrangements of land use and management through time while accounting for climate and biodiversity targets alongside economic activity, food production and water security. The code is released under the GNU GPL v3 licence.
 
-LUTO2, the Land-Use Trade-Offs Model Version 2.0, is an integrated land-systems model for Australia developed through Deakin University and Climateworks Centre, with research contributions from CSIRO. The repository describes the model's task as finding spatial arrangements of land use and management through time while accounting for objectives including climate, biodiversity, economic activity, food production and water security. It is released under the GNU GPL v3 licence.
+The interesting part is not simply that the code is open. It is how the problem has been broken apart.
 
-The interesting part is not simply that the code is open. It is the architecture of the problem.
+The repository separates agricultural and non-agricultural economics, with modules for costs, revenues, greenhouse gases, biodiversity, water, production quantities and land-use transitions. A solver layer then builds the decision variables, constraints and objective passed to Gurobi. Outputs feed into a substantial reporting system with maps and other visualisations. That separation makes explicit something that can disappear inside an integrated model: a land-use result is produced by several linked accounting systems, not by a single equation.
 
-The repository separates agricultural and non-agricultural economics, with modules for costs, revenues, greenhouse gases, biodiversity, water, production quantities and land-use transitions. A solver layer then represents decision variables, constraints and the objective passed to Gurobi. Outputs feed into a reporting system with maps and other visualisations. This separation is useful because it makes explicit something that is often hidden in integrated models: a land-use result is produced by several linked accounting systems, not by a single equation.
+The current version extends from 2010 to 2100 and adds land-use options, management solutions, sustainability indicators and demand-side measures compared with the original LUTO model. The [repository documentation](https://github.com/land-use-trade-offs/luto-2.0/tree/master/docs) also points to extensive stakeholder consultation used in developing the modelling approach.
 
-LUTO2 also has a long horizon. Its documentation says the current version extends from 2010 to 2100 and includes additional land-use options, management solutions, sustainability indicators and demand-side measures compared with the original LUTO model. The modelling approach has also been informed by stakeholder consultation.
+For a smaller spatial model, the architecture is probably more transferable than the scale. Carbon, biodiversity, water and farm economics may eventually enter one decision problem, but keeping their calculations separate makes auditing easier. If an output looks strange, it should be possible to ask whether the problem originates in an emissions calculation, a transition cost, a land constraint or the optimiser itself.
 
-There are practical lessons here for researchers building smaller spatial models.
+I also like the way the repository treats infeasibility. It contains explicit tools for diagnosing years in which model constraints cannot jointly be satisfied. That is more than a programming convenience. In policy modelling, an infeasible scenario can be substantively meaningful. Several targets may be competing for the same finite land, or transition rules may make a requested configuration impossible within the stated assumptions. A model should help explain that conflict rather than merely stop with an error.
 
-First, **keep the accounting modules separable**. Carbon, biodiversity, water and farm economics may ultimately enter one decision problem, but keeping their calculations distinct makes auditing easier. If an output looks strange, a researcher can ask whether the problem originates in the emissions calculation, a transition cost, a land constraint or the optimiser itself.
+The reporting layer matters for the same reason. Spatial models produce too much information for a single national total to be enough. Maps, trajectories and disaggregated indicators are part of understanding the solution, not decoration added after the model has finished.
 
-Second, **treat infeasibility as information**. The repository contains explicit tools for diagnosing years in which model constraints cannot jointly be satisfied. That is more than a programming convenience. In policy modelling, an infeasible scenario can be substantively meaningful. Targets may compete for the same finite land, or transition rules may prevent the landscape from reaching a requested configuration. A model should help explain that conflict rather than merely fail.
+The repository also shows the limits of using "open source" as a synonym for "immediately reproducible." Its README says the input database is roughly 40 GB and contains sensitive data that must be requested from the development team. The current environment specifies Python 3.12, and the model uses the commercial Gurobi optimiser, although academic licences are available. The public code therefore gives considerable transparency about model structure without making every published run frictionless to reproduce.
 
-Third, **reporting belongs inside the modelling system**. LUTO2 contains a substantial reporting layer rather than treating visualisation as an afterthought. Spatial models produce too much information for a single national total to be sufficient. Maps, trajectories and disaggregated indicators are part of understanding the solution.
+That distinction matters because reproducibility has layers. Open code is one layer. Accessible inputs, documented environments, solver availability and enough computing resources are others.
 
-The repository also reveals the limits of "open source" as a synonym for "immediately reproducible." LUTO2's README says its input database is roughly 40 GB and contains sensitive data that must be requested from the development team. It requires substantial computing resources, Python 3.10 or later according to the setup guidance, and the commercial Gurobi optimiser, although academic licences are available. The public code therefore provides transparency about model structure without making every published run frictionless to reproduce.
-
-That distinction matters. Reproducibility has layers: open code, accessible inputs, documented environments, solver availability and sufficient computing resources. A repository can be excellent on some dimensions and constrained on others.
-
-LUTO2 is useful partly because of its scale, but the more transferable lesson is architectural. Serious land-use modelling requires a visible chain from assumptions, to sectoral calculations, to constraints, to spatial choices, to outputs that a researcher can interrogate.
+LUTO2 is useful partly because of its scale, but the part I would carry into other work is the visible chain from assumptions, to sectoral calculations, to constraints, to spatial choices, to outputs that can be interrogated.
 
 The map at the end is only the last step.
-
-## Further reading
-
-- [LUTO2 repository](https://github.com/land-use-trade-offs/luto-2.0)
-- [LUTO2 technical overview in the repository](https://github.com/land-use-trade-offs/luto-2.0/tree/master/docs)
-- [Original LUTO software collection, CSIRO](https://doi.org/10.25919/y8ee-sk45)
