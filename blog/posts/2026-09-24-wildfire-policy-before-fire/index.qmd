@@ -1,0 +1,36 @@
+---
+title: "Wildfire policy begins before the fire"
+description: "Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention."
+date: 2026-09-24
+categories: ["Policy", "Land & Agriculture"]
+draft: true
+---
+
+A wildfire is most visible when the flames arrive. Policy has usually arrived much earlier, whether anyone notices it or not.
+
+The condition of an upland before a dry spell, the amount of combustible vegetation, whether grazing continues, how forests are managed, where access routes and water points sit, and whether neighbouring land managers cooperate all shape what happens when ignition occurs. That makes wildfire an emergency-management problem, but not only an emergency-management problem. It is also a question of how landscapes are managed between fires.
+
+The European Commission moved further in that direction in March 2026 when it adopted a Communication on Integrated Wildfire Risk Management. The framework spans prevention, preparedness, response and recovery. In its agricultural guidance, the Commission explicitly points to farmers and foresters as part of the prevention system. Grazing, agroforestry, thinning, firebreaks and other forms of active management can reduce fuel accumulation and help maintain more varied landscapes. After a fire, land managers also become part of restoration.
+
+Ireland is not Mediterranean Europe, and importing a southern European fire narrative would be misleading. Its risk profile is different. Yet the Irish Department of Agriculture, Food and the Marine identifies peatlands, uplands, forests and dry vegetation among the places where wildfire can become serious. Its fire-management guidance notes that risk is particularly acute during dry spring conditions, when dead grasses, heather and gorse can become highly flammable. Ireland also experienced periods of high fire risk during 2026.
+
+The interesting policy question is therefore not whether Ireland is becoming Spain or Greece. It is whether wildfire policy should pay more attention to the ordinary management of rural landscapes.
+
+There is already evidence of that logic in Irish guidance. Forest owners are advised to maintain firebreaks, prepare access routes and water sources, develop fire plans and cooperate with neighbouring landowners. The Office of Emergency Planning goes further by noting that active farming, appropriate livestock grazing and other fuel-reduction measures can reduce fire risk. These are mundane interventions compared with aircraft and fire engines. Their importance lies precisely in occurring before an emergency.
+
+This creates a familiar policy difficulty. Landscape management produces benefits that do not stop at a property boundary. A grazed or well-managed parcel may reduce fuel in a wider area. A blocked access route or unmanaged strip may increase risk beyond the holding on which it sits. Prevention therefore has a coordination problem similar to those found in biodiversity, water quality and invasive-species management.
+
+The European approach is useful here because it widens the unit of analysis. The farm or forest remains important, but so do mosaics of land uses, neighbouring holdings and the connections between them. That does not mean every landscape should be intensively managed. Peatlands and habitats have ecological objectives that can conflict with poorly designed interventions, and prescribed burning itself requires expertise, legal compliance and careful timing. Prevention cannot become a justification for indiscriminate vegetation removal.
+
+There is another caution. It is easy to infer effectiveness from a plausible mechanism. Grazing can reduce some fuels, for example, but the effect depends on stocking, vegetation, season, terrain and the ecological system being protected. The right policy question is not simply whether an intervention sounds preventative. It is where it works, at what intensity, at what cost, and with what consequences for biodiversity, carbon and farming.
+
+That is why wildfire belongs increasingly within land-use policy. Emergency response will always matter. But by the time a hillside is burning, many of the variables that determine the severity of the event have already been set.
+
+For Ireland, the useful lesson from Europe's emerging approach is modest: fire policy should begin with the landscape long before it begins with the flame.
+
+## Further reading
+
+- [European Commission: Wildfire prevention and restoration in agriculture and forests](https://agriculture.ec.europa.eu/cap-my-country/sustainability/environmental-sustainability/wildfire-prevention-and-restoration-agriculture-and-forests_en)
+- [Department of Agriculture, Food and the Marine: Fire Management](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/fire-management/)
+- [Office of Emergency Planning: Wildfires](https://www.gov.ie/en/office-of-emergency-planning/guidance/wildfires/)
+- [Teagasc: Forestry and Wildfires](https://teagasc.ie/crops/forestry/advice/management/dealing-with-wildfires/)
