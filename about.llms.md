@@ -8,6 +8,8 @@ I am **Elvis Kwame Ofori**, a Ghanaian researcher and writer based in Ireland.
 
 My path has taken me from Ghana to China and now Ireland, and that movement between places has shaped the way I think about policy. I am interested in how national decisions look very different once they reach households, farms, firms and communities.
 
+**The longer story:** [*How I got here*](how-i-got-here/) is a living account of the places, people and opportunities that shaped the work I do and the questions I now write about.
+
 ## What I write about
 
 This website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and personal observations.

@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/blog/posts/2026-09-24-seeing-like-a-state-models/index.html",
-      "/blog/posts/2026-09-24-wildfire-policy-before-fire/index.html",
-      "/blog/posts/2026-09-22-fusion-foresight/index.html",
-      "/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html"
-    ]
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/2026-09-24-seeing-like-a-state-models/index.html",
@@ -17,6 +8,15 @@
       "/blog/posts/2026-09-22-fusion-foresight/index.html",
       "/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html",
       "/blog/posts/2026-09-22-acres-landscape-actions/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/posts/2026-09-24-seeing-like-a-state-models/index.html",
+      "/blog/posts/2026-09-24-wildfire-policy-before-fire/index.html",
+      "/blog/posts/2026-09-22-fusion-foresight/index.html",
+      "/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.html"
     ]
   }
 ]
