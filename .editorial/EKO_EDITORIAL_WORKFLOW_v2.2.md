@@ -4,6 +4,16 @@
 
 This is the repository-level canonical instruction for EKO Perspectives. If the installable `eko-editorial-workflow` skill is available in the current environment, use it and its reference files. If it is not available, follow this document directly. This file supersedes the older separate `pre2015-prose-voice` and `ai-slop-editing-pass` chain.
 
+## Weekly editorial planning and human approval
+
+Do not begin a new post simply because a daily slot exists. At the start of each editorial week, prepare a proposed weekly slate before drafting. The slate should normally contain up to three candidate topics for each relevant day, but fewer is preferable when the ideas are weak, repetitive, poorly sourced, or too close to recent coverage.
+
+For each proposed topic, give Elvis enough information to make an editorial decision before prose is written: the working title or question, the strand/category, why it is worth doing now, the likely primary or high-quality evidence base, the intended angle, and any obvious duplication, sourcing, sensitivity, or image-rights issue. For scientist/researcher profiles, also identify the person, why the career is worth profiling, and whether sufficiently independent biographical and scientific sources appear to exist.
+
+**Human topic approval is a hard gate.** Do not draft a new article until Elvis has explicitly approved that topic or theme. Approval of the weekly slate may cover several named topics at once. Silence, an earlier rotation schedule, or the existence of an empty daily slot is not approval. If Elvis rejects or changes a topic, research and drafting must follow the revised choice.
+
+After approval, run the normal site preflight again immediately before research and drafting, because recent posts or drafts may have changed since the weekly slate was prepared. The daily rotation is an editorial menu, not a quota. Never create filler merely to satisfy it.
+
 ## Pipeline
 
 1. **Site preflight.** Inspect recent published posts and current drafts before researching. Check whether the subject or angle has already been used, whether recent pieces share the same opening or structure, and what this piece would genuinely add.
