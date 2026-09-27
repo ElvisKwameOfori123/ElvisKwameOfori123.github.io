@@ -417,6 +417,14 @@ body:has(.post-end) .quarto-title-meta-heading {
 
 body:has(.post-end) .quarto-title-meta > div:first-child .quarto-title-meta-contents::before {
   content: "BY ";
+  flex: 0 0 auto;
+}
+
+body:has(.post-end) .quarto-title-meta-contents {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .28em;
+  white-space: nowrap;
 }
 
 body:has(.post-end) .quarto-title-meta-contents,
@@ -428,6 +436,10 @@ body:has(.post-end) .quarto-title-meta-contents p {
   letter-spacing: .055em;
   line-height: 1.4;
   text-transform: uppercase;
+}
+
+body:has(.post-end) .quarto-title-meta-contents p {
+  display: inline;
 }
 
 body:has(.post-end) main.content {
@@ -737,8 +749,8 @@ body:has(.publication-masthead) #title-block-header {
 
 .quarto-listing .listing-title,
 .quarto-listing .listing-title a,
-#home-writing .listing-title,
-#home-writing .listing-title a {
+#listing-home-writing .listing-title,
+#listing-home-writing .listing-title a {
   color: var(--site-heading) !important;
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 600;
@@ -746,7 +758,7 @@ body:has(.publication-masthead) #title-block-header {
 }
 
 body.quarto-dark .quarto-listing .listing-title a,
-body.quarto-dark #home-writing .listing-title a {
+body.quarto-dark #listing-home-writing .listing-title a {
   color: var(--site-heading) !important;
 }
 
@@ -835,33 +847,33 @@ body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-ca
 }
 
 /* Keep the homepage Latest list deliberately quieter than the archive. */
-#home-writing .quarto-post {
+#listing-home-writing .quarto-post {
   grid-template-columns: minmax(0, 1fr) !important;
   grid-template-areas:
     "body"
     "metadata" !important;
 }
 
-#home-writing .quarto-post > .thumbnail {
+#listing-home-writing .quarto-post > .thumbnail {
   display: none !important;
 }
 
-#home-writing .listing-item {
+#listing-home-writing .listing-item {
   padding: 1.2rem 0 !important;
 }
 
-#home-writing .listing-title,
-#home-writing .listing-title a {
+#listing-home-writing .listing-title,
+#listing-home-writing .listing-title a {
   font-size: 1.12rem;
 }
 
-#home-writing .listing-description {
+#listing-home-writing .listing-description {
   max-width: 720px;
   color: var(--site-muted) !important;
 }
 
-#home-writing .listing-date,
-#home-writing .listing-categories {
+#listing-home-writing .listing-date,
+#listing-home-writing .listing-categories {
   font-size: .82rem;
 }
 
@@ -1211,8 +1223,42 @@ body.quarto-dark .post-end strong {
   }
 
   .quarto-listing-default .quarto-post {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "thumb"
+      "body"
+      "metadata" !important;
     gap: .45rem !important;
     padding: 1.15rem 0 !important;
+  }
+
+  .quarto-listing-default .quarto-post:not(:has(.thumbnail img)) {
+    grid-template-areas:
+      "body"
+      "metadata" !important;
+  }
+
+  .quarto-listing-default .quarto-post > .thumbnail {
+    width: 100% !important;
+    margin: 0 0 .4rem !important;
+  }
+
+  .quarto-listing-default .quarto-post > .thumbnail img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  #listing-home-writing .quarto-post {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "body"
+      "metadata" !important;
+  }
+
+  #listing-home-writing .quarto-post > .thumbnail {
+    display: none !important;
   }
 
   .quarto-listing-default .listing-title {
