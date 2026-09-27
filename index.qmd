@@ -1,7 +1,7 @@
 ---
 title: "Home"
-pagetitle: "Elvis Kwame Ofori"
-description: "Personal writing on policy, science, economics, technology, places and research."
+pagetitle: "EKO Perspectives"
+description: "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development."
 toc: false
 page-layout: full
 listing:
@@ -11,7 +11,7 @@ listing:
   type: default
   max-items: 3
   exclude:
-    start-here: true
+    featured: true
   categories: false
   sort-ui: false
   filter-ui: false
@@ -25,7 +25,6 @@ listing:
 <a href="/blog/#category=Land%20%26%20Agriculture">Land &amp; Agriculture</a>
 <a href="/blog/#category=Economics%20%26%20Evidence">Economics &amp; Evidence</a>
 <a href="/blog/#category=Science%20%26%20Technology">Science &amp; Technology</a>
-<a href="/blog/#category=Places%20%26%20Development">Places &amp; Development</a>
 <a href="/blog/#category=Personal%20%26%20Ideas">Personal &amp; Ideas</a>
 </nav>
 </header>
@@ -64,6 +63,7 @@ listing:
 </div>
 <span class="feature-kicker">Science &amp; Technology · Economics &amp; Evidence</span>
 <h3>AI is becoming ordinary. The evidence about its effects is still catching up</h3>
+<p>Why the important question is shifting from what generative AI can do to what happens when people actually use it.</p>
 </a>
 
 </div>
