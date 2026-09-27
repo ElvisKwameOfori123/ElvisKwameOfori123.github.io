@@ -546,8 +546,9 @@ body:has(.publication-masthead) #title-block-header {
   align-items: start;
 }
 
-.feature-grid > p {
-  display: contents;
+.feature-grid > p:has(> a.feature-card:empty),
+.feature-stack > p:has(> a.feature-card:empty) {
+  display: none;
 }
 
 .feature-card {
