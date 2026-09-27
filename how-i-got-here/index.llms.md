@@ -156,7 +156,7 @@ A farmer still has to decide what to do on Monday morning.
 
 That distance between the aggregate pathway and the individual decision has become one of the most interesting parts of the work for me.
 
-[Read more about my research →](../research.qmd)
+[Read more about my research →](../research/)
 
 ## The people along the way
 

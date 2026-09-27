@@ -4,11 +4,15 @@ Land & Agriculture
 
 Policy
 
-Ireland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.
+Some environmental problems do not stop at the farm gate. Ireland’s ACRES landscape actions show why coordination can matter across holdings.
+
+Author
+
+Elvis Kwame Ofori
 
 Published
 
-September 22, 2026
+22 September 2026
 
 I keep coming back to a fairly simple problem in agri-environment policy. The contract is usually with a farmer, but the thing the policy is trying to improve often does not stop at the farm gate. Water runs downhill. Habitats connect across holdings. Invasive species spread. A bird or pollinator has no reason to care where one parcel ends and the next begins.
 

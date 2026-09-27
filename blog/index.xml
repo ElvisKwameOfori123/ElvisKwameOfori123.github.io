@@ -5,19 +5,20 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Elvis Kwame Ofori</title>
+<title>EKO Perspectives</title>
 <link>https://kwameofori123.com/blog/</link>
 <atom:link href="https://kwameofori123.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.</description>
 <image>
 <url>https://kwameofori123.com/assets/profile.jpg</url>
-<title>Elvis Kwame Ofori</title>
+<title>EKO Perspectives</title>
 <link>https://kwameofori123.com/blog/</link>
 </image>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Thu, 24 Sep 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>A map can clarify the world and still leave something out</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
   <link>https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/</link>
   <description><![CDATA[ 
 
@@ -53,6 +54,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 </item>
 <item>
   <title>Wildfire policy begins before the fire</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
   <link>https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/</link>
   <description><![CDATA[ 
 
@@ -85,6 +87,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 </item>
 <item>
   <title>When the future is outside the data</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
   <link>https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</link>
   <description><![CDATA[ 
 
@@ -122,6 +125,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 </item>
 <item>
   <title>Where my PhD sits: FUSION and FORESIGHT</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
   <link>https://kwameofori123.com/blog/posts/2026-09-22-fusion-foresight/</link>
   <description><![CDATA[ 
 
@@ -159,6 +163,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 </item>
 <item>
   <title>AI is becoming ordinary. The evidence about its effects is still catching up</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
   <link>https://kwameofori123.com/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/</link>
   <description><![CDATA[ 
 
@@ -197,6 +202,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 </item>
 <item>
   <title>When environmental policy needs a landscape, not just a farm</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
   <link>https://kwameofori123.com/blog/posts/2026-09-22-acres-landscape-actions/</link>
   <description><![CDATA[ 
 

@@ -8,19 +8,25 @@ Reading James C. Scott’s Seeing Like a State as a warning about simplification
 
 Sep 24, 2026
 
+Elvis Kwame Ofori
+
 ### [Wildfire policy begins before the fire](../blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
 Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
 
 Sep 24, 2026
 
+Elvis Kwame Ofori
+
 [![An Irish farm field with cattle and grassland](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg)](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 
 ### [When the future is outside the data](../blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 
-Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.
+Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.
 
 Sep 22, 2026
+
+Elvis Kwame Ofori
 
 [![FORESIGHT project illustration showing a pathway through a green landscape](../blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
 
@@ -30,18 +36,24 @@ The modelling environment around my PhD, who supports it, and why that context m
 
 Sep 22, 2026
 
+Elvis Kwame Ofori
+
 [![A diagram showing that the same amount of time using AI can involve copying an answer or attempting a task, asking for feedback and revising](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg)](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 
 ### [AI is becoming ordinary. The evidence about its effects is still catching up](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 
-As generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.
+Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them.
 
 Sep 22, 2026
+
+Elvis Kwame Ofori
 
 [![Three adjacent farm parcels crossed by water and a habitat corridor, illustrating how ecological processes cross farm boundaries](../blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg)](../blog/posts/2026-09-22-acres-landscape-actions/index.llms.md)
 
 ### [When environmental policy needs a landscape, not just a farm](../blog/posts/2026-09-22-acres-landscape-actions/index.llms.md)
 
-Ireland’s ACRES landscape actions show why some land-use problems cannot be solved one holding at a time.
+Some environmental problems do not stop at the farm gate. Ireland’s ACRES landscape actions show why coordination can matter across holdings.
 
 Sep 22, 2026
+
+Elvis Kwame Ofori

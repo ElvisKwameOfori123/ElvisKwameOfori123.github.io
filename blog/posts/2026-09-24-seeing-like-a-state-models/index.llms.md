@@ -6,9 +6,13 @@ Personal & Ideas
 
 Reading James C. Scott’s Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy.
 
+Author
+
+Elvis Kwame Ofori
+
 Published
 
-September 24, 2026
+24 September 2026
 
 A model has to leave things out. That is obvious enough. I think the more interesting question begins after the simplification starts working, because that is when it becomes easy to forget that it was a simplification in the first place.
 

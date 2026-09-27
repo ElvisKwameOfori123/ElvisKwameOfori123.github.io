@@ -2,11 +2,15 @@
 
 Economics & Evidence
 
-Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.
+Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.
+
+Author
+
+Elvis Kwame Ofori
 
 Published
 
-September 22, 2026
+22 September 2026
 
 For a long time, most of the questions I worked on began with data that had already been observed. I would estimate a relationship, test a hypothesis, worry about identification, and then ask what the result might tell us about policy. Econometrics is perfectly capable of saying something about situations that have not yet happened, of course. Much of applied economics is built around counterfactuals. But during my PhD I started running into a slightly different problem: some of the futures I was being asked to think about were much farther from the data than I was used to.
 

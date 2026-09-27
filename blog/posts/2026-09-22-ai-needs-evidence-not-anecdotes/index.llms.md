@@ -4,11 +4,15 @@ Science & Technology
 
 Economics & Evidence
 
-As generative AI moves into classrooms and everyday life, the important scientific question is shifting from capability to effects.
+Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them.
+
+Author
+
+Elvis Kwame Ofori
 
 Published
 
-September 22, 2026
+22 September 2026
 
 I was reading [OpenAI’s call for research on AI and teen development](https://openai.com/index/teen-development-research-grants/) and one part of it stayed with me. The programme asks researchers to look at emotional development, relationships, patterns of use, safeguards, AI literacy and differences across social and cultural settings. That is a much more interesting set of questions than the one public discussion keeps returning to: is AI good or bad for learning?
 

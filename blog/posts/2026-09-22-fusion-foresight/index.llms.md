@@ -6,9 +6,13 @@ Personal & Ideas
 
 The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
 
+Author
+
+Elvis Kwame Ofori
+
 Published
 
-September 22, 2026
+22 September 2026
 
 ![FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions](foresight1.jpg)
 

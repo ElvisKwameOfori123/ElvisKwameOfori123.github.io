@@ -6,9 +6,13 @@ Land & Agriculture
 
 Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
 
+Author
+
+Elvis Kwame Ofori
+
 Published
 
-September 24, 2026
+24 September 2026
 
 One thing in the European Commission’s March 2026 wildfire strategy is easy to miss if fire is thought of mainly as an emergency. A great deal of wildfire policy happens when there is no fire.
 
