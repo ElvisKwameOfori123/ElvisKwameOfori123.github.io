@@ -1,0 +1,83 @@
+name: Preview PR17 natural leads
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  screenshots:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Capture responsive screenshots
+        run: |
+          python3 -m http.server 8000 --directory _site >/tmp/eko-pr17-http.log 2>&1 &
+          cat > capture.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'fs';
+          const browser = await chromium.launch({headless:true});
+          const pages = [
+            ['home','/'],
+            ['writing','/blog/'],
+            ['acres','/blog/posts/2026-09-22-acres-landscape-actions/'],
+            ['map','/blog/posts/2026-09-24-seeing-like-a-state-models/'],
+            ['wildfire','/blog/posts/2026-09-24-wildfire-policy-before-fire/']
+          ];
+          const widths = [
+            ['phone',375,812],
+            ['desktop',1440,1100]
+          ];
+          fs.mkdirSync('visual-preview',{recursive:true});
+          const results=[];
+          for (const [name,path] of pages) {
+            for (const [size,width,height] of widths) {
+              const page=await browser.newPage({viewport:{width,height},deviceScaleFactor:1});
+              await page.goto('http://127.0.0.1:8000'+path,{waitUntil:'networkidle'});
+              const data=await page.evaluate(()=>{
+                const imgs=[...document.querySelectorAll('main img, .feature-media img, .quarto-post .thumbnail img')]
+                  .filter(img=>{
+                    const s=getComputedStyle(img),r=img.getBoundingClientRect();
+                    return s.display!=='none'&&s.visibility!=='hidden'&&r.width>0&&r.height>0;
+                  })
+                  .map(img=>({src:img.getAttribute('src'),alt:img.alt,width:img.getBoundingClientRect().width,height:img.getBoundingClientRect().height}));
+                return {
+                  overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth,
+                  imgs
+                };
+              });
+              if(data.overflow) throw new Error(`${name} overflows horizontally at ${size}`);
+              if((name==='acres'||name==='map'||name==='wildfire') && data.imgs.length<2) {
+                throw new Error(`${name} should show documentary lead plus explanatory visual at ${size}`);
+              }
+              results.push({name,size,...data});
+              await page.screenshot({path:`visual-preview/${name}-${size}.png`,fullPage:true});
+              await page.close();
+            }
+          }
+          fs.writeFileSync('visual-preview/results.json',JSON.stringify(results,null,2));
+          await browser.close();
+          JS
+          node capture.mjs
+
+      - name: Upload visual preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr17-natural-lead-preview
+          path: visual-preview
+          if-no-files-found: error
