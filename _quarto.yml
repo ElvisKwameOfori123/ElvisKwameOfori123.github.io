@@ -21,16 +21,12 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Home
-        href: index.qmd
-      - text: Writing
+      - text: Latest
         href: blog/index.qmd
-      - text: About
-        href: about.qmd
       - text: Research
         href: research/index.qmd
-      - text: Contact
-        href: contact.qmd
+      - text: About
+        href: about.qmd
     right:
       - icon: github
         href: "https://github.com/ElvisKwameOfori123"
