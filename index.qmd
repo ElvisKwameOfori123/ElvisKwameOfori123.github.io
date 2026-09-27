@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "EKO Perspectives"
 pagetitle: "EKO Perspectives"
 description: "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development."
 toc: false
@@ -39,31 +39,32 @@ listing:
 
 <a class="feature-card feature-card--lead" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
 <div class="feature-media">
-<img src="blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" alt="An Irish farm field with cattle and grassland">
+<img src="blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" alt="An Irish farm field with cattle and grassland" loading="eager" fetchpriority="high" decoding="async">
+<span class="feature-credit">Daniel Hanrahan / Wikimedia Commons</span>
 </div>
 <span class="feature-kicker">Economics &amp; Evidence</span>
 <h2>When the future is outside the data</h2>
-<p>Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.</p>
+<p>Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.</p>
 </a>
 
 <div class="feature-stack">
 
 <a class="feature-card feature-card--side" href="blog/posts/2026-09-22-acres-landscape-actions/">
 <div class="feature-media">
-<img src="blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg" alt="Three adjacent farm parcels crossed by water and a habitat corridor">
+<img src="blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg" alt="Three adjacent farm parcels crossed by water and a habitat corridor" loading="lazy" decoding="async">
 </div>
-<span class="feature-kicker">Land &amp; Agriculture · Policy</span>
+<span class="feature-kicker">Land &amp; Agriculture</span>
 <h3>When environmental policy needs a landscape, not just a farm</h3>
-<p>Why some environmental problems need coordination beyond individual holdings.</p>
+<p>Some environmental problems do not stop at the farm gate. Ireland's ACRES landscape actions show why coordination can matter across holdings.</p>
 </a>
 
 <a class="feature-card feature-card--side" href="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/">
 <div class="feature-media">
-<img src="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg" alt="Diagram contrasting different ways the same amount of time using AI can be spent">
+<img src="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg" alt="Diagram contrasting different ways the same amount of time using AI can be spent" loading="lazy" decoding="async">
 </div>
-<span class="feature-kicker">Science &amp; Technology · Economics &amp; Evidence</span>
+<span class="feature-kicker">Science &amp; Technology</span>
 <h3>AI is becoming ordinary. The evidence about its effects is still catching up</h3>
-<p>Why the important question is shifting from what generative AI can do to what happens when people actually use it.</p>
+<p>Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them.</p>
 </a>
 
 </div>
