@@ -46,11 +46,35 @@ jobs:
             ['desktop',1440,1100]
           ];
           fs.mkdirSync('visual-preview',{recursive:true});
+          const metrics = [];
           for (const [pageName,path] of pages) {
             for (const [sizeName,width,height] of widths) {
               const page = await browser.newPage({viewport:{width,height}, deviceScaleFactor:1});
               await page.goto('http://127.0.0.1:8000'+path,{waitUntil:'networkidle'});
               await page.screenshot({path:`visual-preview/${pageName}-${sizeName}-light.png`,fullPage:true});
+              if (pageName === 'home') {
+                metrics.push(await page.evaluate(({sizeName}) => {
+                  const grid=document.querySelector('.feature-grid');
+                  const lead=document.querySelector('.feature-card--lead');
+                  const stack=document.querySelector('.feature-stack');
+                  const latest=document.querySelector('#listing-home-writing');
+                  const third=latest?.querySelectorAll('.quarto-post')[2];
+                  const rect = el => el ? ({x:el.getBoundingClientRect().x,y:el.getBoundingClientRect().y,width:el.getBoundingClientRect().width,height:el.getBoundingClientRect().height}) : null;
+                  return {
+                    sizeName,
+                    viewport: {width:innerWidth,height:innerHeight},
+                    grid: rect(grid),
+                    gridDisplay: grid ? getComputedStyle(grid).display : null,
+                    gridColumns: grid ? getComputedStyle(grid).gridTemplateColumns : null,
+                    lead: rect(lead),
+                    stack: rect(stack),
+                    stackColumns: stack ? getComputedStyle(stack).gridTemplateColumns : null,
+                    latestThird: rect(third),
+                    latestThirdColumns: third ? getComputedStyle(third).gridTemplateColumns : null,
+                    latestThirdThumbDisplay: third?.querySelector('.thumbnail') ? getComputedStyle(third.querySelector('.thumbnail')).display : null
+                  };
+                }, {sizeName}));
+              }
               const toggle = page.locator('.quarto-color-scheme-toggle').first();
               if (await toggle.count()) {
                 try {
@@ -62,6 +86,7 @@ jobs:
               await page.close();
             }
           }
+          fs.writeFileSync('visual-preview/metrics.json', JSON.stringify(metrics,null,2));
           await browser.close();
           JS
           node capture.mjs
