@@ -185,6 +185,33 @@ blockquote {
   border-left-color: var(--site-accent) !important;
 }
 
+/* Pull quote: use sparingly for a sentence that earns extra visual weight. */
+.pullquote {
+  margin: 1.75rem 0;
+  padding: .2rem 0 .2rem 1.25rem;
+  border-left: 3px solid var(--site-rule);
+  color: var(--site-burgundy);
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-size: 1.35rem;
+  line-height: 1.45;
+}
+
+/* Full-width feature figure and restrained caption/credit treatment. */
+.article-hero img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.article-hero figcaption,
+.img-credit {
+  margin-top: .5rem;
+  color: var(--site-muted);
+  font-family: "Montserrat", sans-serif;
+  font-size: .8rem;
+  line-height: 1.5;
+}
+
 /* Navigation */
 
 .navbar,
@@ -242,9 +269,38 @@ body.quarto-dark .navbar {
   margin-left: .35rem;
 }
 
-/* Homepage navigation: the masthead is the identity; the fixed bar is utility. */
+/* Homepage navigation: one light publication header system, not a black
+   utility bar followed by a second masthead. */
+body:has(.publication-masthead) .navbar {
+  min-height: 48px;
+  background: var(--site-bg) !important;
+  border-bottom: 1px solid var(--site-line) !important;
+}
+
+body:has(.publication-masthead) .navbar::after {
+  display: none;
+}
+
 body:has(.publication-masthead) .navbar-brand-container {
   display: none;
+}
+
+body:has(.publication-masthead) .navbar .nav-link,
+body:has(.publication-masthead) .navbar .navbar-nav .nav-link,
+body:has(.publication-masthead) .navbar #quarto-search,
+body:has(.publication-masthead) .navbar .quarto-navigation-tool,
+body:has(.publication-masthead) .navbar .navbar-toggler {
+  color: var(--site-text) !important;
+}
+
+body:has(.publication-masthead) .navbar .nav-link:hover,
+body:has(.publication-masthead) .navbar .nav-link.active,
+body:has(.publication-masthead) .navbar .quarto-navigation-tool:hover {
+  color: var(--site-accent) !important;
+}
+
+body:has(.publication-masthead) .navbar .navbar-toggler {
+  border-color: var(--site-line);
 }
 
 body:has(.publication-masthead) #quarto-search {
@@ -252,10 +308,6 @@ body:has(.publication-masthead) #quarto-search {
 }
 
 @media (min-width: 992px) {
-  body:has(.publication-masthead) .navbar {
-    min-height: 50px;
-  }
-
   body:has(.publication-masthead) .navbar-collapse {
     order: 1;
   }
@@ -277,13 +329,54 @@ body:has(.publication-masthead) #quarto-search {
 }
 
 .quarto-title-block .title {
-  font-size: clamp(2.15rem, 5vw, 3.35rem);
+  max-width: 860px;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(2.25rem, 5vw, 3.65rem);
+  font-weight: 600;
+  line-height: 1.03;
+  letter-spacing: -.04em;
 }
 
 .quarto-title-block .description {
-  max-width: 720px;
-  color: var(--site-muted);
-  font-size: 1.05rem;
+  max-width: 700px;
+  margin-top: .6rem;
+  color: var(--site-text);
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.article-kicker {
+  margin: 0 0 .5rem;
+  color: var(--site-rule);
+  font-family: "Montserrat", sans-serif;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.quarto-title-meta {
+  margin-top: 1.15rem;
+  padding-top: .85rem;
+  border-top: 1px solid var(--site-line);
+}
+
+.quarto-title-meta-heading {
+  color: var(--site-muted) !important;
+  font-family: "Montserrat", sans-serif !important;
+  font-size: .68rem !important;
+  font-weight: 700 !important;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+}
+
+.quarto-title-meta-contents,
+.quarto-title-meta-contents p {
+  color: var(--site-muted) !important;
+  font-family: "Montserrat", sans-serif !important;
+  font-size: .8rem !important;
 }
 
 body:has(.post-end) main.content {
@@ -576,8 +669,8 @@ body:has(.publication-masthead) #title-block-header {
 /* Quarto listings */
 
 .quarto-listing .listing-item {
-  padding-top: 1.2rem !important;
-  padding-bottom: 1.2rem !important;
+  padding-top: 1.05rem !important;
+  padding-bottom: 1.05rem !important;
   border-bottom: 1px solid var(--site-line) !important;
 }
 
@@ -586,7 +679,7 @@ body:has(.publication-masthead) #title-block-header {
 #home-writing .listing-title,
 #home-writing .listing-title a {
   color: var(--site-blue) !important;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Source Serif 4", Georgia, serif;
   font-weight: 600;
   text-decoration: none;
 }
@@ -611,64 +704,99 @@ body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .cate
   padding: .22rem .55rem !important;
 }
 
+body:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
+  display: inline-flex;
+  align-items: center;
+  gap: .28em;
+  width: max-content;
+  max-width: 100%;
+  white-space: nowrap;
+  font-size: .76rem;
+}
+
 body.quarto-dark .quarto-listing .category,
 body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-category .category {
-  color: var(--site-blue) !important;
+  background: rgba(255,255,255,.08) !important;
+  color: #cccccc !important;
 }
 
 .quarto-listing-default .quarto-post {
   display: grid !important;
-  grid-template-columns: minmax(0, 1fr) auto !important;
-  grid-template-areas: "body metadata" !important;
-  gap: .3rem 1.2rem !important;
+  grid-template-columns: 168px minmax(0, 1fr) !important;
+  grid-template-areas:
+    "thumb body"
+    "thumb metadata" !important;
+  align-items: start;
+  gap: .3rem 1.15rem !important;
+}
+
+.quarto-listing-default .quarto-post > .thumbnail {
+  display: block !important;
+  grid-area: thumb !important;
+}
+
+.quarto-listing-default .quarto-post > .thumbnail img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.quarto-listing-default .quarto-post > .thumbnail .listing-item-img-placeholder {
+  display: none !important;
+}
+
+.quarto-listing-default .quarto-post > .body,
+.quarto-listing-default .quarto-post > .metadata {
+  width: 100%;
+  min-width: 0;
 }
 
 .quarto-listing-default .quarto-post > .body {
   grid-area: body !important;
-  min-width: 0;
 }
 
 .quarto-listing-default .quarto-post > .metadata {
   grid-area: metadata !important;
-  min-width: 0;
+  margin-top: .1rem;
+  text-align: left !important;
 }
 
-body:has(#listing-listing) .quarto-listing-default .quarto-post:has(> .thumbnail) {
-  grid-template-columns: 210px minmax(0, 1fr) auto !important;
-  grid-template-areas: "thumbnail body metadata" !important;
-  column-gap: 1.35rem !important;
+.quarto-listing-default .quarto-post:not(:has(.thumbnail img)) {
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-areas:
+    "body"
+    "metadata" !important;
 }
 
-body:has(#listing-listing) .quarto-listing-default .quarto-post > .thumbnail {
-  display: block !important;
-  grid-area: thumbnail !important;
-  width: 210px !important;
-  margin: 0 !important;
+.quarto-listing-default .quarto-post:not(:has(.thumbnail img)) > .thumbnail {
+  display: none !important;
 }
 
-body:has(#listing-listing) .quarto-listing-default .quarto-post > .thumbnail img {
-  display: block;
-  width: 100%;
-  height: 132px;
-  object-fit: cover;
-  border-radius: 2px;
-}
-
-#home-writing .listing-item {
-  padding: 1.18rem 0 !important;
+/* Keep the homepage Latest list deliberately quieter than the archive. */
+#home-writing .quarto-post {
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-areas:
+    "body"
+    "metadata" !important;
 }
 
 #home-writing .quarto-post > .thumbnail {
   display: none !important;
 }
 
+#home-writing .listing-item {
+  padding: 1.2rem 0 !important;
+}
+
 #home-writing .listing-title,
 #home-writing .listing-title a {
-  font-size: 1.08rem;
+  font-size: 1.12rem;
 }
 
 #home-writing .listing-description {
-  max-width: 760px;
+  max-width: 720px;
+  color: var(--site-muted) !important;
 }
 
 #home-writing .listing-date,
@@ -906,9 +1034,14 @@ body.quarto-dark .post-end strong {
   }
 
   .quarto-title-block .title {
-    font-size: clamp(1.55rem, 7.4vw, 1.95rem);
-    line-height: 1.12;
-    letter-spacing: -.025em;
+    font-size: clamp(1.75rem, 8.4vw, 2.25rem);
+    line-height: 1.08;
+    letter-spacing: -.03em;
+  }
+
+  .quarto-title-block .description {
+    font-size: 1.05rem;
+    line-height: 1.45;
   }
 
   h2 {
