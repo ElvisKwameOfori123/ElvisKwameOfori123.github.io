@@ -17,72 +17,70 @@ listing:
   filter-ui: false
 ---
 
-<div class="profile-hero">
-
-<img class="profile-photo" src="assets/profile.jpg" alt="Elvis Kwame Ofori">
-
-<div class="profile-kicker">Ghana · China · Ireland</div>
-
-<h1 class="profile-name">Elvis Kwame Ofori</h1>
-
-<div class="profile-role">Researcher, writer and policy observer</div>
-
-<p class="profile-lead">I write about how policy, evidence and technology shape agriculture, land use and development. This site brings together public-policy analysis, research notes and personal observations shaped by Ghana, China and Ireland.</p>
-
-<div class="profile-links">
-<a href="blog/">Read EKO Perspectives →</a>
+<header class="publication-masthead">
+<h1 class="publication-name">EKO Perspectives</h1>
+<div class="publication-topics" aria-label="Topics">
+<span>Policy</span><span>Land &amp; Agriculture</span><span>Economics &amp; Evidence</span><span>Science &amp; Technology</span><span>Places &amp; Development</span><span>Personal &amp; Ideas</span>
 </div>
-
-</div>
+</header>
 
 <div class="home-shell">
 
-<section class="home-section start-here-section">
+<section class="home-feature-section">
 
-<div class="section-heading">
-<h2>Start here</h2>
-<span class="section-note">Two pieces that show what EKO Perspectives is about.</span>
+<div class="home-label">Start here</div>
+
+<div class="feature-grid">
+
+<a class="feature-card feature-card--lead" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
+<div class="feature-media">
+<img src="blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" alt="An Irish farm field with cattle and grassland">
 </div>
-
-<div class="start-here-grid">
-
-<a class="start-here-card" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
-<span class="start-here-kicker">Economics & Evidence</span>
-<strong>When the future is outside the data</strong>
-<span>Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.</span>
+<span class="feature-kicker">Economics &amp; Evidence</span>
+<h2>When the future is outside the data</h2>
+<p>Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.</p>
 </a>
 
-<a class="start-here-card" href="blog/posts/2026-09-22-acres-landscape-actions/">
-<span class="start-here-kicker">Land & Agriculture · Policy</span>
-<strong>When environmental policy needs a landscape, not just a farm</strong>
-<span>Why some environmental problems need coordination beyond individual holdings.</span>
+<div class="feature-stack">
+
+<a class="feature-card feature-card--side" href="blog/posts/2026-09-22-acres-landscape-actions/">
+<div class="feature-media">
+<img src="blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg" alt="Three adjacent farm parcels crossed by water and a habitat corridor">
+</div>
+<span class="feature-kicker">Land &amp; Agriculture · Policy</span>
+<h3>When environmental policy needs a landscape, not just a farm</h3>
+<p>Why some environmental problems need coordination beyond individual holdings.</p>
+</a>
+
+<a class="feature-card feature-card--side" href="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/">
+<div class="feature-media">
+<img src="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg" alt="Diagram contrasting different ways the same amount of time using AI can be spent">
+</div>
+<span class="feature-kicker">Science &amp; Technology · Economics &amp; Evidence</span>
+<h3>AI is becoming ordinary. The evidence about its effects is still catching up</h3>
 </a>
 
 </div>
-
+</div>
 </section>
 
 <section class="home-section">
-
 <div class="section-heading">
 <h2>Latest from EKO Perspectives</h2>
-<a href="blog/">EKO Perspectives →</a>
+<a href="blog/">All writing →</a>
 </div>
 
 ::: {#home-writing}
 :::
-
 </section>
 
 <section class="home-section">
-
 <div class="section-heading">
 <h2>About my research</h2>
 <a href="research/">Research →</a>
 </div>
 
 <p class="home-statement">My research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway.</p>
-
 </section>
 
 </div>
