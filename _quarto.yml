@@ -21,7 +21,9 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Explore
+      - text: Home
+        href: index.qmd
+      - text: Writing
         href: blog/index.qmd
       - text: Research
         href: research/index.qmd
