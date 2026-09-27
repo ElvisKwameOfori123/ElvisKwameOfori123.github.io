@@ -2,11 +2,15 @@
 title: "Wildfire policy begins before the fire"
 description: "Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention."
 date: 2026-09-24
-image: "wildfire-policy-cycle.svg"
-image-alt: "A four-stage wildfire risk management cycle showing prevention, preparedness, response and recovery, with land management emphasized before ignition"
+image: "cork-gorse-burning.jpg"
+image-alt: "Burning gorse and heather in a mountain landscape in County Cork, Ireland"
 categories: ["Policy", "Land & Agriculture"]
 draft: false
 ---
+
+![Burning gorse and heather in a mountain landscape in County Cork.](cork-gorse-burning.jpg){fig-alt="Smoke rises from burning gorse and heather on a mountain slope in County Cork, with grassland visible around the burned area." width="100%" fig-align="center"}
+
+*Photograph: [Keith Cunneen / Geograph Britain and Ireland via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:I_love_the_smell_of_burning_gorse_in_the_morning._-_geograph.org.uk_-_1930711.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 One thing in the European Commission's March 2026 wildfire strategy is easy to miss if fire is thought of mainly as an emergency. A great deal of wildfire policy happens when there is no fire.
 
