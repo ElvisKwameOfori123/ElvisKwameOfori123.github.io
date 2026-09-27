@@ -5,8 +5,8 @@ project:
     - CNAME
 
 website:
-  title: "Elvis Kwame Ofori"
-  description: "Personal writing on policy, science, economics, technology, Ghana, Ireland, the United States, and research."
+  title: "EKO Perspectives"
+  description: "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development."
   site-url: "https://kwameofori123.com"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
   favicon: assets/favicon.svg
