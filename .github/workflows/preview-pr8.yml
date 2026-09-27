@@ -1,9 +1,7 @@
 name: Preview PR8 visuals
 
 on:
-  push:
-    branches:
-      - preview-pr8-final
+  pull_request:
 
 permissions:
   contents: read
