@@ -1,5 +1,9 @@
 # Repository instructions
 
+## EKO Perspectives design principle
+
+Warm paper, black type, one restrained blue accent, strong editorial imagery, generous whitespace, few reader-facing labels, minimal decorative UI, and hierarchy created principally through typography, scale, spacing and rules. Preserve publication clarity over generic Quarto or dashboard styling. The aim is coherence, not resemblance to another publication.
+
 ## EKO Perspectives editorial work
 
 For any task that drafts, revises, reviews, researches, profiles, SEO-packages, or prepares a post for `kwameofori123.com` / EKO Perspectives, **read `.editorial/EKO_EDITORIAL_WORKFLOW_v2.2.md` first and follow its stage routing**.
