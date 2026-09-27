@@ -22,6 +22,7 @@ Non-negotiable publication safeguards:
 - Never invent scenes, quotations, biographical facts, or observations in profiles or magazine-style pieces.
 - Every published post must have at least one relevant lead image stored locally with descriptive alt text; use a second supporting image only when it adds real explanatory, documentary or historical value.
 - Prefer original explanatory visuals, author-owned photography, maps, charts, documents and clearly reusable documentary or historical imagery over decorative stock.
+- Prefer a real or documentary lead image when a strong, truthful and clearly reusable one exists. Use an original schematic as the lead when the subject is abstract or when available photography would be generic or misleading; otherwise keep schematics as supporting explanatory visuals.
 - Render and check the finished draft on both desktop and phone before it is considered ready for review.
 
 For a whole-site SEO or technical-health task that does not involve drafting a post, follow the site-health section in `.editorial/EKO_EDITORIAL_WORKFLOW_v2.2.md`.
