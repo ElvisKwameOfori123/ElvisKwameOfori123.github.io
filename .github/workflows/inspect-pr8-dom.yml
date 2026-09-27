@@ -1,0 +1,27 @@
+name: Inspect PR8 feature DOM
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - run: quarto render
+      - name: Print feature grid DOM
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          html=Path('_site/index.html').read_text()
+          m=re.search(r'<div class="feature-grid">([\s\S]*?)</section>', html)
+          if m:
+              print(m.group(0))
+          else:
+              print('feature grid not found')
+          PY
