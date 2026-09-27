@@ -5,8 +5,8 @@ project:
     - CNAME
 
 website:
-  title: "Elvis Kwame Ofori"
-  description: "Personal writing on policy, science, economics, technology, Ghana, Ireland, the United States, and research."
+  title: "EKO Perspectives"
+  description: "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development."
   site-url: "https://kwameofori123.com"
   repo-url: "https://github.com/ElvisKwameOfori123/ElvisKwameOfori123.github.io"
   favicon: assets/favicon.svg
@@ -21,30 +21,16 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Home
-        href: index.qmd
-      - text: Writing
+      - text: Explore
         href: blog/index.qmd
-      - text: About
-        href: about.qmd
       - text: Research
         href: research/index.qmd
-      - text: Contact
-        href: contact.qmd
-    right:
-      - icon: github
-        href: "https://github.com/ElvisKwameOfori123"
-        aria-label: GitHub
-      - icon: linkedin
-        href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
-        aria-label: LinkedIn
-      - icon: rss
-        href: "/blog/index.xml"
-        aria-label: RSS
+      - text: About
+        href: about.qmd
   page-footer:
     left: "© Elvis Kwame Ofori · Views are my own"
-    center: "[Privacy](/privacy.html) · [Copyright & reuse](/copyright.html) · [Accessibility](/accessibility.html) · [Editorial standards](/about.html#editorial-standards)"
-    right: "[Email](mailto:e.ofori1@universityofgalway.ie) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [RSS](/blog/index.xml)"
+    center: "[Contact](/contact.html) · [Privacy](/privacy.html) · [Copyright & reuse](/copyright.html) · [Accessibility](/accessibility.html) · [Editorial standards](/about.html#editorial-standards)"
+    right: "[GitHub](https://github.com/ElvisKwameOfori123) · [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [RSS](/blog/index.xml)"
 
 format:
   html:

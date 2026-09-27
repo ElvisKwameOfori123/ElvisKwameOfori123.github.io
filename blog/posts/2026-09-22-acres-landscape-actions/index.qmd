@@ -1,8 +1,8 @@
 ---
 title: "When environmental policy needs a landscape, not just a farm"
-description: "Ireland's ACRES landscape actions show why some land-use problems cannot be solved one holding at a time."
+description: "Some environmental problems do not stop at the farm gate. Ireland's ACRES landscape actions show why coordination can matter across holdings."
 date: 2026-09-22
-start-here: true
+featured: true
 image: "acres-landscape.svg"
 image-alt: "Three adjacent farm parcels crossed by water and a habitat corridor, illustrating how ecological processes cross farm boundaries"
 categories: ["Land & Agriculture", "Policy"]

@@ -1,7 +1,7 @@
 ---
-title: "Home"
-pagetitle: "Elvis Kwame Ofori"
-description: "Personal writing on policy, science, economics, technology, places and research."
+title: "EKO Perspectives"
+pagetitle: "EKO Perspectives"
+description: "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development."
 toc: false
 page-layout: full
 listing:
@@ -11,78 +11,86 @@ listing:
   type: default
   max-items: 3
   exclude:
-    start-here: true
+    featured: true
   categories: false
   sort-ui: false
   filter-ui: false
 ---
 
-<div class="profile-hero">
-
-<img class="profile-photo" src="assets/profile.jpg" alt="Elvis Kwame Ofori">
-
-<div class="profile-kicker">Ghana · China · Ireland</div>
-
-<h1 class="profile-name">Elvis Kwame Ofori</h1>
-
-<div class="profile-role">Researcher, writer and policy observer</div>
-
-<p class="profile-lead">I write about how policy, evidence and technology shape agriculture, land use and development. This site brings together public-policy analysis, research notes and personal observations shaped by Ghana, China and Ireland.</p>
-
-<div class="profile-links">
-<a href="blog/">Read EKO Perspectives →</a>
-</div>
-
-</div>
+<header class="publication-masthead">
+<h1 class="publication-name"><a href="/">EKO Perspectives</a></h1>
+<p class="publication-deck">Research, evidence and ideas by Elvis Kwame Ofori</p>
+<nav id="topics" class="publication-topics" aria-label="Topics">
+<a href="/blog/#category=Policy">Policy</a>
+<a href="/blog/#category=Land%20%26%20Agriculture">Land &amp; Agriculture</a>
+<a href="/blog/#category=Economics%20%26%20Evidence">Economics &amp; Evidence</a>
+<a href="/blog/#category=Science%20%26%20Technology">Science &amp; Technology</a>
+<a href="/blog/#category=Personal%20%26%20Ideas">Personal &amp; Ideas</a>
+</nav>
+</header>
 
 <div class="home-shell">
 
-<section class="home-section start-here-section">
+<section class="home-feature-section">
 
-<div class="section-heading">
-<h2>Start here</h2>
-<span class="section-note">Two pieces that show what EKO Perspectives is about.</span>
+<div class="home-label">Featured</div>
+
+<!-- Homepage curation rule: every post shown in this hand-curated Featured block
+     must carry `featured: true` in front matter, and every post with
+     `featured: true` should be represented here so Latest can exclude it. -->
+<div class="feature-grid">
+
+<a class="feature-card feature-card--lead" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
+<div class="feature-media">
+<img src="blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" alt="An Irish farm field with cattle and grassland" loading="eager" fetchpriority="high" decoding="async">
+<span class="feature-credit">Daniel Hanrahan / Wikimedia Commons · CC BY 3.0</span>
 </div>
-
-<div class="start-here-grid">
-
-<a class="start-here-card" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
-<span class="start-here-kicker">Economics & Evidence</span>
-<strong>When the future is outside the data</strong>
-<span>Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add.</span>
+<span class="feature-kicker">Economics &amp; Evidence</span>
+<h2>When the future is outside the data</h2>
+<p>Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.</p>
 </a>
 
-<a class="start-here-card" href="blog/posts/2026-09-22-acres-landscape-actions/">
-<span class="start-here-kicker">Land & Agriculture · Policy</span>
-<strong>When environmental policy needs a landscape, not just a farm</strong>
-<span>Why some environmental problems need coordination beyond individual holdings.</span>
+<div class="feature-stack">
+
+<a class="feature-card feature-card--side" href="blog/posts/2026-09-22-acres-landscape-actions/">
+<div class="feature-media">
+<img src="blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg" alt="Three adjacent farm parcels crossed by water and a habitat corridor" loading="lazy" decoding="async">
+</div>
+<span class="feature-kicker">Land &amp; Agriculture</span>
+<h3>When environmental policy needs a landscape, not just a farm</h3>
+<p>Some environmental problems do not stop at the farm gate. Ireland's ACRES landscape actions show why coordination can matter across holdings.</p>
+</a>
+
+<a class="feature-card feature-card--side" href="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/">
+<div class="feature-media">
+<img src="blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg" alt="Diagram contrasting different ways the same amount of time using AI can be spent" loading="lazy" decoding="async">
+</div>
+<span class="feature-kicker">Science &amp; Technology</span>
+<h3>AI is becoming ordinary. The evidence about its effects is still catching up</h3>
+<p>Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them.</p>
 </a>
 
 </div>
-
+</div>
 </section>
 
 <section class="home-section">
-
 <div class="section-heading">
 <h2>Latest from EKO Perspectives</h2>
-<a href="blog/">EKO Perspectives →</a>
+<a href="blog/">All writing →</a>
 </div>
 
 ::: {#home-writing}
 :::
-
 </section>
 
 <section class="home-section">
-
 <div class="section-heading">
 <h2>About my research</h2>
 <a href="research/">Research →</a>
 </div>
 
 <p class="home-statement">My research examines how national agricultural, climate and land-use goals translate into different costs, opportunities and constraints across farms and places. I work with spatial, economic and behavioural models at the University of Galway.</p>
-
 </section>
 
 </div>
