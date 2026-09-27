@@ -38,6 +38,8 @@ Generative AI is becoming ordinary in classrooms and everyday life. The scientif
 
 [All writing →](blog/)
 
+[![A schematic showing a complex agricultural landscape simplified into a grid of model categories, illustrating what becomes visible and what is left out](./blog/posts/2026-09-24-seeing-like-a-state-models/model-simplification.svg)](blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
+
 ### [A map can clarify the world and still leave something out](blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
 
 Reading James C. Scott’s Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy.
@@ -45,6 +47,8 @@ Reading James C. Scott’s Seeing Like a State as a warning about simplification
 Sep 24, 2026
 
 Elvis Kwame Ofori
+
+[![A four-stage wildfire risk management cycle showing prevention, preparedness, response and recovery, with land management emphasized before ignition](./blog/posts/2026-09-24-wildfire-policy-before-fire/wildfire-policy-cycle.svg)](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
 ### [Wildfire policy begins before the fire](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 

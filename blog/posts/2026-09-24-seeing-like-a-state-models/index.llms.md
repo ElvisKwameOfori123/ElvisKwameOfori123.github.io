@@ -18,6 +18,12 @@ A model has to leave things out. That is obvious enough. I think the more intere
 
 James C. Scott’s [*Seeing Like a State*](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) is usually read as a critique of large-scale schemes of social improvement. The book moves through scientific forestry, cadastral maps, urban planning, collectivisation, villagisation and agricultural modernisation. The thread running through those examples is what Scott calls legibility: complicated social and ecological worlds are translated into categories that institutions can count, compare and administer.
 
+![A split-panel schematic showing an irregular agricultural landscape with fields, a stream, woodland, roads and farm buildings on the left, and a regular grid of dairy, beef and tillage categories on the right.](model-simplification.svg)
+
+A complex landscape becomes a smaller set of model categories. The simplification makes comparison possible, but some information disappears.
+
+*Original schematic for EKO Perspectives.*
+
 There is nothing inherently foolish about doing that. A forest can be represented as timber volume. Land can be divided into mapped parcels. People can be counted in a census. Farms can be classified as dairy, cattle, sheep, tillage or mixed. A government that cannot identify property, measure resources or count people will have trouble taxing, planning services or administering policy. Scott’s warning is narrower and more useful than a rejection of measurement. Trouble begins when the representation starts to stand in for the thing represented.
 
 His forestry example makes the point nicely. A forest organised around a narrow measure of timber production can look admirably ordered while losing ecological relationships that the accounting system did not value. A planned settlement can make sense on a map while working badly for people whose movements, trades and social ties were never visible in the plan. The simplification makes intervention possible. It can also conceal some of the knowledge needed to make the intervention work.

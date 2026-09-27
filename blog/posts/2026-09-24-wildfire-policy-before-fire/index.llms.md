@@ -18,6 +18,12 @@ One thing in the European Commission’s March 2026 wildfire strategy is easy to
 
 The Commission’s [Communication on Integrated Wildfire Risk Management](https://ec.europa.eu/echo/files/civil_protection/communication_on_integrated_wildfire_risk_management.pdf), adopted on 25 March, treats prevention, preparedness, response and recovery as parts of the same system. Its guidance for [agriculture and forests](https://agriculture.ec.europa.eu/cap-my-country/sustainability/environmental-sustainability/wildfire-prevention-and-restoration-agriculture-and-forests_en) gives farmers and foresters a role throughout that cycle. Grazing, agroforestry, thinning, firebreaks and other forms of land management can affect fuel accumulation and the structure of the landscape long before an ignition occurs.
 
+![A four-stage schematic of wildfire risk management. Prevention is emphasized with grazing, vegetation management, firebreaks, access routes, water points and neighbour coordination, followed by preparedness, response and recovery.](wildfire-policy-cycle.svg)
+
+Wildfire policy is a cycle, not only an emergency response.
+
+*Original schematic for EKO Perspectives.*
+
 Ireland is not Mediterranean Europe, and it would be misleading to import the southern European fire story wholesale. The risk profile is different. Still, Irish guidance already treats wildfire as more than a firefighting problem. The Department of Agriculture, Food and the Marine’s [fire-management page](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/fire-management/) identifies a spring fire-risk season and currently lists three Fire Danger Notices for 2026. The [Office of Emergency Planning](https://www.gov.ie/en/office-of-emergency-planning/guidance/wildfires/) identifies peatlands, turf-cutting bogs, uplands and immature forest lands among the areas particularly prone to wildfire, and notes that active farming, appropriate grazing and other fuel-reduction measures can reduce risk.
 
 That raises a more interesting question than whether Ireland is becoming Spain or Greece. How much of Irish wildfire policy belongs inside ordinary land management?

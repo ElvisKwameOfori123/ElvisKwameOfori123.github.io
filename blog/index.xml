@@ -28,6 +28,13 @@
 
 <p>A model has to leave things out. That is obvious enough. I think the more interesting question begins after the simplification starts working, because that is when it becomes easy to forget that it was a simplification in the first place.</p>
 <p>James C. Scott’s <a href="https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/"><em>Seeing Like a State</em></a> is usually read as a critique of large-scale schemes of social improvement. The book moves through scientific forestry, cadastral maps, urban planning, collectivisation, villagisation and agricultural modernisation. The thread running through those examples is what Scott calls legibility: complicated social and ecological worlds are translated into categories that institutions can count, compare and administer.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/model-simplification.svg" class="img-fluid figure-img" style="width:100.0%" alt="A split-panel schematic showing an irregular agricultural landscape with fields, a stream, woodland, roads and farm buildings on the left, and a regular grid of dairy, beef and tillage categories on the right."></p>
+<figcaption>A complex landscape becomes a smaller set of model categories. The simplification makes comparison possible, but some information disappears.</figcaption>
+</figure>
+</div>
+<p><em>Original schematic for EKO Perspectives.</em></p>
 <p>There is nothing inherently foolish about doing that. A forest can be represented as timber volume. Land can be divided into mapped parcels. People can be counted in a census. Farms can be classified as dairy, cattle, sheep, tillage or mixed. A government that cannot identify property, measure resources or count people will have trouble taxing, planning services or administering policy. Scott’s warning is narrower and more useful than a rejection of measurement. Trouble begins when the representation starts to stand in for the thing represented.</p>
 <p>His forestry example makes the point nicely. A forest organised around a narrow measure of timber production can look admirably ordered while losing ecological relationships that the accounting system did not value. A planned settlement can make sense on a map while working badly for people whose movements, trades and social ties were never visible in the plan. The simplification makes intervention possible. It can also conceal some of the knowledge needed to make the intervention work.</p>
 <p>That is uncomfortable territory for modelling, which is one reason I find the book useful. Models also depend on legibility. We choose variables, harmonise categories, construct representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. <a href="../../../blog/posts/2026-09-22-econometrics-to-scenario-thinking/">Scenario thinking</a> turns an uncertain future into a manageable set of assumptions. None of this is a defect. It is what makes modelling possible.</p>
@@ -51,6 +58,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
   <category>Personal &amp; Ideas</category>
   <guid>https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/</guid>
   <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/model-simplification.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Wildfire policy begins before the fire</title>
@@ -64,6 +72,13 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
 
 <p>One thing in the European Commission’s March 2026 wildfire strategy is easy to miss if fire is thought of mainly as an emergency. A great deal of wildfire policy happens when there is no fire.</p>
 <p>The Commission’s <a href="https://ec.europa.eu/echo/files/civil_protection/communication_on_integrated_wildfire_risk_management.pdf">Communication on Integrated Wildfire Risk Management</a>, adopted on 25 March, treats prevention, preparedness, response and recovery as parts of the same system. Its guidance for <a href="https://agriculture.ec.europa.eu/cap-my-country/sustainability/environmental-sustainability/wildfire-prevention-and-restoration-agriculture-and-forests_en">agriculture and forests</a> gives farmers and foresters a role throughout that cycle. Grazing, agroforestry, thinning, firebreaks and other forms of land management can affect fuel accumulation and the structure of the landscape long before an ignition occurs.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/wildfire-policy-cycle.svg" class="img-fluid figure-img" style="width:100.0%" alt="A four-stage schematic of wildfire risk management. Prevention is emphasized with grazing, vegetation management, firebreaks, access routes, water points and neighbour coordination, followed by preparedness, response and recovery."></p>
+<figcaption>Wildfire policy is a cycle, not only an emergency response.</figcaption>
+</figure>
+</div>
+<p><em>Original schematic for EKO Perspectives.</em></p>
 <p>Ireland is not Mediterranean Europe, and it would be misleading to import the southern European fire story wholesale. The risk profile is different. Still, Irish guidance already treats wildfire as more than a firefighting problem. The Department of Agriculture, Food and the Marine’s <a href="https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/fire-management/">fire-management page</a> identifies a spring fire-risk season and currently lists three Fire Danger Notices for 2026. The <a href="https://www.gov.ie/en/office-of-emergency-planning/guidance/wildfires/">Office of Emergency Planning</a> identifies peatlands, turf-cutting bogs, uplands and immature forest lands among the areas particularly prone to wildfire, and notes that active farming, appropriate grazing and other fuel-reduction measures can reduce risk.</p>
 <p>That raises a more interesting question than whether Ireland is becoming Spain or Greece. How much of Irish wildfire policy belongs inside ordinary land management?</p>
 <p>Some of the answer is already visible. <a href="https://teagasc.ie/crops/forestry/advice/forest-protection/dealing-with-wildfires/">Teagasc’s guidance for forest owners</a> stresses fire plans, maintained firebreaks, access routes, water sources and cooperation with neighbouring landowners. None of this looks dramatic beside aircraft, fire engines or an evacuation. That is precisely the point. The interventions matter because they happen before an emergency.</p>
@@ -84,6 +99,7 @@ Researcher and writer behind <em>EKO Perspectives</em>.</p>
   <category>Land &amp; Agriculture</category>
   <guid>https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/</guid>
   <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/wildfire-policy-cycle.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>When the future is outside the data</title>
