@@ -503,9 +503,8 @@ body:has(.publication-masthead) #title-block-header {
 }
 
 .publication-topics a + a::before {
-  content: "·";
-  margin-right: 1rem;
-  color: var(--site-muted);
+  content: none;
+  margin-right: 0;
 }
 
 .home-shell {
