@@ -1,6 +1,6 @@
 ---
 title: "When the future is outside the data"
-description: "Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add."
+description: "Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed."
 date: 2026-09-22
 featured: true
 image: "irish-farm-field.jpg"
