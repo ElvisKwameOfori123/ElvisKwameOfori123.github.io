@@ -41,7 +41,7 @@ format:
     include-in-header: includes/head.html
     canonical-url: true
     grid:
-      body-width: 900px
+      body-width: 640px
       margin-width: 220px
     toc: true
     code-copy: true
