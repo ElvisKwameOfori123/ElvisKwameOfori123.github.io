@@ -508,6 +508,15 @@ body:has(.publication-masthead) #title-block-header {
   transition: transform .22s ease;
 }
 
+.feature-credit {
+  display: block;
+  margin-top: .35rem;
+  color: var(--site-muted);
+  font-family: "Montserrat", sans-serif;
+  font-size: .68rem;
+  line-height: 1.35;
+}
+
 .feature-card:hover .feature-media img,
 .feature-card:focus-visible .feature-media img {
   transform: scale(1.012);
@@ -875,14 +884,16 @@ body.quarto-dark .post-end strong {
     gap: 1.25rem;
   }
 
-  .feature-card--side + .feature-card--side {
+  .feature-card--side {
     padding-top: 0;
     border-top: 0;
   }
 
-  .feature-card--side {
-    padding-top: 1.15rem;
-    border-top: 1px solid var(--site-line);
+  .feature-card--side + .feature-card--side {
+    padding-top: 0;
+    padding-left: 1.25rem;
+    border-top: 0;
+    border-left: 1px solid var(--site-line);
   }
 
   .navbar-container {
@@ -945,6 +956,28 @@ body.quarto-dark .post-end strong {
 /* Phone */
 
 @media (max-width: 760px) {
+  .publication-masthead {
+    padding: 2.2rem .95rem 1.35rem;
+  }
+
+  .publication-name {
+    font-size: clamp(2.55rem, 14vw, 3.55rem);
+    line-height: .96;
+  }
+
+  .publication-deck {
+    margin-top: .6rem;
+    font-size: 1rem;
+  }
+
+  .home-feature-section {
+    padding-top: 1.25rem;
+  }
+
+  .feature-card--lead h2 {
+    font-size: clamp(1.7rem, 8vw, 2.15rem);
+  }
+
   .publication-topics {
     flex-wrap: nowrap;
     gap: .8rem;
@@ -982,7 +1015,9 @@ body.quarto-dark .post-end strong {
   .feature-card--side,
   .feature-card--side + .feature-card--side {
     padding-top: 1.2rem;
+    padding-left: 0;
     border-top: 1px solid var(--site-line);
+    border-left: 0;
   }
 
   body {
