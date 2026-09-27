@@ -3,10 +3,14 @@ title: "When environmental policy needs a landscape, not just a farm"
 description: "Some environmental problems do not stop at the farm gate. Ireland's ACRES landscape actions show why coordination can matter across holdings."
 date: 2026-09-22
 featured: true
-image: "acres-landscape.svg"
-image-alt: "Three adjacent farm parcels crossed by water and a habitat corridor, illustrating how ecological processes cross farm boundaries"
+image: "acres-irish-landscape.jpg"
+image-alt: "Agricultural fields in County Dublin forming a patchwork rural landscape"
 categories: ["Land & Agriculture", "Policy"]
 ---
+
+![Agricultural fields in north County Dublin.](acres-irish-landscape.jpg){fig-alt="A rural County Dublin landscape of agricultural fields separated by field boundaries and roads." width="100%" fig-align="center"}
+
+*Photograph: [C O'Flanagan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agricultural_Landscape_Co_Dublin_-_geograph.org.uk_-_1721182.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 I keep coming back to a fairly simple problem in agri-environment policy. The contract is usually with a farmer, but the thing the policy is trying to improve often does not stop at the farm gate. Water runs downhill. Habitats connect across holdings. Invasive species spread. A bird or pollinator has no reason to care where one parcel ends and the next begins.
 
