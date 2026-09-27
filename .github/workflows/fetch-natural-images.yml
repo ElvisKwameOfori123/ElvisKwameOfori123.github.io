@@ -34,6 +34,7 @@ jobs:
 
           python - <<'PY'
           from PIL import Image, ImageOps
+          Image.MAX_IMAGE_PIXELS = None
           jobs = [
               ("/tmp/acres.jpg","blog/posts/2026-09-22-acres-landscape-actions/acres-irish-landscape.jpg",1200),
               ("/tmp/map.jpg","blog/posts/2026-09-24-seeing-like-a-state-models/os-ireland-map-1905.jpg",1800),
