@@ -1,0 +1,74 @@
+name: Preview PR13 images
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  screenshots:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Capture responsive screenshots
+        run: |
+          python3 -m http.server 8000 --directory _site >/tmp/eko-preview-http.log 2>&1 &
+          cat > capture.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'fs';
+          const browser = await chromium.launch({headless:true});
+          const pages = [
+            ['map','/blog/posts/2026-09-24-seeing-like-a-state-models/'],
+            ['wildfire','/blog/posts/2026-09-24-wildfire-policy-before-fire/'],
+            ['writing','/blog/']
+          ];
+          const widths = [
+            ['phone',375,812],
+            ['desktop',1440,1100]
+          ];
+          fs.mkdirSync('visual-preview',{recursive:true});
+          const metrics=[];
+          for (const [pageName,path] of pages) {
+            for (const [sizeName,width,height] of widths) {
+              const page = await browser.newPage({viewport:{width,height}, deviceScaleFactor:1});
+              await page.goto('http://127.0.0.1:8000'+path,{waitUntil:'networkidle'});
+              await page.screenshot({path:`visual-preview/${pageName}-${sizeName}.png`,fullPage:true});
+              metrics.push(await page.evaluate(({pageName,sizeName})=>{
+                const imgs=[...document.querySelectorAll('main img')].map(img=>({
+                  alt:img.alt, src:img.getAttribute('src'),
+                  width:img.getBoundingClientRect().width,
+                  height:img.getBoundingClientRect().height
+                }));
+                const overflow=document.documentElement.scrollWidth>document.documentElement.clientWidth;
+                return {pageName,sizeName,viewport:innerWidth,overflow,imgs};
+              },{pageName,sizeName}));
+              await page.close();
+            }
+          }
+          fs.writeFileSync('visual-preview/metrics.json',JSON.stringify(metrics,null,2));
+          await browser.close();
+          JS
+          node capture.mjs
+
+      - name: Upload visual preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr13-visual-preview
+          path: visual-preview
+          if-no-files-found: error
