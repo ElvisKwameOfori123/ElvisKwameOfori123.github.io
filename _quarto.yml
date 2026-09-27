@@ -23,6 +23,8 @@ website:
     left:
       - text: Latest
         href: blog/index.qmd
+      - text: Topics
+        href: index.qmd#topics
       - text: Research
         href: research/index.qmd
       - text: About
