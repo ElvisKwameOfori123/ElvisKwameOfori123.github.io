@@ -243,13 +243,17 @@ body.quarto-dark .navbar {
 }
 
 /* Homepage navigation: the masthead is the identity; the fixed bar is utility. */
+body:has(.publication-masthead) .navbar-brand-container {
+  display: none;
+}
+
+body:has(.publication-masthead) #quarto-search {
+  margin-left: auto;
+}
+
 @media (min-width: 992px) {
   body:has(.publication-masthead) .navbar {
     min-height: 50px;
-  }
-
-  body:has(.publication-masthead) .navbar-brand-container {
-    display: none;
   }
 
   body:has(.publication-masthead) .navbar-collapse {
