@@ -861,16 +861,44 @@ body.quarto-dark:has(#listing-listing) #quarto-margin-sidebar .quarto-listing-ca
   display: none !important;
 }
 
-/* Keep the homepage Latest list deliberately quieter than the archive. */
+/* Homepage Latest: keep it restrained, but always show each post's lead image. */
 #listing-home-writing .quarto-post {
+  grid-template-columns: 220px minmax(0, 1fr) !important;
+  grid-template-areas:
+    "thumb body"
+    "thumb metadata" !important;
+  gap: .35rem 1.25rem !important;
+  align-items: start;
+}
+
+#listing-home-writing .quarto-post > .thumbnail {
+  display: block !important;
+  grid-area: thumb !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+#listing-home-writing .quarto-post > .thumbnail img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+#listing-home-writing .quarto-post > .body {
+  grid-area: body !important;
+}
+
+#listing-home-writing .quarto-post > .metadata {
+  grid-area: metadata !important;
+}
+
+#listing-home-writing .quarto-post:not(:has(.thumbnail img)) {
   grid-template-columns: minmax(0, 1fr) !important;
   grid-template-areas:
     "body"
     "metadata" !important;
-}
-
-#listing-home-writing .quarto-post > .thumbnail {
-  display: none !important;
 }
 
 #listing-home-writing .listing-item {
@@ -1284,12 +1312,23 @@ body.quarto-dark .post-end strong {
   #listing-home-writing .quarto-post {
     grid-template-columns: minmax(0, 1fr) !important;
     grid-template-areas:
+      "thumb"
       "body"
       "metadata" !important;
+    gap: .5rem !important;
   }
 
   #listing-home-writing .quarto-post > .thumbnail {
-    display: none !important;
+    display: block !important;
+    width: 100% !important;
+    margin: 0 0 .35rem !important;
+  }
+
+  #listing-home-writing .quarto-post > .thumbnail img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
   }
 
   .quarto-listing-default .listing-title {
