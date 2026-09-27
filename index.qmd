@@ -18,17 +18,23 @@ listing:
 ---
 
 <header class="publication-masthead">
-<h1 class="publication-name">EKO Perspectives</h1>
-<div class="publication-topics" aria-label="Topics">
-<span>Policy</span><span>Land &amp; Agriculture</span><span>Economics &amp; Evidence</span><span>Science &amp; Technology</span><span>Places &amp; Development</span><span>Personal &amp; Ideas</span>
-</div>
+<h1 class="publication-name"><a href="/">EKO Perspectives</a></h1>
+<p class="publication-deck">Research, evidence and ideas by Elvis Kwame Ofori</p>
+<nav id="topics" class="publication-topics" aria-label="Topics">
+<a href="/blog/#category=Policy">Policy</a>
+<a href="/blog/#category=Land%20%26%20Agriculture">Land &amp; Agriculture</a>
+<a href="/blog/#category=Economics%20%26%20Evidence">Economics &amp; Evidence</a>
+<a href="/blog/#category=Science%20%26%20Technology">Science &amp; Technology</a>
+<a href="/blog/#category=Places%20%26%20Development">Places &amp; Development</a>
+<a href="/blog/#category=Personal%20%26%20Ideas">Personal &amp; Ideas</a>
+</nav>
 </header>
 
 <div class="home-shell">
 
 <section class="home-feature-section">
 
-<div class="home-label">Start here</div>
+<div class="home-label">Featured</div>
 
 <div class="feature-grid">
 
