@@ -546,6 +546,10 @@ body:has(.publication-masthead) #title-block-header {
   align-items: start;
 }
 
+.feature-grid > p {
+  display: contents;
+}
+
 .feature-card {
   display: block;
   min-width: 0;
@@ -1209,8 +1213,18 @@ body.quarto-dark .post-end strong {
   }
 
   body:has(.post-end) .quarto-title-meta {
-    flex-wrap: wrap;
-    row-gap: .2rem;
+    flex-wrap: nowrap;
+    row-gap: 0;
+  }
+
+  body:has(.post-end) .quarto-title-meta-contents,
+  body:has(.post-end) .quarto-title-meta-contents p {
+    font-size: .66rem !important;
+    letter-spacing: .04em;
+  }
+
+  body:has(.post-end) .quarto-title-meta > div + div::before {
+    margin: 0 .35rem;
   }
 
   h2 {
