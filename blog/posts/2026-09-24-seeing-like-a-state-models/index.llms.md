@@ -14,6 +14,12 @@ Published
 
 24 September 2026
 
+![A detailed black-and-white 1905 Ordnance Survey map showing roads, settlements, field boundaries and terrain around Dunfanaghy in County Donegal.](os-ireland-map-1905.jpg)
+
+A 1905 Ordnance Survey Ireland map of Dunfanaghy and surrounding land in County Donegal.
+
+*Ordnance Survey Ireland, six-inch Donegal Sheet 15, published 1905. Director General of the Ordnance Survey Office, Dublin; digital image via the National Library of Scotland and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ordnance_Survey_Ireland_Six-inch_Donegal_Sheet_15_Dunfanaghy,_Published_1905.jpg). Underlying map public domain; digital image [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+
 A model has to leave things out. That is obvious enough. I think the more interesting question begins after the simplification starts working, because that is when it becomes easy to forget that it was a simplification in the first place.
 
 James C. Scott’s [*Seeing Like a State*](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) is usually read as a critique of large-scale schemes of social improvement. The book moves through scientific forestry, cadastral maps, urban planning, collectivisation, villagisation and agricultural modernisation. The thread running through those examples is what Scott calls legibility: complicated social and ecological worlds are translated into categories that institutions can count, compare and administer.

@@ -14,6 +14,12 @@ Published
 
 22 September 2026
 
+![A rural County Dublin landscape of agricultural fields separated by field boundaries and roads.](acres-irish-landscape.jpg)
+
+Agricultural fields in north County Dublin.
+
+*Photograph: [C O’Flanagan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agricultural_Landscape_Co_Dublin_-_geograph.org.uk_-_1721182.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 I keep coming back to a fairly simple problem in agri-environment policy. The contract is usually with a farmer, but the thing the policy is trying to improve often does not stop at the farm gate. Water runs downhill. Habitats connect across holdings. Invasive species spread. A bird or pollinator has no reason to care where one parcel ends and the next begins.
 
 ![Three adjoining farm parcels are crossed by a river and a habitat corridor, showing how ecological processes extend across individual holdings.](acres-landscape.svg)

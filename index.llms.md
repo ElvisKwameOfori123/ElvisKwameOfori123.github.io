@@ -18,7 +18,7 @@ Economics & Evidence
 
 Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.
 
-![Three adjacent farm parcels crossed by water and a habitat corridor](blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg)
+![Agricultural fields in County Dublin forming a patchwork rural landscape](blog/posts/2026-09-22-acres-landscape-actions/acres-irish-landscape.jpg) C O’Flanagan / Wikimedia Commons · CC BY-SA 2.0
 
 Land & Agriculture
 
@@ -38,7 +38,7 @@ Generative AI is becoming ordinary in classrooms and everyday life. The scientif
 
 [All writing →](blog/)
 
-[![A schematic showing a complex agricultural landscape simplified into a grid of model categories, illustrating what becomes visible and what is left out](./blog/posts/2026-09-24-seeing-like-a-state-models/model-simplification.svg)](blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
+[![A 1905 Ordnance Survey six-inch map of Dunfanaghy and surrounding land in County Donegal](./blog/posts/2026-09-24-seeing-like-a-state-models/os-ireland-map-1905.jpg)](blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
 
 ### [A map can clarify the world and still leave something out](blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
 
@@ -48,7 +48,7 @@ Sep 24, 2026
 
 Elvis Kwame Ofori
 
-[![A four-stage wildfire risk management cycle showing prevention, preparedness, response and recovery, with land management emphasized before ignition](./blog/posts/2026-09-24-wildfire-policy-before-fire/wildfire-policy-cycle.svg)](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
+[![Burning gorse and heather in a mountain landscape in County Cork, Ireland](./blog/posts/2026-09-24-wildfire-policy-before-fire/cork-gorse-burning.jpg)](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
 ### [Wildfire policy begins before the fire](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 

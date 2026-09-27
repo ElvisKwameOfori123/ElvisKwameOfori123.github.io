@@ -14,6 +14,12 @@ Published
 
 24 September 2026
 
+![Smoke rises from burning gorse and heather on a mountain slope in County Cork, with grassland visible around the burned area.](cork-gorse-burning.jpg)
+
+Burning gorse and heather in a mountain landscape in County Cork.
+
+*Photograph: [Keith Cunneen / Geograph Britain and Ireland via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:I_love_the_smell_of_burning_gorse_in_the_morning._-_geograph.org.uk_-_1930711.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 One thing in the European Commission’s March 2026 wildfire strategy is easy to miss if fire is thought of mainly as an emergency. A great deal of wildfire policy happens when there is no fire.
 
 The Commission’s [Communication on Integrated Wildfire Risk Management](https://ec.europa.eu/echo/files/civil_protection/communication_on_integrated_wildfire_risk_management.pdf), adopted on 25 March, treats prevention, preparedness, response and recovery as parts of the same system. Its guidance for [agriculture and forests](https://agriculture.ec.europa.eu/cap-my-country/sustainability/environmental-sustainability/wildfire-prevention-and-restoration-agriculture-and-forests_en) gives farmers and foresters a role throughout that cycle. Grazing, agroforestry, thinning, firebreaks and other forms of land management can affect fuel accumulation and the structure of the landscape long before an ignition occurs.
