@@ -93,11 +93,15 @@ Do not solve uniformity by manufacturing irregularity. Do not force fragments, a
 
 ## Images
 
-Prefer screenshots, charts, documents, maps, or photos that are genuinely part of the subject. Check licence, permission, or another clear reuse basis. A public webpage does not make every screenshot automatically reusable.
+Every published post must have at least one relevant lead image. A second supporting image is recommended when it materially improves understanding, but never add decorative filler just to reach a count.
 
-Host images locally. Compress efficiently, but do not enforce a rigid 200 KB ceiling when that would visibly damage a representative high-resolution image. Treat roughly 200 KB as a review heuristic, not a failure threshold.
+Prefer, in order: an original explanatory visual made for the post; a photo actually taken by the author; a chart, map, document or screenshot that is genuinely part of the subject; or a clearly reusable documentary or historical image. Avoid generic stock imagery standing in for the topic.
 
-Use descriptive alt text. Add captions where context or attribution requires them.
+Check licence, permission, or another clear reuse basis. A public webpage does not make every screenshot automatically reusable. Host every image locally in the post folder. Never hotlink.
+
+Compress efficiently, but do not enforce a rigid 200 KB ceiling when that would visibly damage a representative high-resolution image. Treat roughly 200 KB as a review heuristic, not a failure threshold.
+
+Every image needs descriptive alt text. Add a caption where context is useful, and always add full attribution and licence information when reuse terms require it. The lead image should also be represented in post metadata so the Writing archive and social/discovery surfaces can use it consistently.
 
 ## SEO and discovery
 
@@ -140,6 +144,7 @@ Before a draft is considered ready for review:
 - No routine Further Reading section.
 - No confidential, unpublished, or farm-level material.
 - Check names, figures, dates, quotations, links, repository versions, policy status, and other time-sensitive claims.
+- Confirm the post has at least one relevant lead image, stored locally, with descriptive alt text and any required caption, credit and licence.
 - Check title, description, slug, image metadata, dates, and relevant structured data.
 - Render the page and inspect both desktop and phone layouts, including title wrapping, hero crop, tables, code, captions, links, overflow, navigation, and reading width.
 - Keep the result private for owner review. Publication requires explicit approval.

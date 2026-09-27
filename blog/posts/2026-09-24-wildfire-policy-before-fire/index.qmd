@@ -2,6 +2,8 @@
 title: "Wildfire policy begins before the fire"
 description: "Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention."
 date: 2026-09-24
+image: "wildfire-policy-cycle.svg"
+image-alt: "A four-stage wildfire risk management cycle showing prevention, preparedness, response and recovery, with land management emphasized before ignition"
 categories: ["Policy", "Land & Agriculture"]
 draft: false
 ---
@@ -9,6 +11,10 @@ draft: false
 One thing in the European Commission's March 2026 wildfire strategy is easy to miss if fire is thought of mainly as an emergency. A great deal of wildfire policy happens when there is no fire.
 
 The Commission's [Communication on Integrated Wildfire Risk Management](https://ec.europa.eu/echo/files/civil_protection/communication_on_integrated_wildfire_risk_management.pdf), adopted on 25 March, treats prevention, preparedness, response and recovery as parts of the same system. Its guidance for [agriculture and forests](https://agriculture.ec.europa.eu/cap-my-country/sustainability/environmental-sustainability/wildfire-prevention-and-restoration-agriculture-and-forests_en) gives farmers and foresters a role throughout that cycle. Grazing, agroforestry, thinning, firebreaks and other forms of land management can affect fuel accumulation and the structure of the landscape long before an ignition occurs.
+
+![Wildfire policy is a cycle, not only an emergency response.](wildfire-policy-cycle.svg){fig-alt="A four-stage schematic of wildfire risk management. Prevention is emphasized with grazing, vegetation management, firebreaks, access routes, water points and neighbour coordination, followed by preparedness, response and recovery." width="100%" fig-align="center"}
+
+*Original schematic for EKO Perspectives.*
 
 Ireland is not Mediterranean Europe, and it would be misleading to import the southern European fire story wholesale. The risk profile is different. Still, Irish guidance already treats wildfire as more than a firefighting problem. The Department of Agriculture, Food and the Marine's [fire-management page](https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/fire-management/) identifies a spring fire-risk season and currently lists three Fire Danger Notices for 2026. The [Office of Emergency Planning](https://www.gov.ie/en/office-of-emergency-planning/guidance/wildfires/) identifies peatlands, turf-cutting bogs, uplands and immature forest lands among the areas particularly prone to wildfire, and notes that active farming, appropriate grazing and other fuel-reduction measures can reduce risk.
 
