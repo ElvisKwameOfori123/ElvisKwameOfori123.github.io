@@ -21,28 +21,16 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Latest
+      - text: Explore
         href: blog/index.qmd
-      - text: Topics
-        href: index.qmd#topics
       - text: Research
         href: research/index.qmd
       - text: About
         href: about.qmd
-    right:
-      - icon: github
-        href: "https://github.com/ElvisKwameOfori123"
-        aria-label: GitHub
-      - icon: linkedin
-        href: "https://www.linkedin.com/in/elvis-ofori-12139b71/"
-        aria-label: LinkedIn
-      - icon: rss
-        href: "/blog/index.xml"
-        aria-label: RSS
   page-footer:
     left: "© Elvis Kwame Ofori · Views are my own"
-    center: "[Privacy](/privacy.html) · [Copyright & reuse](/copyright.html) · [Accessibility](/accessibility.html) · [Editorial standards](/about.html#editorial-standards)"
-    right: "[Email](mailto:e.ofori1@universityofgalway.ie) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [RSS](/blog/index.xml)"
+    center: "[Contact](/contact.html) · [Privacy](/privacy.html) · [Copyright & reuse](/copyright.html) · [Accessibility](/accessibility.html) · [Editorial standards](/about.html#editorial-standards)"
+    right: "[GitHub](https://github.com/ElvisKwameOfori123) · [LinkedIn](https://www.linkedin.com/in/elvis-ofori-12139b71/) · [ORCID](https://orcid.org/0000-0001-5404-9078) · [Scholar](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en) · [RSS](/blog/index.xml)"
 
 format:
   html:
