@@ -2,7 +2,7 @@
 title: "When the future is outside the data"
 description: "Why climate and land-use targets can push economics beyond what historical data can tell us, and what scenario models add."
 date: 2026-09-22
-start-here: true
+featured: true
 image: "irish-farm-field.jpg"
 image-alt: "An Irish farm field with cattle and grassland"
 categories:
