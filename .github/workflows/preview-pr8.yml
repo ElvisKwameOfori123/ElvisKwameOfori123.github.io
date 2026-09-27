@@ -1,0 +1,76 @@
+name: Preview PR8 visuals
+
+on:
+  push:
+    branches:
+      - preview-pr8-final
+
+permissions:
+  contents: read
+
+jobs:
+  screenshots:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Capture responsive screenshots
+        run: |
+          python3 -m http.server 8000 --directory _site >/tmp/eko-preview-http.log 2>&1 &
+          cat > /tmp/capture.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'fs';
+          const browser = await chromium.launch({headless:true});
+          const pages = [
+            ['home','/'],
+            ['article','/blog/posts/2026-09-22-econometrics-to-scenario-thinking/'],
+            ['writing','/blog/'],
+            ['research','/research/'],
+            ['about','/about.html']
+          ];
+          const widths = [
+            ['phone',375,812],
+            ['tablet',768,1024],
+            ['desktop',1440,1100]
+          ];
+          fs.mkdirSync('visual-preview',{recursive:true});
+          for (const [pageName,path] of pages) {
+            for (const [sizeName,width,height] of widths) {
+              const page = await browser.newPage({viewport:{width,height}, deviceScaleFactor:1});
+              await page.goto('http://127.0.0.1:8000'+path,{waitUntil:'networkidle'});
+              await page.screenshot({path:`visual-preview/${pageName}-${sizeName}-light.png`,fullPage:true});
+              const toggle = page.locator('.quarto-color-scheme-toggle').first();
+              if (await toggle.count()) {
+                try {
+                  await toggle.click();
+                  await page.waitForTimeout(350);
+                  await page.screenshot({path:`visual-preview/${pageName}-${sizeName}-dark.png`,fullPage:true});
+                } catch {}
+              }
+              await page.close();
+            }
+          }
+          await browser.close();
+          JS
+          node /tmp/capture.mjs
+
+      - name: Upload visual preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr8-visual-preview
+          path: visual-preview
+          if-no-files-found: error
