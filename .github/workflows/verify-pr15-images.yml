@@ -1,0 +1,150 @@
+name: Verify all editorial images
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  image-qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Verify images on desktop and phone
+        run: |
+          python3 -m http.server 8000 --directory _site >/tmp/eko-image-http.log 2>&1 &
+          cat > image-qa.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'fs';
+
+          const browser = await chromium.launch({headless:true});
+          const widths = [
+            ['phone',375,812],
+            ['desktop',1440,1100]
+          ];
+          const articles = [
+            ['acres','/blog/posts/2026-09-22-acres-landscape-actions/'],
+            ['ai','/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/'],
+            ['scenario','/blog/posts/2026-09-22-econometrics-to-scenario-thinking/'],
+            ['fusion','/blog/posts/2026-09-22-fusion-foresight/'],
+            ['map','/blog/posts/2026-09-24-seeing-like-a-state-models/'],
+            ['wildfire','/blog/posts/2026-09-24-wildfire-policy-before-fire/']
+          ];
+          fs.mkdirSync('image-qa',{recursive:true});
+          const results=[];
+
+          for (const [size,width,height] of widths) {
+            const home=await browser.newPage({viewport:{width,height}});
+            await home.goto('http://127.0.0.1:8000/',{waitUntil:'networkidle'});
+            const homeData=await home.evaluate(()=>{
+              const visible = el => {
+                const s=getComputedStyle(el);
+                const r=el.getBoundingClientRect();
+                return s.display!=='none' && s.visibility!=='hidden' && r.width>0 && r.height>0;
+              };
+              const featured=[...document.querySelectorAll('.feature-media img')].filter(visible);
+              const latest=[...document.querySelectorAll('#listing-home-writing .quarto-post')];
+              const latestImages=latest.map(post=>{
+                const img=post.querySelector('.thumbnail img');
+                return img ? {visible:visible(img),src:img.getAttribute('src'),alt:img.alt,width:img.getBoundingClientRect().width,height:img.getBoundingClientRect().height} : null;
+              });
+              return {
+                overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth,
+                featuredCount:featured.length,
+                latestCount:latest.length,
+                latestImages
+              };
+            });
+            results.push({page:'home',size,...homeData});
+            if(homeData.overflow) throw new Error(`Homepage horizontal overflow at ${size}`);
+            if(homeData.featuredCount < 3) throw new Error(`Expected 3 visible Featured images at ${size}, got ${homeData.featuredCount}`);
+            if(homeData.latestCount < 1 || homeData.latestImages.some(x=>!x || !x.visible || !x.alt)) {
+              throw new Error(`One or more Latest stories lack a visible lead image/alt at ${size}`);
+            }
+            await home.screenshot({path:`image-qa/home-${size}.png`,fullPage:true});
+            await home.close();
+
+            const writing=await browser.newPage({viewport:{width,height}});
+            await writing.goto('http://127.0.0.1:8000/blog/',{waitUntil:'networkidle'});
+            const writingData=await writing.evaluate(()=>{
+              const visible = el => {
+                const s=getComputedStyle(el);
+                const r=el.getBoundingClientRect();
+                return s.display!=='none' && s.visibility!=='hidden' && r.width>0 && r.height>0;
+              };
+              const posts=[...document.querySelectorAll('#listing-listing .quarto-post')];
+              const images=posts.map(post=>{
+                const img=post.querySelector('.thumbnail img');
+                return img ? {visible:visible(img),src:img.getAttribute('src'),alt:img.alt,width:img.getBoundingClientRect().width,height:img.getBoundingClientRect().height} : null;
+              });
+              return {
+                overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth,
+                postCount:posts.length,
+                images
+              };
+            });
+            results.push({page:'writing',size,...writingData});
+            if(writingData.overflow) throw new Error(`Writing page horizontal overflow at ${size}`);
+            if(writingData.postCount !== 6) throw new Error(`Expected 6 published posts, got ${writingData.postCount}`);
+            if(writingData.images.some(x=>!x || !x.visible || !x.alt)) {
+              throw new Error(`One or more Writing archive posts lack a visible lead image/alt at ${size}`);
+            }
+            await writing.screenshot({path:`image-qa/writing-${size}.png`,fullPage:true});
+            await writing.close();
+
+            for (const [name,path] of articles) {
+              const page=await browser.newPage({viewport:{width,height}});
+              await page.goto('http://127.0.0.1:8000'+path,{waitUntil:'networkidle'});
+              const data=await page.evaluate(()=>{
+                const visible = el => {
+                  const s=getComputedStyle(el);
+                  const r=el.getBoundingClientRect();
+                  return s.display!=='none' && s.visibility!=='hidden' && r.width>0 && r.height>0;
+                };
+                const imgs=[...document.querySelectorAll('main.content img')].filter(visible).map(img=>({
+                  src:img.getAttribute('src'),
+                  alt:img.alt,
+                  width:img.getBoundingClientRect().width,
+                  height:img.getBoundingClientRect().height
+                }));
+                return {
+                  overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth,
+                  imgs
+                };
+              });
+              results.push({page:name,size,...data});
+              if(data.overflow) throw new Error(`${name} article horizontal overflow at ${size}`);
+              if(data.imgs.length < 1 || data.imgs.some(x=>!x.alt)) {
+                throw new Error(`${name} article lacks a visible image with alt text at ${size}`);
+              }
+              await page.screenshot({path:`image-qa/${name}-${size}.png`,fullPage:true});
+              await page.close();
+            }
+          }
+
+          fs.writeFileSync('image-qa/results.json',JSON.stringify(results,null,2));
+          await browser.close();
+          JS
+          node image-qa.mjs
+
+      - name: Upload image QA
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr15-all-image-qa
+          path: image-qa
+          if-no-files-found: error
