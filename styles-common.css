@@ -546,9 +546,19 @@ body:has(.publication-masthead) #title-block-header {
   align-items: start;
 }
 
-.feature-grid > p:has(> a.feature-card:empty),
-.feature-stack > p:has(> a.feature-card:empty) {
+.feature-grid > p,
+.feature-stack > p {
   display: none;
+}
+
+.feature-grid > .feature-card--lead {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.feature-grid > .feature-stack {
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .feature-card {
@@ -946,6 +956,12 @@ body.quarto-dark .post-end strong {
   .feature-grid {
     grid-template-columns: minmax(0, 1fr);
     gap: 1.65rem;
+  }
+
+  .feature-grid > .feature-card--lead,
+  .feature-grid > .feature-stack {
+    grid-column: 1;
+    grid-row: auto;
   }
 
   .feature-stack {
