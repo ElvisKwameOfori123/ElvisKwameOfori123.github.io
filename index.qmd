@@ -35,12 +35,15 @@ listing:
 
 <div class="home-label">Featured</div>
 
+<!-- Homepage curation rule: every post shown in this hand-curated Featured block
+     must carry `featured: true` in front matter, and every post with
+     `featured: true` should be represented here so Latest can exclude it. -->
 <div class="feature-grid">
 
 <a class="feature-card feature-card--lead" href="blog/posts/2026-09-22-econometrics-to-scenario-thinking/">
 <div class="feature-media">
 <img src="blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg" alt="An Irish farm field with cattle and grassland" loading="eager" fetchpriority="high" decoding="async">
-<span class="feature-credit">Daniel Hanrahan / Wikimedia Commons</span>
+<span class="feature-credit">Daniel Hanrahan / Wikimedia Commons · CC BY 3.0</span>
 </div>
 <span class="feature-kicker">Economics &amp; Evidence</span>
 <h2>When the future is outside the data</h2>
