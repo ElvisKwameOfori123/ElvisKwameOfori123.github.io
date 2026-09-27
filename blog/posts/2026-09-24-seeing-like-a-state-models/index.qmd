@@ -2,6 +2,8 @@
 title: "A map can clarify the world and still leave something out"
 description: "Reading James C. Scott's Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy."
 date: 2026-09-24
+image: "model-simplification.svg"
+image-alt: "A schematic showing a complex agricultural landscape simplified into a grid of model categories, illustrating what becomes visible and what is left out"
 categories: ["Economics & Evidence", "Personal & Ideas"]
 draft: false
 ---
@@ -9,6 +11,10 @@ draft: false
 A model has to leave things out. That is obvious enough. I think the more interesting question begins after the simplification starts working, because that is when it becomes easy to forget that it was a simplification in the first place.
 
 James C. Scott's [*Seeing Like a State*](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) is usually read as a critique of large-scale schemes of social improvement. The book moves through scientific forestry, cadastral maps, urban planning, collectivisation, villagisation and agricultural modernisation. The thread running through those examples is what Scott calls legibility: complicated social and ecological worlds are translated into categories that institutions can count, compare and administer.
+
+![A complex landscape becomes a smaller set of model categories. The simplification makes comparison possible, but some information disappears.](model-simplification.svg){fig-alt="A split-panel schematic showing an irregular agricultural landscape with fields, a stream, woodland, roads and farm buildings on the left, and a regular grid of dairy, beef and tillage categories on the right." width="100%" fig-align="center"}
+
+*Original schematic for EKO Perspectives.*
 
 There is nothing inherently foolish about doing that. A forest can be represented as timber volume. Land can be divided into mapped parcels. People can be counted in a census. Farms can be classified as dairy, cattle, sheep, tillage or mixed. A government that cannot identify property, measure resources or count people will have trouble taxing, planning services or administering policy. Scott's warning is narrower and more useful than a rejection of measurement. Trouble begins when the representation starts to stand in for the thing represented.
 
