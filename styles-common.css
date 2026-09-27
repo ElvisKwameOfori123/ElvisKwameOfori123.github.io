@@ -417,6 +417,14 @@ body:has(.post-end) .quarto-title-meta-heading {
 
 body:has(.post-end) .quarto-title-meta > div:first-child .quarto-title-meta-contents::before {
   content: "BY ";
+  flex: 0 0 auto;
+}
+
+body:has(.post-end) .quarto-title-meta-contents {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .28em;
+  white-space: nowrap;
 }
 
 body:has(.post-end) .quarto-title-meta-contents,
@@ -428,6 +436,10 @@ body:has(.post-end) .quarto-title-meta-contents p {
   letter-spacing: .055em;
   line-height: 1.4;
   text-transform: uppercase;
+}
+
+body:has(.post-end) .quarto-title-meta-contents p {
+  display: inline;
 }
 
 body:has(.post-end) main.content {
@@ -1211,8 +1223,42 @@ body.quarto-dark .post-end strong {
   }
 
   .quarto-listing-default .quarto-post {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "thumb"
+      "body"
+      "metadata" !important;
     gap: .45rem !important;
     padding: 1.15rem 0 !important;
+  }
+
+  .quarto-listing-default .quarto-post:not(:has(.thumbnail img)) {
+    grid-template-areas:
+      "body"
+      "metadata" !important;
+  }
+
+  .quarto-listing-default .quarto-post > .thumbnail {
+    width: 100% !important;
+    margin: 0 0 .4rem !important;
+  }
+
+  .quarto-listing-default .quarto-post > .thumbnail img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  #listing-home-writing .quarto-post {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "body"
+      "metadata" !important;
+  }
+
+  #listing-home-writing .quarto-post > .thumbnail {
+    display: none !important;
   }
 
   .quarto-listing-default .listing-title {
