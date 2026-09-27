@@ -95,7 +95,7 @@ Do not solve uniformity by manufacturing irregularity. Do not force fragments, a
 
 Every published post must have at least one relevant lead image. A second supporting image is recommended when it materially improves understanding, but never add decorative filler just to reach a count.
 
-Prefer, in order: an original explanatory visual made for the post; a photo actually taken by the author; a chart, map, document or screenshot that is genuinely part of the subject; or a clearly reusable documentary or historical image. Avoid generic stock imagery standing in for the topic.
+Prefer a real or documentary lead image when a strong, truthful and clearly reusable image exists, especially for stories about people, places, landscapes, institutions or events. Use an original explanatory visual as the lead when the subject is abstract or when available photography would be generic or misleading. Schematics often work best as supporting visuals inside the article rather than replacing documentary imagery at the top. Avoid generic stock imagery standing in for the topic.
 
 Check licence, permission, or another clear reuse basis. A public webpage does not make every screenshot automatically reusable. Host every image locally in the post folder. Never hotlink.
 
