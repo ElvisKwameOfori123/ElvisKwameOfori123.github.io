@@ -54,7 +54,8 @@ listing:
 
 <a class="feature-card feature-card--side" href="blog/posts/2026-09-22-acres-landscape-actions/">
 <div class="feature-media">
-<img src="blog/posts/2026-09-22-acres-landscape-actions/acres-landscape.svg" alt="Three adjacent farm parcels crossed by water and a habitat corridor" loading="lazy" decoding="async">
+<img src="blog/posts/2026-09-22-acres-landscape-actions/acres-irish-landscape.jpg" alt="Agricultural fields in County Dublin forming a patchwork rural landscape" loading="lazy" decoding="async">
+<span class="feature-credit">C O'Flanagan / Wikimedia Commons · CC BY-SA 2.0</span>
 </div>
 <span class="feature-kicker">Land &amp; Agriculture</span>
 <h3>When environmental policy needs a landscape, not just a farm</h3>
