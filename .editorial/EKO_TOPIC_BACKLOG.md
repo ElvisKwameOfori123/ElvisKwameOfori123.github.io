@@ -132,3 +132,15 @@ Do not fill a calendar merely to maintain output. Before drafting any item, conf
 3. the piece does not duplicate a recent post;
 4. the chosen engine fits the material;
 5. the owner has approved the topic and angle.
+
+## Site to-do
+
+Maintenance items from the same review, in rough priority order. None of them is a publication task.
+
+1. Add a **Working papers** section to the Research page as papers become public.
+2. Consider moving the FUSION/FORESIGHT disclosure from the blog into a Research context page linked from About and Research.
+3. Replace the hand-coded Featured block on the homepage with a Quarto listing filtered on `featured: true` when technically convenient and only if it preserves the curated visual hierarchy.
+4. Decide deliberately whether Editorial standards needs a concise AI-assistance line. Do not add one automatically.
+5. Add a non-university contact address that will outlast the PhD when available.
+6. Fill remaining gaps on *How I got here* only with details Elvis chooses to share: the Taiyuan university, the scholarship name, and named people with their permission.
+7. Periodically remove stale preview branches after confirming that no draft or unmerged fix exists only there.
