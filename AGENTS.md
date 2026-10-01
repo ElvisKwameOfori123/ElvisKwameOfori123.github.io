@@ -55,3 +55,7 @@ The repository copy of **EKO Editorial Workflow v2.3** is the standing editorial
 For a whole-site SEO or technical-health task that does not involve drafting a post, follow the site-health section in `.editorial/EKO_EDITORIAL_WORKFLOW_v2.3.md`.
 
 For unrelated code-only work, the editorial pipeline does not need to run unless the change affects post rendering, metadata, discovery, accessibility, or publication behavior.
+
+## Search Console verification
+
+Do not delete, rename or edit `google63dfd647cad8477d.html` in the repository root, and do not remove it from `resources` in `_quarto.yml`. Google Search Console uses it to keep `kwameofori123.com` verified.
