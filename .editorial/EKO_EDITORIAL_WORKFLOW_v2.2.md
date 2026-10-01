@@ -1,6 +1,6 @@
 # EKO Editorial Workflow v2.2
 
-**Standing version: 1 October 2026.**
+**Standing version: 1 October 2026.** Amended the same day to add the story-completeness read (pipeline stage 6).
 
 This is the repository-level canonical instruction for EKO Perspectives. If the installable `eko-editorial-workflow` skill is available in the current environment, use it and its reference files. If it is not available, follow this document directly. This file supersedes the older separate `pre2015-prose-voice` and `ai-slop-editing-pass` chain.
 
@@ -25,12 +25,13 @@ Do not compensate for a quiet period by publishing a burst of similar posts. Con
 3. **Route by content type.** Apply the appropriate research checks for policy/evidence, GitHub/tool, scientist profile, map/data, place/development, personal/ideas, behind-the-paper/model, or policy audit.
 4. **Choose the register and the article engine.** Use blog voice for most research, policy, methods, GitHub, evidence and personal intellectual posts. Use magazine voice for profiles, narrative explainers, places and pieces organised around reported scenes or chronology. Before drafting, decide what actually drives this particular piece: an argument, mechanism, disagreement, number, document, modelling episode, observation, place, person or other genuine centre of gravity. Consult the engine library, but do not force alternation when one engine is genuinely the best fit.
 5. **Draft to the subject.** Do not import the opening, paragraph architecture or closing move from the previous EKO post. First person is available but not mandatory. A piece may take a clear position when the evidence supports one, but the strength of the claim must match the evidence.
-6. **Final mechanical edit.** Run one anti-slop pass after the draft is complete. It removes formulaic habits without changing the argument, evidence, structure or chosen register.
-7. **Image sourcing, if needed.** Use images that do real editorial work. Check licence or reuse basis, store files locally, write real alt text, and avoid decorative stock imagery.
-8. **SEO and discovery packaging.** Only after the article exists, prepare title, slug, description, internal links, image metadata, structured data and dates. SEO never dictates the prose.
-9. **Publication gate.** Confirm site rules, factual integrity, metadata, links, categories, `draft: true`, and rendered desktop/phone quality. Publication requires explicit approval.
+6. **Story-completeness read.** Before any cleanup, read the finished draft for structure and sufficiency: engine, question, causation, context, institution, people, mechanism, evidence, numbers, complication, pacing and ending. Fix structural gaps by returning to research or drafting. This stage does not polish sentences.
+7. **Final mechanical edit.** Run one anti-slop pass after the story-completeness read has passed. It removes formulaic habits without changing the argument, evidence, structure or chosen register.
+8. **Image sourcing, if needed.** Use images that do real editorial work. Check licence or reuse basis, store files locally, write real alt text, and avoid decorative stock imagery.
+9. **SEO and discovery packaging.** Only after the article exists, prepare title, slug, description, internal links, image metadata, structured data and dates. SEO never dictates the prose.
+10. **Publication gate.** Confirm site rules, factual integrity, metadata, links, categories, `draft: true`, and rendered desktop/phone quality. Publication requires explicit approval.
 
-A profile adds a conditional substage after content routing: read several sources, seek independent evidence beyond an institutional biography, distinguish relevant biography from intrusive private detail, and never clone the architecture of one older profile.
+A profile adds a conditional substage after content routing: read several sources, seek independent evidence beyond an institutional biography, distinguish relevant biography from intrusive private detail, and never clone the architecture of one older profile. The profile-specific completeness questions are under *Scientist / researcher profile* below.
 
 ## Site preflight
 
@@ -68,6 +69,21 @@ Inspect the repository itself, not only its README. Check licence, environment/v
 
 ### Scientist / researcher profile
 Use independent evidence beyond the subject's own institution or public statements where possible. Current roles and titles must be checked. Do not include private-life detail unless it materially explains the public story and is responsibly sourced.
+
+The governing rule for People behind the science: the point is not to tell readers that someone mattered. The article should let them understand the problem, the place, the people and the work well enough to see for themselves why it mattered.
+
+Where the evidence permits, a profile should be able to answer:
+
+- What problem existed before this person entered the story, and what did people believe beforehand?
+- Why did this particular problem become theirs?
+- Where did the work actually happen: which department, laboratory, field station, farm, programme, funding or intellectual community made it possible? An institution is not just an affiliation after a name.
+- Who else mattered and would disappear in a simplified heroic account, including predecessors and colleagues?
+- What did they actually do, and how does the mechanism, experiment, model or theory work? The science gets enough room for a reader to explain it, not one decorative sentence.
+- Was there resistance, uncertainty, rivalry or an earlier neglected contribution?
+- What changed afterwards, what did not change, and what later became complicated (for example dependence on fertiliser or irrigation, or later scholarship that revises the story)?
+- What remains today: a field experiment, institution, crop, method or unresolved question?
+
+These are movements, not compulsory headings. Several can share one passage, and an answer the evidence cannot support is left out rather than invented. If an important one is missing because the draft was rushed, the profile is not finished.
 
 ### Map / data
 Identify the source dataset, spatial resolution, temporal coverage/date, scale, and what the visualisation cannot show.
@@ -113,9 +129,42 @@ Use for profiles and narrative explainers when the material genuinely supports n
 - Do not clone one specific older article's paragraph structure or wording. Study shared craft across several examples instead.
 - For People behind the science, treat any behind-the-scenes architecture as a research checklist, not a visible template. Person, question, place, collaborators, mechanism and consequences matter only in the proportions the specific story earns.
 
+## Story-completeness read
+
+Run once, after the draft exists and before the final editing pass. Its job is structural: to decide whether the piece is finished, not to polish sentences. The final editing pass preserves claims and structure by design, so structural gaps have to be caught here.
+
+| Test | Question |
+|---|---|
+| Engine | What is carrying the reader through this piece? |
+| Question | Is the underlying problem clear before answers start arriving? |
+| Causation | Does the reader know why each event, piece of evidence or paragraph follows the one before? |
+| Context | Has an intelligent non-specialist been given what they need, without textbook exposition? |
+| Institution | Where relevant, is the organisation or system underneath the visible event or person explained? |
+| People | Have collaborators, predecessors or affected people disappeared from the account? |
+| Mechanism | Could the reader explain what actually happened or how the thing works? |
+| Evidence | Do the important assertions have primary or independent support in the claim ledger? |
+| Number | Are the major quantities interpreted rather than merely reported? |
+| Complication | Are material limits or contrary evidence represented fairly? |
+| Pacing | Has any part been rushed simply to keep the article short? |
+| Ending | Does the last sentence arrive because the argument or story has landed? |
+
+**Length follows the story.** Roughly 800 to 1,200 words for a standard article and 1,500 to 2,500 for a profile are useful ranges, not ceilings or targets. Do not compress to reach a nominal tier, and do not pad to sound substantial. If the reporting supports 1,650 good words, stop there; if the story genuinely needs more after proper reconstruction, that is justified. Concise is not the same as rushed, and long is not the same as complete.
+
+**Symptoms of a rushed piece:** names arrive before the reader knows why they matter; dates stand in for causation; institutions shrink to affiliations; one paragraph races through a decade; a mechanism gets one sentence; a dispute is mentioned but never explained; the conclusion follows immediately after the main finding; a life jumps from formation straight to recognition. These are structural problems, not style problems.
+
+**Causation, not accumulation.** `cocoa farmer → tenure rule → incentive problem → observed planting behaviour → policy consequence` is a story. `statistic → programme → quotation → history → another statistic → conclusion` can be accurate and still read as assembled.
+
+**Make a number mean something.** This is not a quota of one statistic. It means each consequential quantity comes with the denominator, baseline or comparison that makes it intelligible. One well-contextualised figure usually carries more than a table of ten.
+
+**Earn the concession.** Concede where there is important counterevidence or a genuine limit, not because every piece needs a "however" paragraph. Manufactured balance is as much a formula as manufactured certainty.
+
+**End from the story.** A blog piece can stop when the thought is complete. A narrative piece can return to an opening object or scene only when the return means something. A profile can end on what survives: the experiment, institution, crop, consequence or open question. No recap disguised as a conclusion.
+
+If the read fails, go back to research or drafting. Only when it passes does the final editing pass begin.
+
 ## Final editing pass
 
-Run once, after drafting. Check for:
+Run once, after drafting and after the story-completeness read. Check for:
 
 - "In today's fast-paced..." and similar canned openings.
 - "It's not just X, it's Y" constructions.
@@ -180,6 +229,8 @@ Preferred Sources is a site-level item to revisit during maintenance rather than
 ## Publication gate
 
 Before a draft is considered ready for review:
+
+- The story-completeness read was run before the final editing pass, and any structural gaps it found were fixed rather than smoothed over.
 
 - `draft: true` remains set for new posts.
 - Do not alter already-published posts unless explicitly requested.
