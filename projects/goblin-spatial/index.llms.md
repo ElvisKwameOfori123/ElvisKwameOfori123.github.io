@@ -4,7 +4,9 @@ Where national agricultural and land-use pathways fall across Ireland, and wheth
 
 ## The question
 
-National AFOLU pathways can specify how livestock numbers, land release and future land uses change without showing **where those changes fall**.
+Ireland’s national plans for agriculture and land use can say how much livestock numbers fall and how much land changes use. They do not say where. GOBLIN-Spatial is about the where.
+
+National AFOLU (agriculture, forestry and other land use) pathways can specify how livestock numbers, land release and future land uses change without showing **where those changes fall**.
 
 GOBLIN-Spatial asks:
 

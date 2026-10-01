@@ -4,7 +4,7 @@ Contractual land access and prospective U.S. perennial-biomass mobilisation.
 
 ## The question
 
-BioLand-US asks a practical implementation question:
+Energy-crop models can say where perennial biomass could be grown in the United States. They cannot say whether farmers will sign up. BioLand-US sits between those two things and asks a practical implementation question:
 
 > When a techno-economic model allocates land to perennial biomass, how much of that prospective allocation can also be supported by compatible agricultural land and voluntary contractual participation?
 

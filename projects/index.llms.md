@@ -8,16 +8,16 @@ Spatial foresight · Ireland
 
 ### [GOBLIN-Spatial](goblin-spatial/)
 
-Where nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.
+Where in Ireland a national agricultural transition actually lands, and whether everything the plan asks of the land can fit in the space it frees up.
 
 Bioenergy · United States
 
 ### [BioLand-US](bioland-us/)
 
-How compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.
+How much of the land that models assign to U.S. energy crops is suitable, and how much farmers would actually contract.
 
 Farm-level modelling · Ireland
 
 ### [IFT-BioSim](ift-biosim/)
 
-A farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs.
+Who pays for a national transition, farm by farm, and whether better support design changes the answer.
