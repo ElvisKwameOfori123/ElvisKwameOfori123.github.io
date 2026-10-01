@@ -2,9 +2,13 @@
 
 Run this before researching a new week of posts, unless Elvis has already explicitly selected a specific topic and asked for a draft.
 
+Use this note with `EKO_EDITORIAL_WORKFLOW_v2.3.md`, `story-engine-library.md`, and `EKO_PERSPECTIVES_EDITORIAL_PLAN.md`.
+
 ## Weekly slate
 
-Prepare a short slate of candidate pieces rather than drafting whatever happens to be in the news. For each candidate give only what is needed to decide:
+Prepare a short slate of candidate pieces rather than drafting whatever happens to be in the news. Before doing that, check the standing topic bank and site priorities in `EKO_PERSPECTIVES_EDITORIAL_PLAN.md`, then re-check current evidence, policy status, publication status and recent site coverage before reusing any older candidate.
+
+For each candidate give only what is needed to decide:
 
 - working subject or question;
 - why it is timely or worth revisiting now;
@@ -13,7 +17,7 @@ Prepare a short slate of candidate pieces rather than drafting whatever happens 
 - likely story engine, stated provisionally rather than as a fixed template;
 - whether original reporting, a site visit, personal modelling experience, public records, or only desk research would be needed.
 
-A normal slate can contain two to four candidates. Variety matters across the slate: geography, category, scale and engine should not all repeat, but never manufacture variety for its own sake.
+A normal slate can contain two to four candidates. Variety matters across the slate, but never manufacture variety for its own sake. The topic bank is a source of possibilities, not an automatic publishing queue.
 
 ## Approval rule
 
