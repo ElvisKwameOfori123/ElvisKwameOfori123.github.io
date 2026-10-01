@@ -2,7 +2,7 @@
 title: "Thirty years of Irish tree-planting promises, checked against the record"
 description: "Ireland has planted a fraction of the forest it promised since 1996. Licensing explains one bad stretch. Farmers walking away from planting explains more of the gap."
 date: 2026-10-01
-draft: true
+draft: false
 image: "afforestation-target-gap.png"
 image-alt: "Bar chart of annual afforestation in Ireland from 2007 to 2025, falling from about 7,000 hectares to under 3,000, set against a 1996 target of 20,000 hectares and a current target of 8,000 hectares a year"
 categories: ["Policy", "Land & Agriculture"]
