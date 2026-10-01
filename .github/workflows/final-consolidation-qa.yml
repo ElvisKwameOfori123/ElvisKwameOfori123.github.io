@@ -1,0 +1,29 @@
+name: Final consolidation QA
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render site
+        run: quarto render
+      - name: Source safeguards
+        run: |
+          if grep -R --line-number '<!-- EKO:' blog how-i-got-here about.qmd research .editorial 2>/dev/null; then
+            echo 'Hidden EKO drafting prompt found.'
+            exit 1
+          fi
+          if grep -R --line-number '—' blog/posts/2026-09-22-acres-landscape-actions/index.qmd blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.qmd blog/posts/2026-09-24-wildfire-policy-before-fire/index.qmd how-i-got-here/index.qmd .editorial/EKO_EDITORIAL_WORKFLOW_v2.2.md .editorial/EKO_ENGINE_LIBRARY.md .editorial/EKO_TOPIC_BACKLOG.md; then
+            echo 'Em dash found in consolidation files.'
+            exit 1
+          fi
