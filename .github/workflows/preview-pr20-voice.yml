@@ -1,0 +1,106 @@
+name: Preview PR20 voice review
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Source safeguards
+        run: |
+          if grep -R --line-number --include='*.qmd' --include='*.md' '<!-- EKO:' .; then
+            echo 'Hidden EKO drafting prompt found.'
+            exit 1
+          fi
+          git fetch origin main
+          ADDED=$(git diff -U0 origin/main...HEAD -- '*.qmd' '*.md' | grep '^+' | grep -v '^+++' || true)
+          if printf '%s\n' "$ADDED" | grep -n '—'; then
+            echo 'Em dash found in newly added prose.'
+            exit 1
+          fi
+
+      - name: Render site
+        run: quarto render
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Capture desktop and phone review
+        run: |
+          python3 -m http.server 8000 --directory _site >/tmp/eko-pr20-http.log 2>&1 &
+          cat > capture.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'fs';
+          const browser = await chromium.launch({headless:true});
+          const pages = [
+            ['home','/'],
+            ['acres','/blog/posts/2026-09-22-acres-landscape-actions/'],
+            ['ai','/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/'],
+            ['scenario','/blog/posts/2026-09-22-econometrics-to-scenario-thinking/'],
+            ['fusion','/blog/posts/2026-09-22-fusion-foresight/'],
+            ['map','/blog/posts/2026-09-24-seeing-like-a-state-models/'],
+            ['wildfire','/blog/posts/2026-09-24-wildfire-policy-before-fire/'],
+            ['how','/how-i-got-here/'],
+            ['about','/about.html'],
+            ['research','/research/']
+          ];
+          const widths = [
+            ['phone',375,812],
+            ['desktop',1440,1100]
+          ];
+          fs.mkdirSync('voice-review',{recursive:true});
+          const results=[];
+          for (const [name,path] of pages) {
+            for (const [size,width,height] of widths) {
+              const page=await browser.newPage({viewport:{width,height},deviceScaleFactor:1});
+              await page.goto('http://127.0.0.1:8000'+path,{waitUntil:'networkidle'});
+              const data=await page.evaluate(()=>{
+                const body=document.body;
+                const main=document.querySelector('main');
+                const h1=document.querySelector('h1');
+                return {
+                  overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth,
+                  title:(h1?.textContent||'').trim(),
+                  bodyChars:(main?.innerText||body.innerText||'').length,
+                  hiddenEko:document.documentElement.innerHTML.includes('<!-- EKO:'),
+                  visibleImages:[...document.querySelectorAll('main img')].filter(img=>{
+                    const r=img.getBoundingClientRect(),s=getComputedStyle(img);
+                    return r.width>0&&r.height>0&&s.display!=='none'&&s.visibility!=='hidden';
+                  }).length
+                };
+              });
+              if(data.overflow) throw new Error(`${name} has horizontal overflow at ${size}`);
+              if(data.hiddenEko) throw new Error(`${name} contains hidden EKO prompt in rendered source`);
+              if(!data.title) throw new Error(`${name} has no H1 at ${size}`);
+              results.push({name,size,...data});
+              await page.screenshot({path:`voice-review/${name}-${size}.png`,fullPage:true});
+              await page.close();
+            }
+          }
+          fs.writeFileSync('voice-review/results.json',JSON.stringify(results,null,2));
+          await browser.close();
+          JS
+          node capture.mjs
+
+      - name: Upload review artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr20-voice-review
+          path: voice-review
+          if-no-files-found: error
