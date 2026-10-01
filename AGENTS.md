@@ -44,6 +44,14 @@ The repository copy of **EKO Editorial Workflow v2.3** is the standing editorial
 - Prefer a real or documentary lead image when a strong, truthful and clearly reusable one exists. Use an original schematic as the lead when the subject is abstract or when available photography would be generic or misleading; otherwise keep schematics as supporting explanatory visuals.
 - Render and check the finished draft on both desktop and phone before it is considered ready for review.
 
+### Repository hygiene
+
+- `main` is the single source of truth for the live site.
+- Start new branches from current `main`; do not branch from old preview, rewrite, polish, image-test, or migration branches.
+- Keep branches short-lived and delete them after merge unless they contain active unpublished draft work.
+- Keep `gh-pages` only for deployment.
+- See `.editorial/REPOSITORY_MAINTENANCE.md` for the branch-maintenance rule and GitHub setting to enable.
+
 For a whole-site SEO or technical-health task that does not involve drafting a post, follow the site-health section in `.editorial/EKO_EDITORIAL_WORKFLOW_v2.3.md`.
 
 For unrelated code-only work, the editorial pipeline does not need to run unless the change affects post rendering, metadata, discovery, accessibility, or publication behavior.
