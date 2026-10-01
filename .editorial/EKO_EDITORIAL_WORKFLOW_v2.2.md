@@ -8,11 +8,21 @@ This workflow is a working editorial system, not a fixed prose template. If a ru
 
 Use `.editorial/EKO_ENGINE_LIBRARY.md` when selecting a structure for a new article. It is a menu of possible engines, planning tests and anti-repetition checks, not a mandatory sequence. `.editorial/EKO_TOPIC_BACKLOG.md` is an idea bank only; it does not override weekly planning, current evidence checks or owner approval.
 
+## Planning and owner approval
+
+Run this before researching a new week of posts, unless Elvis has already selected a specific topic and asked for a draft.
+
+Plan topics rather than filling a posting quota. Prepare a slate of two to four candidates, drawing on `.editorial/EKO_TOPIC_BACKLOG.md` where useful, and re-check current evidence, policy status, paper-publication status and recent site coverage before reusing any older candidate. For each candidate give only what is needed to decide: the subject or question, why it matters now, what EKO Perspectives can add beyond existing coverage, the likely content route, a provisional engine, and whether it needs first-hand reporting, personal modelling experience, public records or only desk research.
+
+Research sufficient to evaluate a candidate is allowed before approval. Do not start a full draft until Elvis approves the topic or theme. Once approved, the evidence may still change the angle or engine.
+
+Do not compensate for a quiet period by publishing a burst of similar posts. Consistency matters more than volume.
+
 ## Pipeline
 
 1. **Site preflight.** Inspect recent published posts and current drafts before researching. Check whether the subject or angle has already been used, whether recent pieces share the same opening, structural engine, transition phrases or ending, and what this piece would genuinely add.
 2. **Evidence and originality.** Research before drafting. Prefer primary sources, then institutional records, then reputable reporting for context. If sources disagree, carry the disagreement into the prose rather than silently resolving it. Ask what the article contributes beyond obvious existing coverage.
-3. **Route by content type.** Apply the appropriate research checks for policy/evidence, GitHub/tool, scientist profile, map/data, place/development, or personal/ideas.
+3. **Route by content type.** Apply the appropriate research checks for policy/evidence, GitHub/tool, scientist profile, map/data, place/development, personal/ideas, behind-the-paper/model, or policy audit.
 4. **Choose the register and the article engine.** Use blog voice for most research, policy, methods, GitHub, evidence and personal intellectual posts. Use magazine voice for profiles, narrative explainers, places and pieces organised around reported scenes or chronology. Before drafting, decide what actually drives this particular piece: an argument, mechanism, disagreement, number, document, modelling episode, observation, place, person or other genuine centre of gravity. Consult the engine library, but do not force alternation when one engine is genuinely the best fit.
 5. **Draft to the subject.** Do not import the opening, paragraph architecture or closing move from the previous EKO post. First person is available but not mandatory. A piece may take a clear position when the evidence supports one, but the strength of the claim must match the evidence.
 6. **Final mechanical edit.** Run one anti-slop pass after the draft is complete. It removes formulaic habits without changing the argument, evidence, structure or chosen register.
@@ -29,6 +39,20 @@ Before writing, scan recent posts and drafts. A follow-up on the same subject is
 Also scan for repeated house habits. Look for reused openings such as reflective first-person throat-clearing, recurring pivots such as "the more interesting question" or "there is another reason for caution," and endings that repeatedly narrow the argument into a question. Repetition across a body of work matters even when each sentence is individually competent.
 
 ## Evidence and claim ledger
+
+### Read against the claim
+
+For a substantive argument, identify the strongest credible foil: a competing paper, rebuttal, agency interpretation, trade-body response, court finding, parliamentary objection or another source a knowledgeable critic would actually use. Do not create a weak opponent to make the piece look balanced. A strong claim should survive the strongest reasonable objection available.
+
+### Find the deeper mechanism
+
+Ask whether the visible controversy is actually driven by property or tenure, accounting boundaries, baselines, incentives, measurement, spatial scale, displacement, leakage, implementation capacity or another mechanism. Name it only when the evidence supports it.
+
+### Public-record voices
+
+Named voices can come from Dáil or parliamentary debates, court judgments, consultation submissions, agency records and other public documents. Attribute them accurately. Never imply that Elvis interviewed or personally observed someone when he did not.
+
+### Claim ledger
 
 For substantive factual claims, keep a compact internal claim ledger with the source, date and whether it is primary or secondary.
 
@@ -53,6 +77,12 @@ Distinguish first-hand observation from sourced claims. When comparing places, a
 
 ### Personal / ideas
 This is the lightest route, but factual claims still require evidence. Do not invent biographical detail to make the prose more vivid.
+
+### Behind the paper / behind the model
+Identify the research decision, modelling difficulty, failed assumption, methodological trade-off or surprise that gives the post a reason to exist. Use only public or cleared results, coordinate with co-authors and journal rules, and use first person for real research experience rather than ornament.
+
+### Policy audit / target versus delivery
+State exactly what was promised, targeted or claimed; establish the appropriate comparison period; test rather than assume success or failure; identify implementation constraints; and conclude with the degree to which the evidence supports the claim.
 
 ## Blog voice
 
@@ -160,7 +190,9 @@ Before a draft is considered ready for review:
 - No confidential, unpublished or farm-level material.
 - No hidden personal prompts or private drafting notes are left in public repository source.
 - Check names, figures, dates, quotations, links, repository versions, policy status and other time-sensitive claims.
-- Confirm that stated opinions are genuinely approved as the author's position and are no stronger than the evidence can support.
+- Confirm that stated opinions are genuinely approved as the author's position and are no stronger than the evidence can support. Elvis must review any clear position written in his voice rather than silently inheriting an editor's or AI draft's opinion.
+- Compare the finished piece with the last several posts. If the same engine, opener, caution move, schematic placement or ending appears again, confirm that the material genuinely requires it.
+- If a scene is used, confirm whether it is first-hand, directly reported or reconstructed from documents, and make sure the prose does not imply more access than actually occurred.
 - Confirm the post has at least one relevant lead image, stored locally, with descriptive alt text and any required caption, credit and licence.
 - Check title, description, slug, image metadata, dates and relevant structured data.
 - Render the page and inspect both desktop and phone layouts, including title wrapping, hero crop, tables, code, captions, links, overflow, navigation and reading width.

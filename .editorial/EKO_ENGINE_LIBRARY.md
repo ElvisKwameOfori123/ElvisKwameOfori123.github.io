@@ -2,11 +2,11 @@
 
 **Working editorial aid. Updated 1 October 2026.**
 
-This file is a menu of possible article engines, not a house template. Choose the engine that fits the subject and evidence. Do not force variety for its own sake, but check recent EKO posts so a successful structure does not quietly become the default for every new piece.
+This file is a menu of possible article engines, not a house template. Choose the engine that fits the subject and evidence. A piece may combine two engines when the material genuinely does so. Do not force variety for its own sake, but check recent EKO posts so a successful structure does not quietly become the default for every new piece.
 
 The central rule is simple: **the form should follow what the article is actually trying to discover, test or explain.**
 
-## Six useful engine families
+## Ten useful engine families
 
 ### 1. Scene-led
 
@@ -104,6 +104,42 @@ Possible materials:
 
 This engine works best when the assembled record reveals an institution, incentive or implementation mechanism that is easy to miss when each document is read separately.
 
+### 7. Contradiction or foil-led
+
+Start with something that appears true, desirable or settled, then introduce the fact that complicates it. The foil must be a real claim, policy assumption, study or documented position, not a vague straw man.
+
+Use this when the article becomes clearer by naming exactly what the evidence qualifies, overturns or narrows.
+
+### 8. Mechanism-led
+
+Name and explain the mechanism that connects events: displacement, rebound, leakage, lock-in, option value, tenure, accounting boundaries, spatial targeting, behavioural response or another mechanism supported by evidence.
+
+Give the plain-language version before any technical label. The mechanism should explain the evidence, not merely decorate it with jargon.
+
+### 9. Timeline or policy reversal
+
+Show how rules, incentives or outcomes changed over time. The movement should reveal causation, institutional learning or reversal, not merely provide chronology.
+
+This works well when a policy problem only makes sense once the reader sees how one rule, target or interpretation replaced another.
+
+### 10. People or places behind the science
+
+Build around a person, a question, the place and people around the work, the method and its consequences, in whatever proportions the story earns.
+
+Avoid the lone-genius narrative. Explain the central mechanism or intellectual contribution rather than calling work merely "groundbreaking." Use scenes only when they are observed, documented or responsibly reconstructed.
+
+## Choosing an engine
+
+Before drafting, answer privately:
+
+1. What is the most important thing this piece is trying to show?
+2. What evidence actually carries that point?
+3. What would a well-informed critic say?
+4. Is the deeper issue really about the visible topic, or about measurement, ownership, accounting, incentives, spatial scale, implementation or another mechanism underneath it?
+5. Which engine lets the evidence unfold with the least forcing?
+
+If no engine can be named without distorting the evidence, do not name one. Write the piece naturally.
+
 ## The four-sentence planning test
 
 Before drafting a substantial analytical piece, it can be useful to write four private sentences:
@@ -113,7 +149,7 @@ Before drafting a substantial analytical piece, it can be useful to write four p
 3. **What does the evidence in this article show?**
 4. **Why does the difference matter?**
 
-This is a diagnostic, not a visible article template. If the four sentences are weak, more research or a sharper angle may be needed. The published piece does not have to follow this order.
+This is a diagnostic, not a visible article template. It is most useful for analytical, audit and claim-testing pieces. If the four sentences are weak, more research or a sharper angle may be needed. Narrative, historical, profile and personal pieces do not need to obey this test.
 
 ## Name the foil
 
@@ -177,6 +213,19 @@ Before drafting, inspect the most recent EKO pieces and ask:
 
 Back-to-back use of the same engine is allowed when it is genuinely the best form. The aim is not forced alternation. The aim is to prevent convenience from hardening into a formula.
 
+## Studying exemplars
+
+Older E360 features, research blogs, academic op-eds, trade press, journal papers and classic essays are useful for studying architecture. There is no single E360 framework: reported features, opinion columns, research blogs, interviews and journal articles use different engines.
+
+When studying a reference piece:
+- outline what the writer does rather than how the sentences sound;
+- read a strong rebuttal or competing interpretation where one exists;
+- record what evidence carries the argument;
+- ask what would fail if the opening device were copied onto a different subject;
+- never reuse distinctive phrases or imitate one living writer's voice.
+
+Some examples collected while developing this workflow were read only through abstracts, excerpts or secondary accounts. Treat them as reading leads until the original has been reread. Do not encode an unverified summary as a permanent house rule.
+
 ## Craft without copying
 
-Older journalism, research blogs and magazines can be studied for architecture, pacing, transitions, evidence placement and endings. Do not reuse another writer's sentences or imitate a living writer's distinctive voice. Reported-scene structures belong only where EKO has real reporting, archival evidence or first-hand observation to support them.
+Study architecture, pacing, transitions, evidence placement and endings across several examples. Do not reuse another writer's sentences or imitate a living writer's distinctive voice. Reported-scene structures belong only where EKO has real reporting, archival evidence or first-hand observation to support them.
