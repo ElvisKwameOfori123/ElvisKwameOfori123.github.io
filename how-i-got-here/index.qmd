@@ -1,7 +1,7 @@
 ---
 title: "How I got here"
 subtitle: "A living account of the places, people and opportunities that shaped the work I do."
-description: "From Ghana to China and Ireland: the people, opportunities and questions that shaped Elvis Kwame Ofori's work and writing."
+description: "From Ghana to China and Ireland: the people, opportunities, detours and questions that shaped Elvis Kwame Ofori's work and writing."
 toc: true
 image: "../assets/profile.jpg"
 image-alt: "Elvis Kwame Ofori standing outdoors in a patterned cardigan"
@@ -9,226 +9,216 @@ image-alt: "Elvis Kwame Ofori standing outdoors in a patterned cardigan"
 
 ![Elvis Kwame Ofori standing outdoors in a patterned cardigan.](../assets/profile.jpg){width=72% fig-align="center"}
 
-Welcome to my little corner of the internet.
+I studied accounting in Ghana, taught English in China, and now build agricultural and land-use models in Ireland. None of those sentences would have predicted the next one while I was living it.
 
-There is an [About page](../about.qmd) elsewhere on this site if what you need is the short version: who I am, what I research and where I work. This is something different.
+Looking backwards has a way of making a life appear more carefully planned than it was. Mine was not. There were opportunities I prepared for, decisions I made, plans that changed, visas that arrived too late, people who opened doors, and places that became important long after I first arrived in them.
 
-Think of this as an invitation to take a ride with me.
-
-I want to tell some of the story behind the work: Ghana, China, Ireland, the opportunities I was fortunate enough to receive, the people I met, the things I learned and occasionally had to unlearn, and the questions that gradually became important to me.
-
-My journey has never felt particularly planned. I studied accounting in Ghana. I spent my National Service working with the National Petroleum Authority and was sent from Accra to Takoradi. A scholarship later took me to northern China. Research moved me towards policy, sustainability and energy. Another turn brought me to Ireland, agriculture and land use, and increasingly to the choices made by farmers and the people who ultimately live with decisions made much farther away.
-
-Looking back makes the path appear neater than it actually was.
-
-I have never understood the opportunities I received as proof that I was always the smartest or most exceptional person in the room. I have been fortunate, but I have also tried to be prepared when opportunities came and to make hay while the sun shone. That is one of the habits for which I am most grateful.
-
-And none of this happened alone.
-
-Teachers, family, friends, classmates, colleagues, supervisors, institutions and people I met only briefly have opened doors, offered advice, trusted me with responsibilities or simply made unfamiliar places feel less unfamiliar.
-
-This page is partly my attempt to remember that.
-
-It is also unfinished. I expect to return to it as the journey continues, adding chapters, correcting what needs correcting and giving proper credit to the people and places that have helped shape my path.
+The [About page](../about.qmd) has the short version of who I am and what I work on. This is the longer story.
 
 ## Ghana: where it began
 
 I studied **Accounting at the University of Professional Studies, Accra**.
 
-Accounting may look some distance from the work I do now, but I do not think of it as an abandoned beginning. It taught me to pay attention to numbers, organisations and the difference between what something appears to be and what the underlying records actually show. I would only understand much later how useful that instinct could become.
+Accounting may seem some distance from the work I do now, but I do not think of it as an abandoned beginning. It taught me to pay attention to numbers, organisations and the difference between what something appears to be and what the underlying records actually show. I understood much later how useful that instinct would become.
 
-After university, I completed my National Service with Ghana's **National Petroleum Authority**.
+After university, I completed my National Service with Ghana's **National Petroleum Authority**. I had been living in Accra, and the posting sent me to Takoradi.
 
-I had been in Accra, but the work took me to Takoradi. It was one of the first moments when life moved me somewhere I had not necessarily planned to go.
+Takoradi was one of the first times life moved me somewhere I had not planned to go. It also gave me an early taste of responsibility. I worked nights and double shifts and was trusted with supervisory duties. It was not glamorous, but it was an education of its own.
 
-Takoradi also gave me some early experiences of responsibility. I worked nights. There were double shifts. I was trusted with supervisory responsibilities. It was not glamorous, but it was useful education.
+University had taught me concepts. Work began teaching me what happens after procedures, rules and decisions meet the people expected to carry them out.
 
-University had taught me concepts. Work began teaching me what happens after procedures, rules and decisions meet real people who have to carry them out.
+I would not have called that an interest in policy implementation at the time. I was simply learning how an organisation looks different depending on where inside it you stand.
 
-I would not have described that as an interest in policy implementation at the time. I was simply learning how a workplace functions, how people respond to responsibility, and how different the same organisation can look depending on where inside it you happen to stand.
+The question stayed with me.
 
-Those questions stayed somewhere in the background.
-
-## China: learning to think in frameworks
+## China: a much bigger change than a degree
 
 In 2019, another opportunity appeared.
 
 I received a **full scholarship for an MSc in Management Science and Engineering** and moved to **Taiyuan in northern China**.
 
-I knew China would be different. I was less prepared for exactly how different northern China could feel to someone arriving from Ghana.
+I knew China would be different. I was less prepared for exactly how different northern China would feel to someone arriving from Ghana. The cold introduced itself quickly.
 
-The cold made its introduction quickly.
+The larger change, though, was intellectual.
 
-But the more important change was intellectual.
+China was where I became much more deliberate about policy research and analysis. Instead of seeing only a result, I started asking what structure had produced it. Who were the actors? What assumptions were buried underneath an analysis? What counted as evidence? And what happened when a policy left a document and entered an economy, an organisation or a community?
 
-China was where I began learning to approach problems through frameworks. I became more deliberate about policy research and analysis. Instead of seeing only a result, I started asking what structure produced it. Who were the relevant actors? What assumptions sat underneath the analysis? What evidence was being used? What happened when a policy moved from a document into an economy or a community?
+My interests moved across sustainability, development, environmental policy and energy economics. Energy fascinated me because so many of its decisions operated at scale. Governments, industries and major companies could alter the direction of an entire system. Thinking at that scale taught me to look for the links between institutions, incentives and outcomes.
 
-My research interests moved across sustainability, development, environmental policy and energy economics.
+But China was never only research.
 
-Energy was particularly interesting because many of the decisions were large ones. Governments, industries, energy companies and other major actors could change what happened across an entire system. Thinking at that scale taught me to see connections between institutions, incentives and outcomes.
-
-I later had the opportunity to begin doctoral study in China as well.
-
-![With people who were part of my life in China.](images/china-community.jpg){fig-alt="Elvis Kwame Ofori standing outdoors with a group of friends and fellow students during his time in China" width=94% fig-align="center"}
+![With people who became part of my life in China.](images/china-community.jpg){fig-alt="Elvis Kwame Ofori standing outdoors with friends and fellow students during his time in China" width=94% fig-align="center"}
 
 *China became much more than a scholarship or a degree. The people around me became part of the education too.*
 
-There was another part of my life in China that did not appear neatly on an academic transcript.
+Part of my life there never appeared on an academic transcript. I taught **English as a second language**, including to young children. I enjoyed the moment when confusion turned into confidence, when something that had looked difficult suddenly began to make sense.
 
-I taught **English as a second language to Chinese students**. I especially enjoyed working with younger learners. There is something I still love about watching a person become more confident because something that looked difficult begins to make sense.
+Years later, I realised that teaching had sharpened something I would need in research too: understanding something yourself is one skill; explaining it clearly to another person is another.
 
-The same instinct started appearing in my work with colleagues.
+The same instinct appeared when colleagues needed help with data. I enjoyed sitting down with someone and working through not only which command to run, but what the numbers were actually saying and whether the interpretation made sense.
 
-If somebody was struggling with data analysis, I enjoyed sitting down with them and working through it. Not simply which button to press or which command to run, but what the numbers were actually saying and whether the interpretation made sense.
+I still think of data analysis almost as a conversation.
 
-Over time I have come to think of data analysis almost as a conversation.
+**You learn how to talk to data. You also have to learn when to stop talking long enough to let the data answer back.**
 
-You learn how to talk to data. You also have to learn when to stop talking long enough to let the data answer back.
+I eventually began doctoral study in China too. That path would later change, but China had already changed me.
 
-That interest in teaching, explaining and helping people make sense of evidence has followed me into almost everything I have done since.
+## What moving teaches you
 
-The scholarship mattered enormously. So did the opportunities that followed it.
+I left Ghana in **2019**. At the time, I could not have known that I would not return home until **2024**.
 
-I am grateful for them, although I have never been very comfortable interpreting opportunity as proof that someone is simply more intelligent or deserving than everybody else.
+Living abroad brought opportunities that changed my life. It also taught me that mobility is not experienced equally.
 
-There were certainly people more brilliant than me.
+For some people, international travel is mostly a ticket, a passport and a timetable. For others, there are visa applications, appointments, waiting, uncertainty and the possibility that an opportunity may move faster than the permission needed to reach it.
 
-What I learned to value was being prepared when an opportunity appeared.
+I learned that in a particularly clear way with Germany.
 
-Make hay while the sun shines.
+I was supposed to join colleagues for a **capacity-building training in Germany**. My colleagues did not face the same visa requirement. I did. By the time my visa arrived, the training had already passed.
 
-It is an old saying, but it has served me well. Prepare before you know exactly what the preparation will be useful for. When a door opens, take the opportunity seriously. Learn what you can while you are there.
+I eventually travelled to Germany anyway, but as a personal trip rather than for the capacity-building programme that had originally made the journey necessary.
 
-A surprising amount of my journey has worked that way.
+It was not some great tragedy. But it stayed with me because it revealed something easily hidden when people talk about international mobility as though everybody begins from the same place.
 
-## Ireland: bringing the question closer to the ground
+An opportunity can be equally available on paper and still be much easier for one person to reach than another.
 
-Eventually, I left the doctoral path I had begun in China and moved to Ireland for a different PhD.
+That is part of the immigrant experience too. Opportunity abroad can expand your life enormously, while the process of getting there, staying there and moving between places can remind you how much depends on documents, borders and circumstances that other people may rarely need to think about.
 
-Ireland was beautiful.
+And none of that removes the other cost of movement: distance from home.
 
-It also moved my research sideways in a way I had not completely anticipated.
+## Ireland: beginning again
 
-I arrived at the **University of Galway** as a PhD student. Much of my earlier work had been connected to energy economics and policy, where the important actors could be governments, industries and large institutions.
+Eventually I left the doctoral path I had begun in China and moved to Ireland for a different PhD at the **University of Galway**.
 
-Agriculture and land use brought me much closer to individual choices.
+Before the research groups, conferences and models became part of the story, Ireland was simply somewhere new. A new country means learning small things all over again: routes, weather, shops, ways of speaking, and the rules everybody else seems to know without remembering when they learned them.
 
-A national government can set a climate target. A model can describe a pathway. A sector can be told that emissions need to fall.
+Then the intellectual change began.
 
-But eventually somebody owns the land.
+Much of my earlier work had been connected to energy economics and policy, where the important actors could be governments, industries and large institutions.
 
-Somebody has animals to feed, bills to pay, machinery already purchased, a family involved in the farm, or a reason for continuing to do something that may look inefficient when viewed only from above.
+Agriculture and land use brought the problem much closer to individual decisions.
 
-That shift interested me.
+A government can set a climate target. A model can describe a pathway. A sector can be told that emissions need to fall.
 
-I began thinking much more about farmers, land-use decisions, behavioural responses and the distribution of costs across different people and places.
+But eventually somebody owns or works the land.
 
-Later, while continuing the PhD, I was employed as a **Research Assistant** within the wider **FORESIGHT and FUSION** research environment at the University of Galway.
+Somebody has animals to feed, bills to pay, machinery already purchased, a family involved in the farm, or a perfectly understandable reason for continuing to do something that may appear inefficient when seen only from above.
 
-That work pulled me further into agricultural, climate and land-use modelling.
+That shift pulled my attention towards farmers, land-use decisions, behavioural responses and the distribution of costs across people and places.
+
+Later, while continuing the PhD, I joined the wider **FORESIGHT and FUSION** research environment at Galway as a Research Assistant. The work became broader, but so did the community around it.
 
 ![At the Agriculture & Land Use in Ireland conference.](images/agriculture-land-use-conference.jpg){fig-alt="Elvis Kwame Ofori standing with other participants at the Agriculture and Land Use in Ireland conference" width=94% fig-align="center"}
 
 *Research eventually gave me a community as well as a subject.*
 
-The subject had changed substantially from accounting and from some of my earlier energy work, but I began to notice that the underlying questions had not changed as much as I first thought.
+The subject had changed substantially since accounting and my earlier energy work. The underlying questions had not changed nearly as much.
 
-Who makes the decision?
+Who makes the decision? What information do they have? Which constraints disappear when we look from too far away? Who benefits? Who pays? What happens between a policy being designed and somebody actually having to respond to it?
 
-What information do they have?
+My doctoral work now sits somewhere inside those questions.
 
-What constraints are invisible from a distance?
+A national model may indicate that livestock numbers should fall, land should change use or a technology should be adopted.
 
-Who benefits?
+**A farmer still has to decide what to do on Monday morning.**
 
-Who pays?
-
-And what happens between a policy being designed and somebody actually having to respond to it?
-
-My doctoral work now sits inside those questions.
-
-I am interested in national pathways, but also in the farms and places inside them. A national model may indicate that livestock numbers should fall, land should change use or a technology should be adopted.
-
-A farmer still has to decide what to do on Monday morning.
-
-That distance between the aggregate pathway and the individual decision has become one of the most interesting parts of the work for me.
+That distance between the aggregate pathway and the individual decision has become one of the parts of the work I care about most.
 
 [Read more about my research →](../research/)
 
-## The people along the way
+## Making somewhere unfamiliar feel ordinary
 
-Since leaving Ghana in 2019, I have sometimes felt like a wanderer.
+There is another Ireland story that does not happen inside the university.
 
-Countries change. Rooms change. The people around the table change.
+Since leaving Ghana, I have sometimes felt like a wanderer. Countries change. Rooms change. The people around the table change.
 
-You learn new routes to work, new foods, new weather, new ways people speak to one another and all the small rules nobody thinks to explain because everybody else already knows them.
+You learn a place slowly. Then, almost without noticing, somewhere that once required effort begins to feel ordinary.
 
-Then, slowly, somewhere unfamiliar begins to feel ordinary.
+Work helps. But work alone does not make a life.
 
-When I look back, the institutions are easy to list. Universities. Research groups. Government bodies. Conferences.
+Church, shared meals, friendships and ordinary routines became part of how Ireland changed from somewhere I had moved for a PhD into somewhere containing pieces of a life.
 
-The people are harder to reduce to a list.
-
-There have been classmates who became friends, colleagues who patiently explained things I should probably already have known, supervisors who trusted me, people who shared meals, people who helped when I was new somewhere, and people whose paths crossed mine only briefly but left something behind.
-
-I have met beautiful people along the way.
-
-That may be the part of moving countries that a CV hides most effectively.
-
-A CV records the year you arrived. It does not record who helped make the place feel less strange.
+There have been classmates who became friends, colleagues who patiently explained things I probably should have known, supervisors who trusted me, people who shared meals, and people who helped when I was new somewhere.
 
 ![A sunny day in Galway.](images/galway-life.jpg){fig-alt="Elvis Kwame Ofori standing on a sunny street in Galway wearing headphones" width=68% fig-align="center"}
 
 *Somewhere along the way, a place you moved to for work begins collecting friendships and memories of its own.*
 
+A CV is very good at recording institutions. It is much worse at recording people.
+
+**A CV records the year you arrived. It does not record who helped make the place feel less strange.**
+
+That may be one of the things moving countries has taught me most clearly.
+
 ## Beyond the desk
 
 Research has also given me reasons to travel.
 
-One of those trips took me to Washington, D.C., for the **World Bank LAND Conference**.
+One of those journeys took me to Washington, D.C., for the **World Bank LAND Conference**.
 
-The conference was the reason for being there, but conferences are rarely the whole experience.
+The conference was the formal reason for being there, but conferences are rarely only their programmes.
 
-There are the formal sessions, the presentations and the people you planned to meet. Then there are the conversations afterwards, the walk through a city, a museum you had not expected to spend so long inside, or something you see that sends your thinking somewhere unrelated to the programme.
-
-I have come to value both.
+There are presentations and planned meetings. Then there are conversations over coffee, people you did not know you would meet, and the experience of walking through a city you had previously known mostly through books, television or news.
 
 ![At the World Bank LAND Conference in Washington, D.C.](images/land-conference.jpg){fig-alt="Elvis Kwame Ofori standing in a conference room at the World Bank LAND Conference in Washington DC" width=68% fig-align="center"}
 
-*The formal programme was one part of the trip. The conversations and wandering afterwards became part of it too.*
+*The formal programme was one part of the trip. The people and places around it became part of the experience too.*
 
-Perhaps that is also why this website is broader than my PhD.
+One of the pleasures of travelling for research has been finding familiar connections in unfamiliar places. In Washington I met other Ghanaians at the conference, a small reminder that home can sometimes appear unexpectedly in places far from it.
 
-Research teaches you to narrow a question until it can be answered properly. That discipline matters. But life keeps presenting questions that do not yet fit neatly inside a model, a journal article or a research project.
+I have come to value both sides of research travel: the reason written on the programme and everything that happens around it.
 
-I wanted somewhere to put those too.
+## Going home
 
-That is part of what **EKO Perspectives** has become for me.
+For all the places that became part of my life after 2019, Ghana never stopped being home.
 
-Sometimes I will write about agriculture or economics because that is where my research currently sits. Sometimes it will be technology, science, Ghana, Africa, Ireland, a book, a place, a person or something I encountered while looking for something completely different.
+I left in 2019 and returned for the first time in **2024**, five years later. I went back again in **2025**.
 
-I do not expect all of it to fit into one intellectual box.
+Five years is long enough for absence to become normal. You learn to celebrate some things through a screen, hear family news through phone calls and accept that ordinary moments are happening without you.
+
+Going home changed the scale of those five years. What mattered most was not sightseeing. It was family. Sitting together, talking without watching the time, eating together and being physically present again.
+
+There is something strange about returning to somewhere deeply familiar after being away long enough for both you and the place to have changed.
+
+Living abroad has given me opportunities for which I am deeply grateful. But opportunity and family are not interchangeable.
+
+A career can cross borders surprisingly well. Relationships still depend on presence.
+
+Coming home reminded me how much distance can teach you to value things that once felt ordinary.
+
+## Reading beyond the work
+
+There is one more habit that connects many of these chapters.
+
+I love to read.
+
+Some books connect directly to my research. Many do not. I like following an argument into a subject I know little about and discovering another question waiting there. A paper can send me to a book, a book to a historical argument, and that argument eventually to something I want to understand for myself.
+
+That is partly why this website is broader than my PhD.
+
+Research teaches you to narrow a question until it can be answered properly. That discipline matters. But curiosity does not always respect project boundaries.
+
+Sometimes I will write here about agriculture or economics because that is where my research currently sits. Sometimes it will be science, technology, Ghana, Africa, Ireland, a book, a place, a person or something I encountered while looking for something else.
+
+I do not expect all of it to fit inside one intellectual box.
 
 My own journey has not.
 
 ## Still unfinished
 
-There is an obvious danger in writing about your own journey while you are still in the middle of it.
+Writing about your own journey while you are still in the middle of it carries a danger.
 
-You can make accidents look like plans.
+Accidents begin to look like plans. Decisions acquire importance because you already know what happened afterwards. Memory rearranges the cast. The stops that led somewhere become easier to remember than those that did not.
 
-You can give too much importance to decisions whose consequences only became clear years later. You can forget the people who mattered at the time because memory has quietly rearranged the cast.
-
-So I do not want this page to become a polished origin story in which every step inevitably led to the next one.
+I do not want this page to become a polished origin story in which accounting inevitably led to China, China inevitably led to Ireland, and every turn somehow knew where it was going.
 
 It did not.
 
-Some things worked. Some plans changed. Some opportunities appeared unexpectedly. I walked away from one PhD and began another. My research moved from one field towards another. Places I expected to be temporary became important parts of my life.
+Some things worked. Some plans changed. Some opportunities appeared unexpectedly. One visa arrived after the opportunity it was meant for. I walked away from one PhD and began another. Places I expected to be temporary became important parts of my life. People I did not know when I left Ghana became friends, colleagues and community.
 
-And I am still figuring out where some of it leads.
+And after five years away, I went home.
 
-That is why this page will remain open.
+The page is called **How I got here**, but "here" is still moving.
 
-I will return when memory supplies something I missed, when another chapter changes the shape of the story, or when I realise I have failed to thank somebody properly.
+I expect to return to it when another chapter changes the shape of the story, when memory supplies something I missed, or when I realise I have not thanked somebody properly.
 
 For now, this is where I am.
