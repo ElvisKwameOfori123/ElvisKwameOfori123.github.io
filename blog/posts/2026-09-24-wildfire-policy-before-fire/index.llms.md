@@ -38,7 +38,7 @@ My view is that, on uplands and the margins of peatland, wildfire prevention bel
 
 Nor is a plausible mechanism the same as demonstrated effect. Grazing reduces some fuels, but the result depends on stocking, vegetation, season, terrain and the ecosystem in question. Bringing fire prevention into land-management policy only works if those schemes ask where an intervention works, at what intensity and cost, and with what consequences for biodiversity, carbon and farming.
 
-By the time a hillside is burning, many of those choices have already been made, but that makes prevention and emergency response parts of the same system rather than substitutes for one another.
+By the time a hillside is burning, many of the choices that shaped the risk were made long before, mostly by people who were not thinking about fire. Prevention and response are parts of one system.
 
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.
