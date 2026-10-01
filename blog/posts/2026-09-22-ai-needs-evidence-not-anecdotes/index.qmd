@@ -2,10 +2,14 @@
 title: "AI is becoming ordinary. The evidence about its effects is still catching up"
 description: "Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them."
 date: 2026-09-22
-image: "ai-use-mechanism.svg"
-image-alt: "A diagram showing that the same amount of time using AI can involve copying an answer or attempting a task, asking for feedback and revising"
+image: "students-shared-laptop.jpg"
+image-alt: "Four secondary-school students in uniform gathered around one laptop at a classroom desk"
 categories: ["Science & Technology", "Economics & Evidence"]
 ---
+
+![Students working together at a laptop.](students-shared-laptop.jpg){fig-alt="Black-and-white photograph of four secondary-school students in uniform gathered around one laptop at a classroom desk, one of them typing while the others watch the screen." width="100%" fig-align="center"}
+
+*Photograph: [Bright Kwame Ayisi / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Students_using_a_computer_laptop_01.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 Two students spend thirty minutes with the same AI model. One asks for the answer and copies it. The other attempts the problem first, asks for criticism, argues with the response and revises the work. A study that records both as thirty minutes of AI use has measured time well and behaviour badly.
 

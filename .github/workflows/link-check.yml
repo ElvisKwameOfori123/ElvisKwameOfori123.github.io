@@ -23,6 +23,9 @@ jobs:
       - name: Render site
         run: quarto render
 
+      # journal.societyofirishforesters.ie is excluded because its TLS
+      # certificate expired in December 2025; the links are correct primary
+      # sources. Remove the exclusion once the journal renews its certificate.
       - name: Check rendered links
         uses: lycheeverse/lychee-action@v2.8.0
         with:
@@ -35,5 +38,6 @@ jobs:
             --exclude '^https://www\.linkedin\.com/'
             --exclude '^https://upload\.wikimedia\.org/'
             --exclude '^https://kwameofori123\.com/'
+            --exclude '^https://journal\.societyofirishforesters\.ie/'
             './_site/**/*.html'
           fail: true
