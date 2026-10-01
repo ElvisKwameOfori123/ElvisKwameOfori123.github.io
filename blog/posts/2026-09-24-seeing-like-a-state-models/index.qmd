@@ -1,6 +1,7 @@
 ---
 title: "A map can clarify the world and still leave something out"
 description: "Reading James C. Scott's Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy."
+featured: true
 date: 2026-09-24
 image: "os-ireland-map-1905.jpg"
 image-alt: "A 1905 Ordnance Survey six-inch map of Dunfanaghy and surrounding land in County Donegal"
@@ -24,7 +25,7 @@ Legibility is not foolish. A forest can be represented as timber volume, land di
 
 His forestry example shows how. A forest managed around a narrow measure of timber production can look admirably ordered while losing ecological relationships the accounts never valued. A planned settlement can make sense on paper and work badly for people whose movements, trades and ties were never visible in the plan. The simplification makes intervention possible, and it can hide some of the knowledge the intervention needs.
 
-Modelling lives on the same ground, which is why I keep returning to the book. Models depend on legibility too. We choose variables, harmonise categories, build representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. [Scenario thinking](/blog/posts/2026-09-22-econometrics-to-scenario-thinking/) turns an uncertain future into a manageable set of assumptions. None of this is a defect. It is what makes modelling possible in the first place.
+Modelling lives on the same ground, which is why I keep returning to the book. Models depend on legibility too. We choose variables, harmonise categories, build representative units, aggregate activities and draw boundaries around systems. A spatial model divides a continuous landscape into units. A microsimulation assigns people or farms to types. [Scenario thinking](/blog/posts/2026-09-22-econometrics-to-scenario-thinking/) turns an uncertain future into a manageable set of assumptions. This is not a defect. Modelling would be impossible without it.
 
 The tempting answer is more detail, and it is usually the wrong one. Complexity is not realism. A model with a thousand weakly identified parameters can hide more than a transparent model with twenty, and policy needs shared categories anyway, since a programme cannot be administered if every case has its own private definition. The better habit is to ask, every time, what the simplification cannot see.
 

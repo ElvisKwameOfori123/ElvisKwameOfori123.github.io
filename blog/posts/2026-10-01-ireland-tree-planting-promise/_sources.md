@@ -27,3 +27,4 @@ Compiled 1 October 2026. Public sources only; this file is excluded from the Qua
 - Internal link: Land Use Review scenarios assume substantial additional forestry by 2050, as stated in the EKO post of 22 September 2026, which links the EPA report.
 - Derived: 2019 to 2025 planting = 16,024 ha against 56,000 ha implied by 8,000 ha/yr (own calculation from the series above).
 - Derived: about 40,000 ha is roughly half of County Louth. Louth is 826 km2 (82,600 ha) per https://en.wikipedia.org/wiki/List_of_Irish_counties_by_area; 40,000 ha is 48%. Confirm against OSi if a primary source is wanted.
+- Farmer / non-farmer split 2022 and 2023 (farmers 520 and 773 ha; non-farmers 1,705 and 877 ha): https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2023/ (CSO, primary). Used with the 2021 release for the applicant-type chart, 2007 to 2023. Checked 1 October 2026.

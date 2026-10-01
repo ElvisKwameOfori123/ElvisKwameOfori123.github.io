@@ -1,14 +1,13 @@
 ---
-title: "Where my PhD sits: FUSION and FORESIGHT"
-description: "The modelling environment around my PhD, who supports it, and why that context matters when I write about policy."
-date: 2026-09-22
+title: "Research context: FUSION and FORESIGHT"
+description: "The modelling environment around my PhD, who supports it, and why that context matters when I write about Irish agriculture and climate policy."
 image: "foresight1.jpg"
-image-alt: "FORESIGHT project illustration showing a pathway through a green landscape"
-categories:
-  - Policy
-  - Personal & Ideas
-draft: false
+image-alt: "FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions"
+toc: false
+aliases:
+  - /blog/posts/2026-09-22-fusion-foresight/index.html
 ---
+
 
 <figure>
   <img src="foresight1.jpg" alt="FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions">

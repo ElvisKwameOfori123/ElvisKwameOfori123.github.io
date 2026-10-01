@@ -173,7 +173,7 @@ Run once, after drafting and after the story-completeness read. Check for:
 - Redundant tricolons and stacked hedges.
 - Rhetorical-question openings used as a crutch.
 - Equal-sized paragraphs or identical section shapes.
-- Repeated EKO house phrases across recent posts, including habitual uses of "interesting," "obvious," "familiar problem," "another reason for caution," or "the more useful question," when they are doing structural rather than substantive work.
+- Repeated EKO house phrases across recent posts, including habitual uses of "interesting," "obvious," "familiar problem," "another reason for caution," "the more useful question," "None of…," "That is…," or a near-final paragraph opening "My view is" / "My preference is," when they are doing structural rather than substantive work. A position can be stated plainly without announcing it as a view.
 - Repeated article arcs across recent posts, especially reflective opener -> evidence -> caution -> narrower question.
 - First-person framing that never supplies a genuine observation, experience, method, judgment or reason the writer belongs in the sentence.
 - Closing paragraphs that merely restate the opening.
