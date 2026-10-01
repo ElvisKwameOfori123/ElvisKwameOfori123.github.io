@@ -34,7 +34,7 @@ Part of my life there never appeared on a transcript. I taught English as a seco
 
 ![Elvis Kwame Ofori smiling with two young students in a classroom during his time teaching English in China.](images/china-teaching.jpg)
 
-Teaching English in China became one of the unexpected parts of my life there.
+Teaching English in China, with two of my younger students.
 
 I later began doctoral study in China as well. That path would change, but China had already changed me.
 
@@ -46,7 +46,7 @@ I learned this clearly with Germany. I was due to join colleagues at a capacity-
 
 ![Elvis Kwame Ofori sitting by the river in Berlin during a later personal visit to Germany.](images/germany-riverside.jpg)
 
-Germany, eventually. The original training had passed by the time my visa arrived, but I still made the journey later.
+By the river in Berlin, on the later trip.
 
 ## Ireland: beginning again
 
@@ -54,7 +54,7 @@ Eventually I left the doctoral path I had begun in China and moved to the Univer
 
 ![Elvis Kwame Ofori sitting outside a house on his first day in Ireland.](images/first-day-ireland.jpg)
 
-My first day in Ireland. Before the research groups and models, it was simply another new beginning.
+My first day in Ireland.
 
 Then the research moved sideways in a way I had not expected. Much of my earlier work was in energy economics, where the important actors were governments, industries and large institutions. Agriculture and land use brought the problem much closer to individual decisions. A government can set a climate target, a model can describe a pathway, and a sector can be told that its emissions must fall. But eventually somebody owns or works the land. Somebody has animals to feed, bills to pay, machinery already bought, a family involved in the farm, or a perfectly good reason for continuing to do something that looks inefficient from far away. That pulled my attention towards farmers, land-use decisions, behavioural responses and the way costs are distributed across people and places. Later, while continuing the PhD, I joined the wider FORESIGHT and FUSION research environment at Galway as a Research Assistant.
 
@@ -70,10 +70,6 @@ At the Agriculture & Land Use in Ireland conference.
 
 The subject had changed a great deal since accounting and my energy work, but the underlying questions had changed less than I first thought. Who makes the decision, and with what information? Which constraints disappear when you look from too far away? Who benefits, and who pays? A national model may say that livestock numbers should fall, that land should change use or that a technology should be adopted. A farmer still has to decide what to do on Monday morning. The distance between the aggregate pathway and that decision has become the part of the work I care about most.
 
-![Elvis Kwame Ofori working at several computer screens in his research office in Ireland.](images/research-office-ireland.jpg)
-
-At work in Ireland. Much of the research happens in the quieter work of testing assumptions, rebuilding figures and checking numbers.
-
 [Read more about my research →](../research/)
 
 Work helps a place become home, but work alone does not make a life. Church, shared meals, friendships and ordinary routines are what turned Ireland from somewhere I had moved for a PhD into somewhere that holds pieces of my life. There have been classmates who became friends, colleagues who patiently explained things I probably should have known, supervisors who trusted me, and people who helped when I was new. A CV is good at recording institutions and much worse at recording people. It records the year you arrived; it does not record who helped make the place feel less strange.
@@ -81,12 +77,6 @@ Work helps a place become home, but work alone does not make a life. Church, sha
 ![Elvis Kwame Ofori sitting outdoors after church in Galway while waiting for lunch with church members.](images/galway-church-community.jpg)
 
 After church in Galway, waiting for lunch with members of the church community.
-
-![Elvis Kwame Ofori standing on a sunny street in Galway wearing headphones](images/galway-life.jpg)
-
-A sunny day in Galway.
-
-*Somewhere along the way, a place you moved to for work begins collecting friendships and memories of its own.*
 
 ## Beyond the desk
 
@@ -96,17 +86,13 @@ Research has also given me reasons to travel. One trip took me to Washington, D.
 
 With other Ghanaian participants at the World Bank LAND Conference in Washington, D.C.
 
-![Elvis Kwame Ofori standing outside the U.S. Treasury Department building in Washington, D.C.](images/washington-us-treasury.jpg)
-
-Washington, D.C., beyond the conference room.
-
 ## Going home
 
 For all the places that became part of my life after 2019, Ghana never stopped being home. I returned for the first time in 2024, five years after leaving, and went back again in 2025. Five years is long enough for absence to become normal. You learn to celebrate some things through a screen, hear family news over the phone and accept that ordinary moments are happening without you. Going home changed the scale of those years.
 
 ![Elvis Kwame Ofori standing with his parents during a return visit to Ghana.](images/ghana-parents-homecoming.jpg)
 
-Back with my parents in Ghana. Returning home reminded me what distance had been asking me to miss.
+With my parents in Ghana, on a return visit.
 
 What mattered was not sightseeing but family: sitting together, talking without watching the time, eating together, being physically present again. Living abroad has given me opportunities I am deeply grateful for, but opportunity and family are not interchangeable. A career can cross borders surprisingly well. Relationships still depend on presence.
 
@@ -116,7 +102,7 @@ One habit runs through all of these chapters: I love to read. Some books connect
 
 ![Elvis Kwame Ofori smiling while holding The New Harvest.](images/reading-new-harvest.jpg)
 
-Books have been another part of the journey. Reading is one way the boundaries of my work keep expanding.
+With a copy of *The New Harvest*.
 
 Some posts here will be about agriculture or economics because that is where my research sits. Others will be about science, technology, Ghana, Africa, Ireland, a book, a place or a person. I do not expect them all to fit in one intellectual box. My own route has not.
 

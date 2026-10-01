@@ -32,7 +32,7 @@ Timing is a second difficulty. Models improve, interfaces change, safeguards are
 
 When the question is learning effects, I put little weight on studies that measure exposure only as time spent with a tool or access to it. Those measures cannot distinguish AI replacing an attempt from AI giving feedback after one, or from AI supporting revision. Studies that capture the pattern of use give us a better chance of understanding the mechanism. The same applies to outcomes: exam performance, long-term retention, writing quality, confidence, reasoning and time saved are not interchangeable measures of learning.
 
-For universities and schools, that leaves neither the blanket ban nor the blanket embrace on very solid evidential ground. The same issue will turn up outside education. A model can score extremely well on a benchmark and produce a much smaller effect once people reorganise their work around it. The unit worth studying is often not the model alone, but the working arrangement between a person and a machine.
+For universities and schools, that leaves neither the blanket ban nor the blanket embrace on solid evidential ground. The same issue will turn up outside education. A model can score extremely well on a benchmark and produce a much smaller effect once people reorganise their work around it. The unit worth studying is the working arrangement between a person and a machine.
 
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.

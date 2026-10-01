@@ -18,7 +18,7 @@ This website is broader than my PhD. I use the blog to think through public poli
 
 I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway’s Ryan Institute**. My doctoral work asks who actually carries the adjustment when a country sets agricultural, climate and land-use targets: which farms, which production systems and which places.
 
-I work within the wider FUSION and FORESIGHT modelling environment at the University of Galway. My doctoral research is supervised by **David Styles** and **Cathal O’Donoghue**.
+I work within the wider [FUSION and FORESIGHT modelling environment](research/context/) at the University of Galway, which is also the context to keep in mind when I write about Irish agriculture and climate policy. My doctoral research is supervised by **David Styles** and **Cathal O’Donoghue**.
 
 [Read about my research →](research/)
 

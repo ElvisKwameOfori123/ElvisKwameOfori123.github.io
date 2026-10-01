@@ -42,16 +42,6 @@ Sep 22, 2026
 
 Elvis Kwame Ofori
 
-[![FORESIGHT project illustration showing a pathway through a green landscape](../blog/posts/2026-09-22-fusion-foresight/foresight1.jpg)](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
-
-### [Where my PhD sits: FUSION and FORESIGHT](../blog/posts/2026-09-22-fusion-foresight/index.llms.md)
-
-The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
-
-Sep 22, 2026
-
-Elvis Kwame Ofori
-
 [![A diagram showing that the same amount of time using AI can involve copying an answer or attempting a task, asking for feedback and revising](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg)](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 
 ### [AI is becoming ordinary. The evidence about its effects is still catching up](../blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)

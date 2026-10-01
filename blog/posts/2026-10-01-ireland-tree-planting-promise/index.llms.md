@@ -42,6 +42,12 @@ The licensing problems were real, and serious. In 2019 the Department revised ho
 
 The timing does not fit licensing as the whole story. Split the CSO series by who did the planting and the problem shows up years earlier. [Farmers planted 5,978 hectares in 2014 and 2,009 in 2018](https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2021/), a fall of two-thirds before the screening change. Over the same years planting by non-farmers rose from 178 hectares to just over 2,000. Through the worst of the licensing crisis, from 2018 to 2021, non-farmer planting fell by just under a fifth while farmer planting fell from 2,009 hectares to 360. The licensing system was the same for both groups.
 
+![Line chart of annual afforestation in Ireland by applicant type, 2007 to 2023. Farmer planting runs near 6,000 hectares a year until 2014, then falls every year to 360 hectares in 2021 before edging up to 773 in 2023. Non-farmer planting stays under 500 hectares until 2014, rises to about 2,300 in 2016 and stays near 1,700 to 2,300 through the licensing backlog of 2019 to 2021 before falling to 877 in 2023.](afforestation-farmer-split.svg)
+
+Farmer planting fell from 2015, years before the licensing backlog, while non-farmer planting rose.
+
+*Original chart for EKO Perspectives. Data: CSO [Afforestation Area 2021](https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2021/) and [2023](https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2023/), area by applicant type.*
+
 That comparison is not a clean test. Forestry companies and investment funds handle ecology referrals and appeals more easily than a farmer applying once in a lifetime, so the same delays probably did fall harder on farmers. What licensing cannot account for is the farmer decline that came before it.
 
 Nor did planting bounce back once licensing improved. By October 2024 the Department had approved [3,911 hectares for planting that year, but only just over 1,300 hectares had been planted](https://agriland.ie/farming-news/annual-forestry-planting-target-set-to-be-missed-by-80-seefa). Much planting happens in late autumn and winter, and licences run for more than one season, so an October count understates what a year’s approvals eventually deliver. Even so, the full-year total came to 1,573 hectares. Permission no longer looks like the binding constraint.

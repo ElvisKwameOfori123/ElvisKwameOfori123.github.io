@@ -1,18 +1,6 @@
-# Where my PhD sits: FUSION and FORESIGHT
+# Research context: FUSION and FORESIGHT
 
-Policy
-
-Personal & Ideas
-
-The modelling environment around my PhD, who supports it, and why that context matters when I write about policy.
-
-Author
-
-Elvis Kwame Ofori
-
-Published
-
-22 September 2026
+The modelling environment around my PhD, who supports it, and why that context matters when I write about Irish agriculture and climate policy.
 
 ![FORESIGHT project illustration showing a backcasting pathway from a future vision to present-day decisions](foresight1.jpg)
 
@@ -33,4 +21,4 @@ The site will range well beyond my PhD, into economics, technology, Ghana, Irela
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.
 
-[More from EKO Perspectives](../../../blog/) · [Follow via RSS](../../../blog/index.xml) · [About the author](../../../about.llms.md)
+[More from EKO Perspectives](../../blog/) · [Follow via RSS](../../blog/index.xml) · [About the author](../../about.llms.md)

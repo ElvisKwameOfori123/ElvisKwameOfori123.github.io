@@ -38,7 +38,7 @@ Economists will recognise the shape of this. Part of the benefit produced on one
 
 Coordination carries its own costs. Someone has to define the landscape, choose the actions that suit it and judge outcomes that weather, soils and processes beyond any farmer’s control also shape. Results-based payments find this especially awkward, since the thing being rewarded is partly management and partly place. A larger planning unit can also become an excuse to assume one intervention fits everywhere inside it, and Irish farmland is too varied for that. The cost and environmental return of the same action change with soil, farm system and what happens next door.
 
-My preference is to start at the scale of the environmental process. Where outcomes depend on flows or connections across holdings, such as catchment water quality or habitat networks, scheme design should begin with the catchment or landscape and only then decide what individual farm contracts can deliver. Where the outcome sits within one field or holding, farm-level design is enough.
+Scheme design should start at the scale of the environmental process. Where outcomes depend on flows or connections across holdings, such as catchment water quality or habitat networks, the scheme should begin with the catchment or landscape and only then decide what individual farm contracts can deliver. Where the outcome sits within one field or holding, farm-level design is enough.
 
 **Elvis Kwame Ofori**\
 Researcher and writer behind *EKO Perspectives*.
