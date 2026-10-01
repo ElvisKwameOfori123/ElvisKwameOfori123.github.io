@@ -6,7 +6,7 @@ toc: true
 
 ## The question
 
-IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.
+A national target is one number. The farms that have to meet it are thousands of different businesses, and the same target can cost one of them very little and another a great deal. IFT-BioSim asks how a common national transition objective can create very different economic pressures across heterogeneous farms.
 
 It focuses on **who bears adjustment, who responds, and how policy design changes incidence**.
 
