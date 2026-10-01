@@ -6,13 +6,15 @@ Warm paper, black type, one restrained blue accent, strong editorial imagery, ge
 
 ## EKO Perspectives editorial work
 
-For any task that plans, researches, drafts, revises, reviews, profiles, SEO-packages, or prepares a post for `kwameofori123.com` / EKO Perspectives, **read `.editorial/EKO_EDITORIAL_WORKFLOW_v2.3.md` first and follow its stage routing**. Also use `.editorial/story-engine-library.md` when choosing how a piece should be built.
+For any task that plans, researches, drafts, revises, reviews, profiles, SEO-packages, or prepares a post for `kwameofori123.com` / EKO Perspectives, **read `.editorial/EKO_EDITORIAL_WORKFLOW_v2.3.md` first and follow its stage routing**. Also use `.editorial/story-engine-library.md` when choosing how a piece should be built, and consult `.editorial/EKO_PERSPECTIVES_EDITORIAL_PLAN.md` for the standing topic bank, site priorities and longer-horizon editorial direction.
 
-The repository copy of **EKO Editorial Workflow v2.3** is the standing editorial workflow. It supersedes v2.2 and the older separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain. Do not run those systems in parallel.
+The repository copy of **EKO Editorial Workflow v2.3** is the standing editorial workflow. It supersedes v2.2 and the older separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain. Do not run those systems in parallel. The workflow is canonical if a planning-reference file contains an older or more rigid instruction.
 
 ### Editorial planning and approval
 
 - Plan candidate topics/themes before drafting rather than posting whatever happens to be available.
+- Consult `.editorial/EKO_PERSPECTIVES_EDITORIAL_PLAN.md` when building a slate, but treat its topic list and sample schedule as a bank of candidates rather than an automatic queue.
+- Re-check current evidence, policy status, publication status, site coverage and topical relevance before selecting an older candidate.
 - Do not start a full draft of a new topic until Elvis Kwame Ofori has approved the topic or theme, unless he explicitly asks for that specific draft in the current request.
 - A quiet period is not a reason to publish a burst of weak or structurally similar pieces.
 
