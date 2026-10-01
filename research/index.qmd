@@ -13,19 +13,21 @@ I use spatial, economic and behavioural modelling to connect national pathways w
 ## Current work
 
 **[GOBLIN-Spatial](../projects/goblin-spatial/)**  
-Spatial foresight for where nationally coherent agricultural transitions fall across Ireland and whether future land-use requirements can fit.
+When Ireland's national land-use pathway says livestock numbers fall and land changes use, where in the country does that happen, and does everything the plan asks of the land actually fit?
 
 **[BioLand-US](../projects/bioland-us/)**  
-A U.S. implementation model examining how compatible land and voluntary contractual access constrain prospective perennial-biomass mobilisation.
+Models say where the United States could grow perennial energy crops. BioLand-US asks how much of that land is suitable and how much farmers would actually sign up through voluntary contracts.
 
 **[IFT-BioSim](../projects/ift-biosim/)**  
-A farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs.
+The same national target costs different farms very different amounts. IFT-BioSim models those costs farm by farm, and tests whether different support designs change who bears them.
 
 ## Methods
 
 My work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL.
 
-## Selected publications
+## Earlier publications
+
+These papers come from my work before the current PhD, mainly on sustainability, energy and development. Working papers from my doctoral research will be added here as they become public.
 
 - **Prospect of trade and innovation in renewable energy deployment: A comparative analysis between BRICS and MINT Countries.** *Renewable Energy* (2024). [DOI](https://doi.org/10.1016/j.renene.2024.120757)
 - **Sustainable Development Goals in BRICS and G7 countries: Increasing accomplishments through policy synergies in four dimensions.** *Sustainable Development* (2024). [DOI](https://doi.org/10.1002/sd.2653)

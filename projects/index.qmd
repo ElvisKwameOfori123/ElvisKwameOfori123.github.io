@@ -12,7 +12,7 @@ toc: false
 <div class="editorial-kicker">Spatial foresight · Ireland</div>
 <div>
 <h3><a href="goblin-spatial/">GOBLIN-Spatial</a></h3>
-<p>Where nationally coherent agricultural transitions fall across Ireland, and whether future land-use requirements can fit within the resulting transition space.</p>
+<p>Where in Ireland a national agricultural transition actually lands, and whether everything the plan asks of the land can fit in the space it frees up.</p>
 </div>
 </div>
 
@@ -20,7 +20,7 @@ toc: false
 <div class="editorial-kicker">Bioenergy · United States</div>
 <div>
 <h3><a href="bioland-us/">BioLand-US</a></h3>
-<p>How compatible land and voluntary contracts constrain prospective U.S. perennial-biomass mobilisation.</p>
+<p>How much of the land that models assign to U.S. energy crops is suitable, and how much farmers would actually contract.</p>
 </div>
 </div>
 
@@ -28,7 +28,7 @@ toc: false
 <div class="editorial-kicker">Farm-level modelling · Ireland</div>
 <div>
 <h3><a href="ift-biosim/">IFT-BioSim</a></h3>
-<p>A farm-level framework for studying heterogeneous opportunity costs, participation and the distribution of transition costs.</p>
+<p>Who pays for a national transition, farm by farm, and whether better support design changes the answer.</p>
 </div>
 </div>
 

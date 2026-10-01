@@ -6,9 +6,11 @@ Warm paper, black type, one restrained blue accent, strong editorial imagery, ge
 
 ## EKO Perspectives editorial work
 
-For any task that drafts, revises, reviews, researches, profiles, SEO-packages, or prepares a post for `kwameofori123.com` / EKO Perspectives, **read `.editorial/EKO_EDITORIAL_WORKFLOW_v2.2.md` first and follow its stage routing**.
+For any task that drafts, revises, reviews, researches, profiles, SEO-packages, or prepares a post for `kwameofori123.com` / EKO Perspectives, **read `.editorial/EKO_EDITORIAL_WORKFLOW_v2.2.md` first and follow its stage routing**. When choosing the structure for a new piece, also use `.editorial/EKO_ENGINE_LIBRARY.md` as a menu of possible article engines, not as a mandatory template.
 
 The repository copy of **EKO Editorial Workflow v2.2** is the standing editorial workflow. It supersedes older website-writing workflows and the former separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain. Do not run both systems.
+
+The editorial rules are a working system, not a style prison. If a rule repeatedly produces sameness, evasive caution or artificial prose, improve the rule rather than forcing new writing back into the old pattern. Structure follows the subject. First person is available but not required. A post may take a clear position when the evidence supports one; caution is not the default ending. Do not preserve an opening, paragraph architecture or closing move merely because earlier EKO posts used it.
 
 Non-negotiable publication safeguards:
 
@@ -24,6 +26,8 @@ Non-negotiable publication safeguards:
 - Prefer original explanatory visuals, author-owned photography, maps, charts, documents and clearly reusable documentary or historical imagery over decorative stock.
 - Prefer a real or documentary lead image when a strong, truthful and clearly reusable one exists. Use an original schematic as the lead when the subject is abstract or when available photography would be generic or misleading; otherwise keep schematics as supporting explanatory visuals.
 - Render and check the finished draft on both desktop and phone before it is considered ready for review.
+
+For topic planning, `.editorial/EKO_TOPIC_BACKLOG.md` is a non-binding idea bank only. Weekly topic/angle selection still requires owner approval before drafting, and every factual premise in the backlog must be re-verified against current public sources.
 
 For a whole-site SEO or technical-health task that does not involve drafting a post, follow the site-health section in `.editorial/EKO_EDITORIAL_WORKFLOW_v2.2.md`.
 
