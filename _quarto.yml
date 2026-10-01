@@ -43,6 +43,7 @@ format:
     css: styles-common.css
     include-in-header: includes/head.html
     canonical-url: true
+    html-math-method: plain
     grid:
       body-width: 900px
       margin-width: 220px
