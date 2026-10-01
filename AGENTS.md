@@ -10,6 +10,8 @@ For any task that drafts, revises, reviews, researches, profiles, SEO-packages, 
 
 The repository copy of **EKO Editorial Workflow v2.2** is the standing editorial workflow. It supersedes older website-writing workflows and the former separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain. Do not run both systems.
 
+The editorial rules are a working system, not a style prison. If a rule repeatedly produces sameness, evasive caution or artificial prose, improve the rule rather than forcing new writing back into the old pattern. Structure follows the subject. First person is available but not required. A post may take a clear position when the evidence supports one; caution is not the default ending. Do not preserve an opening, paragraph architecture or closing move merely because earlier EKO posts used it.
+
 Non-negotiable publication safeguards:
 
 - New posts remain `draft: true` until Elvis Kwame Ofori explicitly approves publication.
