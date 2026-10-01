@@ -48,7 +48,7 @@ Sep 24, 2026
 
 Elvis Kwame Ofori
 
-[![An Irish farm field with cattle and grassland](./blog/posts/2026-09-22-econometrics-to-scenario-thinking/irish-farm-field.jpg)](blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
+[![Wet raised bog landscape at Clara Bog, County Offaly](./blog/posts/2026-09-22-econometrics-to-scenario-thinking/clara-bog.jpg)](blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 
 ### [When the future is outside the data](blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 
@@ -58,7 +58,7 @@ Sep 22, 2026
 
 Elvis Kwame Ofori
 
-[![A diagram showing that the same amount of time using AI can involve copying an answer or attempting a task, asking for feedback and revising](./blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/ai-use-mechanism.svg)](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
+[![Four secondary-school students in uniform gathered around one laptop at a classroom desk](./blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/students-shared-laptop.jpg)](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 
 ### [AI is becoming ordinary. The evidence about its effects is still catching up](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
 

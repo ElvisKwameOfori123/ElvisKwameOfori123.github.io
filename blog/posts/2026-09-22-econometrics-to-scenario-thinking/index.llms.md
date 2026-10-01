@@ -18,15 +18,17 @@ Distance matters because an estimate is most trustworthy close to the variation 
 
 [The Irish Land Use Review](https://www.epa.ie/publications/research/evidence-synthesis-reports/evidence-synthesis-report-3-land-use-review-fluxes-scenarios-and-capacity.php) shows the kind of question I mean. Its scenarios include substantial additional forestry and large-scale rewetting of grassland on organic soils by 2050. Those are not year-to-year movements in a land system. They change the structure of the system itself, and no record of past farm decisions was collected under that structure.
 
-![An Irish farm field with cattle and agricultural grassland](irish-farm-field.jpg)
+![Wet raised bog landscape at Clara Bog in County Offaly, with pools of standing water among heather and sedge tussocks under a grey sky.](clara-bog.jpg)
 
-Irish farm field. Photograph by Daniel Hanrahan.
+Raised bog at Clara Bog Nature Reserve, County Offaly.
 
-*Source: [Daniel Hanrahan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Irish_Farm_Field_(38665262).jpeg), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
+*Photograph: [Pocyun / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clara_bog_Special_Area_of_Conservation_04.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 Scenario modelling approaches the problem from the other end. A scenario starts from a target, a policy assumption or a possible condition and asks what else would have to change if that condition held. Backcasting goes further, beginning at the future objective and working back towards the present. The [European Commission’s short guide to scenario building in foresight](https://policy-lab.ec.europa.eu/stories/how-do-we-build-scenarios-foresight-exercise-2019-07-02_en) and the [OECD’s strategic foresight work](https://www.oecd.org/en/about/programmes/strategic-foresight.html) draw the same line between exploring plausible futures and predicting one.
 
 Observed behaviour stays essential inside a scenario. If the scenario assumes that farms respond to a price, a payment or a constraint in a particular way, past behaviour is still the best discipline on that assumption. The mistake is letting a historical estimate carry the whole exercise once the system has moved well beyond the conditions that produced it.
+
+Irish afforestation makes the point concrete. Between 2007 and 2025 annual planting ranged from [8,314 hectares in 2010 to 1,573 in 2024](../../../blog/posts/2026-10-01-ireland-tree-planting-promise/). A pathway that holds planting at the current target of 8,000 hectares a year through to 2050 asks for something the recent record has delivered once, in 2010, when farmers did almost all of the planting. A model of planting estimated on the last decade has learned mostly from a decline: farmer planting fell in almost every year from 2014, and the non-farmers who partly replaced them faced different incentives. That model can still say useful things about how planting responds at the margin to a premium or a licensing delay. It cannot say whether farmers would return at several times their recent scale, because nothing in its sample resembles that world. The scenario has to assume it, and an honest report says that it did.
 
 Every scenario result should come with a plain statement of which numbers were estimated and which were assumed. It is a small reporting habit, and it would make many land-use results far easier to read. A reader could then decide how far to trust the extrapolation instead of discovering it in an appendix.
 

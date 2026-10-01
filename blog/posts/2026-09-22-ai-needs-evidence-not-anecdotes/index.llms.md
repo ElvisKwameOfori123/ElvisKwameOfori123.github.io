@@ -14,6 +14,12 @@ Published
 
 22 September 2026
 
+![Black-and-white photograph of four secondary-school students in uniform gathered around one laptop at a classroom desk, one of them typing while the others watch the screen.](students-shared-laptop.jpg)
+
+Students working together at a laptop.
+
+*Photograph: [Bright Kwame Ayisi / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Students_using_a_computer_laptop_01.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+
 Two students spend thirty minutes with the same AI model. One asks for the answer and copies it. The other attempts the problem first, asks for criticism, argues with the response and revises the work. A study that records both as thirty minutes of AI use has measured time well and behaviour badly.
 
 ![Thirty minutes of AI use branches into copying an answer or attempting a task, asking for feedback and revising.](ai-use-mechanism.svg)
