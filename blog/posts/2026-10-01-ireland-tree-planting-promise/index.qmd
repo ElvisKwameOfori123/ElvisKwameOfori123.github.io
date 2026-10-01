@@ -1,6 +1,7 @@
 ---
 title: "Thirty years of Irish tree-planting promises, checked against the record"
 description: "Ireland has planted a fraction of the forest it promised since 1996. Licensing explains one bad stretch. Farmers walking away from planting explains more of the gap."
+featured: true
 date: 2026-10-01
 draft: false
 image: "afforestation-target-gap.png"
@@ -33,6 +34,10 @@ The recent shortfall is easy to add up. The 8,000-hectare target was [already in
 The licensing problems were real, and serious. In 2019 the Department revised how it screened applications for their possible effects on protected sites. A later legal review found this was [the principal reason more than 80% of applications were being referred to the Department's ecologists](https://farmersjournal.ie/forestry-regulatory-review-published-707576), which slowed most licences. The Mackinnon review of the system reported that in August 2019 only [8% of licences for planting, roads or felling were being issued within four months](https://www.farmersjournal.ie/amp/more/forestry/contractors-warn-forestry-sector-facing-disaster-515892). Appeals piled up behind them.
 
 The timing does not fit licensing as the whole story. Split the CSO series by who did the planting and the problem shows up years earlier. [Farmers planted 5,978 hectares in 2014 and 2,009 in 2018](https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2021/), a fall of two-thirds before the screening change. Over the same years planting by non-farmers rose from 178 hectares to just over 2,000. Through the worst of the licensing crisis, from 2018 to 2021, non-farmer planting fell by just under a fifth while farmer planting fell from 2,009 hectares to 360. The licensing system was the same for both groups.
+
+![Farmer planting fell from 2015, years before the licensing backlog, while non-farmer planting rose.](afforestation-farmer-split.svg){fig-alt="Line chart of annual afforestation in Ireland by applicant type, 2007 to 2023. Farmer planting runs near 6,000 hectares a year until 2014, then falls every year to 360 hectares in 2021 before edging up to 773 in 2023. Non-farmer planting stays under 500 hectares until 2014, rises to about 2,300 in 2016 and stays near 1,700 to 2,300 through the licensing backlog of 2019 to 2021 before falling to 877 in 2023." width="100%" fig-align="center"}
+
+*Original chart for EKO Perspectives. Data: CSO [Afforestation Area 2021](https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2021/) and [2023](https://www.cso.ie/en/releasesandpublications/ep/p-aa/afforestationarea2023/), area by applicant type.*
 
 That comparison is not a clean test. Forestry companies and investment funds handle ecology referrals and appeals more easily than a farmer applying once in a lifetime, so the same delays probably did fall harder on farmers. What licensing cannot account for is the farmer decline that came before it.
 

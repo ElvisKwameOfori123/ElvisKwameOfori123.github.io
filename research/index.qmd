@@ -8,7 +8,7 @@ My research asks a distributional question:
 
 > **When governments set national agricultural, climate and land-use targets, which farms, production systems and places actually carry the adjustment?**
 
-I use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented.
+I use spatial, economic and behavioural modelling to connect national pathways with the local realities through which they must be implemented. The modelling programme this work sits within, and how it bears on what I write, is described on the [research context](context/) page.
 
 ## Current work
 
