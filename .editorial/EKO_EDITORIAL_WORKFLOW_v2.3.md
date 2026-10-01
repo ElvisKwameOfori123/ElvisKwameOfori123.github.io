@@ -2,15 +2,15 @@
 
 **Standing version: 1 October 2026.**
 
-This is the repository-level canonical instruction for EKO Perspectives. If the installable `eko-editorial-workflow` skill is available, use it and its reference files. If it is not available, follow this document plus `.editorial/story-engine-library.md` directly.
+This is the repository-level canonical instruction for EKO Perspectives. If the installable `eko-editorial-workflow` skill is available, use it and its reference files. If it is not available, follow this document plus `.editorial/story-engine-library.md` directly. For topic planning, also consult `.editorial/EKO_PERSPECTIVES_EDITORIAL_PLAN.md` as the standing topic bank and longer-horizon planning reference.
 
-This version supersedes v2.2 and the former separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain.
+This version supersedes v2.2 and the former separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain. If a planning-reference file contains an older or more rigid instruction, this workflow is authoritative.
 
 The central change in v2.3 is simple: **editorial consistency must not become structural sameness**. Older E360 features, research blogs, academic op-eds, trade press, journal articles and classic essays are craft references, not moulds. There is no single E360 framework and no single pre-2015 blog framework.
 
 ## Pipeline
 
-0. **Editorial planning and owner approval.** Build a short weekly slate or evaluate the explicitly proposed topic. Do not draft a newly proposed topic until Elvis approves the topic/theme, unless the current request already explicitly asks for that draft.
+0. **Editorial planning and owner approval.** Build a short weekly slate or evaluate the explicitly proposed topic. Consult `.editorial/EKO_PERSPECTIVES_EDITORIAL_PLAN.md` for standing ideas and site priorities, but do not treat it as an automatic queue. Do not draft a newly proposed topic until Elvis approves the topic/theme, unless the current request already explicitly asks for that draft.
 1. **Site preflight.** Inspect recent published posts and drafts. Check topic overlap, geographic/category gaps, repeated openings, repeated diagrams, repeated caution moves, and repeated endings.
 2. **Evidence and originality.** Research before drafting. Prefer primary sources. Keep a claim ledger. Identify the strongest credible counterargument or rebuttal when the claim is contested.
 3. **Route by content type.** Apply policy/evidence, GitHub/tool, scientist profile, map/data, place/development, personal/ideas, behind-the-paper/model, or policy-audit checks.
@@ -24,6 +24,8 @@ The central change in v2.3 is simple: **editorial consistency must not become st
 ## Stage 0: editorial planning and approval
 
 Plan topics rather than filling a posting quota. For each candidate, give only enough to decide: the subject/question, why it matters now, what EKO Perspectives can add beyond obvious coverage, likely route, provisional engine, and whether it needs first-hand reporting, personal modelling experience, public records or desk research.
+
+Before proposing a slate, consult `.editorial/EKO_PERSPECTIVES_EDITORIAL_PLAN.md` for existing candidate topics, geographic gaps, site fixes and longer-horizon sequencing. Re-check current evidence, policy status, paper-publication status and recent site coverage before reusing any candidate. The plan is a source of possibilities, not a commitment to publish them in order.
 
 Two to four candidates are enough for a normal weekly slate. Variety in geography, category and engine is useful, but do not manufacture variety for its own sake.
 
