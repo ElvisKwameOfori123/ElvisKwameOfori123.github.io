@@ -10,7 +10,7 @@ toc: true
 
 I am **Elvis Kwame Ofori**, a Ghanaian researcher and writer based in Ireland.
 
-My path has taken me from Ghana to China and now Ireland, and that movement between places has shaped the way I think about policy. I am interested in how national decisions look very different once they reach households, farms, firms and communities.
+My path has run from Ghana to China and now Ireland, and moving between those places has shaped how I think about policy. National decisions look very different once they reach households, farms, firms and communities, and that difference is what I study and write about.
 
 </div>
 </div>
@@ -19,13 +19,11 @@ My path has taken me from Ghana to China and now Ireland, and that movement betw
 
 ## What I write about
 
-This website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and personal observations.
-
-Sometimes the posts will be analytical. Sometimes they will be explanatory. Sometimes they will simply be an attempt to make sense of something I have read, seen or experienced.
+This website is broader than my PhD. I use the blog to think through public policy, economics, science, technology, agriculture and food, Ghana and Africa, Ireland, the United States, books, research life and things I have noticed along the way. Some posts argue a case, some explain, and some are simply an attempt to make sense of something I have read, seen or experienced.
 
 ## Research
 
-I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway's Ryan Institute**. My doctoral work focuses on how agricultural, climate and land-use transitions distribute costs, opportunities and constraints across farms and places.
+I am a **PhD Researcher and Research Assistant in Plant & AgriBiosciences at the University of Galway's Ryan Institute**. My doctoral work asks who actually carries the adjustment when a country sets agricultural, climate and land-use targets: which farms, which production systems and which places.
 
 I work within the wider FUSION and FORESIGHT modelling environment at the University of Galway. My doctoral research is supervised by **David Styles** and **Cathal O'Donoghue**.
 
@@ -39,7 +37,7 @@ Before moving to Ireland, I completed an **MSc in Management Science and Enginee
 
 **EKO Perspectives** is a personal publication. I use public sources wherever possible and link directly to the evidence behind factual claims. I do not publish confidential, restricted, unpublished or under-review research results belonging to me or collaborators.
 
-Where an affiliation, funder or research relationship is relevant to a post, I disclose it. If I make a substantive correction after publication, I note the correction and the date on the post. These standards are intended to keep the distinction clear between public evidence, my interpretation and work that is not yet public.
+Where an affiliation, funder or research relationship is relevant to a post, I disclose it. If I make a substantive correction after publication, I note the correction and the date on the post. The aim is to keep a clear line between public evidence, my interpretation of it, and work that is not yet public.
 
 ## Elsewhere
 
