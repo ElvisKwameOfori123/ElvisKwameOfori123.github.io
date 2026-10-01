@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Bar chart of annual afforestation in Ireland from 2007 to 2025, falling from about 7,000 hectares to under 3,000, set against a 1996 target of 20,000 hectares and a current target of 8,000 hectares a year](../blog/posts/2026-10-01-ireland-tree-planting-promise/afforestation-target-gap.png)](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)
+
+### [Thirty years of Irish tree-planting promises, checked against the record](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)
+
+Ireland has planted a fraction of the forest it promised since 1996. Licensing explains one bad stretch. Farmers walking away from planting explains more of the gap.
+
+Oct 1, 2026
+
+Elvis Kwame Ofori
+
 [![A 1905 Ordnance Survey six-inch map of Dunfanaghy and surrounding land in County Donegal](../blog/posts/2026-09-24-seeing-like-a-state-models/os-ireland-map-1905.jpg)](../blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
 
 ### [A map can clarify the world and still leave something out](../blog/posts/2026-09-24-seeing-like-a-state-models/index.llms.md)
