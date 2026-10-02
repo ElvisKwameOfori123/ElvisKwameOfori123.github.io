@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household\&#039;s income, home and inheritance](../blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+
+### [One hectare, many promises](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+
+Climate, biodiversity, energy, housing and food are all asking more of the same land. Governments are answering with plans and targets, and scientists disagree about what land should do next. The farmer who lives from it is rarely at the table.
+
+Oct 2, 2026
+
+Elvis Kwame Ofori
+
 [![Bar chart of annual afforestation in Ireland from 2007 to 2025, falling from about 7,000 hectares to under 3,000, set against a 1996 target of 20,000 hectares and a current target of 8,000 hectares a year](../blog/posts/2026-10-01-ireland-tree-planting-promise/afforestation-target-gap.png)](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)
 
 ### [Thirty years of Irish tree-planting promises, checked against the record](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)

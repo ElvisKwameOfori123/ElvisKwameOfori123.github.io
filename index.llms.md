@@ -38,6 +38,16 @@ Some environmental problems do not stop at the farm gate. Ireland’s ACRES land
 
 [All writing →](blog/)
 
+[![Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household\&#039;s income, home and inheritance](./blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg)](blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+
+### [One hectare, many promises](blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+
+Climate, biodiversity, energy, housing and food are all asking more of the same land. Governments are answering with plans and targets, and scientists disagree about what land should do next. The farmer who lives from it is rarely at the table.
+
+Oct 2, 2026
+
+Elvis Kwame Ofori
+
 [![Burning gorse and heather in a mountain landscape in County Cork, Ireland](./blog/posts/2026-09-24-wildfire-policy-before-fire/cork-gorse-burning.jpg)](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
 
 ### [Wildfire policy begins before the fire](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
@@ -53,16 +63,6 @@ Elvis Kwame Ofori
 ### [When the future is outside the data](blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
 
 Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.
-
-Sep 22, 2026
-
-Elvis Kwame Ofori
-
-[![Four secondary-school students in uniform gathered around one laptop at a classroom desk](./blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/students-shared-laptop.jpg)](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
-
-### [AI is becoming ordinary. The evidence about its effects is still catching up](blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/index.llms.md)
-
-Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them.
 
 Sep 22, 2026
 
