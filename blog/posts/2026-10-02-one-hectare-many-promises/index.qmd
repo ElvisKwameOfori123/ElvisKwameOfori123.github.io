@@ -2,7 +2,7 @@
 title: "One hectare, many promises"
 description: "Climate, biodiversity, energy, housing and food are all asking more of the same land. Governments are answering with plans and targets, and scientists disagree about what land should do next. The farmer who lives from it is rarely at the table."
 date: 2026-10-02
-draft: true
+draft: false
 image: "one-hectare-claims.svg"
 image-alt: "Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household's income, home and inheritance"
 categories: ["Policy", "Land & Agriculture"]
