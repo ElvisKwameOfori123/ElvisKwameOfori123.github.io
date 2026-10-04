@@ -33,3 +33,4 @@ Compiled 4 October 2026. Public sources only; excluded from the Quarto build.
 ## Images
 - Lead: Ana Cotta, "Amazônia em 2008", Flickr via Wikimedia Commons, CC BY 2.0 (FlickreviewR passed). Location given only as Amazon; caption kept general.
 - Chart: original, Singh and Persson 2026.
+- Update 4 Oct 2026: corn figures moved to September WASDE (15.8 bn bu harvest, 5.6 bn bu ethanol).

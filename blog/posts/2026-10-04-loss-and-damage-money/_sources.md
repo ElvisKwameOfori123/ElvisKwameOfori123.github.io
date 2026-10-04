@@ -33,3 +33,4 @@ Compiled 4 October 2026. Public sources only; excluded from the Quarto build.
 ## Images
 - Lead: ESA, Landsat-9 image of northern Nepal, 26 August 2026, CC BY 4.0 (Wikimedia Commons).
 - Chart: original, data above.
+- Update 4 Oct 2026: board co-chairs' letter of 10 September, no approval, next meeting Manila December, OnlineKhabar https://english.onlinekhabar.com/loss-and-damage-fund-responds.html
