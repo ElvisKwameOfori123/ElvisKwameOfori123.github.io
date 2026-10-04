@@ -2,11 +2,51 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Long mounds of harvested yellow corn piled on open ground beside an ethanol plant in Atlantic, Iowa](../blog/posts/2026-10-04-climate-credit-land/corn-piles-ethanol-plant.jpg)](../blog/posts/2026-10-04-climate-credit-land/index.llms.md)
+
+### [A climate credit that will not count the land](../blog/posts/2026-10-04-climate-credit-land/index.llms.md)
+
+The United States now pays corn ethanol a clean-fuel credit calculated without the emissions from land converted to grow more crops. The science on that effect is contested. Writing it out of the law does not settle the dispute. It hides it.
+
+Oct 4, 2026
+
+Elvis Kwame Ofori
+
+[![Annotated satellite image of northern Nepal on 26 August 2026, showing the collapsed glacier and a trail of flood water and debris running down the valley towards the border with China](../blog/posts/2026-10-04-loss-and-damage-money/nepal-flood-satellite.jpg)](../blog/posts/2026-10-04-loss-and-damage-money/index.llms.md)
+
+### [Nepal asked for \$20 million. The money has not arrived](../blog/posts/2026-10-04-loss-and-damage-money/index.llms.md)
+
+The world has agreed that climate-vulnerable countries need money to adapt and to recover. It has created the funds and set the targets. What it has not done is pay.
+
+Oct 4, 2026
+
+Elvis Kwame Ofori
+
+[![Two smallholder farmers stand either side of a young orange tree heavy with fruit on red, freshly worked soil in Machakos County, Kenya, with eucalyptus trees behind them](../blog/posts/2026-10-04-africa-feed-itself/machakos-farmers-orange-tree.jpg)](../blog/posts/2026-10-04-africa-feed-itself/index.llms.md)
+
+### [Africa’s food problem is not too many people](../blog/posts/2026-10-04-africa-feed-itself/index.llms.md)
+
+Sub-Saharan Africa will add more than half the world’s population growth to 2050. The evidence says it can feed far more people than it does today, but only if yields rise faster than they ever have, and honest numbers show whether they are.
+
+Oct 4, 2026
+
+Elvis Kwame Ofori
+
 [![Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024](../blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png)](../blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
 
 ### [We cannot drink gold](../blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
 
 Ghana arrests hundreds of illegal miners a year and convicts a handful. The problem is not a shortage of soldiers. It is who profits from the gold and who pays for the water.
+
+Oct 4, 2026
+
+Elvis Kwame Ofori
+
+[![Two small trees standing alone in a vast field of bare, reddish-brown cleared ground in the Brazilian Amazon, crossed by a pale dirt track](../blog/posts/2026-10-04-feeding-the-world/cleared-amazon-land.jpg)](../blog/posts/2026-10-04-feeding-the-world/index.llms.md)
+
+### [Feeding the world or destroying it](../blog/posts/2026-10-04-feeding-the-world/index.llms.md)
+
+Farming already uses almost half the world’s habitable land, and new studies show where the damage is concentrated. The argument over intensive versus ecological farming misses the condition both sides depend on: land that is protected because someone decided it would be.
 
 Oct 4, 2026
 

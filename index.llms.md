@@ -38,33 +38,33 @@ Some environmental problems do not stop at the farm gate. Ireland’s ACRES land
 
 [All writing →](blog/)
 
-[![Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024](./blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png)](blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
+[![Long mounds of harvested yellow corn piled on open ground beside an ethanol plant in Atlantic, Iowa](./blog/posts/2026-10-04-climate-credit-land/corn-piles-ethanol-plant.jpg)](blog/posts/2026-10-04-climate-credit-land/index.llms.md)
 
-### [We cannot drink gold](blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
+### [A climate credit that will not count the land](blog/posts/2026-10-04-climate-credit-land/index.llms.md)
 
-Ghana arrests hundreds of illegal miners a year and convicts a handful. The problem is not a shortage of soldiers. It is who profits from the gold and who pays for the water.
+The United States now pays corn ethanol a clean-fuel credit calculated without the emissions from land converted to grow more crops. The science on that effect is contested. Writing it out of the law does not settle the dispute. It hides it.
 
 Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household\&#039;s income, home and inheritance](./blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg)](blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+[![Annotated satellite image of northern Nepal on 26 August 2026, showing the collapsed glacier and a trail of flood water and debris running down the valley towards the border with China](./blog/posts/2026-10-04-loss-and-damage-money/nepal-flood-satellite.jpg)](blog/posts/2026-10-04-loss-and-damage-money/index.llms.md)
 
-### [One hectare, many promises](blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+### [Nepal asked for \$20 million. The money has not arrived](blog/posts/2026-10-04-loss-and-damage-money/index.llms.md)
 
-Climate, biodiversity, energy, housing and food are all asking more of the same land. Governments are answering with plans and targets, and scientists disagree about what land should do next. The farmer who lives from it is rarely at the table.
+The world has agreed that climate-vulnerable countries need money to adapt and to recover. It has created the funds and set the targets. What it has not done is pay.
 
-Oct 2, 2026
+Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![Burning gorse and heather in a mountain landscape in County Cork, Ireland](./blog/posts/2026-09-24-wildfire-policy-before-fire/cork-gorse-burning.jpg)](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
+[![Two smallholder farmers stand either side of a young orange tree heavy with fruit on red, freshly worked soil in Machakos County, Kenya, with eucalyptus trees behind them](./blog/posts/2026-10-04-africa-feed-itself/machakos-farmers-orange-tree.jpg)](blog/posts/2026-10-04-africa-feed-itself/index.llms.md)
 
-### [Wildfire policy begins before the fire](blog/posts/2026-09-24-wildfire-policy-before-fire/index.llms.md)
+### [Africa’s food problem is not too many people](blog/posts/2026-10-04-africa-feed-itself/index.llms.md)
 
-Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
+Sub-Saharan Africa will add more than half the world’s population growth to 2050. The evidence says it can feed far more people than it does today, but only if yields rise faster than they ever have, and honest numbers show whether they are.
 
-Sep 24, 2026
+Oct 4, 2026
 
 Elvis Kwame Ofori
 
