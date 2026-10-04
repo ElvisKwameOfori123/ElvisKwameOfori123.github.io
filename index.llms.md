@@ -38,6 +38,16 @@ Some environmental problems do not stop at the farm gate. Ireland’s ACRES land
 
 [All writing →](blog/)
 
+[![Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024](./blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png)](blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
+
+### [We cannot drink gold](blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
+
+Ghana arrests hundreds of illegal miners a year and convicts a handful. The problem is not a shortage of soldiers. It is who profits from the gold and who pays for the water.
+
+Oct 4, 2026
+
+Elvis Kwame Ofori
+
 [![Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household\&#039;s income, home and inheritance](./blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg)](blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
 ### [One hectare, many promises](blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
@@ -55,16 +65,6 @@ Elvis Kwame Ofori
 Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention.
 
 Sep 24, 2026
-
-Elvis Kwame Ofori
-
-[![Wet raised bog landscape at Clara Bog, County Offaly](./blog/posts/2026-09-22-econometrics-to-scenario-thinking/clara-bog.jpg)](blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
-
-### [When the future is outside the data](blog/posts/2026-09-22-econometrics-to-scenario-thinking/index.llms.md)
-
-Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed.
-
-Sep 22, 2026
 
 Elvis Kwame Ofori
 
