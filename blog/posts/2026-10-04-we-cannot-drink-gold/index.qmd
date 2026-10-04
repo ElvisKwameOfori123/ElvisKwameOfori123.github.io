@@ -1,8 +1,8 @@
 ---
 title: "We cannot drink gold"
 description: "Ghana arrests hundreds of illegal miners a year and convicts a handful. The problem is not a shortage of soldiers. It is who profits from the gold and who pays for the water."
-date: 2026-11-13
-draft: true
+date: 2026-10-04
+draft: false
 image: "galamsey-enforcement-gap.png"
 image-alt: "Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024"
 categories: ["Places & Development", "Policy"]
@@ -32,7 +32,7 @@ This does not make the young man in the pit the villain. He is responding to the
 
 What would change it is not a state of emergency or another wave of soldiers. It is prosecutions that follow the money to the people who finance excavators, sell concessions and buy the gold, backed by prosecutors and courts resourced to finish cases rather than adjourn them. It is a licensing system simple and honest enough for small miners to work legally, in places chosen to protect rivers and cocoa land, rather than one that leaves most of them outside the law by default. It is reclamation that lasts after the cameras leave, and a gold trade that cannot buy metal it cannot trace. And it is a rural economy, cocoa above all, that pays enough for a young person to stay on the farm.
 
-I keep returning to a thought that is less a policy than a wish. I wish that somewhere in Accra, in the ministries, the party offices and the committee rooms, someone with real power would stop treating galamsey as a problem to be managed between elections and start treating it as the thing that will decide what kind of country Ghana becomes. Not another task force, and not another press conference at a reclaimed site, but a decision made once and held for twenty years: that the water, the soil and the children come before the gold, and that [no government reverses it when it loses power](/blog/posts/2026-10-16-ghana-policy-to-farm/). On this one, the price of another abandoned promise would be paid by people not yet old enough to vote.
+I keep returning to a thought that is less a policy than a wish. I wish that somewhere in Accra, in the ministries, the party offices and the committee rooms, someone with real power would stop treating galamsey as a problem to be managed between elections and start treating it as the thing that will decide what kind of country Ghana becomes. Not another task force, and not another press conference at a reclaimed site, but a decision made once and held for twenty years: that the water, the soil and the children come before the gold, and that no government reverses it when it loses power. On this one, the price of another abandoned promise would be paid by people not yet old enough to vote.
 
 We cannot drink gold. Yet every turbid reading at a treatment plant on the Pra is a bill presented to the people downstream, who will never see a gram of the metal that muddied their water. The real failure is not the men with shovels at the riverbank. It is a system in which arrests rise and prosecutions fall, in which rivers are treated as a cost of doing business, and in which the question of who owns the land, who profits from the gold and who pays for the water is still answered in favour of the gold. Ghana has lived for centuries on its rivers and its cocoa. It cannot live on its gold alone, and it should not ask its children to try.
 
