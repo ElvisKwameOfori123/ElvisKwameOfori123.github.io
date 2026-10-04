@@ -1,8 +1,8 @@
 ---
 title: "Africa's food problem is not too many people"
 description: "Sub-Saharan Africa will add more than half the world's population growth to 2050. The evidence says it can feed far more people than it does today, but only if yields rise faster than they ever have, and honest numbers show whether they are."
-date: 2026-10-30
-draft: true
+date: 2026-10-04
+draft: false
 image: "machakos-farmers-orange-tree.jpg"
 image-alt: "Two smallholder farmers stand either side of a young orange tree heavy with fruit on red, freshly worked soil in Machakos County, Kenya, with eucalyptus trees behind them"
 categories: ["Places & Development", "Land & Agriculture"]

@@ -1,8 +1,8 @@
 ---
 title: "A climate credit that will not count the land"
 description: "The United States now pays corn ethanol a clean-fuel credit calculated without the emissions from land converted to grow more crops. The science on that effect is contested. Writing it out of the law does not settle the dispute. It hides it."
-date: 2026-12-11
-draft: true
+date: 2026-10-04
+draft: false
 image: "corn-piles-ethanol-plant.jpg"
 image-alt: "Long mounds of harvested yellow corn piled on open ground beside an ethanol plant in Atlantic, Iowa"
 categories: ["Land & Agriculture", "Policy"]
@@ -12,7 +12,7 @@ categories: ["Land & Agriculture", "Policy"]
 
 *Photograph: [Cecilia Lynch, USDA / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Earth_Day_-_Rural_Development_(20211207-USDA-RD-IA-CRC-0001).jpg), public domain.*
 
-Roughly a third of the American corn crop now goes into fuel. The Department of Agriculture projects that [5.6 billion bushels](https://www.usda.gov/oce/commodity/wasde/wasde0526v2.pdf) of a 16 billion bushel harvest will be used for ethanol in the 2026/27 marketing year, from a crop planted on [95.3 million acres](https://www.nass.usda.gov/Newsroom/printable/2026/06-30-2026.pdf). The ethanol share of that land comes to around 33 million acres, a little larger than Mississippi, although part of it returns to livestock as distillers' grains. In March 2026 the Environmental Protection Agency finalised the [largest renewable fuel obligations](https://www.fb.org/market-intel/epa-sets-record-renewable-fuel-volumes-for-2026-2027) in the programme's history, with [room for 15 billion gallons](https://www.federalregister.gov/documents/2026/04/01/2026-06275/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic) of conventional, overwhelmingly corn, ethanol.
+Roughly a third of the American corn crop now goes into fuel. The Department of Agriculture projects that [5.6 billion bushels](https://www.usda.gov/oce/commodity/wasde/wasde0926.pdf) of a 15.8 billion bushel harvest will be used for ethanol in the 2026/27 marketing year, from a crop planted on 96.8 million acres. The ethanol share of that land comes to around 34 million acres, larger than Mississippi, although part of it returns to livestock as distillers' grains. In March 2026 the Environmental Protection Agency finalised the [largest renewable fuel obligations](https://www.fb.org/market-intel/epa-sets-record-renewable-fuel-volumes-for-2026-2027) in the programme's history, with [room for 15 billion gallons](https://www.federalregister.gov/documents/2026/04/01/2026-06275/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic) of conventional, overwhelmingly corn, ethanol.
 
 Whether that is good for the climate depends on where the calculation draws its boundary. A gallon of ethanol has direct emissions: fertiliser, field diesel, the energy used at the distillery. It also has indirect ones. When corn goes into fuel tanks, prices rise, and farmers somewhere else convert grassland or forest to grow the food and feed that the corn would have supplied. That carbon is real, but it is released far from the ethanol plant and can only be estimated with economic models. This is indirect land-use change, and its size is the most contested number in biofuel policy.
 

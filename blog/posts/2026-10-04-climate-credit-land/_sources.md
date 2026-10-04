@@ -31,3 +31,4 @@ Compiled 4 October 2026. Public sources only; excluded from the Quarto build.
 ## Images
 - Lead: Cecilia Lynch, USDA, ethanol plant in Atlantic, Iowa, 9 November 2021, public domain (Wikimedia Commons).
 - Chart: original, data above.
+- Update 4 Oct 2026: September WASDE (wasde0926): production 15.8 bn bu, ethanol 5.6 bn bu, planted 96.8 m acres; ethanol land share ~34 m acres (5.6/15.8 x 96.8).

@@ -1,8 +1,8 @@
 ---
 title: "Feeding the world or destroying it"
 description: "Farming already uses almost half the world's habitable land, and new studies show where the damage is concentrated. The argument over intensive versus ecological farming misses the condition both sides depend on: land that is protected because someone decided it would be."
-date: 2026-11-27
-draft: true
+date: 2026-10-04
+draft: false
 image: "cleared-amazon-land.jpg"
 image-alt: "Two small trees standing alone in a vast field of bare, reddish-brown cleared ground in the Brazilian Amazon, crossed by a pale dirt track"
 categories: ["Land & Agriculture", "Policy"]
@@ -44,7 +44,7 @@ The most ambitious recent attempt to combine the levers was published in *Nature
 
 Two things follow from that study. The scenario that saves the most land uses intensification and dietary change together, so the debate between the camps is less of a choice than it sounds. And even the optimistic end depends on hundreds of millions of people eating less beef and dairy, which no government has yet delivered at scale.
 
-Land is also being claimed for fuel. About [5.6 billion bushels](https://www.usda.gov/oce/commodity/wasde/wasde0526v2.pdf) of a projected 16 billion bushel US corn harvest will go into ethanol in the 2026/27 marketing year. The Renewable Fuel Standard sets that demand, and it competes for the same land the food scenarios hope to free.
+Land is also being claimed for fuel. About [5.6 billion bushels](https://www.usda.gov/oce/commodity/wasde/wasde0926.pdf) of a projected 15.8 billion bushel US corn harvest will go into ethanol in the 2026/27 marketing year. The Renewable Fuel Standard sets that demand, and it competes for the same land the food scenarios hope to free.
 
 ## What would change it
 
