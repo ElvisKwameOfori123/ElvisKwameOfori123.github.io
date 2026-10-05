@@ -3,6 +3,7 @@ title: "We cannot drink gold"
 description: "Ghana arrests hundreds of illegal miners a year and convicts a handful. The problem is not a shortage of soldiers. It is who profits from the gold and who pays for the water."
 date: 2026-10-04
 draft: false
+featured: true
 image: "galamsey-enforcement-gap.png"
 image-alt: "Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024"
 categories: ["Places & Development", "Policy"]
