@@ -1,8 +1,8 @@
 ---
 title: "How to start a research paper, and why you should"
 description: "A paper worth writing starts with a failure in the world, not a method or a gap in a literature review. Five questions get you from that failure to something you can answer."
-date: 2026-11-01
-draft: true
+date: 2026-10-05
+draft: false
 image: "research-question-path.png"
 image-alt: "Diagram of six steps in starting a research paper: a problem in the world, reading for the shape of the field, asking whether it is solved, checking that data exist, settling on one question, and choosing an explanatory or foresight lens"
 categories: ["Personal & Ideas"]
@@ -14,7 +14,7 @@ categories: ["Personal & Ideas"]
 
 A research paper does not begin with a method. It begins with a problem you cannot stop thinking about. The method comes later, once you have read enough to know what has been done, what has not, and what the data you can get will actually answer. Starting from the method, or from a dataset, or from a gap someone told you exists, tends to produce a paper that is technically competent and empty. It answers a question nobody was asking.
 
-The paper that matters starts with something happening in the world that harms people or land and is not being fixed. Illegal gold mining that [turns Ghana's rivers brown](/blog/posts/2026-10-04-we-cannot-drink-gold/) despite years of crackdowns. A US tax credit that [scores corn ethanol](/blog/posts/2026-10-04-climate-credit-land/) as though the land it uses were free. Forest carbon credits sold for more avoided clearing than the forests could have supplied. A European trade rule that may divert deforestation to other markets rather than stop it. Each is a failure first and a gap in the literature second. The research exists because the failure is real and the response has not worked.
+The paper that matters starts with something happening in the world that harms people or land and is not being fixed. Illegal gold mining that [turns Ghana's rivers brown](/blog/posts/2026-10-04-we-cannot-drink-gold/) despite years of crackdowns. A US tax credit that [scores corn ethanol](/blog/posts/2026-10-04-climate-credit-land/) as though the land it uses were free. [Forest carbon credits](/blog/posts/2026-10-05-carbon-credit-counterfactual/) sold for more avoided clearing than the forests could have supplied. A [European trade rule](/blog/posts/2026-10-05-eudr-cocoa-ghana/) that may divert deforestation to other markets rather than stop it. Each is a failure first and a gap in the literature second. The research exists because the failure is real and the response has not worked.
 
 ## Read for the shape of the field
 

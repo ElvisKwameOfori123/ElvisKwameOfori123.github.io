@@ -1,8 +1,8 @@
 ---
 title: "Europe's forest rule will trace the cocoa. Will it save the forest?"
 description: "From 30 December the EU will require every cocoa, coffee, palm oil, soy, rubber, timber and cattle shipment to be traced to a plot cleared of no forest since 2020. Ghana has built the systems to comply and Côte d'Ivoire is struggling. The harder question is what the rule cannot see."
-date: 2026-10-25
-draft: true
+date: 2026-10-05
+draft: false
 image: "cocoa-drying-ashanti.jpg"
 image-alt: "A young man leans over a large bed of cocoa beans spread out to dry in the sun at Nkyerepoaso in the Ashanti Region of Ghana, with trees and a house behind"
 categories: ["Policy", "Places & Development"]
