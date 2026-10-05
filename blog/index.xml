@@ -15,7 +15,200 @@
 <link>https://kwameofori123.com/blog/</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 04 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>How to start a research paper, and why you should</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
+  <link>https://kwameofori123.com/blog/posts/2026-10-05-start-research-paper/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-10-05-start-research-paper/research-question-path.svg" class="img-fluid figure-img" style="width:100.0%" alt="Diagram of six numbered boxes in three rows of two. One: a problem in the world, something failing that people live with, not a gap in a list. Two: read for the shape, asking what others found, how, and what they did not ask. Three: is it solved, whether fixed, proposed, or adopted and failing elsewhere. Four: does the data exist. Five: one question, narrow enough to tell you what to leave out. Six: choose the lens, explaining what happened or exploring what could happen. Boxes one and five are highlighted."></p>
+<figcaption>Five questions between a problem and a paper.</figcaption>
+</figure>
+</div>
+<p><em>Original diagram for EKO Perspectives.</em></p>
+<p>A research paper does not begin with a method. It begins with a problem you cannot stop thinking about. The method comes later, once you have read enough to know what has been done, what has not, and what the data you can get will actually answer. Starting from the method, or from a dataset, or from a gap someone told you exists, tends to produce a paper that is technically competent and empty. It answers a question nobody was asking.</p>
+<p>The paper that matters starts with something happening in the world that harms people or land and is not being fixed. Illegal gold mining that <a href="../../../blog/posts/2026-10-04-we-cannot-drink-gold/">turns Ghana’s rivers brown</a> despite years of crackdowns. A US tax credit that <a href="../../../blog/posts/2026-10-04-climate-credit-land/">scores corn ethanol</a> as though the land it uses were free. <a href="../../../blog/posts/2026-10-05-carbon-credit-counterfactual/">Forest carbon credits</a> sold for more avoided clearing than the forests could have supplied. A <a href="../../../blog/posts/2026-10-05-eudr-cocoa-ghana/">European trade rule</a> that may divert deforestation to other markets rather than stop it. Each is a failure first and a gap in the literature second. The research exists because the failure is real and the response has not worked.</p>
+<section id="read-for-the-shape-of-the-field" class="level2">
+<h2 class="anchored" data-anchor-id="read-for-the-shape-of-the-field">Read for the shape of the field</h2>
+<p>Once you have the problem, you read. Not everything, but enough to see the shape of the field. Three questions are worth asking of every paper: what did they find, how did they find it, and what did they not ask? The third matters most, because the unasked question is where your paper will live.</p>
+<p>Suppose the literature has established that illegal mining is widespread and enforcement weak, but nobody has compared arrests with prosecutions across districts. That comparison is an opening. Suppose it has established that corn ethanol has a land-use problem and that the law now ignores it, but nobody has traced how the exclusion was written and who argued for it. That would be another. A useful gap is rarely an absence of papers. It is the missing question that would explain why the failure persists.</p>
+<p>Mats Alvesson and Jörgen Sandberg made a version of this argument in 2011, against what they called gap-spotting: the habit of <a href="https://www.lusem.lu.se/mats-alvesson/publication/4a0a3faa-5cf8-4636-bf13-9644ab79a9e8">arriving at research questions</a> by finding holes in existing theory rather than challenging its assumptions. Starting from a failure in the world pushes you towards the second, because a failure usually means somebody’s assumptions were wrong.</p>
+</section>
+<section id="ask-whether-it-is-solved" class="level2">
+<h2 class="anchored" data-anchor-id="ask-whether-it-is-solved">Ask whether it is solved</h2>
+<p>The next question separates a research paper from a literature review. Has anyone actually fixed this? Not proposed a fix or modelled one, but fixed it.</p>
+<p>If nobody has, the paper is necessary. If a fix exists but has not been adopted, the paper is about the distance between evidence and policy. If a fix has been adopted somewhere, the paper is about why it worked there and whether it would work here. The answer decides what kind of paper you are writing, and it is worth settling before you write a word.</p>
+</section>
+<section id="ask-whether-the-data-exist" class="level2">
+<h2 class="anchored" data-anchor-id="ask-whether-the-data-exist">Ask whether the data exist</h2>
+<p>This is the question that kills most ideas, and it should. A good question without data is a wish. Before committing, you need to know whether the data exist, whether they are reliable and whether you can get them. Sometimes they are buried in government reports. Sometimes they are proprietary. Sometimes they do not exist at all and you have to collect them, which changes the scope, the timeline and often the question.</p>
+<p>The test is not whether the data would be nice to have. It is whether you can obtain them and whether what you obtain can answer what you are asking.</p>
+</section>
+<section id="settle-on-one-question" class="level2">
+<h2 class="anchored" data-anchor-id="settle-on-one-question">Settle on one question</h2>
+<p>“Illegal mining in Ghana” is a topic. “Why do arrests for illegal mining in Ghana so far outnumber prosecutions, and what does the gap reveal about the political economy of enforcement?” is a question. A topic can absorb anything. A question tells you what to include, what to leave out and when you have finished. It also tells the reader what you are arguing. A paper without a question is a report.</p>
+</section>
+<section id="choose-the-lens" class="level2">
+<h2 class="anchored" data-anchor-id="choose-the-lens">Choose the lens</h2>
+<p>There are two broad ways to frame the question, and they answer different things. Explanatory work asks what is happening, why, and what should be done. It works from observed data and established methods, and its findings can be tested against what actually happened.</p>
+<p>Foresight asks what could happen and what we would need to do now to be ready for a range of futures. It uses scenarios, models and often participatory methods. Its scenarios are not forecasts and carry no probabilities. Their value is in showing decision-makers how outcomes depend on choices and conditions that have not yet been observed, which is why scenario models matter when climate targets push policy <a href="../../../blog/posts/2026-09-22-econometrics-to-scenario-thinking/">beyond the range of historical data</a>. Much of the modelling around my own PhD sits <a href="../../../research/context/">in that tradition</a>.</p>
+<p>Neither lens is better. If a problem is well documented and the policy response has failed, explanatory analysis can show why. If a problem is emerging and the data do not yet exist, foresight can help decide what to measure. Many good papers use both. The skill lies in knowing which one the question demands.</p>
+</section>
+<section id="why-start-at-all" class="level2">
+<h2 class="anchored" data-anchor-id="why-start-at-all">Why start at all</h2>
+<p>Publication is not the reason. The reason is that the problem is real and the people living with it rarely have the time, money or access to study it themselves: farmers whose land is being priced into someone else’s climate target, communities near rivers carrying mercury and silt, smallholders asked to prove the origin of every bag they sell. A paper cannot fix any of this. It can document what is happening, explain why, and leave a record that others can use to argue for change.</p>
+<p>The best papers start with a problem that is obvious to the people who live with it and invisible to the people who write the rules. Their job is to make it visible to the second group. The method serves that job. The data make it possible. The question comes from the problem, and the problem comes from the world.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Personal &amp; Ideas</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-10-05-start-research-paper/</guid>
+  <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-10-05-start-research-paper/research-question-path.png" medium="image" type="image/png" height="138" width="144"/>
+</item>
+<item>
+  <title>The carbon credit that wasn’t there</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
+  <link>https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/caxiuana-forest-canopy.jpg" class="img-fluid figure-img" style="width:100.0%" alt="View from the base of a large rainforest tree, looking up its deeply buttressed grey trunk into a dense canopy of green leaves with patches of bright sky."></p>
+<figcaption>Rainforest in the Caxiuanã National Forest, Pará, Brazil, 2015.</figcaption>
+</figure>
+</div>
+<p><em>Photograph: <a href="https://commons.wikimedia.org/wiki/File:Floresta_Nacional_de_Caxiuan%C3%A3_C%C3%A9sar_Favacho_(10).jpg">César Favacho / Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</em></p>
+<p>A forest carbon credit is a claim about something that did not happen. The project protects a forest, estimates how much of it would have been cleared without that protection, and sells the difference as tonnes of avoided emissions. The forest that was saved can be measured. The forest that would otherwise have been lost cannot. Everything the credit is worth rests on that second, unobservable number.</p>
+<p>Two large studies have now tested it. In October 2025 an 18-author team, including Jonathan Chase of the German Centre for Integrative Biodiversity Research, published in <a href="https://www.idiv.de/?p=35812"><em>Science</em></a> an evaluation of 52 REDD+ projects in more than a dozen tropical countries. Using synthetic controls, which compare each project with similar unprotected areas nearby, they found that only 19 per cent of projects met their reported targets. Across 48 projects with public credit data, up to 228 million credits had been issued by the end of 2022, of which about 35 million, or 13.2 per cent, were likely to represent real reductions. In Colombia, most projects claimed deforestation risks more than ten times the study’s estimates. “We estimate that only about one in eight tradable credits represents real emissions reductions,” Chase said.</p>
+<p>In April 2026 a Cambridge-led group synthesised six independent evaluations covering 44 projects in <a href="https://www.nature.com/articles/s41467-026-71552-3"><em>Nature Communications</em></a>. The tone of the coverage was different, and so was the headline finding: four in five projects had protected forest. The over-crediting was not. Across the sample, projects claimed <a href="https://www.cam.ac.uk/research/news/carbon-credits-have-enabled-vital-protection-of-tropical-forests-despite-being-oversold-tenfold">10.7 times more avoided deforestation</a> than independent estimates supported. Julia Jones of Bangor University, a co-author, put the distinction plainly: “‘bad credits’ do not necessarily mean ‘bad projects’.”</p>
+<p>The two studies are less opposed than their press releases. Both find that many projects slowed deforestation, and both find that the credits sold for that work claimed several times what the evidence supports. The disagreement is about emphasis. On the credits themselves, the verdict is the same.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/credits-backed-by-evidence.svg" class="img-fluid figure-img" style="width:100.0%" alt="Horizontal stacked bar chart of the share of forest carbon credits backed by real reductions. Kariba in Zimbabwe, from Verra's own 2025 review: 43 per cent of 26.8 million credits. Forty-eight REDD+ projects in Tang and colleagues (2025): 13 per cent of 228 million credits. Forty-four REDD+ projects in Swinfield and colleagues (2026): about 9 per cent, implied by claims 10.7 times the independent evidence. The remainder of each bar is hatched as over-credited."></p>
+<figcaption>Each estimate implies that most forest credits were over-issued.</figcaption>
+</figure>
+</div>
+<p><em>Original chart for EKO Perspectives. Data: <a href="https://verra.org/verra-acts-on-kariba-project-cancels-excess-credits-advances-independent-review/">Verra (2025)</a>; <a href="https://www.idiv.de/?p=35812">Tang et al.&nbsp;(2025)</a>; <a href="https://www.nature.com/articles/s41467-026-71552-3">Swinfield et al.&nbsp;(2026)</a>.</em></p>
+<section id="who-sets-the-number" class="level2">
+<h2 class="anchored" data-anchor-id="who-sets-the-number">Who sets the number</h2>
+<p>Over-crediting on this scale is not a run of bad luck. It follows from who chose the baseline and who checked it. Under the older REDD+ methodologies, the developer modelled its own counterfactual from local history and assumptions, and a higher baseline meant more credits to sell. The validation and verification bodies that audit those claims are <a href="https://verra.org/documents/vvb-101">contracted by the project proponent</a>. Transparency International US described the arrangement this year in one line: project developers <a href="https://reddmonitor.substack.com/p/transparency-international-us-conflicts">“hire and pay auditors”</a> to verify compliance with the standard they are selling under. Every party with a hand on the baseline was paid more if it was higher.</p>
+<p>The cases that broke the market’s reputation show what that produces. Verra suspended the Kariba project in Zimbabwe in October 2023 after an article in the <em>New Yorker</em>. Its review, published in September 2025, found that <a href="https://verra.org/verra-acts-on-kariba-project-cancels-excess-credits-advances-independent-review/">15.2 million of the 26.8 million credits</a> issued were excess, 57 per cent of the total. The developer had withdrawn the project from the registry, so the excess could not be clawed back from future issuance. Verra cancelled the project’s 5,049,473 buffer credits and removed another 10 million that had been verified but never issued.</p>
+<p>In Brazil, the Pacajai project covers about 135,000 hectares of the Amazon in Pará. It issued 10.06 million credits, and Verra <a href="https://reddmonitor.substack.com/p/verra-suspended-the-pacajai-redd">suspended it in September 2023</a> over concerns that it overlapped state forest land without the required permits. The ratings firms BeZero and Sylvera had already judged it unlikely to reduce net emissions. Suspension did not stop the credits being used. The <em>Wall Street Journal</em> reported in March 2026 that more than 140 corporations retired Pacajai credits after the suspension, Philip Morris International, Mastercard and BlackRock among them. The credits had sold for less than $2 a tonne.</p>
+<p>Pacajai is not an outlier in its own market. Corporate Accountability reviewed the 50 Brazilian projects with the most retirements between January 2024 and June 2025, which together account for 95 per cent of the country’s retirements. It <a href="https://corporateaccountability.org/resources/over-70-of-all-carbon-credits-brazil-problematic/">rated 32 of them problematic</a>, and those 32 supplied 71 per cent of the credits retired.</p>
+<p>The pattern is not confined to forests. A 2024 study in <em>Nature Sustainability</em> by Annelise Gill-Wiehl, Daniel Kammen and Barbara Haya found that a sample of clean cookstove projects had been <a href="https://news.berkeley.edu/2024/01/23/as-carbon-offsets-cookstove-emission-credits-are-greatly-overestimated">over-credited about ninefold</a>. In October 2024 federal prosecutors in New York charged Kenneth Newcombe, the former head of C-Quest Capital, with fraud over <a href="https://justice.gov/usao-sdny/pr/us-attorney-announces-criminal-charges-multi-year-fraud-scheme-market-carbon-credits">alleged inflation of cookstove credits</a>. A co-defendant has pleaded guilty; Newcombe’s case has not yet gone to trial.</p>
+</section>
+<section id="the-shrinking-market" class="level2">
+<h2 class="anchored" data-anchor-id="the-shrinking-market">The shrinking market</h2>
+<p>Buyers have responded. The value of voluntary credit transactions fell from a peak of nearly $2 billion in 2021 to <a href="https://www.reccessary.com/en/news/voluntary-carbon-market-hits-6-year-low">$535 million in 2024</a>, according to Ecosystem Marketplace. The buyers who remain are not reassuring. Carbon Market Watch reported in February that Shell has been the <a href="https://carbonmarketwatch.org/2026/02/26/oil-spill-how-fossil-fuel-interests-are-seeping-into-the-voluntary-carbon-market-rulebook/">largest corporate buyer</a> of voluntary credits for three years running, and documented how fossil fuel companies have sought influence over the bodies that write the market’s rules. The report’s author, Inigo Wyburd, called their use of credits “a smoke and mirrors show.”</p>
+<p>Regulators have begun to move. Bloomberg reported in September that the US Commodity Futures Trading Commission had opened a <a href="https://carboncredits.com/?p=47798">broad inquiry</a> into the market, reaching beyond individual developers to registries, verifiers and ratings firms. In Germany, authorities withdrew credits from <a href="https://news.bloomberglaw.com/esg/germany-revoked-suspicious-carbon-credits-bought-by-exxonmobil">at least 30 China-based projects</a> found to be suspicious or overstated, one of them backed by an ExxonMobil entity. Those credits counted towards Germany’s transport fuel quota rather than the voluntary market, but they failed the same test.</p>
+</section>
+<section id="the-fix-that-already-exists" class="level2">
+<h2 class="anchored" data-anchor-id="the-fix-that-already-exists">The fix that already exists</h2>
+<p>The strongest defence of the market is that the baseline problem has already been addressed. Verra’s consolidated REDD+ methodology, VM0048, launched in late 2023, takes baseline-setting away from developers. Deforestation is projected for a whole jurisdiction from ten years of historical data, Verra publishes risk maps that allocate that projected loss across the landscape, and a project must use <a href="https://verra.org/redd-why-we-need-it-and-how-we-make-it-work/">the baseline Verra assigns</a>. In November 2024 the Integrity Council for the Voluntary Carbon Market approved VM0048 and the ART TREES standard for its high-integrity label, and <a href="https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/111524-three-redd-methodologies-receive-high-integrity-credit-badge">acknowledged</a> that no existing REDD+ credits met that bar.</p>
+<p>This is real progress, and it answers the central weakness the two studies identified. It leaves two problems untouched. The first is the stock of credits issued under the old methodologies, which the market still sells cheaply and companies still retire, as Pacajai shows. The second is verification. Developers still choose and pay the firms that audit them, whatever methodology they use.</p>
+<p>The Cambridge authors propose fewer credits at a higher price, enough to pay for projects that genuinely protect forests and the people who live in them. The direction is right, and it implies a further step: credits issued under baselines that are now acknowledged to be inflated should stop counting towards anyone’s climate claims, and auditors should be paid by the registry or a public body, not the seller. The same problem, an unobservable number set by the party that profits from it, sits at the centre of the <a href="../../../blog/posts/2026-10-04-climate-credit-land/">US tax credit for corn ethanol</a>.</p>
+<p>Paying to keep forests standing is still worth doing, and the evidence says many projects did keep them standing. What the market has not yet shown is that it will stop selling the credits it now admits were wrong.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Economics &amp; Evidence</category>
+  <category>Policy</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/</guid>
+  <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/caxiuana-forest-canopy.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Europe’s forest rule will trace the cocoa. Will it save the forest?</title>
+  <dc:creator>Elvis Kwame Ofori</dc:creator>
+  <link>https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/cocoa-drying-ashanti.jpg" class="img-fluid figure-img" style="width:100.0%" alt="A young man in a blue jacket leans across a raised bed of reddish-brown cocoa beans drying in the sun, with green trees, a house and power lines behind him under a pale sky."></p>
+<figcaption>Drying cocoa beans at Nkyerepoaso, Ashanti Region, Ghana, 2018.</figcaption>
+</figure>
+</div>
+<p><em>Photograph: <a href="https://commons.wikimedia.org/wiki/File:A_cocoa_farm_in_Ghana.jpg">King Bangaba / Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</em></p>
+<p>At a technical meeting in Accra on 26 May, Ghana’s Forestry Commission and the cocoa regulator COCOBOD set out how far the country had come in preparing for the European Union’s Deforestation Regulation. The commission had produced a 2020 forest cover map, <a href="https://www.gbcghanaonline.com/general/ghana-positions-cocoa-sector-for-full-compliance-with-eu-deforestation-regulation/2026/">built on the FAO forest definition</a> and validated with COCOBOD and Kwame Nkrumah University of Science and Technology. The Ghana Cocoa Traceability System combines <a href="https://dandc.eu/en/article/ghana-has-tested-digital-system-aims-make-cocoa-supply-chains-more-transparent-and-help">GPS mapping of farms with barcoded bags</a>, scanned at district and port level and fed into a central platform. A year earlier the European Commission had classified Ghana as a low-risk country.</p>
+<p>Côte d’Ivoire, which grows more cocoa than any other country and is rated standard risk, started the 2026/27 season in a different position. From 1 September every cocoa purchase had to be made with an electronic producer card. Ten days later, Reuters reported that many cooperatives and buying agents were <a href="https://www.myjoyonline.com/ivory-coast-cocoa-sellers-struggle-to-use-new-traceability-system/">still waiting for the equipment</a>. “Our suppliers lack payment terminals, bags, and seals to carry out deals in rural areas,” the director of a European export company in Abidjan said. The Conseil Café-Cacao disputed the shortage and said it had <a href="https://beninwebtv.bj/en/ivory-coast-new-traceability-system-slows-cocoa-purchases/">bought 20,000 new terminals</a>.</p>
+<p>The contrast says something about who can comply with the regulation. Whether compliance protects forests is a separate question, and a harder one.</p>
+<section id="what-the-rule-asks" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-rule-asks">What the rule asks</h2>
+<p><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115">Regulation (EU) 2023/1115</a> covers cattle, cocoa, coffee, oil palm, rubber, soya and wood, and products made from them. A company placing them on the EU market must show that they were produced legally and on land not deforested after 31 December 2020, with geolocation for every plot, and must file a due diligence statement. Penalties must reach at least 4 per cent of a company’s annual EU-wide turnover.</p>
+<p>The rule was meant to apply from 30 December 2024. It has been postponed twice, and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32025R2650">now applies</a> from 30 December 2026 for large and medium companies and from 30 June 2027 for micro and small ones. The second amendment also lightened the load: downstream companies now collect the reference numbers of their suppliers’ statements instead of filing their own, and micro and small primary operators in low-risk countries make a one-time simplified declaration. In May the Commission completed a simplification review, confirmed that the regulation <a href="https://www.bakermckenzie.com/en/insight/publications/2026/05/eu-commission-publishes-simplification-review-of-eudr">would not be reopened</a>, and claimed compliance costs had fallen by about three-quarters.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/eudr-timeline.svg" class="img-fluid figure-img" style="width:100.0%" alt="Timeline of the EU Deforestation Regulation from 2023 to 2027. The application date for large firms moved from 30 December 2024 to 30 December 2025 and then to 30 December 2026, with small firms following on 30 June 2027. Other milestones: entry into force in June 2023, the country risk list in May 2025 rating Ghana low risk and Côte d'Ivoire standard risk, a review in May 2026 that did not reopen the law, and the removal of leather from scope in September 2026."></p>
+<figcaption>The application date moved twice before it was fixed.</figcaption>
+</figure>
+</div>
+<p><em>Original chart for EKO Perspectives. Data: Regulations (EU) <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115">2023/1115</a>, 2024/3234, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32025R2650">2025/2650</a>, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32025R1093">2025/1093</a> and <a href="https://eur-lex.europa.eu/eli/reg_del/2026/2102/oj/eng">2026/2102</a>.</em></p>
+<p>The scope has narrowed in the process. A Commission staff working document published with the review found that leather could account for <a href="https://news.mongabay.com/2026/05/european-commission-linked-leather-to-deforestation-then-ignored-it/">up to 17 per cent</a> of the deforestation footprint of imports covered by the regulation. A delegated act adopted in July nonetheless removed hides, skins and leather, and exempted waste and used goods, from 18 September. The Commission did not, however, add the “no-risk” country category that parts of the European Parliament had demanded.</p>
+</section>
+<section id="who-carries-the-cost" class="level2">
+<h2 class="anchored" data-anchor-id="who-carries-the-cost">Who carries the cost</h2>
+<p>The regulation’s unit is the plot. Ghana has about 800,000 cocoa farm holdings and Côte d’Ivoire <a href="https://www.kakaoforum.de/en/news-service/country-profiles/cocoa-producing-countries/">between 800,000 and 1.3 million</a>, most of them small and many held under customary tenure rather than registered title. Every one of those plots now has to be mapped, and every bag linked to it.</p>
+<p>A review published in <em>Discover Sustainability</em> in August by Urugo and colleagues found that, across case studies, <a href="https://doi.org/10.1007/s43621-026-04286-3">“potential unintended impacts include exclusion from EU markets, increased administrative burdens, market consolidation, and deforestation leakage to less regulated markets.”</a> Its conclusion is the useful part. Outcomes, the authors argue, will depend less on farm size than on institutional infrastructure, digital readiness and how the supply chain is organised. That describes the gap between Accra and Abidjan better than any count of farmers.</p>
+<p>Ghana’s state-run marketing system, in which COCOBOD buys and sells the crop, makes national traceability easier to build than in Côte d’Ivoire’s more fragmented chain. It also means the state can try to price compliance. In October 2025, Bloomberg reported that Ghana planned to seek a <a href="https://www.bloomberg.com/news/articles/2025-10-22/ghana-plans-to-seek-200-premium-for-eudr-compliant-cocoa">premium of $200 a tonne</a> for compliant cocoa through the Cocoa Marketing Company. “Sustainably produced and traceable beans come at a cost, and must be paid for,” its deputy managing director, Barnett Quaicoo, said. Whether European buyers will pay it, or pass the cost back to farmers through the price COCOBOD can afford to offer, is not yet known.</p>
+</section>
+<section id="what-the-rule-cannot-see" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-rule-cannot-see">What the rule cannot see</h2>
+<p>The deepest weakness is in the design. The regulation governs what enters one market. It does not govern land.</p>
+<p>Manoj Sharma and Nelson Villoria modelled the effect on global soy trade in the <a href="https://doi.org/10.1093/erae/jbag008"><em>European Review of Agricultural Economics</em></a>. Compliance costs shifted South American exports towards non-EU markets, mainly China, diverted EU imports towards North America and raised soy prices for European users. “Trade reallocation to an unregulated market could potentially dilute the impact of the EUDR,” they wrote. A 2026 study of Indonesian exports by Juhro and colleagues found a negative effect on shipments to Europe, <a href="https://www.sciencedirect.com/science/article/pii/S2949753126000561">with spillovers to non-European destinations</a>.</p>
+<p>The Commission’s own expectations were modest from the start. Its 2021 impact assessment estimated that the regulation would save <a href="https://ec.europa.eu/commission/presscorner/api/files/document/print/en/qanda_21_5919/QANDA_21_5919_EN.pdf">at least 71,920 hectares</a> a year of forest from EU-driven deforestation and degradation from 2030, and avoid at least 31.9 million tonnes of carbon emissions. Those are gains in the EU’s footprint. They were never a forecast for the tropics as a whole.</p>
+<p>Ghana shows the limit at home as well. A low-risk rating describes cocoa supply chains measured against a 2020 baseline. It says nothing about forest reserves being dug up for gold, the <a href="../../../blog/posts/2026-10-04-we-cannot-drink-gold/">illegal mining</a> that is turning Ghana’s rivers brown, because gold is not a covered commodity. A country can pass the regulation’s test while losing forest to an activity the regulation does not touch.</p>
+</section>
+<section id="why-it-still-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-it-still-matters">Why it still matters</h2>
+<p>The regulation is not pointless. It exists because voluntary commitments failed. Under the 2014 New York Declaration on Forests, companies and governments pledged to halve natural forest loss by 2020 and end it by 2030. Six years on, an assessment by the World Resources Institute found that annual tropical primary forest loss had <a href="https://www.wri.org/blog/2020/11/nydf-assessment-protect-restore-forests-2030">increased by 41 per cent</a> since the declaration was signed. The regulation turns a deforestation-free claim from a marketing statement into a legal obligation with penalties, and it has already pushed producer countries such as Ghana to map forests and farms in a way that pledges never did.</p>
+<p>What it will do well is make it hard to sell cocoa, coffee or palm oil from recently cleared land into Europe. This is worth having. Whether forests survive depends on things the regulation does not control: how producer governments enforce land and mining law, whether farmers earn enough from standing trees and existing farms to stop clearing new ones, and whether the markets that absorb the diverted trade ask the same questions. Europe has built a strong filter at its own border. The forests lie on the other side of it.</p>
+<div class="post-end">
+<p><strong>Elvis Kwame Ofori</strong><br>
+Researcher and writer behind <em>EKO Perspectives</em>.</p>
+<p><a href="../../../blog/">More from EKO Perspectives</a> · <a href="../../../blog/index.xml">Follow via RSS</a> · <a href="../../../about.html">About the author</a></p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Policy</category>
+  <category>Places &amp; Development</category>
+  <guid>https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/</guid>
+  <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/cocoa-drying-ashanti.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>A climate credit that will not count the land</title>
   <dc:creator>Elvis Kwame Ofori</dc:creator>

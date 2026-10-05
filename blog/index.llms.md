@@ -2,6 +2,36 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Diagram of six steps in starting a research paper: a problem in the world, reading for the shape of the field, asking whether it is solved, checking that data exist, settling on one question, and choosing an explanatory or foresight lens](../blog/posts/2026-10-05-start-research-paper/research-question-path.png)](../blog/posts/2026-10-05-start-research-paper/index.llms.md)
+
+### [How to start a research paper, and why you should](../blog/posts/2026-10-05-start-research-paper/index.llms.md)
+
+A paper worth writing starts with a failure in the world, not a method or a gap in a literature review. Five questions get you from that failure to something you can answer.
+
+Oct 5, 2026
+
+Elvis Kwame Ofori
+
+[![Looking up the buttressed trunk of a large rainforest tree into a dense green canopy in the Caxiuanã National Forest, Pará, Brazil](../blog/posts/2026-10-05-carbon-credit-counterfactual/caxiuana-forest-canopy.jpg)](../blog/posts/2026-10-05-carbon-credit-counterfactual/index.llms.md)
+
+### [The carbon credit that wasn’t there](../blog/posts/2026-10-05-carbon-credit-counterfactual/index.llms.md)
+
+Two major studies agree that forest carbon credits claimed several times what the projects achieved, even where forests were protected. The registries have since rewritten how baselines are set. The old credits are still being retired.
+
+Oct 5, 2026
+
+Elvis Kwame Ofori
+
+[![A young man leans over a large bed of cocoa beans spread out to dry in the sun at Nkyerepoaso in the Ashanti Region of Ghana, with trees and a house behind](../blog/posts/2026-10-05-eudr-cocoa-ghana/cocoa-drying-ashanti.jpg)](../blog/posts/2026-10-05-eudr-cocoa-ghana/index.llms.md)
+
+### [Europe’s forest rule will trace the cocoa. Will it save the forest?](../blog/posts/2026-10-05-eudr-cocoa-ghana/index.llms.md)
+
+From 30 December the EU will require every cocoa, coffee, palm oil, soy, rubber, timber and cattle shipment to be traced to a plot cleared of no forest since 2020. Ghana has built the systems to comply and Côte d’Ivoire is struggling. The harder question is what the rule cannot see.
+
+Oct 5, 2026
+
+Elvis Kwame Ofori
+
 [![Long mounds of harvested yellow corn piled on open ground beside an ethanol plant in Atlantic, Iowa](../blog/posts/2026-10-04-climate-credit-land/corn-piles-ethanol-plant.jpg)](../blog/posts/2026-10-04-climate-credit-land/index.llms.md)
 
 ### [A climate credit that will not count the land](../blog/posts/2026-10-04-climate-credit-land/index.llms.md)
