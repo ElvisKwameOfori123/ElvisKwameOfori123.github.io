@@ -1,6 +1,28 @@
+# Quarto build output and cache
 /_site/
 /.quarto/
-*.Rproj.user
+
+# R/RStudio local state
+.Rproj.user/
 .Rhistory
 .RData
+.Ruserdata
+
+# Python local state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
 .DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local logs and temporary files
+*.log
+*.tmp
