@@ -2,7 +2,6 @@
 title: "When environmental policy needs a landscape, not just a farm"
 description: "Some environmental problems do not stop at the farm gate. Ireland's ACRES landscape actions show why coordination can matter across holdings."
 date: 2026-09-22
-featured: true
 image: "acres-irish-landscape.jpg"
 image-alt: "Agricultural fields in County Dublin forming a patchwork rural landscape"
 categories: ["Land & Agriculture", "Policy"]
