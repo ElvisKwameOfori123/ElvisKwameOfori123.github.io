@@ -1,30 +1,71 @@
-# Elvis Kwame Ofori | personal website
+# Elvis Kwame Ofori
 
-Personal website and **EKO Perspectives**, built with [Quarto](https://quarto.org/) and published with GitHub Pages.
+Personal research website and **EKO Perspectives**, built with [Quarto](https://quarto.org/) and published with GitHub Pages.
 
-**Canonical domain:** https://kwameofori123.com
+**Live site:** https://kwameofori123.com
 
-## Public structure
+## About this repository
 
-- **Writing / EKO Perspectives**: policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas
-- **About**: background, editorial standards and context
-- **Research**: current research, earlier publications and public project links
-- **Contact**: institutional and professional contact details
+This repository contains the source for my personal website: research, public writing, project context and professional information. The aim is to keep the site readable, lightweight and useful on both desktop and mobile.
 
-Research project pages support the Research section rather than acting as the centre of the site. Draft publication and talks pages remain unpublished until their content is verified and ready for public release.
+The site includes:
 
-## Publishing and quality checks
+- **EKO Perspectives** — essays on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas
+- **Research** — current work, publications and public project links
+- **About** — background and editorial standards
+- **Contact** — institutional and professional contact details
 
-The source lives on `main`; the rendered Quarto site is published automatically to `gh-pages`.
+## Built with
 
-The site uses:
+- [Quarto](https://quarto.org/)
+- GitHub Pages
+- GitHub Actions for rendering, publishing and link checks
+- custom CSS/SCSS for the shared light and dark editorial design
 
-- responsive layouts for desktop, tablet and phone
-- canonical URLs on rendered pages
-- Open Graph, Twitter Card and large-image-preview metadata
-- an RSS feed and sitemap
-- a weekly automated link check
-- a compact favicon and mobile home-screen icon
-- light and dark themes with a shared editorial design system
+## Repository structure
 
-Site styling is kept in `styles-common.css`, with colour and typography defaults in the light and dark theme files.
+```text
+.
+├── blog/                 # EKO Perspectives index and posts
+├── research/             # research page and supporting public context
+├── includes/             # reusable Quarto fragments
+├── assets/               # shared site assets
+├── .editorial/           # internal editorial guidance and maintenance notes
+├── .github/workflows/    # publishing and quality-control workflows
+├── _quarto.yml           # site configuration
+├── styles-common.css     # shared layout and typography
+├── theme-light.scss      # light theme
+└── theme-dark.scss       # dark theme
+```
+
+Individual posts keep their own images and source notes alongside the article where practical. Draft posts remain in the repository but are excluded from the public site until they are ready.
+
+## Preview locally
+
+Install [Quarto](https://quarto.org/docs/get-started/) and then run:
+
+```bash
+quarto preview
+```
+
+To render the site without starting a preview server:
+
+```bash
+quarto render
+```
+
+Generated output is written to `_site/` and is not committed to the source branch.
+
+## Publishing
+
+The editable source lives on `main`. A GitHub Actions workflow renders the Quarto site and publishes the generated site to `gh-pages`.
+
+A separate automated link check renders the site and tests internal and external links so broken references can be caught without committing generated files.
+
+## Design principles
+
+The site deliberately keeps the interface simple: readable typography, restrained colour, accessible contrast, responsive layouts and minimal decoration. Content and evidence should remain more prominent than the interface around them.
+
+## Reuse
+
+The repository is public so the implementation can be inspected and learned from. Articles, photographs and other third-party material may have their own copyright or licence terms; check the relevant page and attribution before reusing content.

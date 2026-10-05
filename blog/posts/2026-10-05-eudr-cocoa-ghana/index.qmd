@@ -32,7 +32,7 @@ The scope has narrowed in the process. A Commission staff working document publi
 
 ## Who carries the cost
 
-The regulation's unit is the plot. Ghana has about 800,000 cocoa farm holdings and Côte d'Ivoire [between 800,000 and 1.3 million](https://www.kakaoforum.de/en/news-service/country-profiles/cocoa-producing-countries/), most of them small and many held under customary tenure rather than registered title. Every one of those plots now has to be mapped, and every bag linked to it.
+The regulation's unit is the plot. Ghana has about 800,000 cocoa farm holdings and Côte d'Ivoire [between 800,000 and 1.3 million](https://pmc.ncbi.nlm.nih.gov/articles/PMC8329934/) farming households involved in cocoa production, most of them small and many held under customary tenure rather than registered title. Every one of those plots now has to be mapped, and every bag linked to it.
 
 A review published in *Discover Sustainability* in August by Urugo and colleagues found that, across case studies, ["potential unintended impacts include exclusion from EU markets, increased administrative burdens, market consolidation, and deforestation leakage to less regulated markets."](https://doi.org/10.1007/s43621-026-04286-3) Its conclusion is the useful part. Outcomes, the authors argue, will depend less on farm size than on institutional infrastructure, digital readiness and how the supply chain is organised. That describes the gap between Accra and Abidjan better than any count of farmers.
 
