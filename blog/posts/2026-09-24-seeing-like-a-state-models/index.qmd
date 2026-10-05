@@ -1,7 +1,6 @@
 ---
 title: "A map can clarify the world and still leave something out"
 description: "Reading James C. Scott's Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy."
-featured: true
 date: 2026-09-24
 image: "os-ireland-map-1905.jpg"
 image-alt: "A 1905 Ordnance Survey six-inch map of Dunfanaghy and surrounding land in County Donegal"
