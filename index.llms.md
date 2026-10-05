@@ -10,29 +10,29 @@ Research, evidence and ideas by Elvis Kwame Ofori
 
 Featured
 
+![Schematic of one hectare at the centre, with competing claims from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage](blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg) Original schematic · EKO Perspectives
+
+Land & Agriculture
+
+## One hectare, many promises
+
+Climate, biodiversity, energy, housing and food are all asking more of the same land. The farmer who lives from it is rarely at the table.
+
+![Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024](blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png) Original chart · EKO Perspectives
+
+Places & Development
+
+### We cannot drink gold
+
+Ghana arrests hundreds of illegal miners a year and convicts a handful. The deeper problem is who profits from the gold and who pays for the water.
+
 ![Bar chart of annual afforestation in Ireland from 2007 to 2025, falling far below the 1996 target of 20,000 hectares and the current target of 8,000 hectares a year](blog/posts/2026-10-01-ireland-tree-planting-promise/afforestation-target-gap.png) Original chart · Data: CSO and DAFM
 
 Policy
 
-## Thirty years of Irish tree-planting promises, checked against the record
+### Thirty years of Irish tree-planting promises, checked against the record
 
 Ireland has planted a fraction of the forest it promised since 1996. Licensing explains one bad stretch. Farmers walking away from planting explains more of the gap.
-
-![A 1905 Ordnance Survey six-inch map of Dunfanaghy and surrounding land in County Donegal](blog/posts/2026-09-24-seeing-like-a-state-models/os-ireland-map-1905.jpg) Ordnance Survey Ireland, 1905 · NLS / Wikimedia Commons · CC BY 4.0
-
-Economics & Evidence
-
-### A map can clarify the world and still leave something out
-
-Reading James C. Scott’s Seeing Like a State as a warning about simplification, and as a useful question for anyone who builds models for policy.
-
-![Agricultural fields in County Dublin forming a patchwork rural landscape](blog/posts/2026-09-22-acres-landscape-actions/acres-irish-landscape.jpg) C O’Flanagan / Wikimedia Commons · CC BY-SA 2.0
-
-Land & Agriculture
-
-### When environmental policy needs a landscape, not just a farm
-
-Some environmental problems do not stop at the farm gate. Ireland’s ACRES landscape actions show why coordination can matter across holdings.
 
 ## Latest from EKO Perspectives
 
