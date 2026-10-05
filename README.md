@@ -6,7 +6,7 @@ Personal research website and **EKO Perspectives**, built with [Quarto](https://
 
 ## About this repository
 
-This repository contains the source for my personal website: research, public writing, project pages and professional information. The aim is to keep the site readable, lightweight and useful on both desktop and mobile.
+This repository contains the source for my personal website: research, public writing, project context and professional information. The aim is to keep the site readable, lightweight and useful on both desktop and mobile.
 
 The site includes:
 
@@ -20,22 +20,22 @@ The site includes:
 - [Quarto](https://quarto.org/)
 - GitHub Pages
 - GitHub Actions for rendering, publishing and link checks
-- custom CSS for the shared light and dark editorial design
+- custom CSS/SCSS for the shared light and dark editorial design
 
 ## Repository structure
 
 ```text
 .
 ├── blog/                 # EKO Perspectives index and posts
-├── projects/             # public research/project pages
+├── research/             # research page and supporting public context
 ├── includes/             # reusable Quarto fragments
 ├── assets/               # shared site assets
 ├── .editorial/           # internal editorial guidance and maintenance notes
 ├── .github/workflows/    # publishing and quality-control workflows
 ├── _quarto.yml           # site configuration
 ├── styles-common.css     # shared layout and typography
-├── styles-light.scss     # light theme
-└── styles-dark.scss      # dark theme
+├── theme-light.scss      # light theme
+└── theme-dark.scss       # dark theme
 ```
 
 Individual posts keep their own images and source notes alongside the article where practical. Draft posts remain in the repository but are excluded from the public site until they are ready.
