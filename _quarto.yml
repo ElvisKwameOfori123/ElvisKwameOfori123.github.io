@@ -38,8 +38,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme-light.scss]
       dark: [darkly, theme-dark.scss]
+      light: [cosmo, theme-light.scss]
     css: styles-common.css
     include-in-header: includes/head.html
     canonical-url: true
