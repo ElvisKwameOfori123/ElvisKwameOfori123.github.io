@@ -1,0 +1,35 @@
+---
+title: "Radhika Khosla: How do we keep billions of people cool without locking in more emissions?"
+description: "An environmental scientist connecting extreme heat, cooling demand, buildings and policy across rapidly urbanising economies."
+name: "Radhika Khosla"
+role: "Professor of Environmental Science and Policy, University of Oxford"
+institution: "University of Oxford"
+field: "Environmental science and policy"
+focus: "Extreme heat, cooling, urban energy and equitable transitions"
+question: "How do we keep billions of people cool without locking in more emissions?"
+country: "United Kingdom / India"
+region: "Europe / Asia"
+filter: "Climate"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Radhika Khosla is Professor of Environmental Science and Policy at the University of Oxford, Research Director of the Oxford India Centre for Sustainable Development and Programme Leader in Zero Carbon Energy Use at Oxford's ZERO Institute. Her work centres on a contradiction that is becoming harder to avoid. As temperatures rise, access to cooling becomes increasingly important for health, work and everyday life. Yet conventional air conditioning can increase electricity demand and greenhouse-gas emissions, deepening the warming that makes cooling necessary in the first place. [Oxford's account of her 2026 professorship](https://www.some.ox.ac.uk/news/oxford-india-centres-radhika-khosla-awarded-professorship/) places that tension at the centre of her current programme.
+
+Khosla's route into the problem began in physics. She studied physics at Oxford and completed a PhD in Geophysical Sciences at the University of Chicago, where she examined interactions between the natural and built environment. In a later Oxford interview she described being drawn to the connection between classroom science and its consequences in everyday life. Work in environmental policy in the United States and India then shifted the scale of the question toward rapidly urbanising cities and the institutions shaping energy use.
+
+At Oxford, Khosla leads interdisciplinary work on the Future of Cooling and urban energy demand. The research combines urban climatology, building-energy analysis, socio-technical systems and policy. It asks not only how much cooling demand might grow, but who is exposed to heat, who can afford protection and what policy choices can prevent rapidly growing cities from becoming locked into high-carbon infrastructure. She was lead author of UNEP's *Global Cooling Watch* reports in 2023 and 2025; the first helped provide an evidence base for the Global Cooling Pledge.
+
+The career also runs directly into public policy. Khosla served as a specialist scientific adviser to the UK Parliament's Environmental Audit Committee inquiry on heat resilience and sustainable cooling and contributed to the IPCC Sixth Assessment Report. Oxford lists teaching across sustainable development, environmental governance, climate negotiations and MBA programmes. Her work therefore moves repeatedly between scientific measurement, models of future demand and institutions that have to make decisions before the future arrives.
+
+The unresolved issue is equity. In wealthy settings, cooling policy can focus heavily on efficiency and reducing excess demand. In much of the Global South, millions of people still lack sufficient cooling to protect health and productivity. Treating every additional air conditioner simply as an emissions problem misses that development need. Khosla's research sits inside that uncomfortable dual objective: expanding access to cooling while preventing the technologies used to provide it from worsening the climate risk they are meant to manage.
+
+::: {.profile-facts}
+**Radhika Khosla**  
+Professor of Environmental Science and Policy, University of Oxford  
+**Field:** Environmental science and policy  
+**Research focus:** Extreme heat, cooling, urban energy and equitable transitions  
+**Training:** Physics, Oxford; PhD Geophysical Sciences, University of Chicago  
+**Current programmes:** Future of Cooling; ZERO Institute
+:::
