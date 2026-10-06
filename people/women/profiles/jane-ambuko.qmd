@@ -1,0 +1,35 @@
+---
+title: "Jane Ambuko: How do you stop food from being lost after it has already been grown?"
+description: "A Kenyan horticultural scientist taking postharvest research from laboratories into farms, markets and food-loss policy."
+name: "Jane Ambuko"
+role: "Professor of Horticulture, University of Nairobi"
+institution: "University of Nairobi"
+field: "Horticulture and postharvest science"
+focus: "Food loss and waste, postharvest technologies and smallholder systems"
+question: "How do you stop food from being lost after it has already been grown?"
+country: "Kenya"
+region: "Africa"
+filter: "Agriculture"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Jane Ambuko is a horticultural scientist at the University of Nairobi whose work begins after a crop has been harvested. The problem is deceptively simple. Farmers can produce food successfully and still lose a substantial part of its value before it is eaten because of bruising, heat, poor storage, weak cold chains, transport delays and market conditions. Ambuko has built her research around reducing those losses without assuming that smallholder farmers can simply purchase expensive infrastructure. [The University of Nairobi Postharvest Project](https://postharvest-program.uonbi.ac.ke/team) describes her work as adaptive research that validates and scales postharvest technologies for smallholder settings.
+
+Ambuko trained in agriculture and horticulture at the University of Nairobi before completing a PhD in Agricultural Sciences, with a horticulture and postharvest focus, at the University of Tsukuba in Japan. Her university career combines teaching, student supervision, research and outreach. Over time, the research moved increasingly toward the practical systems connecting farms to consumers: how fruit and vegetables are cooled, handled, stored, processed and marketed, and which technologies are affordable enough to survive outside a controlled research environment.
+
+That laboratory-to-field movement became the organising theme of her 2024 professorial inaugural lecture, *From the Lab to the Land: Solutions for Food Loss & Waste Reduction for the People and the Planet*. [The University of Nairobi](https://www.uonbi.ac.ke/news/lab-land-solutions-food-loss-waste-reduction-people-and-planet-prof-jane-ambuko) presented the lecture as the culmination of research on food-loss reduction and practical application. Her team has worked on low-cost cooling and storage, solar drying, improved handling and farmer training, linking technical interventions with the people expected to use them.
+
+Ambuko's programme is also institutional. The university's postharvest platform combines research with training and community outreach, so students, farmers and other actors in the food chain become part of how technologies are tested. This matters because a technically effective intervention can fail if it requires electricity that is unreliable, maintenance skills that are unavailable or capital that farmers cannot access.
+
+The unresolved question is therefore not whether postharvest losses can be reduced. Many technologies already demonstrate that they can. The harder problem is adoption at scale. A solution has to preserve food, fit local market practices, repay its cost and remain usable after a research project ends. Ambuko's career has increasingly been about that final distance between a successful experiment and food that actually reaches a consumer.
+
+::: {.profile-facts}
+**Jane Ambuko**  
+Professor of Horticulture, University of Nairobi  
+**Field:** Horticulture and postharvest science  
+**Research focus:** Food loss and waste, postharvest technologies and smallholder systems  
+**Training:** University of Nairobi; PhD, University of Tsukuba  
+**Selected career marker:** 50th University of Nairobi professorial inaugural lecture, 2024
+:::

@@ -1,0 +1,35 @@
+---
+title: "Dorcas Kalele: How do climate-smart ideas become decisions farmers can actually use?"
+description: "A Kenyan adaptation specialist working at the science-policy-practice boundary of climate change, agriculture and rural development."
+name: "Dorcas Kalele"
+role: "Climate adaptation and agricultural-development researcher"
+institution: "Kenya"
+field: "Climate adaptation and rural development"
+focus: "Climate-smart agriculture, food systems, gender and policy"
+question: "How do climate-smart ideas become decisions farmers can actually use?"
+country: "Kenya"
+region: "Africa"
+filter: "Climate"
+categories: ["Places & Development"]
+draft: true
+toc: false
+---
+
+Dorcas Kalele is a Kenyan researcher and practitioner working across climate adaptation, agriculture and rural development. Her career sits in a space where conventional institutional labels are often too narrow. She has designed and implemented research and development programmes with universities, international organisations and development agencies, while focusing on how climate evidence becomes policy, investment and changes in farming practice. [PlanAdapt describes](https://www.plan-adapt.org/about-us/dorcas-kalele/) her work as building a stronger science-policy-practice interface for sustainable food systems and climate-resilient futures.
+
+Kalele's experience spans more than fifteen years and includes work with organisations such as FAO, the World Bank, GIZ, the Alliance of Bioversity International and CIAT, SNV and other development partners. Current professional profiles also identify her with African research and capacity-building networks concerned with agriculture, food and nutrition security. The thread connecting these roles is not a particular crop or climate model. It is the process through which institutions decide which adaptation practices to support and how those practices reach communities.
+
+Her work focuses on climate-smart agriculture, food-system transformation, rural policy and the inclusion of gender and social differences in adaptation. That last element matters because the category “farmer” hides unequal access to land, finance, information and decision-making. A technology may be climate-resilient in agronomic terms while remaining inaccessible to the people most exposed to climate risk.
+
+Kalele has therefore worked through transdisciplinary and capacity-strengthening approaches rather than treating knowledge transfer as one-way extension. Her involvement in international programmes and climate-research knowledge brokering reflects a recurring concern with context-specific evidence. The same adaptation label can mean very different things across dryland farming, irrigated systems or mixed rural livelihoods.
+
+The unresolved question is implementation. Climate-smart agriculture has accumulated a large menu of practices and technologies, but adoption is shaped by institutions, finance, gender, infrastructure and local priorities. The hard problem is not generating another list of promising options. It is learning which combinations are feasible in a particular place, who is able to adopt them and whether public investment can support adaptation without deepening existing inequalities.
+
+::: {.profile-facts}
+**Dorcas Kalele**  
+Climate adaptation and agricultural-development researcher, Kenya  
+**Field:** Climate adaptation and rural development  
+**Research focus:** Climate-smart agriculture, food systems, gender and policy  
+**Experience:** More than 15 years across research and development programmes  
+**Approach:** Transdisciplinary research and science-policy-practice translation
+:::

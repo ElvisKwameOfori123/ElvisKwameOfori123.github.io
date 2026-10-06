@@ -1,0 +1,35 @@
+---
+title: "Cecilia Onyango: How do indigenous vegetables move from neglected crops into mainstream food systems?"
+description: "A Kenyan horticultural scientist studying indigenous vegetables, crop production and the translation of agricultural research into food-system practice."
+name: "Cecilia Moraa Onyango"
+role: "Associate Professor, University of Nairobi"
+institution: "University of Nairobi"
+field: "Agronomy and horticulture"
+focus: "Indigenous vegetables, crop production and food-system research"
+question: "How do indigenous vegetables move from neglected crops into mainstream food systems?"
+country: "Kenya"
+region: "Africa"
+filter: "Agriculture"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Cecilia Moraa Onyango is an Associate Professor in the University of Nairobi's Department of Plant Science and Crop Protection. Her research has repeatedly returned to crops that sit between agriculture, nutrition and culture, especially African indigenous vegetables. These crops are often well adapted to local environments and valued in household diets, yet they can remain marginal in formal breeding, supply chains and agricultural policy. [The University of Nairobi lists](https://plantscience.uonbi.ac.ke/staff/prof-cecilia-moraa-onyango) her specialisation as agronomy and horticulture.
+
+Onyango joined the university as an assistant lecturer in 2001 and completed a PhD in Horticulture at Wageningen University in 2010, after earlier agriculture and horticulture degrees at Nairobi. An early strand of her work examined how traditional leafy vegetables were handled and sold in Nairobi. A 2007 study surveyed supermarkets and independent greengrocers, showing that crops such as amaranth, African nightshade and spider plant were already circulating through urban markets but often with limited formal packaging and postharvest support.
+
+The research later widened from handling to production, use and conservation. Onyango and collaborators documented spider plant as an underutilised leafy vegetable with ecological, cultural and nutritional value, and studied African nightshade production and indigenous knowledge across Kenyan communities. These are not simply exercises in cataloguing neglected crops. They ask what makes a species move from household gardens and local markets into more reliable production systems without losing the diversity and knowledge that made it useful in the first place.
+
+More recently, Onyango has also become involved in the institutional problem of connecting research to policy. In 2025 she was named leader of a Kenyan Science Translation Hub supported through the AgriFoSe2030 programme, designed to help early-career researchers communicate evidence from food and agricultural science into policy processes. That role extends the same translation problem from crops to knowledge itself.
+
+The unresolved question is scale without simplification. Indigenous vegetables can contribute to nutrition, resilience and crop diversity, but mainstreaming them may favour a small number of standardised varieties and supply chains. The task is therefore not just to make neglected crops more visible. It is to build production, markets and policy around them in ways that preserve the diversity and local knowledge that made them valuable.
+
+::: {.profile-facts}
+**Cecilia Moraa Onyango**  
+Associate Professor, University of Nairobi  
+**Field:** Agronomy and horticulture  
+**Research focus:** Indigenous vegetables, crop production and food-system research  
+**Training:** PhD Horticulture, Wageningen University, 2010  
+**Early publication anchor:** Postharvest handling of traditional leafy vegetables in Nairobi, 2007
+:::

@@ -1,0 +1,35 @@
+---
+title: "Agnes Mwang’ombe: How do you build crop protection science that lasts beyond one disease outbreak?"
+description: "A Kenyan plant pathologist whose career combines disease research, postgraduate training and institution-building in African crop protection."
+name: "Agnes W. Mwang’ombe"
+role: "Professor of Plant Pathology, University of Nairobi"
+institution: "University of Nairobi"
+field: "Plant pathology"
+focus: "Crop disease, food security and agricultural training"
+question: "How do you build crop protection science that lasts beyond one disease outbreak?"
+country: "Kenya"
+region: "Africa"
+filter: "Plant Science"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Agnes Wakesho Mwang’ombe is a Professor of Plant Pathology at the University of Nairobi. Her career belongs to an earlier generation of African plant scientists who were not only expected to investigate crop diseases but also to build the university programmes, laboratories and training systems that would produce the next generation of specialists. [The University of Nairobi's history of plant pathology](https://plantscience.uonbi.ac.ke/node/20) places her within the development of postgraduate plant-pathology training at the institution.
+
+Mwang’ombe studied agriculture and plant pathology at Nairobi before receiving a Commonwealth Scholarship for doctoral training at Imperial College in London in the 1980s. She returned to the University of Nairobi and joined the department in 1988. Her academic career subsequently combined research in crop protection with administration and postgraduate education, including service as Dean of Agriculture and as principal of the former College of Agriculture and Veterinary Sciences.
+
+Plant pathology is necessarily applied science. Disease emerges through interactions among pathogens, susceptible crops, environments and farming practices. Mwang’ombe's research has ranged across crop diseases and food-security questions, while her later work has also connected agricultural production to nutrition, poverty alleviation and environmental sustainability. The university continues to identify her as a programme leader in doctoral plant pathology, making training itself part of the scientific legacy.
+
+That institutional contribution matters because plant disease control cannot be reduced to a single successful treatment. New pathogens arrive, climates change, varieties lose resistance and farmers alter crops and management. A durable crop-protection system therefore depends on diagnostic capacity and trained scientists as much as on a particular fungicide or resistant variety. Mwang’ombe's career spans both sides of that problem: producing agricultural knowledge and building the institutions capable of renewing it.
+
+The unresolved question is how crop-protection science keeps pace with increasingly connected agricultural systems. Pathogens move across borders, climate change alters disease pressure and farmers need solutions that are biologically effective but economically realistic. The answer cannot be one permanent technology. It requires institutions able to detect, study and respond repeatedly. That may be the most consequential part of a career that has lasted across several generations of Kenyan agricultural science.
+
+::: {.profile-facts}
+**Agnes W. Mwang’ombe**  
+Professor of Plant Pathology, University of Nairobi  
+**Field:** Plant pathology  
+**Research focus:** Crop disease, food security and agricultural training  
+**Training:** MSc, University of Nairobi; PhD/DIC, Imperial College London  
+**University career:** Joined the Department of Plant Science and Crop Protection in 1988
+:::

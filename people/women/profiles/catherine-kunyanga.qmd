@@ -1,0 +1,35 @@
+---
+title: "Catherine Kunyanga: What makes a food system safe as well as nutritious?"
+description: "A Kenyan food scientist working across food safety, nutrition, postharvest handling and the institutions that govern what people eat."
+name: "Catherine Nkirote Kunyanga"
+role: "Associate Professor, University of Nairobi"
+institution: "University of Nairobi"
+field: "Food science and technology"
+focus: "Food safety, nutrition security and sustainable food systems"
+question: "What makes a food system safe as well as nutritious?"
+country: "Kenya"
+region: "Africa"
+filter: "Food & Nutrition"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Catherine Nkirote Kunyanga is an Associate Professor in Food Science, Nutrition and Technology at the University of Nairobi and Associate Dean in the Faculty of Agriculture. Her work asks a deceptively broad question: what does it mean for a food system to provide enough food if that food is unsafe, nutritionally weak or produced through practices that create new environmental and health risks? [Her university profile](https://profiles.uonbi.ac.ke/ckunyanga) places food safety, nutrition security, sustainable food systems and postharvest management within the same research programme.
+
+Kunyanga trained in food science and technology at the University of Nairobi, with doctoral work involving the University of Hohenheim. Her research has combined laboratory food science with applied work involving processors, small and medium enterprises, government agencies and other actors in food supply chains. That makes the career less about a single commodity than about the conditions under which food moves safely from production to consumption.
+
+One strand of her work has examined indigenous and alternative food ingredients with nutritional or health-promoting properties. Another focuses on food safety interventions, standards and regulation. She has also worked on postharvest handling and food processing, areas where technical failures can convert an otherwise successful harvest into contamination, spoilage or nutritional loss. Her collaborations with Cecilia Onyango on indigenous vegetables show how these questions overlap: a crop can be agronomically promising and nutritionally valuable while still requiring safe handling, processing and market systems.
+
+Kunyanga's current institutional responsibilities extend that concern into policy. Her 2025 curriculum vitae records work with a Kenyan pesticide task force concerned with public health and environmental justice around harmful pesticides, alongside continental food-systems initiatives and extensive training for industry and SMEs. She also coordinates the University of Nairobi's Food Security Center.
+
+The unresolved problem is that food-system goals can collide. Producing more food, making it affordable, improving nutritional quality, reducing chemical risk and lowering environmental damage are not automatically the same intervention. Standards can protect consumers while raising costs for small producers; new ingredients can improve diets but remain inaccessible. Kunyanga's work sits where these objectives have to be considered together. The question is not only how to make food safer. It is how to build systems in which safety, nutrition and access reinforce rather than undermine one another.
+
+::: {.profile-facts}
+**Catherine Nkirote Kunyanga**  
+Associate Professor, University of Nairobi  
+**Field:** Food science and technology  
+**Research focus:** Food safety, nutrition security and sustainable food systems  
+**Current roles:** Associate Dean; Coordinator, Food Security Center  
+**Methods and practice:** Food science, standards, processing, training and food-system analysis
+:::

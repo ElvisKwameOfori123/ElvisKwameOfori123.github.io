@@ -1,0 +1,35 @@
+---
+title: "Jane Wangui Mugo: Can climate models tell a farmer where a crop will still work tomorrow?"
+description: "A Kenyan meteorologist combining climate projections, crop models and spatial analysis to map agricultural risk under a changing climate."
+name: "Jane Wangui Mugo"
+role: "Lecturer, University of Nairobi"
+institution: "University of Nairobi"
+field: "Agrometeorology and climate modelling"
+focus: "Crop simulation, climate risk, GIS and adaptation"
+question: "Can climate models tell a farmer where a crop will still work tomorrow?"
+country: "Kenya"
+region: "Africa"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Jane Wangui Mugo is a Lecturer in Earth and Climate Sciences at the University of Nairobi. Her research sits at the point where climate projections become agricultural decisions. Rather than asking only how temperature or rainfall may change, she asks what those changes mean for a crop in a particular place: whether the crop remains suitable, when it should be planted and how much yield might change. [Her University of Nairobi profile](https://profiles.uonbi.ac.ke/janew) describes a programme combining climate modelling, crop simulation, machine learning, remote sensing and GIS.
+
+Mugo trained in meteorology and agrometeorology before completing a PhD in Meteorology at the University of Nairobi. Her doctoral research focused on green gram, a short-duration legume important in Kenya's arid and semi-arid lands. The work combined observed climate data, downscaled regional climate projections and crop modelling to map how suitability and production could change under future conditions. Her 2021 thesis, *Modelling Green Gram Production in Kenya Under the Current and Future Climates*, provides a clear intellectual anchor for the career.
+
+The method matters because climate impacts are spatial. A national mean temperature cannot tell a farmer in Kitui whether a crop will mature before rainfall ends. Mugo has used CORDEX regional climate simulations, GIS-based suitability analysis and crop models such as APSIM and AquaCrop to translate climate scenarios into agricultural outcomes. A 2023 *Frontiers in Sustainable Food Systems* paper simulated climate-change effects on green-gram production in Kitui County. Other collaborative work has linked crop simulation with machine learning to predict yield distributions.
+
+Her experience extends beyond Kenya. Mugo has worked as a climate-risks specialist and international consultant with FAO and as a crop modeller with IITA, contributing to climate-data integration, vulnerability mapping and adaptation planning in several countries. In 2023 FAO invited her to present technical approaches for climate-data acquisition in agricultural modelling for adaptation planning in Sudan.
+
+The unresolved problem is uncertainty at decision scale. Climate models become less certain as information is pushed toward a particular farm, season and crop, precisely where users want the most specific answer. Crop models add another layer of assumptions about soils, varieties and management. Mugo's work therefore confronts a central problem in climate services: how to make projections specific enough to guide action without pretending they are more certain than they are.
+
+::: {.profile-facts}
+**Jane Wangui Mugo**  
+Lecturer, University of Nairobi  
+**Field:** Agrometeorology and climate modelling  
+**Research focus:** Crop simulation, climate risk, GIS and adaptation  
+**Training:** PhD Meteorology, University of Nairobi  
+**Selected research:** Climate-change simulation of green gram production in Kitui County, 2023
+:::
