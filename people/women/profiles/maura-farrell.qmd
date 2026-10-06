@@ -1,0 +1,35 @@
+---
+title: "Maura Farrell: Who gets to shape the future of rural Europe?"
+description: "A rural geographer studying agricultural change, gender, innovation and the uneven transformation of rural communities."
+name: "Maura Farrell"
+role: "Professor, University of Galway"
+institution: "University of Galway"
+field: "Rural and agricultural geography"
+focus: "Gender, rural development, innovation and spatial justice"
+question: "Who gets to shape the future of rural Europe?"
+country: "Ireland"
+region: "Europe"
+filter: "Rural Development"
+categories: ["Places & Development"]
+draft: true
+toc: false
+---
+
+Maura Farrell is Professor of Rural and Agricultural Geography at the University of Galway. Her work examines how rural places change and who gets to participate in deciding what that change should look like. Land use, agricultural restructuring, migration, farm succession, rural youth and gender all enter the picture. [Galway's current profile](https://research.universityofgalway.ie/en/persons/maura-farrell/) places a particular emphasis on women as innovators in agriculture and rural life, using gender as a way to understand broader transformations in rural economies and institutions.
+
+The present-day centrepiece is FLIARA, the €3 million Horizon Europe project Farrell coordinates across ten countries. The project studies female-led innovation in agriculture and rural areas through case studies, interviews and collaboration across European research and rural networks. Its premise is deceptively simple. Innovation is often counted through technologies, patents, investment or high-growth firms. Rural change also happens through new forms of care, food production, cooperation, services, community organisation and farm diversification, activities in which women's contributions can be substantial but less visible to conventional innovation measures.
+
+That question did not appear suddenly with FLIARA. Farrell's earlier research covered agricultural change, return migration, rural regeneration, forestry, farm families and succession. Work recorded by Galway from the late 2000s onward shows an accumulating concern with how social and spatial inequalities shape rural development. More recent publications have addressed spatial justice, rural sustainability, collaboration in organic farming and participatory governance.
+
+Her research style is correspondingly collaborative. Farrell has led or participated in European projects designed around co-production with stakeholders rather than treating rural communities solely as subjects of study. She is also principal investigator at Galway for PREMIERE, a Horizon Europe project focused on participatory governance and stakeholder engagement. Galway records extensive undergraduate and postgraduate teaching and two nominations for the university's President's Award for Teaching Excellence.
+
+The unresolved issue is partly one of recognition. Policy institutions tend to see the forms of innovation they already know how to measure. If rural transformation is evaluated mainly through technological adoption or business growth, other changes can remain institutionally invisible even when they sustain communities or create new livelihoods. Farrell's work asks what rural policy looks like when those contributions are made visible. The question is not whether rural Europe will change. It is whose innovations, constraints and ideas are allowed to define what a successful rural future becomes.
+
+::: {.profile-facts}
+**Maura Farrell**  
+Professor, University of Galway  
+**Field:** Rural and agricultural geography  
+**Research focus:** Gender, rural development, innovation and spatial justice  
+**Current programme:** FLIARA, Horizon Europe  
+**Teaching:** Undergraduate and postgraduate rural and agricultural geography
+:::
