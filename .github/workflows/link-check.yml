@@ -37,7 +37,6 @@ jobs:
             --timeout 20
             --accept 200,204,206,403,429
             --exclude '^https://www\.linkedin\.com/'
-            --exclude '^https://upload\.wikimedia\.org/'
             --exclude '^https://kwameofori123\.com/'
             --exclude '^https://journal\.societyofirishforesters\.ie/'
             './_site/**/*.html'
