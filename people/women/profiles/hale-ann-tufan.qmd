@@ -1,0 +1,35 @@
+---
+title: "Hale Ann Tufan: Who gets designed into a crop-improvement programme?"
+description: "A Cornell plant breeder and gender researcher redesigning agricultural research so that crop improvement serves more than the average farmer."
+name: "Hale Ann Tufan"
+role: "Associate Professor, Cornell University"
+institution: "Cornell University"
+field: "Plant breeding and gender-responsive agricultural research"
+focus: "Inclusive crop improvement, seed systems and social inclusion"
+question: "Who gets designed into a crop-improvement programme?"
+country: "United States"
+region: "North America"
+filter: "Agriculture"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Hale Ann Tufan is an Associate Professor in Cornell University's School of Integrative Plant Science and leads the Equitable Agricultural Research Lab. Her work asks a question that plant breeding has often treated as external to biology: who is the crop being improved for? [Cornell](https://cals.cornell.edu/people/hale-ann-tufan) describes her programme as developing methods that bring gender equality and social inclusion into agricultural research itself.
+
+Tufan's training spans molecular plant-pathogen interactions, plant breeding, agricultural research management and gender analysis. She has worked with international crop-improvement programmes, including cassava and other staple crops in sub-Saharan Africa. That experience exposed a recurring problem. Breeding programmes can optimise for traits that look valuable in trials while overlooking differences in labour, processing, market access or household decision-making that shape whether farmers actually value a variety.
+
+Her lab works with breeders, social scientists and research institutions to build gender analysis into priority setting, trait selection and evaluation. Tufan has held leadership roles in the Feed the Future Innovation Lab for Crop Improvement, the GREAT project and NextGen Cassava, among others. The scientific intervention is therefore partly methodological: changing the questions asked before crosses are made and trials are designed.
+
+That approach challenges the idea that inclusion belongs at the end of a breeding pipeline. If women and marginalised farmers are considered only during adoption studies, many design choices have already been fixed. Tufan's work moves social evidence upstream.
+
+The unresolved challenge is institutional. Research systems reward measurable genetic gain and yield improvement more easily than equity. Inclusive breeding therefore requires not only better tools but changes in incentives, budgets and professional norms. Tufan's work asks whether agricultural research can make those changes without treating inclusion as an optional extra.
+
+::: {.profile-facts}
+**Hale Ann Tufan**  
+Associate Professor, Cornell University  
+**Field:** Plant breeding and gender-responsive agricultural research  
+**Research focus:** Inclusive crop improvement and seed systems  
+**Lab:** Equitable Agricultural Research (EQUAL) Lab  
+**Major programmes:** GREAT, NextGen Cassava, Feed the Future Crop Improvement
+:::
