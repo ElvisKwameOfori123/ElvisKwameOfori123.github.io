@@ -1,4 +1,4 @@
-name: Localise Wikimedia images once
+name: Finish image refresh once
 
 on:
   push:
@@ -11,94 +11,105 @@ permissions:
   contents: write
 
 jobs:
-  localise:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Download verified Commons images locally
+      - name: Download web-sized licensed hero images
         shell: bash
         run: |
           set -euo pipefail
           ua='EKO-Perspectives/1.0 (+https://kwameofori123.com/)'
           curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
-            'https://upload.wikimedia.org/wikipedia/commons/e/e5/2005_0316_Dry_bean.jpg' \
-            -o 'blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg'
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Agrivoltaics.jpg?width=1800' \
+            -o 'blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg'
           curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
-            'https://commons.wikimedia.org/wiki/Special:Redirect/file/02024_1024_Europe_Farmers%27_Protest%2C_Bielsko-Bia%C5%82a.jpg' \
-            -o 'blog/posts/2026-10-02-one-hectare-many-promises/polish-farmers-protest.jpg'
-          curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
-            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Rural_Women%27s_Farmers_Association_of_Ghana_prepping_a_field.jpg' \
-            -o 'blog/posts/2026-10-16-ghana-policy-to-farm/lawra-women-farmers.jpg'
-          curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
-            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicken_farmer_in_Ghana_%285926941911%29.jpg' \
-            -o 'blog/posts/2026-10-16-ghana-policy-to-farm/chicken-farmer-ghana.jpg'
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Tree_Planting_Bansha%2C_Co_Tipperary.jpg?width=1800' \
+            -o 'blog/posts/2026-10-01-ireland-tree-planting-promise/tree-planting-bansha.jpg'
 
           for f in \
-            blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg \
-            blog/posts/2026-10-02-one-hectare-many-promises/polish-farmers-protest.jpg \
-            blog/posts/2026-10-16-ghana-policy-to-farm/lawra-women-farmers.jpg \
-            blog/posts/2026-10-16-ghana-policy-to-farm/chicken-farmer-ghana.jpg
+            blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg \
+            blog/posts/2026-10-01-ireland-tree-planting-promise/tree-planting-bansha.jpg
           do
             test -s "$f"
             file "$f" | grep -qi 'JPEG image data'
           done
 
-      - name: Switch references and harden image QA
+      - name: Update lead images and homepage curation
         shell: python
         run: |
           from pathlib import Path
 
           one = Path('blog/posts/2026-10-02-one-hectare-many-promises/index.qmd')
           text = one.read_text()
+          text = text.replace('image: "irish-farmland-landscape.jpg"', 'image: "agrivoltaics-land-use.jpg"')
           text = text.replace(
-              'https://upload.wikimedia.org/wikipedia/commons/e/e5/2005_0316_Dry_bean.jpg',
-              'dry-bean-smallholder.jpg',
+              'image-alt: "Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries"',
+              'image-alt: "Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land"',
           )
-          text = text.replace(
-              "https://commons.wikimedia.org/wiki/Special:Redirect/file/02024_1024_Europe_Farmers%27_Protest%2C_Bielsko-Bia%C5%82a.jpg",
-              'polish-farmers-protest.jpg',
-          )
-          one.write_text(text)
+          old = '''![A patchwork agricultural landscape in north County Dublin.](irish-farmland-landscape.jpg){fig-alt="Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries." width="100%" fig-align="center"}\n\n*Photograph: [C O'Flanagan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agricultural_Landscape_Co_Dublin_-_geograph.org.uk_-_1721182.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*'''
+          new = '''![Crops growing beneath solar panels in an agrivoltaic research field.](agrivoltaics-land-use.jpg){fig-alt="Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land." width="100%" fig-align="center"}\n\n*Photograph: [UC Davis College of Engineering / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agrivoltaics.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*'''
+          if old not in text:
+              raise SystemExit('One-hectare lead block not found')
+          one.write_text(text.replace(old, new))
 
-          ghana = Path('blog/posts/2026-10-16-ghana-policy-to-farm/index.qmd')
-          text = ghana.read_text()
+          tree = Path('blog/posts/2026-10-01-ireland-tree-planting-promise/index.qmd')
+          text = tree.read_text()
+          text = text.replace('image: "afforestation-target-gap.png"', 'image: "tree-planting-bansha.jpg"')
           text = text.replace(
-              "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rural_Women%27s_Farmers_Association_of_Ghana_prepping_a_field.jpg",
-              'lawra-women-farmers.jpg',
+              'image-alt: "Bar chart of annual afforestation in Ireland from 2007 to 2025, falling from about 7,000 hectares to under 3,000, set against a 1996 target of 20,000 hectares and a current target of 8,000 hectares a year"',
+              'image-alt: "Newly planted young trees at Bansha in County Tipperary, Ireland"',
+          )
+          chart = '![Annual afforestation in Ireland, 2007 to 2025, against the 1996 and current targets.](afforestation-target-gap.svg)'
+          lead = '''![Newly planted trees at Bansha in County Tipperary.](tree-planting-bansha.jpg){fig-alt="Newly planted young trees at Bansha in County Tipperary, Ireland." width="100%" fig-align="center"}\n\n*Photograph: [Tree Council / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tree_Planting_Bansha,_Co_Tipperary.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*\n\n'''
+          if lead not in text:
+              text = text.replace(chart, lead + chart)
+          tree.write_text(text)
+
+          gal = Path('blog/posts/2026-10-04-we-cannot-drink-gold/index.qmd')
+          text = gal.read_text()
+          text = text.replace('image: "galamsey-enforcement-gap.png"', 'image: "river-pra-galamsey.jpg"')
+          text = text.replace(
+              'image-alt: "Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024"',
+              'image-alt: "The sediment-laden River Pra in Ghana flowing between dense green riverbanks"',
+          )
+          gal.write_text(text)
+
+          home = Path('index.qmd')
+          text = home.read_text()
+          text = text.replace(
+              '<a href="/blog/#category=Science%20%26%20Technology">Science &amp; Technology</a>\n<a href="/blog/#category=Personal%20%26%20Ideas">Personal &amp; Ideas</a>',
+              '<a href="/blog/#category=Science%20%26%20Technology">Science &amp; Technology</a>\n<a href="/blog/#category=Places%20%26%20Development">Places &amp; Development</a>\n<a href="/blog/#category=Personal%20%26%20Ideas">Personal &amp; Ideas</a>',
           )
           text = text.replace(
-              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicken_farmer_in_Ghana_%285926941911%29.jpg',
-              'chicken-farmer-ghana.jpg',
+              '<img src="blog/posts/2026-10-02-one-hectare-many-promises/irish-farmland-landscape.jpg" alt="Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries" loading="eager" fetchpriority="high" decoding="async">\n<span class="feature-credit">C O\'Flanagan · Wikimedia Commons · CC BY-SA 2.0</span>',
+              '<img src="blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg" alt="Rows of green crops growing beneath elevated solar panels, showing agriculture and energy production sharing the same land" loading="eager" fetchpriority="high" decoding="async">\n<span class="feature-credit">UC Davis College of Engineering · Wikimedia Commons · CC BY 2.0</span>',
           )
-          ghana.write_text(text)
-
-          agents = Path('AGENTS.md')
-          text = agents.read_text()
-          anchor = '- Every published post must have at least one relevant lead image stored locally with descriptive alt text; use a second supporting image only when it adds real explanatory, documentary or historical value.\n'
-          additions = (
-              '- Store reusable article images locally; do not hotlink external image binaries. External links belong in the source and credit, not in the rendered image path.\n'
-              '- When a published post\'s lead image changes, also update any hand-curated homepage Featured block in `index.qmd` and verify the rendered social-image metadata so stale asset paths cannot survive a refresh.\n'
+          text = text.replace(
+              '<img src="blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png" alt="Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024" loading="lazy" decoding="async">\n<span class="feature-credit">Original chart · EKO Perspectives</span>',
+              '<img src="blog/posts/2026-10-04-we-cannot-drink-gold/river-pra-galamsey.jpg" alt="The sediment-laden River Pra in Ghana flowing between dense green riverbanks" loading="lazy" decoding="async">\n<span class="feature-credit">Efo Komla · Wikimedia Commons · CC BY-SA 4.0</span>',
           )
-          if additions not in text:
-              text = text.replace(anchor, anchor + additions)
-          agents.write_text(text)
+          text = text.replace(
+              '<img src="blog/posts/2026-10-01-ireland-tree-planting-promise/afforestation-target-gap.png" alt="Bar chart of annual afforestation in Ireland from 2007 to 2025, falling far below the 1996 target of 20,000 hectares and the current target of 8,000 hectares a year" loading="lazy" decoding="async">\n<span class="feature-credit">Original chart · Data: CSO and DAFM</span>',
+              '<img src="blog/posts/2026-10-01-ireland-tree-planting-promise/tree-planting-bansha.jpg" alt="Newly planted young trees at Bansha in County Tipperary, Ireland" loading="lazy" decoding="async">\n<span class="feature-credit">Tree Council · Wikimedia Commons · CC BY-SA 4.0</span>',
+          )
+          home.write_text(text)
 
-      - name: Commit local image copies and reference fixes
+      - name: Commit visual refresh
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add \
-            AGENTS.md \
+            index.qmd \
             blog/posts/2026-10-02-one-hectare-many-promises/index.qmd \
-            blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg \
-            blog/posts/2026-10-02-one-hectare-many-promises/polish-farmers-protest.jpg \
-            blog/posts/2026-10-16-ghana-policy-to-farm/index.qmd \
-            blog/posts/2026-10-16-ghana-policy-to-farm/lawra-women-farmers.jpg \
-            blog/posts/2026-10-16-ghana-policy-to-farm/chicken-farmer-ghana.jpg
+            blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg \
+            blog/posts/2026-10-01-ireland-tree-planting-promise/index.qmd \
+            blog/posts/2026-10-01-ireland-tree-planting-promise/tree-planting-bansha.jpg \
+            blog/posts/2026-10-04-we-cannot-drink-gold/index.qmd
           git diff --cached --check
-          git commit -m 'Localise Commons images and harden image QA'
+          git commit -m 'Finish documentary lead-image refresh'
           git push origin HEAD:main
