@@ -10,7 +10,7 @@ Research, evidence and ideas by Elvis Kwame Ofori
 
 Featured
 
-![Schematic of one hectare at the centre, with competing claims from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage](blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg) Original schematic · EKO Perspectives
+![Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries](blog/posts/2026-10-02-one-hectare-many-promises/irish-farmland-landscape.jpg) C O’Flanagan · Wikimedia Commons · CC BY-SA 2.0
 
 Land & Agriculture
 
