@@ -82,7 +82,7 @@ Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household\&#039;s income, home and inheritance](../blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+[![Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries](../blog/posts/2026-10-02-one-hectare-many-promises/irish-farmland-landscape.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
 ### [One hectare, many promises](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 

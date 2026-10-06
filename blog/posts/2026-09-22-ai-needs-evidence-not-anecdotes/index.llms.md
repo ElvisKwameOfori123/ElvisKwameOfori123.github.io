@@ -22,12 +22,6 @@ Students working together at a laptop.
 
 Two students spend thirty minutes with the same AI model. One asks for the answer and copies it. The other attempts the problem first, asks for criticism, argues with the response and revises the work. A study that records both as thirty minutes of AI use has measured time well and behaviour badly.
 
-![Thirty minutes of AI use branches into copying an answer or attempting a task, asking for feedback and revising.](ai-use-mechanism.svg)
-
-The same amount of AI exposure can conceal very different learning behaviour.
-
-*Original schematic for EKO Perspectives.*
-
 I had those two students in mind while reading [OpenAI’s call for research on AI and teen development](https://openai.com/index/teen-development-research-grants/). On 8 September 2026, the company announced \$5 million for independent research on how generative AI affects people aged 13 to 17. The call asks about emotional development, relationships, patterns of use, safeguards, AI literacy and differences across social and cultural settings. Those are better questions than the one public debate keeps returning to, which is whether AI is good or bad for learning.
 
 The funding source matters. A company developing the technology has an institutional interest in the evidence that grows up around it, which makes independence, disclosure, publication and replication important. The call requires conflict disclosures, lists independence and credibility among its review criteria and encourages public release of findings. Whether that proves enough will depend on what gets published, including results the funder would rather not see.
