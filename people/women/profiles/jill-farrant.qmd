@@ -1,0 +1,35 @@
+---
+title: "Jill Farrant: Can resurrection plants teach crops to survive drought?"
+description: "A plant physiologist whose career has followed one difficult question: how can living tissues survive almost complete water loss?"
+name: "Jill Farrant"
+role: "Professor, University of Cape Town"
+institution: "University of Cape Town"
+field: "Plant molecular biology"
+focus: "Desiccation tolerance and food security"
+question: "Can resurrection plants teach crops to survive drought?"
+country: "South Africa"
+region: "Africa"
+filter: "Plant Science"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Jill Farrant is a professor in the Department of Molecular and Cell Biology at the University of Cape Town and holds a South African Research Chair focused on plant desiccation tolerance and food security. Her scientific problem is unusually easy to state and unusually difficult to solve. Most crop plants are damaged irreversibly when their tissues lose too much water. A small group of so-called resurrection plants can dry almost completely, remain in that state for long periods and recover after water returns. Farrant's career has been devoted to understanding how that survival is possible and what parts of it, if any, can be transferred to crops. [UCT describes the aim of her programme](https://science.uct.ac.za/department-mcb/contacts/jill-farrant) as building a fundamental understanding of vegetative desiccation tolerance before deciding what is required for improved crop tolerance.
+
+The question predates the current language of climate-smart agriculture. Farrant completed her postgraduate training at the University of Natal, now the University of KwaZulu-Natal, where her doctoral work examined why recalcitrant seeds are damaged by drying. An early publication anchor is a 1989 *Planta* paper with Norman Pammenter and Patricia Berjak on germination and desiccation sensitivity in *Avicennia marina*. UCT's 2025 account of her career records subsequent research experience in the United States before she moved to Cape Town, where the problem gradually expanded from seeds to the vegetative tissues of resurrection plants. [UCT reports more than 250 articles and 18 book chapters](https://science.uct.ac.za/articles/2025-09-04-professor-jill-farrant-wins-lifetime-achievement-2025-nrf-awards).
+
+At the Plant Stress Lab, the work is not a search for one drought-resistance gene. Farrant's group studies species including *Myrothamnus flabellifolia*, *Xerophyta* and resurrection grasses using physiology, biochemistry and high-throughput measurements of transcripts, proteins and metabolites. The lab's own description stresses that desiccation tolerance involves many interacting genes and protective processes. [Its current publication list](https://science.uct.ac.za/department-mcb/jill-farrant-plant-stress-lab) includes 2025 multi-omics work on *Eragrostis nindensis* and a 2026 genome assembly of *Myrothamnus flabellifolia*. The long-running collaborations listed by the lab span South Africa, Europe, Australia, the United States and Zambia.
+
+That continuity matters more than the awards, although the recognition is substantial. Farrant received the L'Oréal-UNESCO Award for Women in Science in 2012 and the NRF Lifetime Achievement Award in 2025. UCT also records a long record of student supervision and research leadership. The more revealing measure of the career is that the same biological problem has survived several generations of techniques. A question first approached through seed physiology can now be examined through genomes and metabolomes.
+
+The difficult part remains translation. Resurrection plants can survive extraordinary water loss, but crop plants must also grow quickly and produce useful yields. Desiccation tolerance appears to depend on coordinated systems with energetic and developmental costs. The challenge is therefore not simply to make maize or wheat survive drought. It is to identify which protective mechanisms can be introduced without giving up the productivity that makes a crop worth growing.
+
+::: {.profile-facts}
+**Jill Farrant**  
+Professor, University of Cape Town  
+**Field:** Plant molecular biology  
+**Research focus:** Desiccation tolerance and food security  
+**Early publication anchor:** Farrant, Pammenter & Berjak, *Planta* (1989)  
+**Recent work:** Multi-omics and genome-level studies of resurrection plants, 2025–2026
+:::
