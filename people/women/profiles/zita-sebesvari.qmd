@@ -1,0 +1,35 @@
+---
+title: "Zita Sebesvari: How do connected risks turn one shock into many?"
+description: "An environmental scientist studying interconnected disaster risks, ecosystem-based adaptation and the cascading consequences of environmental change."
+name: "Zita Sebesvari"
+role: "Deputy Director, UNU-EHS"
+institution: "United Nations University Institute for Environment and Human Security"
+field: "Environmental risk and adaptation"
+focus: "Interconnected risks, ecosystems, disaster risk reduction and adaptation"
+question: "How do connected risks turn one shock into many?"
+country: "Germany"
+region: "Europe"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Zita Sebesvari is Deputy Director of the United Nations University Institute for Environment and Human Security, where she also leads work on risk and adaptation. Her research asks what happens when environmental risks interact rather than arrive one at a time. [UNU-EHS](https://unu.edu/ehs/about/expert/zita-sebesvari) identifies interconnected disaster risk, ecosystem-based adaptation and human security as central themes in her work.
+
+Sebesvari trained in environmental sciences and ecology, with doctoral work at the University of Oldenburg. Earlier research included environmental monitoring, remediation and marine chemical processes. That natural-science background later expanded into transdisciplinary work on social-ecological systems and disaster risk.
+
+At UNU-EHS she has studied coastal and delta regions, ecosystem services and the ways environmental degradation can amplify human vulnerability. She served as a Lead Author for the IPCC Special Report on the Ocean and Cryosphere in a Changing Climate and is scientific lead for UNU's *Interconnected Disaster Risks* report series.
+
+The logic of the work is cascading rather than sectoral. Drought can affect food systems, migration and energy. Coastal degradation can weaken storm protection while also undermining livelihoods. A response in one sector can shift risk elsewhere. Sebesvari's research therefore treats resilience as a property of linked systems rather than of isolated hazards.
+
+The unresolved problem is governance. Institutions are usually organised by ministry, sector or hazard, while real risks cross those boundaries. Understanding connections is scientifically possible; coordinating policy across them is harder. Sebesvari's work asks whether institutions can learn to manage risk as a network rather than as a list.
+
+::: {.profile-facts}
+**Zita Sebesvari**  
+Deputy Director, UNU-EHS  
+**Field:** Environmental risk and adaptation  
+**Research focus:** Interconnected risks, ecosystems and disaster resilience  
+**Training:** PhD Environmental Sciences, University of Oldenburg  
+**Selected role:** Lead Author, IPCC SROCC
+:::
