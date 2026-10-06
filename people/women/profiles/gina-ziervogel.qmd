@@ -1,0 +1,35 @@
+---
+title: "Gina Ziervogel: Who bears the trade-offs when cities adapt to climate change?"
+description: "A climate adaptation scholar studying how governance, inequality and participation shape who is protected and who is left exposed."
+name: "Gina Ziervogel"
+role: "Professor and Director, African Climate and Development Initiative"
+institution: "University of Cape Town"
+field: "Climate adaptation and governance"
+focus: "Vulnerability, urban adaptation, inequality and participatory research"
+question: "Who bears the trade-offs when cities adapt to climate change?"
+country: "South Africa"
+region: "Africa"
+filter: "Climate"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Gina Ziervogel is Professor at the University of Cape Town and Director of the African Climate and Development Initiative. Her work is concerned with adaptation, but not in the narrow sense of finding a technical response to a climate hazard. She studies how vulnerability is produced by governance, inequality and development decisions, and how those conditions shape who benefits when governments respond to drought, flooding or heat. [UCT describes](https://acdi.uct.ac.za/contacts/gina-ziervogel) her research as spanning neighbourhoods, NGOs, cities, provinces and national institutions across Southern Africa.
+
+Ziervogel trained as a geographer, completing her doctorate at the University of Oxford in 2002 after earlier study in South Africa. Over roughly twenty-five years she has worked on climate vulnerability and adaptation in settings where environmental risk is inseparable from poverty, infrastructure and political power. Her methodological preference is engaged and transdisciplinary research, bringing communities, civil society, government and academics into the same process rather than treating adaptation as a purely expert exercise.
+
+Cape Town's drought provides one of the clearest examples. The city's water crisis became an international story about reservoirs and “Day Zero”, but Ziervogel's work has emphasised that drought impacts were distributed through existing inequalities in housing, water access and municipal capacity. Similar questions appear in her research on flooding and urban adaptation. A protective intervention can reduce risk in one place while shifting costs elsewhere, and the people most exposed to climate hazards often have the least influence over the decisions made on their behalf.
+
+Ziervogel was a lead author of the IPCC Sixth Assessment Report chapter on Cities, Settlements and Key Infrastructure. She has also worked through public-facing forms including a book on Cape Town's drought, documentary collaboration and climate-justice material for schools. In August 2026, her UCT inaugural lecture returned explicitly to the question of trade-offs in climate adaptation.
+
+That is the unresolved problem. Adaptation is often presented as an obvious good, but almost every intervention allocates money, land, protection, inconvenience and risk. Those choices are political even when expressed through engineering or planning language. Ziervogel's work asks whether participatory approaches can do more than reveal disagreement. The harder test is whether they can redistribute decision-making power enough to produce adaptation that is not only effective, but also more just.
+
+::: {.profile-facts}
+**Gina Ziervogel**  
+Professor and Director, African Climate and Development Initiative  
+**Field:** Climate adaptation and governance  
+**Research focus:** Vulnerability, urban adaptation, inequality and participatory research  
+**Training:** PhD Geography, University of Oxford, 2002  
+**Selected role:** Lead author, IPCC AR6 chapter on Cities, Settlements and Key Infrastructure
+:::
