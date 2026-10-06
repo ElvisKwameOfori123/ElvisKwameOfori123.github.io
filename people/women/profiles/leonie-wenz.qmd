@@ -1,0 +1,35 @@
+---
+title: "Leonie Wenz: What does climate change cost society before disaster becomes visible?"
+description: "An environmental economist quantifying how heat, weather extremes and climate change affect economies and human well-being."
+name: "Leonie Wenz"
+role: "Professor of Environmental Economics, Technical University Berlin"
+institution: "Technical University Berlin / Potsdam Institute for Climate Impact Research"
+field: "Environmental and climate economics"
+focus: "Climate damages, adaptation, well-being and causal inference"
+question: "What does climate change cost society before disaster becomes visible?"
+country: "Germany"
+region: "Europe"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Leonie Wenz is Professor of Environmental Economics at Technical University Berlin and leads the Societal Transition and Well-being lab at the Potsdam Institute for Climate Impact Research. Her research asks how climate change affects economic performance and human welfare, including effects that are dispersed across ordinary days rather than concentrated in headline disasters. [PIK](https://www.pik-potsdam.de/members/wenz/homepage) describes her programme as quantifying social and economic climate costs to inform resilient development.
+
+Wenz trained in mathematics before completing a PhD at the intersection of climate physics and economics at the University of Potsdam and PIK. She later conducted postdoctoral research at UC Berkeley in natural-resource economics. That combination of mathematical training, climate science and economics shaped a research style built around large datasets and causal inference.
+
+Her work has examined how heat affects labour productivity, economic growth, educational outcomes and social behaviour, and how climate shocks propagate through trade and supply networks. The aim is to estimate damages that conventional disaster accounting can miss. A heatwave does not need to destroy a building to impose economic costs.
+
+Since 2025 Wenz has held a joint TU Berlin–PIK professorship focused explicitly on climate damages and adaptation. Her group studies responses at individual, regional and international scales, using observational data, statistical methods and increasingly machine-learning tools.
+
+The unresolved challenge is attribution and adaptation. Economic outcomes are shaped by many forces at once, while societies adjust to climate over time. Estimating the cost of warming therefore requires separating weather effects from broader trends and understanding which losses can realistically be avoided. Wenz's work sits at that boundary between identifying damage and measuring society's capacity to adapt.
+
+::: {.profile-facts}
+**Leonie Wenz**  
+Professor of Environmental Economics, Technical University Berlin  
+**Field:** Environmental and climate economics  
+**Research focus:** Climate damages, adaptation and well-being  
+**Training:** Mathematics; PhD Climate Physics/Economics  
+**PIK role:** Lab Leader, Societal Transition and Well-being
+:::
