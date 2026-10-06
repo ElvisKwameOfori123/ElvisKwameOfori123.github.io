@@ -1,0 +1,110 @@
+name: Localise Wikimedia images once
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/localise-wikimedia-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  localise:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Download verified Commons images locally
+        shell: bash
+        run: |
+          set -euo pipefail
+          ua='EKO-Perspectives/1.0 (+https://kwameofori123.com/)'
+          curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
+            'https://upload.wikimedia.org/wikipedia/commons/e/e5/2005_0316_Dry_bean.jpg' \
+            -o 'blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg'
+          curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/02024_1024_Europe_Farmers%27_Protest%2C_Bielsko-Bia%C5%82a.jpg' \
+            -o 'blog/posts/2026-10-02-one-hectare-many-promises/polish-farmers-protest.jpg'
+          curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Rural_Women%27s_Farmers_Association_of_Ghana_prepping_a_field.jpg' \
+            -o 'blog/posts/2026-10-16-ghana-policy-to-farm/lawra-women-farmers.jpg'
+          curl -L --fail --retry 3 --retry-delay 2 -A "$ua" \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicken_farmer_in_Ghana_%285926941911%29.jpg' \
+            -o 'blog/posts/2026-10-16-ghana-policy-to-farm/chicken-farmer-ghana.jpg'
+
+          for f in \
+            blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg \
+            blog/posts/2026-10-02-one-hectare-many-promises/polish-farmers-protest.jpg \
+            blog/posts/2026-10-16-ghana-policy-to-farm/lawra-women-farmers.jpg \
+            blog/posts/2026-10-16-ghana-policy-to-farm/chicken-farmer-ghana.jpg
+          do
+            test -s "$f"
+            file "$f" | grep -qi 'JPEG image data'
+          done
+
+      - name: Switch references and harden image QA
+        shell: python
+        run: |
+          from pathlib import Path
+
+          one = Path('blog/posts/2026-10-02-one-hectare-many-promises/index.qmd')
+          text = one.read_text()
+          text = text.replace(
+              'https://upload.wikimedia.org/wikipedia/commons/e/e5/2005_0316_Dry_bean.jpg',
+              'dry-bean-smallholder.jpg',
+          )
+          text = text.replace(
+              "https://commons.wikimedia.org/wiki/Special:Redirect/file/02024_1024_Europe_Farmers%27_Protest%2C_Bielsko-Bia%C5%82a.jpg",
+              'polish-farmers-protest.jpg',
+          )
+          one.write_text(text)
+
+          ghana = Path('blog/posts/2026-10-16-ghana-policy-to-farm/index.qmd')
+          text = ghana.read_text()
+          text = text.replace(
+              "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rural_Women%27s_Farmers_Association_of_Ghana_prepping_a_field.jpg",
+              'lawra-women-farmers.jpg',
+          )
+          text = text.replace(
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicken_farmer_in_Ghana_%285926941911%29.jpg',
+              'chicken-farmer-ghana.jpg',
+          )
+          ghana.write_text(text)
+
+          workflow = Path('.github/workflows/link-check.yml')
+          text = workflow.read_text()
+          text = text.replace("            --exclude '^https://upload\\.wikimedia\\.org/'\n", '')
+          workflow.write_text(text)
+
+          agents = Path('AGENTS.md')
+          text = agents.read_text()
+          anchor = '- Every published post must have at least one relevant lead image stored locally with descriptive alt text; use a second supporting image only when it adds real explanatory, documentary or historical value.\n'
+          additions = (
+              '- Store reusable article images locally; do not hotlink external image binaries. External links belong in the source and credit, not in the rendered image path.\n'
+              '- When a published post\'s lead image changes, also update any hand-curated homepage Featured block in `index.qmd` and verify the rendered social-image metadata so stale asset paths cannot survive a refresh.\n'
+          )
+          if additions not in text:
+              text = text.replace(anchor, anchor + additions)
+          agents.write_text(text)
+
+      - name: Commit local image copies and reference fixes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add \
+            AGENTS.md \
+            .github/workflows/link-check.yml \
+            blog/posts/2026-10-02-one-hectare-many-promises/index.qmd \
+            blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg \
+            blog/posts/2026-10-02-one-hectare-many-promises/polish-farmers-protest.jpg \
+            blog/posts/2026-10-16-ghana-policy-to-farm/index.qmd \
+            blog/posts/2026-10-16-ghana-policy-to-farm/lawra-women-farmers.jpg \
+            blog/posts/2026-10-16-ghana-policy-to-farm/chicken-farmer-ghana.jpg
+          git diff --cached --check
+          git commit -m 'Localise Commons images and harden image QA'
+          git push origin HEAD:main
