@@ -1,0 +1,35 @@
+---
+title: "Martine Visser: Can behavioural economics change how a city uses scarce water?"
+description: "A South African economist using field experiments and behavioural evidence to study cooperation, scarcity and environmental policy."
+name: "Martine Visser"
+role: "Professor, University of Cape Town"
+institution: "University of Cape Town"
+field: "Behavioural and environmental economics"
+focus: "Water, collective action, climate risk and ecological infrastructure"
+question: "Can behavioural economics change how a city uses scarce water?"
+country: "South Africa"
+region: "Africa"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Martine Visser is Professor in the School of Economics at the University of Cape Town, Director of the Environmental Policy Research Unit and holder of a research chair in the governance and economics of ecological infrastructure. Her work asks how people behave when environmental resources are shared, scarce and politically difficult to manage. Water provides the clearest example. During Cape Town's long period of water stress, Visser and collaborators used behavioural economics not simply to describe conservation choices but to test whether carefully designed information could change them.
+
+The intellectual route into economics was not direct. UCT has described Visser as beginning in geology before becoming increasingly interested in sustainable development, livelihoods and the social institutions surrounding environmental problems. She later trained in economics and completed a PhD at the University of Gothenburg. Her publication record was already dealing with environmental policy and collective action by the mid-2000s, including work on South Africa's plastic-bag legislation and experimental studies of cooperation.
+
+Cape Town turned those interests into a city-scale policy experiment. [UCT's behavioural economics research unit](https://commerce.uct.ac.za/ruben/research/experiments-policy-making) records a randomised controlled trial involving about 400,000 households. Behavioural messages were included with municipal bills for six months. Some compared a household's water consumption with its neighbourhood; others framed the financial loss from failing to conserve. The study was followed by work with the city on transferring behavioural-insights capacity into local government.
+
+Visser's research has since broadened beyond individual nudges. Her current chair examines how catchments, rivers, wetlands and other forms of ecological infrastructure can be governed and financed under conditions of inequality, climate risk and scarcity. [UCT describes](https://degree.uct.ac.za/contacts/martine-visser/full?subsite=39) a programme combining field experiments, household and administrative data, cost-benefit analysis and socio-economic modelling. The central concern is not merely how to attach a price to nature, but how institutions can create arrangements that people regard as effective and fair.
+
+That shift also reveals the limitation of behavioural interventions. A message on a bill can influence behaviour, particularly during a visible crisis. It cannot repair a leaking network, create new water supply or resolve deep inequalities in access. The long-term question is therefore how much behaviour can carry and where infrastructure and institutions must take over. Visser's career sits precisely at that boundary, between the choices individuals make and the systems that determine what choices are possible.
+
+::: {.profile-facts}
+**Martine Visser**  
+Professor, University of Cape Town  
+**Field:** Behavioural and environmental economics  
+**Research focus:** Water, collective action, climate risk and ecological infrastructure  
+**Early publication anchor:** Environmental policy and collective-action work, 2006–2007  
+**Major field experiment:** Cape Town water-conservation RCT, about 400,000 households
+:::

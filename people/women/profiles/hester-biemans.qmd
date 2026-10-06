@@ -1,0 +1,35 @@
+---
+title: "Hester Biemans: How much water can agriculture use in a warming world?"
+description: "A hydrologist linking global water resources, irrigation and food security to the pressures created by climate change."
+name: "Hester Biemans"
+role: "Special Professor and Researcher, Wageningen University & Research"
+institution: "Wageningen University & Research"
+field: "Hydrology and food security"
+focus: "Water resources, irrigation, climate change and crop production"
+question: "How much water can agriculture use in a warming world?"
+country: "Netherlands"
+region: "Europe"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Hester Biemans is a Special Professor in Earth Systems and Global Change and a researcher in Water and Food at Wageningen University & Research. Her work sits at one of the most consequential resource constraints in agriculture: water. [Wageningen's research portal](https://research.wur.nl/en/persons/hester-biemans/) identifies climate change, hydrology and food security as the core of her programme.
+
+Biemans studies how river flow, irrigation demand, reservoirs and crop production interact across large regions. Her research often uses global and regional hydrological models to connect climate scenarios to agricultural water availability. That scale matters because water stress in one basin may affect food production, trade and prices far beyond the farms using the water.
+
+A recurring concern is irrigation. Irrigation can protect yields from rainfall variability, but it also depends on rivers, groundwater and infrastructure that may themselves become less reliable under climate change. Biemans has worked extensively on South Asia, where glacier-fed rivers, monsoon systems and intensive irrigation create a particularly complex water-food relationship.
+
+Her work brings together physical hydrology and food-system consequences. Instead of treating water scarcity only as an environmental indicator, she asks what changing supply means for crop calendars, irrigation reliability and the capacity of farming systems to meet demand. That makes adaptation a question of both water engineering and agricultural structure.
+
+The unresolved issue is allocation. Models can estimate how much water exists and how demand might change, but deciding who receives scarce water is political and institutional. Agriculture competes with cities, ecosystems, industry and energy systems. Biemans' science can make the physical constraint clearer. It cannot by itself settle how societies should distribute that constraint.
+
+::: {.profile-facts}
+**Hester Biemans**  
+Special Professor and Researcher, Wageningen University & Research  
+**Field:** Hydrology and food security  
+**Research focus:** Water resources, irrigation and climate change  
+**Primary setting:** Global and regional water-food systems  
+**Core question:** Agricultural water availability under climate change
+:::

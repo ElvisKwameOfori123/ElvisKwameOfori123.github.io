@@ -1,0 +1,35 @@
+---
+title: "Jessica Thorn: Can nature-based adaptation work in the places facing the fastest change?"
+description: "A Namibian environmental scientist studying climate adaptation, food security and nature-based solutions across rapidly changing African landscapes."
+name: "Jessica Thorn"
+role: "Assistant Professor, Imperial College London"
+institution: "Imperial College London / University of Namibia"
+field: "Global food security and environmental change"
+focus: "Nature-based solutions, adaptation and African landscape futures"
+question: "Can nature-based adaptation work in the places facing the fastest change?"
+country: "Namibia / United Kingdom"
+region: "Africa / Europe"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Jessica Thorn is Assistant Professor in Global Food Security and Environmental Change at Imperial College London and a researcher affiliated with the University of Namibia. Born and raised in Namibia, she works on landscapes where climate change, biodiversity, food security and rapid urbanisation meet. Her central question is not simply whether nature can reduce climate risk. It is whether nature-based solutions can work under the social, ecological and infrastructure pressures found in rapidly changing African cities and rural landscapes. [Imperial lists](https://www.imperial.ac.uk/environmental-policy/people/all-staff/) her in the Centre for Environmental Policy.
+
+Thorn's academic background crosses climate adaptation, ecology and human geography. That combination matters because an intervention such as restoring a wetland or creating urban green infrastructure has both ecological mechanisms and social consequences. Her work uses participatory methods, spatial and ecological evidence, scenario development and collaboration with communities and decision-makers rather than treating adaptation as a purely technical design problem.
+
+She leads the African Nature Futures Lab and the FLOURISH programme, which examines green infrastructure and hydrometeorological risk in informal and peri-urban settlements in Namibia, Madagascar and Sierra Leone. [The lab describes](https://africannaturefutures.org/jessica-thorn/) the programme as testing how future landscape configurations can improve resilience and ecosystem health. The geography is important. These are places where infrastructure deficits, land-use change and climate hazards interact, making simple comparisons with well-serviced cities misleading.
+
+Her work also reaches into scientific assessment and training. Thorn has contributed to Africa-focused climate assessments and has built a programme around developing research capacity and future scenarios with African collaborators. In 2026 she was recognised as an inaugural African Planet Prize winner for research contributing to planetary-boundary science and environmental resilience.
+
+The complication is that “nature-based solution” can become a label attached to very different projects. Greening a landscape does not guarantee that flood risk falls, biodiversity improves or vulnerable residents benefit. Land can become more valuable and more contested after environmental improvements. Thorn's work therefore asks for evidence on both ecological effectiveness and distribution. The unresolved question is how to design nature-based adaptation so that the people facing the greatest climate risk also have meaningful power over the landscapes being transformed.
+
+::: {.profile-facts}
+**Jessica Thorn**  
+Assistant Professor, Imperial College London; affiliated researcher, University of Namibia  
+**Field:** Global food security and environmental change  
+**Research focus:** Nature-based solutions, adaptation and African landscape futures  
+**Current programme:** African Nature Futures Lab / FLOURISH  
+**Recognition:** Inaugural African Planet Prize, 2026
+:::

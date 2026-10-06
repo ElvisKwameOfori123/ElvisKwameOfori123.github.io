@@ -1,0 +1,7 @@
+format:
+  html:
+    css: ../women-behind-science.css
+
+author: "Elvis Kwame Ofori"
+draft: true
+toc: false

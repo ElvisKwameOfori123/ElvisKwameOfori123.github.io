@@ -1,0 +1,35 @@
+---
+title: "Una Murray: What does climate adaptation look like when people are also displaced?"
+description: "An international-development scholar connecting climate change, migration, social protection and the institutions that shape recovery."
+name: "Una Murray"
+role: "Senior Lecturer, University of Galway"
+institution: "University of Galway"
+field: "International development"
+focus: "Climate adaptation, migration, social protection and gender"
+question: "What does climate adaptation look like when people are also displaced?"
+country: "Ireland"
+region: "Europe"
+filter: "Climate"
+categories: ["Places & Development"]
+draft: true
+toc: false
+---
+
+Una Murray is a Senior Lecturer in the University of Galway's School of Geography, Archaeology and Irish Studies and a member of the Ryan Institute. Her career has unfolded between universities, governments and United Nations agencies, giving her a particularly practical view of climate adaptation. The problem at the centre of her recent work is what happens when climate stress overlaps with migration, conflict, poverty and displacement. [Her Galway profile](https://research.universityofgalway.ie/en/persons/una-murray/) records more than three decades of international-development research and policy practice.
+
+Murray previously lectured in international development at University College Cork and has worked extensively as a UN evaluator and consultant. At Galway she established and directed the MA in International Development Practice and has taught across programmes in climate change, agriculture, gender and development. Her research therefore grows out of both policy evaluation and academic inquiry rather than from a single disciplinary tradition.
+
+Her projects have examined migration, climate change and social protection in Ethiopia, livelihood reconstruction under conflict and displacement, and the institutional arrangements countries use to report climate action. The current NaHuDi project asks how livelihoods can be rebuilt where climate change, conflict and internal displacement interact. That makes adaptation more complicated than building resilience to rainfall or temperature alone. Households may be negotiating new places, new labour markets and new institutions at the same time.
+
+Murray's research record also shows how policy systems mediate these transitions. She has evaluated programmes for IOM, IFAD and UNICEF and was nominated in 2024 to contribute to scoping the IPCC Seventh Assessment Report. Galway records substantial postgraduate supervision alongside these policy roles.
+
+The unresolved question is whether adaptation policy can keep up with compound realities. Climate plans are often organised by sector, while displaced people experience livelihoods, housing, work, care and mobility simultaneously. Murray's work suggests that successful adaptation depends on institutions being able to see those connections rather than treating migration or social protection as separate problems.
+
+::: {.profile-facts}
+**Una Murray**  
+Senior Lecturer, University of Galway  
+**Field:** International development  
+**Research focus:** Climate adaptation, migration, social protection and gender  
+**Current project:** NaHuDi  
+**Policy experience:** UN evaluation and international development practice
+:::

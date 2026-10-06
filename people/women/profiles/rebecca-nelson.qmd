@@ -1,0 +1,35 @@
+---
+title: "Rebecca Nelson: Can crop science move from disease resistance to a circular nutrient economy?"
+description: "A Cornell plant scientist whose career spans crop disease, food safety, agroecology and the circular use of nutrients."
+name: "Rebecca Nelson"
+role: "Professor, Cornell University"
+institution: "Cornell University"
+field: "Plant pathology and global development"
+focus: "Crop disease, food security and circular bionutrient systems"
+question: "Can crop science move from disease resistance to a circular nutrient economy?"
+country: "United States"
+region: "North America"
+filter: "Plant Science"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Rebecca Nelson is a Professor in Cornell University's School of Integrative Plant Science and Department of Global Development. Her career spans several phases of agricultural science, from plant disease resistance and food safety to the wider question of how nutrients can circulate through food systems rather than being lost as waste. [Cornell describes](https://wchs.undergrad.cornell.edu/houses/carl-becker-house/people/rebecca-nelson) her current interests as food security, participatory research, circular economy and the defence of nature.
+
+Nelson spent years working internationally before joining Cornell, including rice-disease research at the International Rice Research Institute in the Philippines and potato late-blight work at the International Potato Center in Peru. At Cornell, her laboratory became known for research on quantitative disease resistance in maize and on mycotoxins that threaten food safety in staple crops.
+
+Her work later broadened through more than two decades as scientific director of the McKnight Foundation's Collaborative Crop Research Program, now the Collaborative for Resilient Food Systems. That role linked plant science with agroecology and farmer-centred research across Africa and the Andes.
+
+More recently, Nelson's laboratory has pivoted toward what she calls a circular bionutrient economy. The question is how nutrients contained in organic wastes can be recovered and reused safely, reducing dependence on mined or industrial fertilisers while avoiding pollution and contamination.
+
+The unresolved challenge is integration. Crop disease, food safety, nutrient recycling and farmer livelihoods are usually handled by separate disciplines and agencies. Nelson's career increasingly treats them as one system. The difficulty is building circularity without moving pathogens, toxins or other risks through the same loops designed to recover nutrients.
+
+::: {.profile-facts}
+**Rebecca Nelson**  
+Professor, Cornell University  
+**Field:** Plant pathology and global development  
+**Research focus:** Crop disease, food security and circular nutrients  
+**International experience:** IRRI and International Potato Center  
+**Current direction:** Circular bionutrient economy
+:::

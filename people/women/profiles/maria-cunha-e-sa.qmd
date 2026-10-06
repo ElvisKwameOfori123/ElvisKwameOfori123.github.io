@@ -1,0 +1,35 @@
+---
+title: "Maria Antonieta Cunha-e-Sá: How much are people willing to pay to protect nature?"
+description: "A Portuguese environmental economist studying conservation, ecosystem services and the institutions used to finance environmental protection."
+name: "Maria Antonieta Cunha-e-Sá"
+role: "Professor, Nova School of Business and Economics"
+institution: "Nova School of Business and Economics"
+field: "Environmental economics"
+focus: "Ecosystem services, conservation finance and environmental policy"
+question: "How much are people willing to pay to protect nature?"
+country: "Portugal"
+region: "Europe"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Maria Antonieta Cunha-e-Sá is a Professor of Economics at Nova School of Business and Economics. Her research asks how environmental benefits can be valued and how policy can translate those values into real conservation choices. [Nova SBE](https://www.novasbe.unl.pt/pt/docentes-e-investigacao/docentes/perfil-detalhe/id/22/antonieta-cunha-e-sa) lists environmental and resource economics at the centre of her work.
+
+Cunha-e-Sá completed a PhD in Economics at the University of Illinois at Urbana-Champaign after earlier economics training in Portugal. Over a long academic career she has worked on natural-resource management, biodiversity, marine and coastal systems, and the design of incentives for environmental protection.
+
+A recurring problem in environmental economics is that many ecosystem benefits are not traded in ordinary markets. Clean coasts, biodiversity, flood protection and landscape quality have value, but that value is often invisible in conventional prices. Cunha-e-Sá has used stated-preference methods, economic modelling and policy analysis to estimate how people value these services and how those preferences change with institutional design.
+
+Recent work examines willingness to pay for nature protection and compares conventional tax-based approaches with mechanisms such as crowdfunding. The finding that payment design affects participation is important because conservation finance depends not only on the amount people say nature is worth, but also on trust, institutions and how contributions are collected.
+
+The unresolved question is whether monetary valuation clarifies or narrows environmental decisions. Prices can make benefits visible in policy appraisal, but some ecological losses may be difficult to reduce to willingness-to-pay measures. Cunha-e-Sá's work sits within that tension, using economics to strengthen environmental decisions without assuming that every value enters neatly through a market.
+
+::: {.profile-facts}
+**Maria Antonieta Cunha-e-Sá**  
+Professor, Nova School of Business and Economics  
+**Field:** Environmental economics  
+**Research focus:** Ecosystem services, conservation finance and environmental policy  
+**Training:** PhD Economics, University of Illinois  
+**Recent work:** Willingness to pay for nature protection, 2025
+:::

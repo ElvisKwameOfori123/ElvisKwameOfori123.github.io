@@ -1,0 +1,35 @@
+---
+title: "Britta Rennkamp: Can a rapid energy transition also reduce structural inequality?"
+description: "A climate-policy scholar studying how power, coalitions and inequality shape the politics of energy transition in the Global South."
+name: "Britta Rennkamp"
+role: "Senior Researcher, African Climate and Development Initiative"
+institution: "University of Cape Town"
+field: "Climate policy and science, technology and innovation policy"
+focus: "Just energy transitions, inequality, governance and political economy"
+question: "Can a rapid energy transition also reduce structural inequality?"
+country: "South Africa"
+region: "Africa"
+filter: "Economics & Policy"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Britta Rennkamp is a Senior Researcher at the University of Cape Town's African Climate and Development Initiative and co-director of the ARUA Centre of Excellence in Climate and Development. Her work sits at the intersection of climate policy, energy policy, inequality and political economy. The question is not simply how a country replaces high-carbon technologies. It is how that transition unfolds in societies where unemployment, poverty and unequal access to power are already structural features. [ACDI describes](https://acdi.uct.ac.za/contacts/britta-rennkamp) her current programme as examining the two-way relationship between climate policy and social inequality across sub-Saharan Africa.
+
+Rennkamp trained in science and technology policy at the University of Twente after earlier interdisciplinary study of Latin America at the University of Cologne. Before joining UCT, she worked with German development institutions in Brazil and Germany. That background gave her a comparative view of how technology, industrial policy and development institutions shape transitions in very different political settings.
+
+Her research has examined renewable energy, coal, nuclear power, carbon taxation and green industrial policy. One influential *Climate Policy* paper analysed power, coalitions and institutional change in South African climate policy using parliamentary records, media, public comments and interviews. It found that policy change becomes especially fragile when powerful actors face direct losses, and that poverty language can sometimes be used strategically by actors protecting established interests. The paper makes transition politics concrete by showing how policies move through competing coalitions rather than through technical optimisation alone.
+
+That emphasis carries into her current work on just energy transitions. Rennkamp has managed research and consulting projects and multi-stakeholder engagements across Africa, Europe and Latin America. She also contributes to international assessments, including the IPCC Sixth Assessment Report and work on clean-energy innovation in emerging and developing economies.
+
+The unresolved tension is that “just transition” can serve opposite political purposes. It can create a framework for sharing costs, protecting workers and building legitimacy for faster climate action. It can also become a language for delaying change when powerful interests attach their losses to broader claims about social protection. Rennkamp's work asks which coalitions are able to turn climate policy into durable institutional change. The deeper question is whether transition politics can redistribute power at the same time as it redistributes energy.
+
+::: {.profile-facts}
+**Britta Rennkamp**  
+Senior Researcher, African Climate and Development Initiative  
+**Field:** Climate policy and science, technology and innovation policy  
+**Research focus:** Just energy transitions, inequality, governance and political economy  
+**Selected role:** Co-director, ARUA Centre of Excellence in Climate and Development  
+**Selected publication:** Power, coalitions and institutional change in South African climate policy, *Climate Policy* (2019)
+:::

@@ -1,0 +1,35 @@
+---
+title: "Petra Holden: Can nature-based solutions be both effective and fair?"
+description: "A transdisciplinary conservation scientist studying when restoration and nature-based solutions deliver ecological benefits without hiding social trade-offs."
+name: "Petra Holden"
+role: "Senior Researcher, African Climate and Development Initiative"
+institution: "University of Cape Town"
+field: "Conservation science and restoration ecology"
+focus: "Nature-based solutions, hydrology, biodiversity and social equity"
+question: "Can nature-based solutions be both effective and fair?"
+country: "South Africa"
+region: "Africa"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Petra Holden is a Senior Researcher at the University of Cape Town's African Climate and Development Initiative and leads the People in Nature & Climate Lab. Her work focuses on nature-based solutions, a phrase that can make environmental interventions sound more straightforward than they are. Restoring vegetation, clearing invasive trees or protecting ecosystems may improve water, biodiversity or climate resilience, but the benefits and costs do not necessarily fall on the same people. [ACDI describes](https://acdi.uct.ac.za/arua-cd/contacts/petra-holden/full?subsite=2857) her research as explicitly crossing natural and social sciences to examine whether nature-based solutions are both equitable and effective.
+
+Holden trained in conservation biology at the University of Cape Town and worked in restoration consulting and conservation policy before returning to academic research. That trajectory matters because it placed her early in settings where ecological evidence has to survive contact with policy, budgets and local interests. Her current lab uses field studies, modelling, artificial intelligence and synthesis to examine ecosystem-service dynamics, incentives for investment and approaches to co-governance.
+
+One strand of her work looks at hydrology. Clearing invasive alien trees from mountain catchments can restore streamflow, but it can also alter carbon storage, habitat and livelihoods. Another strand examines how conservation evidence itself is produced. A 2024 *Conservation Biology* paper with colleagues argued for methodological pluralism in constructing counterfactuals, the imagined condition against which conservation outcomes are judged. The point is not technical for its own sake. Different counterfactuals can produce different conclusions about whether an intervention “worked”.
+
+Holden's recent work also connects nature-based solutions to climate services and co-production. That moves the research from ecological response toward the institutions deciding what information counts and whose priorities are represented. In 2023, her work received both the Frontiers Planet Prize and the AXA XL Climate Water Nexus Award, recognition that reflects a programme combining environmental measurement with questions about equity and implementation.
+
+The unresolved issue is that “win-win” claims can conceal distribution. A project may improve average water availability while creating costs for particular workers, land users or communities. It may deliver carbon benefits while reducing another ecosystem service. Holden's work keeps attention on how those trade-offs are measured and governed. A nature-based solution is not equitable simply because it uses nature. The harder task is designing evidence and institutions that can show who gains, who loses and whether those outcomes are acceptable.
+
+::: {.profile-facts}
+**Petra Holden**  
+Senior Researcher, African Climate and Development Initiative  
+**Field:** Conservation science and restoration ecology  
+**Research focus:** Nature-based solutions, hydrology, biodiversity and social equity  
+**Lab:** People in Nature & Climate Lab  
+**Selected recent work:** Methodological pluralism for evidence-based conservation, *Conservation Biology* (2024)
+:::

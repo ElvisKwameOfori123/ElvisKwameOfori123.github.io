@@ -1,0 +1,35 @@
+---
+title: "Eve Daly: Can we see enough of the soil to manage water and carbon better?"
+description: "A geophysicist imaging the critical zone to improve peatland mapping, soil-moisture monitoring and agricultural management."
+name: "Eve Daly"
+role: "Lecturer, University of Galway"
+institution: "University of Galway"
+field: "Geophysics and Earth observation"
+focus: "Critical-zone imaging, soil moisture, peat and agricultural management"
+question: "Can we see enough of the soil to manage water and carbon better?"
+country: "Ireland"
+region: "Europe"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Eve Daly is a geophysicist and lecturer in Earth and Ocean Sciences at the University of Galway. Her work focuses on the critical zone, the permeable layer from vegetation through soil to groundwater where rock, water and life interact. [Her Galway profile](https://research.universityofgalway.ie/en/persons/eve-daly/) describes a research programme built around imaging this hidden layer for applications in water resources, agriculture and climate accounting.
+
+Daly trained first in physics and later completed a PhD in geophysics. In 2019 she established the HY-RES research group, bringing together hydrogeophysics and remote sensing. The recurring problem is measurement. Soil moisture, peat depth, compaction and subsurface water are important for farm management and carbon inventories, but they are difficult to observe continuously and at useful spatial scales.
+
+Her group combines field geophysics, satellite observations, airborne radiometric data and machine-learning methods. Recent work has used Ireland's Tellus survey to map peat beneath grassland and forest cover, investigated soil compaction associated with cattle grazing and developed soil-moisture products for drainage and crop management. In 2026, Daly and collaborators published work in *SOIL* on the effects of rewetting agricultural fen peat through drain blocking.
+
+The science is closely tied to national accounting. Projects with Teagasc, Trinity College Dublin and Munster Technological University are developing tools for greenhouse-gas reporting and peatland management. Daly also serves on the Royal Irish Academy's Geosciences Committee and a Met Éireann–Teagasc working group on agricultural meteorology.
+
+The unresolved challenge is scale. Measurements that work well in one field do not automatically translate into national maps, while national remote-sensing products can miss local hydrology. Daly's work sits in that gap, asking how multiple sensing systems can be combined closely enough to inform both farm decisions and national climate reporting.
+
+::: {.profile-facts}
+**Eve Daly**  
+Lecturer, University of Galway  
+**Field:** Geophysics and Earth observation  
+**Research focus:** Critical-zone imaging, soil moisture and peat  
+**Research group:** HY-RES, established 2019  
+**Selected recent paper:** Agricultural fen peat rewetting, *SOIL* (2026)
+:::

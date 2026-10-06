@@ -1,0 +1,35 @@
+---
+title: "Joyce Chitja: What has to change before smallholder farmers can reach better markets?"
+description: "A South African food-security scholar connecting smallholder production, water, market access and community-engaged research."
+name: "Joyce Chitja"
+role: "Associate Professor and Director, African Centre for Food Security"
+institution: "University of KwaZulu-Natal"
+field: "Food and nutrition security"
+focus: "Smallholder development, market access and water security"
+question: "What has to change before smallholder farmers can reach better markets?"
+country: "South Africa"
+region: "Africa"
+filter: "Food & Nutrition"
+categories: ["Places & Development"]
+draft: true
+toc: false
+---
+
+Joyce Chitja is an Associate Professor at the University of KwaZulu-Natal and Director of its African Centre for Food Security. Her research starts from a problem that often disappears in discussions of agricultural productivity. A smallholder can produce more food and still remain economically insecure if markets, water, institutions and bargaining power prevent that production from becoming a reliable livelihood. [UKZN describes](https://agriculture-science.ukzn.ac.za/staff-profile/prof-joyce-chitja/) her programme as spanning food and nutrition security, water-use security, smallholder development and market access.
+
+Chitja has spent roughly two decades at UKZN, developing a career that combines academic research with community engagement. The distinction is important. Her work is not organised around studying rural communities from a distance and then returning with recommendations. UKZN highlights a commitment to translating research into action, alongside postgraduate supervision, mentoring and regional policy engagement.
+
+Food security in this framing is not simply a question of calories. It is produced by linked systems. Farmers require land and water, but they also need market information, logistics, relationships with buyers and institutions that can reduce the risks of participating in higher-value supply chains. Chitja's work has examined these connections in smallholder agriculture, particularly where rural development and commercial opportunity meet.
+
+As director of the African Centre for Food Security, she also works across disciplinary boundaries. Food insecurity can reflect agricultural production, income, household decisions, infrastructure and public policy at the same time. The centre's work therefore creates an institutional setting for research that cannot be solved inside one conventional agricultural discipline. UKZN also records a long history of master's and doctoral supervision and contributions to food-security policy and programmes in South Africa and the wider SADC region.
+
+The unresolved question is what successful integration into markets should mean. Linking smallholders to a formal value chain can raise income, but it can also expose households to new standards, costs and dependencies. Productivity alone does not settle who captures value or who carries risk. Chitja's work points toward a broader test: whether market participation improves food security and rural livelihoods on terms that smallholder farmers can sustain.
+
+::: {.profile-facts}
+**Joyce Chitja**  
+Associate Professor and Director, African Centre for Food Security, UKZN  
+**Field:** Food and nutrition security  
+**Research focus:** Smallholder development, market access and water security  
+**Career:** About two decades at UKZN  
+**Scientific community:** Postgraduate supervision, policy engagement and community-engaged research
+:::

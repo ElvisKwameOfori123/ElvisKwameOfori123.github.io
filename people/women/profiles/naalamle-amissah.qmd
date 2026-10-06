@@ -1,0 +1,35 @@
+---
+title: "Jacqueline Naalamle Amissah: Can plants that have rarely been farmed become useful crops before they disappear?"
+description: "A horticultural scientist working on plant propagation, domestication and underused species with potential value for food and medicine."
+name: "Jacqueline Naalamle Amissah"
+role: "Associate Professor, University of Ghana"
+institution: "University of Ghana"
+field: "Horticulture and plant tissue culture"
+focus: "Plant domestication, propagation and underutilised species"
+question: "Can plants that have rarely been farmed become useful crops before they disappear?"
+country: "Ghana"
+region: "Africa"
+filter: "Plant Science"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Jacqueline Naalamle Amissah is an Associate Professor in the University of Ghana's Department of Crop Science whose work focuses on a category of plants agriculture often overlooks: species that are useful, culturally important or biologically interesting but have never been domesticated on the scale of major crops. Her research spans propagation, horticulture and plant tissue culture, with particular attention to species that are difficult to multiply or vulnerable in the wild. [The University of Ghana's research system](https://pure.ug.edu.gh/en/persons/jacqueline-naalamle-amissah/) records research activity from 2008 onward across horticulture, indigenous crops and sustainable production.
+
+Amissah trained in agriculture in Ghana before moving to Cornell University for graduate study in horticulture, completing an MSc and then a PhD. She returned to the University of Ghana and developed a programme around propagation biology and domestication. That work has included shea, miracle fruit and *Cryptolepis sanguinolenta*, a medicinal plant used in malaria treatment. The scientific problem is practical: many wild or semi-domesticated species do not reproduce easily under cultivation, so conservation and commercialisation both depend on learning how to propagate them reliably.
+
+One important strand of her work has therefore been tissue culture and vegetative propagation. In the case of *Cryptolepis sanguinolenta*, research supported through an international collaboration developed protocols aimed at moving the species from pressure on wild populations toward cultivation. More recent work has expanded into indigenous fruits and vegetables, seed physiology, tomato production and the profitability of underused crops across West Africa. A 2026 University of Ghana record includes research on spatial variation in profitability among indigenous fruit and vegetable farmers and on consumer-led product development for indigenous foods.
+
+That movement from laboratory to market is central to the career. A successful tissue-culture protocol solves only the first stage of domestication. Farmers still need planting material, extension support, markets and reasons to take on an unfamiliar crop. Consumers must also recognise value in the product. Amissah's research increasingly sits across those stages, from multiplication of plants to the food-system conditions that determine whether an underused species becomes economically viable.
+
+The unresolved question is scale. Many indigenous and medicinal plants have desirable traits, but agriculture is built around systems designed for a relatively small number of well-established crops. Moving a species from the wild into a farmer's field requires more than proving that it can be propagated. It requires a chain of biological, agronomic and market solutions. Amissah's work asks whether that chain can be built quickly enough to conserve useful plants while also creating new options for farmers and food systems.
+
+::: {.profile-facts}
+**Jacqueline Naalamle Amissah**  
+Associate Professor, University of Ghana  
+**Field:** Horticulture and plant tissue culture  
+**Research focus:** Plant domestication, propagation and underutilised species  
+**Training:** Graduate horticulture training at Cornell University  
+**Current themes:** Indigenous fruits and vegetables, propagation and sustainable horticulture
+:::

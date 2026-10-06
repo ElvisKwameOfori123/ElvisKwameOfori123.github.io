@@ -1,0 +1,35 @@
+---
+title: "Hannah Ritchie: Can better data change how people think about environmental progress?"
+description: "A sustainability researcher and data communicator examining food, energy, climate and development through long-run global evidence."
+name: "Hannah Ritchie"
+role: "Senior Researcher and Deputy Editor, Our World in Data"
+institution: "Our World in Data / Oxford Martin School"
+field: "Sustainability data science"
+focus: "Food systems, energy, climate, biodiversity and global development"
+question: "Can better data change how people think about environmental progress?"
+country: "United Kingdom"
+region: "Europe"
+filter: "Climate"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Hannah Ritchie is a Senior Researcher, Deputy Editor and Science Outreach Lead at Our World in Data and an Oxford Martin Fellow. Her work asks how environmental and development debates change when long-run evidence replaces impressions, headlines and isolated statistics. [The Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/people/dr-hannah-ritchie) describes her research across food supply, agriculture, energy, climate, biodiversity and global health.
+
+Ritchie trained in environmental geoscience and carbon management before completing a PhD in geosciences at the University of Edinburgh. She also taught sustainability there. Her research career gradually moved toward building and interpreting global datasets that allow readers to compare countries, technologies and trends across long periods.
+
+Food systems have been a major theme. Ritchie has published on whether global agriculture can meet nutritional needs while reducing environmental pressure, how much land food production requires and the consequences of alternative diets and farming systems. At Our World in Data, the scientific task is inseparable from communication. The charts and datasets are designed to make claims inspectable rather than merely persuasive.
+
+That approach can produce conclusions that cut against both pessimistic and complacent narratives. Some indicators improve while others deteriorate. Agricultural land use can peak even as biodiversity pressures remain severe. Clean technologies can expand rapidly while total emissions remain too high. Ritchie's work is strongest when it holds those facts together rather than forcing them into one story of progress or collapse.
+
+The unresolved question is whether evidence changes public reasoning. Better data can correct false beliefs, but political identity, values and unequal attention still shape what people accept. The challenge is therefore not only to measure environmental change accurately. It is to communicate it in a way that preserves uncertainty, scale and context without losing the reader.
+
+::: {.profile-facts}
+**Hannah Ritchie**  
+Senior Researcher and Deputy Editor, Our World in Data  
+**Field:** Sustainability data science  
+**Research focus:** Food, energy, climate, biodiversity and development  
+**Training:** PhD GeoSciences, University of Edinburgh  
+**Oxford role:** Oxford Martin Fellow
+:::

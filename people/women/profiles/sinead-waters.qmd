@@ -1,0 +1,35 @@
+---
+title: "Sinéad Waters: Can the rumen be changed enough to cut methane without weakening livestock production?"
+description: "A microbiologist studying the organisms inside the rumen and the difficult trade-offs involved in reducing methane from cattle."
+name: "Sinéad Waters"
+role: "Lecturer, University of Galway"
+institution: "University of Galway"
+field: "Rumen microbiology and animal science"
+focus: "Methane mitigation, microbiomes and host–animal interactions"
+question: "Can the rumen be changed enough to cut methane without weakening livestock production?"
+country: "Ireland"
+region: "Europe"
+filter: "Climate"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Sinéad Waters is a lecturer and principal investigator at the University of Galway whose research focuses on the microbial communities living inside ruminant animals. The practical problem is methane. Cattle and other ruminants depend on microorganisms in the rumen to break down feed that the animal itself cannot digest efficiently. Methane is produced within that microbial ecosystem, which means reducing emissions is not simply a matter of removing an unwanted by-product. The intervention has to change a functioning biological system without damaging the processes that sustain animal health and productivity. [Galway describes](https://research.universityofgalway.ie/en/persons/sinead-waters/) that host–microbiome interaction as the core of her current programme.
+
+Waters spent almost two decades at Teagasc, from 2005 until early 2024, before joining the University of Galway. Across that period she built a research programme using animal science, molecular biology, genomics, transcriptomics, microbiology and bioinformatics. She also served as co-chair of the Livestock Research Group of the Global Research Alliance for Agricultural Greenhouse Gases from 2018 to 2023 and has represented Ireland in European expert work on agricultural methane.
+
+Her laboratory question is increasingly connected to technologies being considered for farms. Waters studies feed additives, breeding strategies and microbial responses that might reduce enteric methane. Recent papers have examined brown-seaweed hydrolysates and temperate seaweeds for their effects on rumen fermentation and methane production. These studies are part of a larger shift in methane research from measuring the problem toward identifying interventions that can survive the transition from controlled experiments to pasture-based livestock systems.
+
+Teaching gives another view of how the field is changing. Galway lists Waters as module owner for Food and Industry Microbiology and Microbiomes Underpinning Agriculture, alongside teaching on agricultural greenhouse-gas emissions, rumen microbiology, methane mitigation and livestock genomics. She also supervises student research projects and contributes to the MSc in Agriculture, Sustainability and Technology.
+
+The difficult question is biological robustness. An additive that suppresses methane in vitro may behave differently in an animal, under grazing conditions or over long periods. Microbial communities can adapt, responses can vary between animals and an intervention that alters fermentation may affect productivity or health. Waters' work therefore sits at the point where national methane targets meet a living ecosystem. Cutting methane is possible in principle. The harder task is finding interventions that remain effective, safe and economically usable once they leave the laboratory.
+
+::: {.profile-facts}
+**Sinéad Waters**  
+Lecturer, University of Galway  
+**Field:** Rumen microbiology and animal science  
+**Research focus:** Methane mitigation, microbiomes and host–animal interactions  
+**Career:** Teagasc, 2005–2024; University of Galway, from 2024  
+**Teaching:** Microbiomes, agricultural greenhouse gases, rumen biology and livestock genomics
+:::

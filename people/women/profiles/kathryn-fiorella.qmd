@@ -1,0 +1,35 @@
+---
+title: "Kathryn Fiorella: What happens to nutrition when ecosystems change?"
+description: "A Cornell environmental scientist and epidemiologist studying how fisheries, livelihoods and ecological change shape food security and health."
+name: "Kathryn Fiorella"
+role: "Associate Professor, Cornell University"
+institution: "Cornell University"
+field: "Planetary health and environmental epidemiology"
+focus: "Fisheries, livelihoods, nutrition and environmental change"
+question: "What happens to nutrition when ecosystems change?"
+country: "United States"
+region: "North America"
+filter: "Food & Nutrition"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Kathryn Fiorella is an Associate Professor in Cornell University's Department of Public and Ecosystem Health. Her research examines how environmental change affects human well-being through food systems, livelihoods and nutrition, with a particular focus on fisheries. [Cornell](https://www.vet.cornell.edu/about-us/people/kathryn-fiorella-phd-mph) identifies planetary health, fisheries, livelihoods and nutrition among her core research areas.
+
+Fiorella trained in ecology and evolutionary biology at Princeton before completing both an MPH and a PhD in Environmental Science, Policy and Management at the University of California, Berkeley. That combination of epidemiology and environmental science shaped a research programme that treats ecological change as a public-health issue rather than a separate environmental problem.
+
+Her work often focuses on fishing communities where aquatic ecosystems provide both food and income. Changes in fish populations can therefore affect diets, household economies and health at the same time. Fiorella uses interdisciplinary methods to trace those links, combining ecological data with household and health information.
+
+This approach is especially relevant in regions where fisheries are under pressure from climate change, overexploitation and shifting markets. A decline in catch does not translate mechanically into one health outcome. Households may change diets, labour, migration or income sources, producing effects that differ across gender and wealth groups.
+
+The unresolved challenge is to identify interventions that protect both ecosystems and people. Restricting fishing may improve ecological recovery while reducing short-term food access. Expanding markets may increase income while accelerating extraction. Fiorella's work asks how conservation and public health can be designed together rather than forcing communities to choose between them.
+
+::: {.profile-facts}
+**Kathryn Fiorella**  
+Associate Professor, Cornell University  
+**Field:** Planetary health and environmental epidemiology  
+**Research focus:** Fisheries, livelihoods, nutrition and environmental change  
+**Training:** PhD and MPH, UC Berkeley  
+**Current role:** Food Systems and Health lead, Cornell MPH
+:::

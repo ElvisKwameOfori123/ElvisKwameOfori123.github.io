@@ -1,0 +1,35 @@
+---
+title: "Irene S. Egyir: Why do sensible agricultural policies work differently for different farmers?"
+description: "A Ghanaian agricultural economist studying how markets, finance, gender and resource constraints shape what farmers can actually do."
+name: "Irene S. Egyir"
+role: "Associate Professor, University of Ghana"
+institution: "University of Ghana"
+field: "Agricultural economics"
+focus: "Resource use, microfinance, gender and policy evaluation"
+question: "Why do sensible agricultural policies work differently for different farmers?"
+country: "Ghana"
+region: "Africa"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Irene S. Egyir is an Associate Professor in the University of Ghana's Department of Agricultural Economics and Agribusiness. Her career asks a question that sits behind many agricultural policies: why can the same intervention produce very different outcomes for farmers who appear, on paper, to face the same programme? [Her University of Ghana profile](https://www.ug.edu.gh/agricecons/people/prof-irene-s-egyir) describes nearly three decades of teaching, research and consultancy across resource use, gender and policy evaluation.
+
+Egyir joined the University of Ghana in the 1990s and completed a PhD in Agricultural Economics there in 2003. Her work has ranged across agricultural markets, natural-resource management, microfinance, gender analysis and the evaluation of farming systems. She also built practical experience in finance through leadership of a development organisation studying small entrepreneurs' access to credit. That background matters because agricultural transitions are often described as if farmers are choosing freely among technologies. In practice, credit, land, labour, market access and household bargaining can determine which options are available before a farmer makes any choice.
+
+Her more recent work reflects this wider frame. Egyir has studied organic and conventional farming systems, cocoa production, climate shocks, credit access and the trade-offs associated with agricultural intensification. Research on adaptation in West Africa and beyond asks not only whether farmers respond to climate risk, but why households select different strategies and how gender and age shape the evidence collected about those decisions.
+
+This is economics close to the farm rather than economics abstracted from it. Survey analysis, policy evaluation and experimental approaches are used to understand how incentives interact with institutions and household constraints. The University of Ghana records around 40 publications and a long history of teaching, training and consultancy. She has also held academic leadership roles, including service as a head of department and dean.
+
+The unresolved problem is heterogeneity. A subsidy, credit guarantee or climate-adaptation programme may be economically attractive on average while excluding farmers with insecure land, limited collateral or less control over household resources. Average treatment effects can therefore hide the distribution that matters most for implementation. Egyir's work keeps returning to the conditions underneath the policy. The question is not simply whether an intervention raises productivity. It is which farmers can use it, who bears the risks and what institutional changes are needed before the apparent opportunity becomes a real one.
+
+::: {.profile-facts}
+**Irene S. Egyir**  
+Associate Professor, University of Ghana  
+**Field:** Agricultural economics  
+**Research focus:** Resource use, microfinance, gender and policy evaluation  
+**Experience:** Nearly three decades of teaching, research and consultancy  
+**Current themes:** Farming-system sustainability, climate adaptation and access to finance
+:::

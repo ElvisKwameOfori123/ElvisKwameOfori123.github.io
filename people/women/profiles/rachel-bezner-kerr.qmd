@@ -1,0 +1,35 @@
+---
+title: "Rachel Bezner Kerr: What changes when farmers become researchers too?"
+description: "A development scholar whose long-running work in Malawi and Tanzania treats farmers as collaborators in agroecological research."
+name: "Rachel Bezner Kerr"
+role: "Professor, Cornell University"
+institution: "Cornell University"
+field: "Agroecology and development"
+focus: "Food security, nutrition, gender and participatory research"
+question: "What changes when farmers become researchers too?"
+country: "United States / Malawi"
+region: "Africa / North America"
+filter: "Agriculture"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Rachel Bezner Kerr is Professor of Global Development at Cornell University and Director of Cornell's Institute for African Development. For more than two decades, much of her research has been rooted in northern Malawi and, later, Tanzania. The distinctive feature is not simply that the work studies farmers. It is that farmers and local organisations are treated as participants in producing the knowledge. [Cornell describes](https://cals.cornell.edu/people/rachel-bezner-kerr) her approach as long-term, community-based and participatory, combining agriculture, nutrition, ecology and social science.
+
+An early publication anchor is a 2005 *Journal of Southern African Studies* paper examining food security, gender, kinship and entitlements in northern Malawi. Those concerns remain visible in later work, even as the methods and scale expanded. Bezner Kerr completed a PhD in Development Sociology at Cornell, taught at the University of Western Ontario from 2006 to 2012 and returned to Cornell in 2012. Her long-term collaboration with the Soils, Food and Healthy Communities initiative in Malawi reaches back to around 2000.
+
+The research does not reduce agroecology to a yield experiment. Projects have tested legume intercropping and other agroecological practices while following outcomes such as soil management, household food security, child nutrition, labour and gender relations. That creates a more demanding standard of success. A farming practice can raise yields and still fail if it increases labour burdens, shifts control over food or cannot be sustained without unusually intensive support. Bezner Kerr's collaborations with farmers, local organisations, public-health researchers and ecologists are therefore part of the method, not decoration around it.
+
+Her publication record now exceeds 100 peer-reviewed papers, chapters and books according to Cornell. She was a Coordinating Lead Author for the food-systems chapter of the IPCC Sixth Assessment Report and co-authored the 2019 High Level Panel of Experts report on agroecology. Recent work continues to examine how agroecology is framed across Africa, how gender-transformative interventions affect autonomy and how seed systems interact with food sovereignty and agricultural policy.
+
+The strength of this model is also its complication. Participatory research works partly because relationships, trust and local knowledge accumulate over years. Those conditions cannot be reproduced by simply issuing a national programme and expecting the same result. The question behind Bezner Kerr's work is therefore larger than whether agroecology works. It is how research, farming knowledge and public policy can be organised so that the people expected to live with a transition help determine what is tested, what counts as success and what is scaled.
+
+::: {.profile-facts}
+**Rachel Bezner Kerr**  
+Professor, Cornell University  
+**Field:** Agroecology and development  
+**Research focus:** Food security, nutrition, gender and participatory research  
+**Early publication anchor:** Food security, gender and kinship in northern Malawi, *Journal of Southern African Studies* (2005)  
+**Long-running field collaboration:** Soils, Food and Healthy Communities, Malawi
+:::

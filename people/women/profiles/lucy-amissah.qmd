@@ -1,0 +1,35 @@
+---
+title: "Lucy Amissah: How do you manage wildfire without separating forests from the people who live with fire?"
+description: "A Ghanaian forest ecologist linking wildfire science, community fire management, restoration and tropical forest recovery."
+name: "Lucy Amissah"
+role: "Deputy Director and Principal Research Scientist, CSIR-FORIG"
+institution: "CSIR-Forestry Research Institute of Ghana"
+field: "Tropical forest ecology"
+focus: "Wildfire management, biodiversity and forest restoration"
+question: "How do you manage wildfire without separating forests from the people who live with fire?"
+country: "Ghana"
+region: "Africa"
+filter: "Climate"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Lucy Amissah is Deputy Director and Principal Research Scientist at the CSIR-Forestry Research Institute of Ghana. Her work has followed fire through forests, farms and communities for more than two decades. Wildfire is an ecological disturbance, but in Ghana it is also a livelihood, governance and land-management problem. Fire may be used deliberately in farming or landscape management and may also escape into forests and settlements. [CSIR-FORIG identifies](https://csir-forig.org.gh/staff/) Amissah as a specialist in tropical forest ecology, forest fire management, biodiversity conservation and forest landscape restoration.
+
+Her career developed from forest ecology into increasingly applied fire-management work. CSIR records research by Amissah on climate change and tree regeneration as early as 2010, while later projects have examined how forests recover from disturbance and how community institutions can reduce wildfire risk. The institution's 2026 profile of her emphasises a shift from scientific evidence into practical guidance, partnerships and community resilience.
+
+Community-based fire management is central to that work. It includes awareness, fire belts, prescribed burning, volunteer fire brigades and locally organised responses during fire seasons. In 2026 the International Tropical Timber Organization highlighted Amissah's role in Ghana and her contribution to international integrated-fire-management work. The underlying idea is that fire cannot be managed effectively by treating people solely as a source of ignition. Communities are also part of prevention, detection and response.
+
+At the same time, Amissah remains a forest ecologist. Her recent collaborative research examines how young secondary tropical forests recover structure, diversity, soils and ecosystem functions after disturbance. A 2026 *Forest Ecology and Management* paper compared recovery in dry and wet secondary forests, while wider collaborations investigate succession across tropical landscapes. This connects fire management to a larger question about what happens after disturbance and how restoration should be judged.
+
+The unresolved problem is that suppression, livelihoods and ecosystem recovery do not always point in the same direction. Preventing destructive wildfire is essential, but fire is also embedded in land-use systems and some ecosystems. Policies imposed without local knowledge can shift rather than solve risk. Amissah's work therefore treats fire management as both ecological science and collective action: how to reduce destructive fire while building institutions that communities can actually sustain.
+
+::: {.profile-facts}
+**Lucy Amissah**  
+Deputy Director and Principal Research Scientist, CSIR-FORIG  
+**Field:** Tropical forest ecology  
+**Research focus:** Wildfire management, biodiversity and forest restoration  
+**Experience:** More than two decades in forestry research and development  
+**Recent research:** Secondary tropical forest recovery and ecosystem succession, 2026
+:::

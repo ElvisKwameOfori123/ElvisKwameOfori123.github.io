@@ -1,0 +1,35 @@
+---
+title: "Siera Vercillo: Who gets to define a just food-system transformation?"
+description: "A Wageningen scholar-activist using feminist geography and participatory research to study food sovereignty and agrarian change in Ghana."
+name: "Siera Vercillo"
+role: "Assistant Professor, Wageningen University & Research"
+institution: "Wageningen University & Research"
+field: "Political ecology and food governance"
+focus: "Food sovereignty, gender, agroecology and participatory action research"
+question: "Who gets to define a just food-system transformation?"
+country: "Netherlands / Ghana"
+region: "Europe / Africa"
+filter: "Economics & Policy"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Siera Vercillo is an Assistant Professor in Wageningen University's Public Administration and Policy Group. She describes herself as a scholar-activist, and that position is central to the work rather than incidental to it. [Wageningen](https://www.wur.nl/en/persons/dr-s-siera-vercillo) describes her research as grounded in feminist geography, political ecology and critical development studies, with more than a decade of work in northern Ghana.
+
+Vercillo studies agrarian change, food insecurity, gender and food sovereignty. Her research has examined how rural households diversify livelihoods, how migration reshapes agricultural futures and how global or national policy rules affect smallholder farmers. Recent work includes research on gender disparities in rural livelihood diversification and contestation around seed legislation in Ghana.
+
+Her method is participatory and community-driven. Instead of treating farmers only as respondents, projects are designed with civil-society and food-movement partners and often aim to produce usable change alongside academic analysis. Current work with the Ghana Food Movement, for example, explores neglected and underutilised foods and how culinary practice can support more resilient food systems.
+
+Teaching mirrors that politics of knowledge. Vercillo has developed courses on food sovereignty, gender, cities and development, and currently teaches governance, sustainability practice and research design. Her public profile makes clear that the research is explicitly concerned with rights, power and whose knowledge counts in agricultural policy.
+
+The unresolved tension is between participation and institutional power. Community-led research can reveal alternatives, but governments, donors and markets still control many of the rules shaping seeds, land and food trade. Vercillo's work asks whether participatory research can do more than document those inequalities and actually change the institutions that reproduce them.
+
+::: {.profile-facts}
+**Siera Vercillo**  
+Assistant Professor, Wageningen University & Research  
+**Field:** Political ecology and food governance  
+**Research focus:** Food sovereignty, gender, agroecology and participatory action research  
+**Long-term field setting:** Northern Ghana  
+**Current partner work:** Ghana Food Movement
+:::
