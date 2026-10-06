@@ -1,0 +1,35 @@
+---
+title: "Jenny Aker: Does more information change how rural markets work?"
+description: "A development economist studying how information, mobile technology and digital finance affect agricultural markets and livelihoods in Africa."
+name: "Jenny Aker"
+role: "Daniel G. Sisler Professor of Development Economics, Cornell University"
+institution: "Cornell University"
+field: "Development economics"
+focus: "Information technology, agricultural markets and financial inclusion"
+question: "Does more information change how rural markets work?"
+country: "United States / Africa"
+region: "North America / Africa"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Jenny Aker is the Daniel G. Sisler Professor of Development Economics at Cornell University. Her research focuses on how information and digital technologies affect economic outcomes in low-income settings, particularly across agricultural markets, education, financial inclusion and social protection. [Cornell](https://cals.cornell.edu/people/jenny-aker) describes her work as centred on economic development in Africa and the role of information technology in shaping markets and livelihoods.
+
+Aker's route into research was unusually grounded in development practice. Before completing her PhD in agricultural economics at the University of California, Berkeley, she worked for Catholic Relief Services in West and Central Africa. That experience shaped a career built around field research rather than abstract models alone.
+
+Her best-known work has examined mobile phones, market information and price dispersion in rural Africa. The core mechanism is simple: when farmers, traders and consumers know more about prices and buyers, search costs fall and bargaining conditions can change. But Aker's later research has complicated the early optimism around digital technology. Access to a phone or digital service does not automatically improve welfare if infrastructure, trust, liquidity or market structure remain binding constraints.
+
+She has conducted fieldwork across a wide range of African countries and has studied technology adoption, food markets, social protection and digital financial services. Her current roles also include leadership in J-PAL's Digital Identification and Finance Initiative in Africa.
+
+The unresolved question is when information becomes economically transformative. Better information can reduce friction, but it cannot create roads, storage, credit or competition. Aker's work therefore asks where digital tools genuinely relax constraints and where they merely make existing constraints more visible.
+
+::: {.profile-facts}
+**Jenny Aker**  
+Daniel G. Sisler Professor of Development Economics, Cornell University  
+**Field:** Development economics  
+**Research focus:** Information technology, agricultural markets and financial inclusion  
+**Training:** PhD Agricultural and Resource Economics, UC Berkeley  
+**Fieldwork:** Extensive across sub-Saharan Africa
+:::
