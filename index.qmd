@@ -42,8 +42,8 @@ listing:
 
 <a class="feature-card feature-card--lead" href="blog/posts/2026-10-02-one-hectare-many-promises/">
 <div class="feature-media">
-<img src="blog/posts/2026-10-02-one-hectare-many-promises/one-hectare-claims.svg" alt="Schematic of one hectare at the centre, with competing claims from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage" loading="eager" fetchpriority="high" decoding="async">
-<span class="feature-credit">Original schematic · EKO Perspectives</span>
+<img src="blog/posts/2026-10-02-one-hectare-many-promises/irish-farmland-landscape.jpg" alt="Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries" loading="eager" fetchpriority="high" decoding="async">
+<span class="feature-credit">C O'Flanagan · Wikimedia Commons · CC BY-SA 2.0</span>
 </div>
 <span class="feature-kicker">Land &amp; Agriculture</span>
 <h2>One hectare, many promises</h2>
