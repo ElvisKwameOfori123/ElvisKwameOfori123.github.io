@@ -1,0 +1,35 @@
+---
+title: "Hannah van Zanten: What should livestock do in a circular food system?"
+description: "A Wageningen food-systems scientist modelling how livestock, crops and waste streams might fit within planetary boundaries."
+name: "Hannah van Zanten"
+role: "Professor, Wageningen University & Research"
+institution: "Wageningen University & Research"
+field: "Farming systems ecology"
+focus: "Circular food systems, livestock and planetary health"
+question: "What should livestock do in a circular food system?"
+country: "Netherlands"
+region: "Europe"
+filter: "Food & Nutrition"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Hannah van Zanten is a professor at Wageningen University & Research whose work asks what a food system would look like if animals were used only where they add something people cannot obtain more efficiently from crops. [Wageningen describes](https://www.wur.nl/en/persons/profdrir-hhe-hannah-van-zanten) her research as focused on circular food systems that secure human and planetary health.
+
+Van Zanten trained in animal sciences at Wageningen and completed a PhD on the environmental benefits of feeding livestock with resources that humans cannot eat. That question became the foundation of a broader research programme. Instead of asking whether livestock should simply increase or decrease, she asks what ecological role animals can play within a system designed to minimise competition for land and edible biomass.
+
+Her team developed the Circular Food Systems model, or CiFoS, which lets researchers and stakeholders explore combinations of diets, crops, livestock and waste streams. In this framework, livestock can convert grass, crop residues and food-system by-products into food while manure can return nutrients to soils. But animals become inefficient when they consume crops that people could eat directly.
+
+The approach has helped shift debate away from simple comparisons between plant-based and animal-based foods toward whole-system questions about land, nutrient cycles and unavoidable biomass. Van Zanten has also contributed to global work on healthy and sustainable diets and collaborates internationally, including as a visiting professor at Cornell University.
+
+The unresolved issue is how circularity works outside the model. Real supply chains, consumer preferences, regional specialisation and farm economics may resist the system-level optimum. The challenge is therefore not only to identify a theoretically efficient role for livestock, but to understand how existing food systems could move toward it without displacing environmental costs elsewhere.
+
+::: {.profile-facts}
+**Hannah van Zanten**  
+Professor, Wageningen University & Research  
+**Field:** Farming systems ecology  
+**Research focus:** Circular food systems, livestock and planetary health  
+**Training:** MSc Animal Sciences; PhD Wageningen  
+**Key model:** CiFoS, Circular Food Systems
+:::
