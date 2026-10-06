@@ -1,0 +1,35 @@
+---
+title: "Yukiko Hashida: How should communities adapt when land itself is changing?"
+description: "An environmental economist studying climate adaptation, land-use change, ecosystem services and managed retreat."
+name: "Yukiko Hashida"
+role: "Associate Professor, University of Georgia"
+institution: "University of Georgia"
+field: "Environmental and resource economics"
+focus: "Climate adaptation, land use, ecosystem services and managed retreat"
+question: "How should communities adapt when land itself is changing?"
+country: "United States"
+region: "North America"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Yukiko Hashida is an Associate Professor in Agricultural and Applied Economics at the University of Georgia. Her research examines how households, landowners and communities respond when climate change alters the value, risk and physical condition of land. [Her research profile](https://www.yukikohashida.com/) highlights climate adaptation, land-use change, ecosystem-service valuation, natural disasters and managed retreat.
+
+Hashida's work sits at the intersection of environmental risk and economic decision-making. Climate adaptation is often described as an engineering problem, but many of the most consequential choices are about whether to remain, relocate, conserve, insure or change how land is used. Those choices depend on incentives, property values, public policy and the distribution of costs.
+
+Her research includes work on coastal adaptation and tidal marshes, where sea-level rise can threaten both ecosystems and private property. In such settings, protecting one asset may reduce another. A seawall can defend buildings while constraining marsh migration. Managed retreat can preserve ecological function while imposing major costs on households and local governments.
+
+Hashida uses applied economic methods to estimate these trade-offs and evaluate adaptation policies. The questions are inherently spatial because the benefits and costs of land-use decisions spill across property boundaries and over time. What one landowner does can affect flood protection, habitat and future development options for others.
+
+The unresolved issue is political feasibility. Economic analysis can identify policies that reduce expected losses or protect ecosystem services, but retreat and land-use restrictions affect wealth, identity and local tax bases. Hashida's work asks how adaptation can be designed when the economically efficient choice is also socially difficult.
+
+::: {.profile-facts}
+**Yukiko Hashida**  
+Associate Professor, University of Georgia  
+**Field:** Environmental and resource economics  
+**Research focus:** Climate adaptation, land use and managed retreat  
+**Methods:** Applied environmental economics and policy analysis  
+**Current themes:** Coastal adaptation and ecosystem services
+:::
