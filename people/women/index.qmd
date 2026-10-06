@@ -6,6 +6,7 @@ page-layout: full
 toc: false
 css: women-behind-science.css
 listing:
+  id: women-listing
   contents: "profiles/*.qmd"
   template: card.ejs.md
   sort: "name asc"
