@@ -1,0 +1,35 @@
+---
+title: "Franziska Klein: Can a low-carbon transition also improve well-being?"
+description: "An economist combining environmental economics, post-growth thinking and mixed methods to study just low-carbon transitions."
+name: "Franziska Klein"
+role: "Assistant Professor, Wageningen University & Research"
+institution: "Wageningen University & Research"
+field: "Environmental and ecological economics"
+focus: "Just transitions, well-being, post-growth and political economy"
+question: "Can a low-carbon transition also improve well-being?"
+country: "Netherlands"
+region: "Europe"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Franziska Klein is an Assistant Professor at Wageningen University & Research whose work examines the relationship between economic activity, human well-being and environmental pressure. [Wageningen](https://www.wur.nl/en/persons/f-franziska-klein) describes her background as environmental economics combined with a strong interest in post-growth, ecological and feminist economics.
+
+Klein's research begins from a problem conventional transition modelling can miss. A low-carbon pathway may reduce emissions while distributing costs unevenly, increasing insecurity or relying on assumptions about growth and consumption that are rarely examined directly. She therefore studies not only whether transitions are technically possible, but how they affect welfare, institutions and power.
+
+Her current projects include European and Dutch research on accelerating just low-carbon transitions. Methodologically, she works across quantitative and qualitative approaches, including econometrics, agent-based modelling and social-ecological systems analysis. That mixed toolkit reflects the fact that justice questions cannot be answered by emissions accounting alone.
+
+The heterodox dimension is important. Ecological economics asks whether economic systems can remain within environmental limits, while feminist economics draws attention to unpaid work, care and distributional effects that standard indicators often overlook. Klein uses these traditions to question what counts as success in a transition.
+
+The unresolved issue is measurement. Climate policy is usually assessed through emissions, GDP, investment or technology deployment. Well-being and justice are harder to summarise, especially when gains for one group coincide with losses for another. Klein's work asks whether transition analysis can incorporate those outcomes without turning them into vague add-ons.
+
+::: {.profile-facts}
+**Franziska Klein**  
+Assistant Professor, Wageningen University & Research  
+**Field:** Environmental and ecological economics  
+**Research focus:** Just transitions, well-being and political economy  
+**Methods:** Econometrics, agent-based modelling and mixed methods  
+**Current projects:** ELEVATE, AdJUST and Dutch climate-transition research
+:::
