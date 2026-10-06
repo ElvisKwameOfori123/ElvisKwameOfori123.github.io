@@ -1,0 +1,76 @@
+---
+title: "Women Behind the Science"
+description: "A growing portrait archive celebrating women whose research and leadership have shaped how we understand land, food, climate and development."
+draft: true
+page-layout: full
+toc: false
+css: women-behind-science.css
+listing:
+  contents: "profiles/*.qmd"
+  template: card.ejs.md
+  sort: "name asc"
+  sort-ui: false
+  filter-ui: false
+  page-size: 100
+  field-required: [name, field, question, filter]
+---
+
+::: {.women-archive-intro}
+**Women Behind the Science** is a growing portrait archive celebrating women whose research and leadership have shaped how we understand land, food, climate and development.
+
+The women featured here work across plant and soil science, agriculture, nutrition, climate research, economics, rural development, food governance and environmental policy. They come from different countries, institutions and stages of their careers. Each has contributed to understanding or solving problems that matter beyond academia.
+
+Every profile follows the development of a scientific life: the question that drew the researcher in, the places and people around the work, the methods she used, what she discovered or changed, what she has published and taught, and the problems that remain unresolved.
+
+Their work has strengthened food security, advanced climate adaptation, improved the management of land and natural resources, shaped policy, challenged established ideas, and trained new generations of researchers.
+
+The archive grows, one researcher at a time.
+:::
+
+::: {.women-controls aria-label="Filter Women Behind the Science profiles"}
+<button class="women-filter is-active" type="button" data-filter="All">All</button>
+<button class="women-filter" type="button" data-filter="Plant Science">Plant Science</button>
+<button class="women-filter" type="button" data-filter="Agriculture">Agriculture</button>
+<button class="women-filter" type="button" data-filter="Food & Nutrition">Food & Nutrition</button>
+<button class="women-filter" type="button" data-filter="Climate">Climate</button>
+<button class="women-filter" type="button" data-filter="Economics & Policy">Economics & Policy</button>
+<button class="women-filter" type="button" data-filter="Rural Development">Rural Development</button>
+:::
+
+<div class="women-search-wrap">
+<label for="women-search" class="visually-hidden">Search profiles</label>
+<input id="women-search" class="women-search" type="search" placeholder="Search researchers, fields or questions" autocomplete="off">
+</div>
+
+::: {#women-listing}
+:::
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const buttons = [...document.querySelectorAll(".women-filter")];
+  const input = document.querySelector("#women-search");
+
+  const applyFilters = () => {
+    const active = document.querySelector(".women-filter.is-active")?.dataset.filter || "All";
+    const query = (input?.value || "").trim().toLowerCase();
+
+    document.querySelectorAll(".person-card").forEach((card) => {
+      const topic = card.dataset.topic || "";
+      const haystack = card.textContent.toLowerCase();
+      const topicMatch = active === "All" || topic === active;
+      const textMatch = !query || haystack.includes(query);
+      card.hidden = !(topicMatch && textMatch);
+    });
+  };
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      buttons.forEach((item) => item.classList.remove("is-active"));
+      button.classList.add("is-active");
+      applyFilters();
+    });
+  });
+
+  input?.addEventListener("input", applyFilters);
+});
+</script>
