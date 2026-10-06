@@ -1,0 +1,35 @@
+---
+title: "Louise Slater: Can flood risk be predicted when the climate itself is changing?"
+description: "An Oxford hydroclimatologist developing computational approaches to understand floods, droughts and changing water extremes."
+name: "Louise Slater"
+role: "Professor of Hydroclimatology, University of Oxford"
+institution: "University of Oxford"
+field: "Hydroclimatology"
+focus: "Floods, droughts, climate extremes and prediction"
+question: "Can flood risk be predicted when the climate itself is changing?"
+country: "United Kingdom"
+region: "Europe"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Louise Slater is Professor of Hydroclimatology at the University of Oxford and leads the Hydro-Climate Extremes research group. Her work centres on a forecasting problem made harder by climate change: how can past observations help predict floods and droughts when the statistical behaviour of the system is itself shifting? [Oxford lists](https://www.climate.ox.ac.uk/people/louise-slater) her research as focused on changing water and weather extremes globally.
+
+Slater's group develops computational methods that combine river records, Earth observation, climate-model output and machine learning. The aim is not simply to produce a better flood map. It is to identify the physical and climatic drivers of extremes and understand how those drivers vary across space and time.
+
+Her UKRI Future Leaders Fellowship supports the DRIFT project, which integrates observations and modelling to improve understanding of river-flood risk under climate change. The work involves close interaction with agencies responsible for forecasting and flood management, including the Environment Agency, the Flood Forecasting Centre, the Met Office and international hydrological organisations.
+
+The research is increasingly consequential because conventional design assumptions depend on stationarity, the idea that the statistical past remains a reasonable guide to the future. Climate change weakens that assumption. A flood considered rare under twentieth-century records may become much less rare, while land use and infrastructure alter exposure at the same time.
+
+The unresolved question is how much confidence decision-makers can place in projections of extremes. Models can estimate changing probabilities, but local flood risk also depends on catchment condition, infrastructure and human choices. Slater's work therefore sits between physical prediction and practical uncertainty, trying to make changing risk measurable enough to act on without pretending that the future can be known precisely.
+
+::: {.profile-facts}
+**Louise Slater**  
+Professor of Hydroclimatology, University of Oxford  
+**Field:** Hydroclimatology  
+**Research focus:** Floods, droughts and climate extremes  
+**Research group:** Hydro-Climate Extremes  
+**Current programme:** DRIFT / UKRI Future Leaders Fellowship
+:::
