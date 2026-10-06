@@ -40,6 +40,8 @@ The repository copy of **EKO Editorial Workflow v2.3** is the standing editorial
 - Evidence verification happens before drafting. The final mechanical editing pass happens after drafting. SEO/discovery packaging happens after the prose is finished and must not override the chosen voice.
 - Never invent scenes, quotations, biographical facts, observations, interviews or field visits.
 - Every published post must have at least one relevant lead image stored locally with descriptive alt text; use a second supporting image only when it adds real explanatory, documentary or historical value.
+- Store reusable article images locally; do not hotlink external image binaries. External links belong in the source and credit, not in the rendered image path.
+- When a published post's lead image changes, also update any hand-curated homepage Featured block in `index.qmd` and verify the rendered social-image metadata so stale asset paths cannot survive a refresh.
 - Prefer original explanatory visuals, author-owned photography, maps, charts, documents and clearly reusable documentary or historical imagery over decorative stock.
 - Prefer a real or documentary lead image when a strong, truthful and clearly reusable one exists. Use an original schematic as the lead when the subject is abstract or when available photography would be generic or misleading; otherwise keep schematics as supporting explanatory visuals.
 - Render and check the finished draft on both desktop and phone before it is considered ready for review.
