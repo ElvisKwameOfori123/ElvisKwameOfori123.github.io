@@ -1,0 +1,35 @@
+---
+title: "Rohini Pande: Can institutions redistribute economic and environmental power?"
+description: "A development economist studying how institutions shape political voice, pollution control, gender and economic opportunity in low-income countries."
+name: "Rohini Pande"
+role: "Henry J. Heinz II Professor of Economics, Yale University"
+institution: "Yale University"
+field: "Development and environmental economics"
+focus: "Institutions, political economy, gender and environmental regulation"
+question: "Can institutions redistribute economic and environmental power?"
+country: "United States / India"
+region: "North America / Asia"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Rohini Pande is the Henry J. Heinz II Professor of Economics at Yale University, Director of the Economic Growth Center and Faculty Director of Inclusion Economics. Her research asks how institutions shape who has political, economic and environmental power. [Yale](https://economics.yale.edu/people/rohini-pande) describes her work as focused on the ways formal and informal institutions determine patterns of advantage in low- and middle-income countries.
+
+Pande trained in economics in Delhi, philosophy, politics and economics at Oxford, and completed a PhD in economics at the London School of Economics. Before Yale she was a professor at Harvard Kennedy School, where she helped build Evidence for Policy Design. Across that career, field experiments and policy partnerships have been used to test institutional reforms rather than only describe inequality.
+
+Her work spans gender, political representation, digital governance and environmental regulation. Recent research in India has examined pollution markets, payments for ecosystem services and the design of state programmes. A 2025 *Quarterly Journal of Economics* paper evaluated the world's first cap-and-trade market for particulate pollution in Gujarat and found that emissions trading could reduce pollution while lowering compliance costs.
+
+The common thread is institutional design. Markets, quotas, digital systems and local government rules are not neutral delivery mechanisms. They change who receives information, who can enforce rights and who bears costs. Pande's research treats those rules as objects that can be tested empirically.
+
+The unresolved question is scale and durability. A reform can work in an experiment or one state and still fail when political incentives change. Pande's work therefore asks whether institutions can be designed not only to produce a measurable short-term effect but to alter power relationships strongly enough that gains persist.
+
+::: {.profile-facts}
+**Rohini Pande**  
+Henry J. Heinz II Professor of Economics, Yale University  
+**Field:** Development and environmental economics  
+**Research focus:** Institutions, political economy, gender and environmental regulation  
+**Training:** PhD Economics, London School of Economics  
+**Current leadership:** Director, Yale Economic Growth Center
+:::
