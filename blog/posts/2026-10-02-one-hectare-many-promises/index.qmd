@@ -4,8 +4,8 @@ description: "Climate, biodiversity, energy, housing and food are all asking mor
 date: 2026-10-02
 draft: false
 featured: true
-image: "agrivoltaics-land-use.jpg"
-image-alt: "A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky"
+image: "dry-bean-smallholder.jpg"
+image-alt: "A smallholder farmer hand-weeding a dry-bean plot with a hoe in Hlokozi, KwaZulu-Natal, South Africa"
 categories: ["Policy", "Land & Agriculture"]
 ---
 
