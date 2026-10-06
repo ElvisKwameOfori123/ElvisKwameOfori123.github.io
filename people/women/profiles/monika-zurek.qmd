@@ -1,0 +1,35 @@
+---
+title: "Monika Zurek: Can food-system foresight change decisions before crises arrive?"
+description: "An Oxford food-systems researcher linking foresight, climate, development and policy to the difficult question of how societies prepare for change."
+name: "Monika Zurek"
+role: "Associate Professor, University of Oxford"
+institution: "University of Oxford"
+field: "Food systems and environmental change"
+focus: "Foresight, resilience, agriculture and climate policy"
+question: "Can food-system foresight change decisions before crises arrive?"
+country: "United Kingdom"
+region: "Europe"
+filter: "Food & Nutrition"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Monika Zurek is an Associate Professor and leader of the Food System Transformation Group at the University of Oxford's Environmental Change Institute. Her career asks a question that becomes more urgent as food systems face climate, economic and political shocks: can societies use foresight well enough to change course before a crisis forces them to? [Oxford describes](https://www.ox.ac.uk/news/find-an-expert/dr-monika-zurek) her work as focused on food-system transformation, agriculture, climate change and the future of food.
+
+Zurek trained in agricultural biology at the University of Hohenheim and completed a PhD in agricultural economics at Justus Liebig University Giessen. Her early career moved across research and international institutions, including CIMMYT, the FAO, the Millennium Ecosystem Assessment, the Bill & Melinda Gates Foundation and climate-policy consulting. That trajectory made scenarios and institutional decision-making central to her work long before food-systems foresight became a widely used policy term.
+
+At Oxford she co-leads Foresight4Food and has worked on the resilience of the UK food system as well as international projects exploring how scenarios, models and participatory processes can support transformation. Recent research has examined sustainability navigation, food-system resilience, governance of transformation and how foresight exercises actually influence institutions.
+
+The method is deliberately mixed. Quantitative models matter, but so do the actors who interpret them, the assumptions that structure future scenarios and the organisations expected to act. Zurek's current work on the impact of food-system foresight asks not only whether a scenario is scientifically sophisticated but whether it lands in a policy environment in a way that changes choices.
+
+The unresolved problem is that foresight can become theatre. Institutions can run workshops, generate scenarios and still continue along the same path. Zurek's work pushes toward a harder standard: what evidence would show that anticipating the future genuinely changed present decisions?
+
+::: {.profile-facts}
+**Monika Zurek**  
+Associate Professor, University of Oxford  
+**Field:** Food systems and environmental change  
+**Research focus:** Foresight, resilience, agriculture and climate policy  
+**Training:** Agricultural biology; PhD agricultural economics  
+**Current initiative:** Foresight4Food
+:::
