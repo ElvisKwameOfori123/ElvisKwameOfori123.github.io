@@ -1,0 +1,35 @@
+---
+title: "Rachel Wynberg: Who should benefit when biodiversity becomes an economic resource?"
+description: "A political ecologist studying how biodiversity, traditional knowledge and new technologies are governed, and who gains from them."
+name: "Rachel Wynberg"
+role: "Professor and SARChI Research Chair, University of Cape Town"
+institution: "University of Cape Town"
+field: "Political ecology and environmental governance"
+focus: "Bio-economy governance, biodiversity, justice and benefit sharing"
+question: "Who should benefit when biodiversity becomes an economic resource?"
+country: "South Africa"
+region: "Africa"
+filter: "Economics & Policy"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Rachel Wynberg is a professor at the University of Cape Town and holder of the South African Research Chair in the Environmental and Social Dimensions of the Bio-economy. Her work starts from a question that becomes more urgent as biological resources gain commercial value: when plants, genes, seeds and traditional knowledge become inputs into new products and industries, who has the right to decide how they are used and who shares the benefits? [UCT describes](https://science.uct.ac.za/department-egs/staff-academic-staff/professor-rachel-wynberg) her research as spanning biodiversity-based economies, agroecology, social and environmental justice and alternative agricultural futures.
+
+Wynberg came to the field through both natural and social sciences. She trained in marine biology and environmental policy before moving more deeply into political ecology and governance. Over more than two decades she has advised governments, civil-society organisations, communities and international agencies on biodiversity, access and benefit sharing, seed systems and emerging technologies. That career places her between formal policy institutions and the communities whose knowledge and resources those institutions are trying to regulate.
+
+A major strand of her work concerns access and benefit sharing: the rules that govern how genetic resources and associated knowledge can be used, researched and commercialised. She has also worked on farmers' rights, agrobiodiversity, seed sovereignty and the social implications of new genetic technologies. Wynberg was a lead author on the IPBES Sustainable Use of Wild Species Assessment, bringing her work into a global process concerned with how wild species can be used without undermining biodiversity or the people who depend on it.
+
+Her current research chair widens the argument. The “bio-economy” can describe very different futures, from biotechnology-intensive growth to locally rooted systems built around agroecology, community rights and ecological limits. Wynberg's research asks which of those visions is privileged by policy, investment and science, and which are pushed aside. She also supervises postgraduate research and teaches a course on critical perspectives on the bio-economy at UCT.
+
+The unresolved issue is distribution. A biodiversity-based economy can create new markets and scientific opportunities, but it can also reproduce older forms of extraction if communities supply resources or knowledge without meaningful power over how value is created and shared. Wynberg's work keeps that political question at the centre. The challenge is not simply to build a bio-economy, but to decide what kind of economy it becomes and whether conservation, justice and innovation can be made to reinforce rather than undermine one another.
+
+::: {.profile-facts}
+**Rachel Wynberg**  
+Professor and SARChI Research Chair, University of Cape Town  
+**Field:** Political ecology and environmental governance  
+**Research focus:** Bio-economy governance, biodiversity, justice and benefit sharing  
+**Selected role:** Lead author, IPBES Sustainable Use of Wild Species Assessment  
+**Teaching:** Critical Perspectives on the Bio-economy
+:::
