@@ -4,7 +4,7 @@ A living account of the places, people and opportunities that shaped the work I 
 
 From Ghana to China and Ireland: the people, opportunities, detours and questions that shaped Elvis Kwame Ofori’s work and writing.
 
-![](../assets/profile.jpg)
+![Elvis Kwame Ofori standing outdoors in a patterned cardigan.](../assets/profile.jpg)
 
 Elvis Kwame Ofori standing outdoors in a patterned cardigan.
 

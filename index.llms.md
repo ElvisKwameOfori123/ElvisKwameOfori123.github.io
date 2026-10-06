@@ -10,7 +10,7 @@ Research, evidence and ideas by Elvis Kwame Ofori
 
 Featured
 
-![Rows of green crops growing beneath elevated solar panels, showing agriculture and energy production sharing the same land](blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg) UC Davis College of Engineering · Wikimedia Commons · CC BY 2.0
+![A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky](blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg) UC Davis College of Engineering · Wikimedia Commons · CC BY 2.0
 
 Land & Agriculture
 

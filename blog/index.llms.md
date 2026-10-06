@@ -82,7 +82,7 @@ Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land](../blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+[![A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky](../blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
 ### [One hectare, many promises](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
