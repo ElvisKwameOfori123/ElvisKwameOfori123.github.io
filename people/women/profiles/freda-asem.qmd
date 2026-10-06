@@ -1,0 +1,35 @@
+---
+title: "Freda Elikplim Asem: Why can productive smallholders still struggle to capture value from food markets?"
+description: "An agricultural economist studying why farm productivity alone does not determine who gains from agrifood value chains."
+name: "Freda Elikplim Asem"
+role: "Associate Professor, University of Ghana"
+institution: "University of Ghana"
+field: "Agricultural economics and agribusiness"
+focus: "Agrifood value chains, markets and smallholder welfare"
+question: "Why can productive smallholders still struggle to capture value from food markets?"
+country: "Ghana"
+region: "Africa"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Freda Elikplim Asem is an Associate Professor in the University of Ghana's Department of Agricultural Economics and Agribusiness and the West Africa Regional Hub Coordinator for the Feed the Future Innovation Lab for Horticulture. Her work begins from a problem that agricultural policy often treats too narrowly. A farmer can improve production and still receive a poor return if the market around that farm is weak, contracts are absent, information is uneven or buyers hold more bargaining power. [The University of Ghana describes](https://www.ug.edu.gh/agricecons/people/prof-freda-elikplim-asem) her research as centred on agribusiness, agricultural marketing, agrifood systems and value-chain analysis, with a particular concern for the livelihoods of smallholder farmers.
+
+Asem trained first in agricultural economics at the University of Ghana, then completed an MSc in Agricultural and Resource Economics at the University of Alberta and a PhD in Development Studies at the University of Ghana. Before joining the present phase of her academic career, she worked at the Institute of Statistical, Social and Economic Research and built more than two decades of experience across agricultural research and development. That mixed background helps explain why her work moves easily between farm-level productivity and the institutions connecting farmers to processors, traders and consumers.
+
+Her research on horticultural value chains has repeatedly shown that technical efficiency is only one part of the problem. Smallholders may produce well and still lose value through weak market information, limited formal contracting and unequal relationships with intermediaries. More recent work widens the lens. In 2026, Asem co-authored research on credit access, rice productivity and farmer welfare in Ghana, crop diversification spillovers and purchasing of indigenous fruits and vegetables across West Africa. Her current projects also link value-chain analysis to climate variability and sustainable crop and fish farming.
+
+That breadth matters because agrifood systems are not chains in the simple sense. Decisions at one point alter incentives elsewhere. A crop that is profitable in one district may be unattractive in another because transport costs differ. Farmers may respond to credit but still face poor prices. Consumers may value indigenous foods but lack reliable access. Asem's work connects these pieces rather than treating farm output as the final outcome.
+
+The unresolved question is therefore institutional. If smallholders already know how to produce, what has to change around them for more of the value to remain with the people doing the farming? Better information, stronger producer organisations, improved finance and more reliable contracts are all possible answers, but each changes bargaining power differently. Asem's work keeps the focus on that distributional question: not only whether an agrifood system produces more, but who benefits when it does.
+
+::: {.profile-facts}
+**Freda Elikplim Asem**  
+Associate Professor, University of Ghana  
+**Field:** Agricultural economics and agribusiness  
+**Research focus:** Agrifood value chains, markets and smallholder welfare  
+**Experience:** More than 20 years in the agricultural sector  
+**Recent work:** Credit, crop diversification and indigenous food markets, 2026
+:::
