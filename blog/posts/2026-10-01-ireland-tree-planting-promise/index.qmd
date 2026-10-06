@@ -4,10 +4,14 @@ description: "Ireland has planted a fraction of the forest it promised since 199
 featured: true
 date: 2026-10-01
 draft: false
-image: "afforestation-target-gap.png"
-image-alt: "Bar chart of annual afforestation in Ireland from 2007 to 2025, falling from about 7,000 hectares to under 3,000, set against a 1996 target of 20,000 hectares and a current target of 8,000 hectares a year"
+image: "tree-planting-bansha.jpg"
+image-alt: "Newly planted young trees at Bansha in County Tipperary, Ireland"
 categories: ["Policy", "Land & Agriculture"]
 ---
+
+![Newly planted trees at Bansha in County Tipperary.](tree-planting-bansha.jpg){fig-alt="Newly planted young trees at Bansha in County Tipperary, Ireland." width="100%" fig-align="center"}
+
+*Photograph: [Tree Council / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tree_Planting_Bansha,_Co_Tipperary.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ![Annual afforestation in Ireland, 2007 to 2025, against the 1996 and current targets.](afforestation-target-gap.svg){fig-alt="Bar chart of annual afforestation in Ireland from 2007 to 2025. Planting peaks at 8,314 hectares in 2010, stays near 6,000 to 6,700 hectares until 2016, then falls to 1,573 hectares in 2024 before rising to 2,527 hectares in 2025. A dashed line marks the 1996 target of 20,000 hectares a year and a red line marks the current target of 8,000 hectares a year." width="100%" fig-align="center"}
 

@@ -4,8 +4,8 @@ description: "Ghana arrests hundreds of illegal miners a year and convicts a han
 date: 2026-10-04
 draft: false
 featured: true
-image: "galamsey-enforcement-gap.png"
-image-alt: "Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024"
+image: "river-pra-galamsey.jpg"
+image-alt: "The sediment-laden River Pra in Ghana flowing between dense green riverbanks"
 categories: ["Places & Development", "Policy"]
 ---
 
