@@ -1,0 +1,35 @@
+---
+title: "Pearl Abu: Can maize be bred for yield, nutrition and stress tolerance at the same time?"
+description: "A plant breeder working on maize that can withstand difficult growing conditions while improving nutritional quality."
+name: "Pearl Abu"
+role: "Senior Lecturer, West Africa Centre for Crop Improvement"
+institution: "University of Ghana"
+field: "Plant breeding and genetics"
+focus: "Climate-resilient maize, biofortification and doubled haploids"
+question: "Can maize be bred for yield, nutrition and stress tolerance at the same time?"
+country: "Ghana"
+region: "Africa"
+filter: "Plant Science"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Pearl Abu is a plant breeder at the West Africa Centre for Crop Improvement at the University of Ghana, where her work focuses on maize for difficult growing conditions in sub-Saharan Africa. The breeding problem is not one-dimensional. Farmers need varieties that yield reliably under low soil nitrogen, drought and parasitic weeds such as *Striga hermonthica*. Consumers also benefit when grain contains more protein, provitamin A or zinc. Abu's research asks whether those traits can be combined rather than traded against one another.
+
+She trained in agronomy and plant breeding before completing a PhD in Plant Breeding through WACCI in 2019. Her research record reaches back to work on maize genotype stability under different nitrogen conditions and developed through studies of extra-early quality-protein maize, low-nitrogen tolerance and resistance to *Striga*. Those are important traits in environments where farmers cannot always compensate for poor soils with large fertiliser applications.
+
+Her current programme goes beyond conventional selection. Abu is working with doubled-haploid technology, which can accelerate the production of genetically uniform breeding lines and shorten the time needed to develop new varieties. She has also explored arbuscular mycorrhizal fungi as biological partners that may improve nutrient uptake while reducing dependence on chemical fertiliser. In 2025, UNESCO recognised her as one of the first laureates of the UNESCO-Equatorial Guinea fellowship for young women scientists in Africa, citing her work on protein- and provitamin-A enriched, stress-tolerant maize and Ghana's first doubled-haploid maize breeding platform.
+
+The science is therefore about stacking advantages. A maize line that performs well under low nitrogen may not automatically have strong nutritional quality. A high-yielding variety may be susceptible to *Striga*. A technically superior line may also take years to move through testing, seed multiplication and farmer adoption. Breeding is an exercise in balancing these constraints over successive generations.
+
+That last step remains the complication. A variety has no impact until seed reaches farmers and farmers decide it is worth planting. Traits that breeders value must survive contact with seed systems, farmer preferences, local markets and highly variable field conditions. Abu's work sits at the productive tension between genetic improvement and adoption. The question is not only whether maize can be improved on several fronts at once, but whether the resulting varieties can move quickly enough from breeding programme to farm to matter.
+
+::: {.profile-facts}
+**Pearl Abu**  
+Senior Lecturer, West Africa Centre for Crop Improvement  
+**Field:** Plant breeding and genetics  
+**Research focus:** Climate-resilient maize, biofortification and doubled haploids  
+**Training:** PhD Plant Breeding, University of Ghana, 2019  
+**Recognition:** UNESCO-Equatorial Guinea Fellowship for Young Women Scientists in Africa, 2025
+:::
