@@ -1,0 +1,35 @@
+---
+title: "Jessica Duncan: Who gets to decide what a sustainable food system looks like?"
+description: "A food-policy scholar studying how participation, institutions and power shape attempts to transform food systems."
+name: "Jessica Duncan"
+role: "Associate Professor, Wageningen University & Research"
+institution: "Wageningen University & Research"
+field: "Food governance and rural sociology"
+focus: "Participation, policy and just food-system transformation"
+question: "Who gets to decide what a sustainable food system looks like?"
+country: "Netherlands"
+region: "Europe"
+filter: "Economics & Policy"
+categories: ["Policy"]
+draft: true
+toc: false
+---
+
+Jessica Duncan is Associate Professor in the Politics of Food Systems Transformations in Wageningen University's Rural Sociology Group. Her research begins from a problem that can disappear inside technical discussions of sustainability: who gets to define the problem, choose the evidence and decide what a transformed food system should become? [Wageningen describes](https://www.wur.nl/en/persons/dr-jab-jessica-duncan) her work as focusing on participation in food governance and on the possibilities that food policies create, or close down, for just and sustainable transformation.
+
+Duncan completed a PhD in Food Policy at City University London in 2014. Her 2015 book, *Global Food Security Governance*, examined civil-society engagement in the reformed UN Committee on World Food Security. That institutional setting is important to the career because it turns abstract words such as participation and inclusion into observable processes. Who is invited into a negotiation? Whose language survives into an agreed text? What happens to concepts such as food sovereignty or resilience when they move from social movements into formal governance?
+
+Her methods are therefore different from those of a laboratory scientist, but no less empirical. Duncan works through policy documents, institutions, participant accounts and comparative analysis to follow how power operates through food governance. A 2018 paper with Priscilla Claeys in *Food Security* examined the opportunities and opposition created by participation in food-security governance. More recent work has looked at knowledge pluralisation in organic agriculture and at the gendered effects of the European Union's Common Agricultural Policy.
+
+Teaching is unusually visible in her public record. Duncan was Wageningen's Teacher of the Year in 2017, was shortlisted again in 2018 and 2019 and used award funding to develop storytelling training for students. Wageningen's research portal also shows her supervising doctoral research on food-system transitions, urban food commons, the Common Agricultural Policy and agency in food systems. That matters because her work is partly about whose knowledge is recognised, and teaching becomes another place where those questions are practised.
+
+The unresolved tension is that participation can be both meaningful and insufficient. Bringing civil society, farmers or marginalised groups into a process does not automatically give them decision power. Institutions can broaden consultation while leaving underlying authority untouched. Duncan's research keeps that distinction visible. Sustainable food policy is not only a matter of finding the technically best intervention. It is also a question of who can define what “best” means and whose costs, knowledge and priorities are allowed into the decision.
+
+::: {.profile-facts}
+**Jessica Duncan**  
+Associate Professor, Wageningen University & Research  
+**Field:** Food governance and rural sociology  
+**Research focus:** Participation, policy and just food-system transformation  
+**Selected book:** *Global Food Security Governance* (Routledge, 2015)  
+**Teaching:** Wageningen Teacher of the Year, 2017
+:::
