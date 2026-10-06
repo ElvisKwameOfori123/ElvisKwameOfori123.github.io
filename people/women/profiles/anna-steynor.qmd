@@ -1,0 +1,35 @@
+---
+title: "Anna Steynor: Why does good climate information so often fail to change decisions?"
+description: "A climate-services scientist studying how information is interpreted, co-produced and turned into decisions rather than simply delivered."
+name: "Anna Steynor"
+role: "Senior Scientist, UK Met Office"
+institution: "UK Met Office"
+field: "Climate services and risk communication"
+focus: "Co-production, risk perception and decision-relevant climate information"
+question: "Why does good climate information so often fail to change decisions?"
+country: "United Kingdom / South Africa"
+region: "Europe / Africa"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Anna Steynor is a Senior Scientist in international climate services at the UK Met Office. Her career has focused on a persistent gap in climate science: producing better information does not guarantee that the information will be used. Forecasts, projections and risk assessments can be technically strong and still fail to influence a planning decision if they arrive at the wrong time, answer the wrong question or are difficult for users to interpret. [The Met Office currently lists](https://www.metoffice.gov.uk/research/approach/our-research-staff/applied-science) Steynor in its Climate Services Development team, working on international climate services.
+
+Much of that career was built at the University of Cape Town's Climate System Analysis Group, where Steynor worked in climate services from the mid-2000s and later led the group's climate-services work. She trained in climate science at UCT and became increasingly interested in what happens after model output is produced. That moved her research toward the psychology of risk perception, co-production and the design of information that people can use in real institutional settings.
+
+Her work has examined climate-service needs in South Africa and East Africa, city-scale climate projections and the practical meaning of co-production. In this context, co-production means more than asking users what information they want. It involves scientists and decision-makers working together to define the problem, interpret uncertainty and decide what form of evidence is useful. Steynor and collaborators have also studied how to evaluate whether that process actually improves decisions.
+
+The move to the Met Office extends rather than breaks that trajectory. Climate services are increasingly expected to translate national and global climate science into information for governments, infrastructure operators and climate-sensitive sectors. That requires technical expertise, but also judgement about timing, uncertainty and institutional capacity. A beautifully resolved projection is of little value if the decision it was designed to inform has already been made.
+
+The unresolved question is evidence of impact. Co-production is now widely praised, but an inclusive process is not the same as a changed decision. The harder test is whether climate services alter investment, planning or preparedness in ways that reduce risk. Steynor's work keeps attention on that final step. The success of climate information should not be measured only by whether it was produced or understood, but by whether it became usable enough to change what somebody actually did.
+
+::: {.profile-facts}
+**Anna Steynor**  
+Senior Scientist, UK Met Office  
+**Field:** Climate services and risk communication  
+**Research focus:** Co-production, risk perception and decision-relevant climate information  
+**Earlier career:** Climate System Analysis Group, University of Cape Town  
+**Current role:** International climate services, Met Office Climate Services Development team
+:::
