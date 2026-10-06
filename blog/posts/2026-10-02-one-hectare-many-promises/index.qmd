@@ -4,14 +4,14 @@ description: "Climate, biodiversity, energy, housing and food are all asking mor
 date: 2026-10-02
 draft: false
 featured: true
-image: "one-hectare-claims.svg"
-image-alt: "Schematic of one hectare at the centre, with arrows from food production, woodland targets, solar and grid, housing and roads, nature restoration, and carbon and flood storage, and a separate note that the same hectare is a household's income, home and inheritance"
+image: "irish-farmland-landscape.jpg"
+image-alt: "Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries"
 categories: ["Policy", "Land & Agriculture"]
 ---
 
-![Many national promises point at the same hectare. Someone may already be living from it.](one-hectare-claims.svg){fig-alt="Schematic of a single hectare at the centre with six arrows pointing at it from separate policy claims: food production, woodland targets, solar, wind and grid, housing and roads, nature restoration, and carbon and flood storage. A separate box notes that the same hectare is a household's income, home and inheritance." width="100%" fig-align="center"}
+![A patchwork agricultural landscape in north County Dublin.](irish-farmland-landscape.jpg){fig-alt="Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries." width="100%" fig-align="center"}
 
-*Original schematic for EKO Perspectives.*
+*Photograph: [C O'Flanagan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agricultural_Landscape_Co_Dublin_-_geograph.org.uk_-_1721182.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 A great deal is being asked of land. We want it to keep producing food, and often more food, for a population that is growing and eating differently. We want it to store carbon, restore lost biodiversity, hold back floodwater, carry new forests and make room for wind turbines, solar farms and the power lines that connect them. We need somewhere to put houses, roads, warehouses and data centres. Some countries are asking their land to reduce dependence on imported food or fuel; others are asking it to repair ecosystems damaged over generations. Each of these ambitions makes sense on its own, and each has its advocates, its experts and its targets. The difficulty begins when several of them arrive on the same hectare.
 
