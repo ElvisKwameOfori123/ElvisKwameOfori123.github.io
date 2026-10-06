@@ -2,7 +2,7 @@
 title: "Mary Abukutsa-Onyango: What changes when neglected vegetables are treated as serious crops?"
 description: "A Kenyan horticultural scientist whose decades of work helped move African indigenous vegetables from overlooked foods into research, markets and policy."
 name: "Mary Abukutsa-Onyango"
-role: "Professor of Horticulture, JKUAT"
+role: "Deputy Vice Chancellor (Research, Production and Extension), JKUAT"
 institution: "Jomo Kenyatta University of Agriculture and Technology"
 field: "Horticulture"
 focus: "African indigenous vegetables, nutrition and crop diversity"
@@ -15,9 +15,9 @@ draft: true
 toc: false
 ---
 
-Mary Abukutsa-Onyango is a Professor of Horticulture at Jomo Kenyatta University of Agriculture and Technology whose career has been built around African indigenous vegetables. For decades, crops such as African nightshade, spider plant and amaranth were often treated by formal research systems as minor or backward foods despite their nutritional, cultural and agronomic value. Abukutsa-Onyango's work helped turn that assumption into a research question: what happens when these vegetables receive the same attention given to major commercial crops?
+Mary Abukutsa-Onyango is Deputy Vice Chancellor for Research, Production and Extension at Jomo Kenyatta University of Agriculture and Technology and a Professor of Horticulture whose career has been built around African indigenous vegetables. For decades, crops such as African nightshade, spider plant and amaranth were often treated by formal research systems as minor or backward foods despite their nutritional, cultural and agronomic value. Abukutsa-Onyango's work helped turn that assumption into a research question: what happens when these vegetables receive the same attention given to major commercial crops?
 
-Her route into the problem crossed both public service and universities. She trained in agriculture and agronomy at the University of Nairobi and completed a doctorate in horticultural sciences at the University of London. Before university leadership roles, she worked in Kenya's Ministry of Agriculture as a district horticultural officer, on cereal crops, agricultural information and horticultural export inspection. [JKUAT records](https://www.jkuat.ac.ke/directorate/ombudsman/?page_id=16552) a career of more than three decades in public service, research, teaching and extension.
+Her route into the problem crossed both public service and universities. She trained in agriculture and agronomy at the University of Nairobi and completed a doctorate in horticultural sciences at the University of London. Before university leadership roles, she worked in Kenya's Ministry of Agriculture as a district horticultural officer, on cereal crops, agricultural information and horticultural export inspection. [JKUAT records](https://www.jkuat.ac.ke/school/sabs/?page_id=16552) a career of more than three decades in public service, research, teaching and extension.
 
 The research has included germplasm collection, agronomy, seed systems, nutritional analysis, processing and the development and promotion of African indigenous vegetable varieties. That breadth is important because neglected crops do not become mainstream through breeding alone. Farmers need seed, consumers need reliable markets, researchers need evidence on nutrition and production, and extension systems have to recognise the crop as worth supporting.
 
@@ -27,7 +27,7 @@ The unresolved question is what happens when neglected crops succeed. Commercial
 
 ::: {.profile-facts}
 **Mary Abukutsa-Onyango**  
-Professor of Horticulture, JKUAT  
+Deputy Vice Chancellor (Research, Production and Extension), JKUAT  
 **Field:** Horticulture  
 **Research focus:** African indigenous vegetables, nutrition and crop diversity  
 **Training:** University of Nairobi; PhD Horticultural Sciences, University of London  
