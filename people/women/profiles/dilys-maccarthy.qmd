@@ -1,0 +1,35 @@
+---
+title: "Dilys Sefakor MacCarthy: How can crop models work for farmers on very different soils?"
+description: "A Ghanaian plant nutrition scientist connecting field experiments, soil fertility and crop modelling to the decisions smallholder farmers face."
+name: "Dilys Sefakor MacCarthy"
+role: "Professor of Plant Nutrition, University of Ghana"
+institution: "University of Ghana"
+field: "Plant nutrition and crop modelling"
+focus: "Soil fertility, smallholder systems and climate risk"
+question: "How can crop models work for farmers on very different soils?"
+country: "Ghana"
+region: "Africa"
+filter: "Agriculture"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Dilys Sefakor MacCarthy is Professor of Plant Nutrition at the University of Ghana's Soil and Irrigation Research Centre, known as SIREC, at Kpong. Her work sits between the soil beneath a crop and the model used to predict what that crop might do next season. She studies nutrient management, soil fertility and agricultural systems modelling, particularly in smallholder farming systems where a recommendation that works at one site may fail a few kilometres away. [The University of Ghana describes](https://www.ug.edu.gh/sirec.ug.edu.gh/staff-members/professor-mrs-dilys-sefakor-maccarthy) her research as linking integrated nutrient management with climate-risk and impact assessment across West African agriculture.
+
+The setting matters. SIREC was established in 1954 to investigate mechanised irrigated agriculture on the Vertisols of the Accra Plains and now occupies more than 1,000 hectares near Kpong. [Its institutional history](https://www.ug.edu.gh/sirec.ug.edu.gh/basic-page/about) makes the centre more than an affiliation on a biography. It is a place built around the practical problem of how crops respond to water, heavy clay soils and management. MacCarthy studied natural resources management at KNUST before completing master's and doctoral training at the University of Bonn. She joined the University of Ghana as a research fellow in 2007.
+
+An early publication anchor from 2009 already contains much of the later career. The *Field Crops Research* study used APSIM to examine how contrasting nutrient and residue-management practices could alter sorghum production in semi-arid Ghana. Since then, MacCarthy has worked across field trials, crop simulation and integrated nutrient management, using platforms including APSIM and DSSAT. She leads the West African team of the Agricultural Model Intercomparison and Improvement Project and collaborates with CGIAR centres on crop modelling in smallholder contexts. Her university profile also records teaching in Agricultural Systems Simulation and Modelling at undergraduate and postgraduate levels.
+
+Recent work broadens the scale without abandoning the farm. Her 2025 record includes research using drone imagery to predict within-field soil fertility variability in northern Ghana and continent-scale work on how crop models can help assess adaptation opportunities under climate change. The common thread is heterogeneity. Soil fertility varies within fields, rainfall varies between seasons and households face different constraints even when they grow the same crop.
+
+That is also the unresolved problem. A model can estimate that a changed planting date or nutrient strategy improves expected yield. It cannot, by itself, explain whether a farmer has the labour, credit, information or risk tolerance to adopt it. MacCarthy's career increasingly sits at that boundary between agronomic possibility and feasible adaptation. The usefulness of the model depends on how closely it can remain connected to the conditions in which farmers actually make decisions.
+
+::: {.profile-facts}
+**Dilys Sefakor MacCarthy**  
+Professor of Plant Nutrition, University of Ghana  
+**Field:** Plant nutrition and crop modelling  
+**Research focus:** Soil fertility, smallholder systems and climate risk  
+**Early publication anchor:** APSIM study of nutrient and residue management in sorghum, *Field Crops Research* (2009)  
+**Teaching:** Agricultural Systems Simulation and Modelling
+:::
