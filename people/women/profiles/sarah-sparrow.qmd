@@ -1,0 +1,35 @@
+---
+title: "Sarah Sparrow: Can citizen computing help us understand extreme weather?"
+description: "An Oxford climate scientist using very large model ensembles and citizen computing to study extreme events and their impacts."
+name: "Sarah Sparrow"
+role: "Professor / CPDN Programme Coordinator, University of Oxford"
+institution: "University of Oxford"
+field: "Climate modelling and attribution"
+focus: "Extreme weather, large ensembles, citizen science and impacts"
+question: "Can citizen computing help us understand extreme weather?"
+country: "United Kingdom"
+region: "Europe"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Sarah Sparrow is based at Oxford's e-Research Centre, where she coordinates climateprediction.net and serves as Deputy Course Director for the MSc in Energy Systems. Her research uses very large ensembles of climate simulations to ask whether and how climate change alters extreme events. [Oxford Engineering Science](https://eng.ox.ac.uk/people/sarah-sparrow) describes her work as coupling climate-model output to impact models across sectors.
+
+Sparrow trained first in chemistry and molecular physics at the University of Nottingham before completing a DPhil in Atmospheric Physics at Oxford. A period in IT consultancy added software-development experience that later became useful in climate computing. She returned to academia to work on atmospheric variability, large model ensembles and the infrastructure required to run them.
+
+The distinctive platform is climateprediction.net, one of the longest-running citizen-science climate projects. Instead of relying only on institutional supercomputers, the project distributes model experiments across thousands of volunteered computers. That allows researchers to generate very large ensembles, which are especially useful for rare events where a small sample of model runs cannot adequately estimate probability.
+
+Sparrow has used these ensembles to study attribution and impacts in areas including flooding, health, energy and finance. The work is interdisciplinary by necessity. A climate simulation becomes policy-relevant only when it connects to an impact model that can say something about disease risk, power-system reliability or another real-world consequence.
+
+The unresolved problem is interpretation. More model runs can narrow sampling uncertainty, but they do not remove uncertainty in model structure, observations or future emissions. Citizen computing can make the experiment larger. The scientific challenge is deciding what that extra scale actually allows us to say about changing risk.
+
+::: {.profile-facts}
+**Sarah Sparrow**  
+Professor / CPDN Programme Coordinator, University of Oxford  
+**Field:** Climate modelling and attribution  
+**Research focus:** Extreme weather, large ensembles and citizen science  
+**Training:** DPhil Atmospheric Physics, Oxford  
+**Platform:** climateprediction.net
+:::
