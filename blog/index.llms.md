@@ -82,7 +82,7 @@ Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky](../blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+[![A smallholder farmer hand-weeding a dry-bean plot with a hoe in Hlokozi, KwaZulu-Natal, South Africa](../blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
 ### [One hectare, many promises](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
