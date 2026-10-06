@@ -1,0 +1,35 @@
+---
+title: "Katye Altieri: What can the remote Southern Ocean tell us about a climate before industrial pollution?"
+description: "An oceanographer using marine aerosols and atmospheric chemistry to investigate the climate system in one of Earth's least accessible environments."
+name: "Katye Altieri"
+role: "Associate Professor, University of Cape Town"
+institution: "University of Cape Town"
+field: "Oceanography and atmospheric chemistry"
+focus: "Marine aerosols, atmosphere–ocean interactions and climate"
+question: "What can the remote Southern Ocean tell us about a climate before industrial pollution?"
+country: "South Africa"
+region: "Africa"
+filter: "Climate"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Katye Altieri is an Associate Professor of Oceanography at the University of Cape Town whose research follows material moving between ocean and atmosphere. She studies marine aerosols, atmospheric chemistry, biogeochemistry and air–sea interactions, with a particular interest in the Southern Ocean. [UCT lists](https://science.uct.ac.za/department-oceanography/contacts/katye-altieri) her research across atmospheric observations and modelling, marine biogeochemistry, climate change and air pollution. The scientific question is difficult because aerosols remain one of the less certain parts of the climate system, especially over remote oceans where observations are scarce.
+
+Altieri trained in chemistry before completing a PhD in Oceanography at Rutgers University. She then held postdoctoral appointments supported by the NOAA Climate and Global Change programme and at Princeton and Brown. Her career also includes training in public policy, an unusual combination that reflects the distance her work travels between basic atmospheric chemistry and questions with consequences for climate modelling and environmental decision-making.
+
+Much of her current research uses the Southern Ocean as a natural laboratory. Winter cruises on the *SA Agulhas II* allow her group to sample air and seawater far from dense population centres. One aim is to understand the sources and chemical composition of marine aerosols, including nitrogen-containing particles. These observations can help researchers test how well the remote marine atmosphere approximates conditions before large-scale industrial emissions altered atmospheric chemistry. Recent work has used nitrogen stable isotopes to distinguish ammonia sources and trace the formation of ammonium aerosol in the marine boundary layer.
+
+The field setting is part of the science. The Southern Ocean is remote, stormy and difficult to sample, so every observation comes from an environment in which logistics constrain the data. At the same time, those conditions make the region scientifically valuable. In 2025, Altieri received the Oppenheimer Memorial Trust New Frontiers Research Award for work linking atmospheric nitrogen, marine aerosols and climate processes.
+
+The unresolved question is whether the Southern Ocean can continue to serve as a useful window onto a preindustrial atmosphere while the ocean itself is changing. Human influence reaches even remote environments through long-range pollution, greenhouse warming and changing ocean circulation. The better scientists become at detecting those signals, the harder it becomes to assume that any place is untouched. Altieri's work therefore uses remoteness not as proof of purity, but as a hypothesis that has to be tested repeatedly.
+
+::: {.profile-facts}
+**Katye Altieri**  
+Associate Professor, University of Cape Town  
+**Field:** Oceanography and atmospheric chemistry  
+**Research focus:** Marine aerosols, atmosphere–ocean interactions and climate  
+**Field platform:** Southern Ocean research cruises on the *SA Agulhas II*  
+**Recognition:** Oppenheimer Memorial Trust New Frontiers Research Award, 2025
+:::
