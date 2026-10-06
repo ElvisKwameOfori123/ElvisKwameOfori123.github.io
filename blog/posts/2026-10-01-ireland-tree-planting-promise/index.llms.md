@@ -14,6 +14,12 @@ Published
 
 1 October 2026
 
+![Newly planted young trees at Bansha in County Tipperary, Ireland.](tree-planting-bansha.jpg)
+
+Newly planted trees at Bansha in County Tipperary.
+
+*Photograph: [Tree Council / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tree_Planting_Bansha,_Co_Tipperary.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ![Bar chart of annual afforestation in Ireland from 2007 to 2025. Planting peaks at 8,314 hectares in 2010, stays near 6,000 to 6,700 hectares until 2016, then falls to 1,573 hectares in 2024 before rising to 2,527 hectares in 2025. A dashed line marks the 1996 target of 20,000 hectares a year and a red line marks the current target of 8,000 hectares a year.](afforestation-target-gap.svg)
 
 Annual afforestation in Ireland, 2007 to 2025, against the 1996 and current targets.

@@ -62,7 +62,7 @@ Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024](../blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png)](../blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
+[![The sediment-laden River Pra in Ghana flowing between dense green riverbanks](../blog/posts/2026-10-04-we-cannot-drink-gold/river-pra-galamsey.jpg)](../blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
 
 ### [We cannot drink gold](../blog/posts/2026-10-04-we-cannot-drink-gold/index.llms.md)
 
@@ -82,7 +82,7 @@ Oct 4, 2026
 
 Elvis Kwame Ofori
 
-[![Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries](../blog/posts/2026-10-02-one-hectare-many-promises/irish-farmland-landscape.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
+[![Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land](../blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg)](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
 ### [One hectare, many promises](../blog/posts/2026-10-02-one-hectare-many-promises/index.llms.md)
 
@@ -92,7 +92,7 @@ Oct 2, 2026
 
 Elvis Kwame Ofori
 
-[![Bar chart of annual afforestation in Ireland from 2007 to 2025, falling from about 7,000 hectares to under 3,000, set against a 1996 target of 20,000 hectares and a current target of 8,000 hectares a year](../blog/posts/2026-10-01-ireland-tree-planting-promise/afforestation-target-gap.png)](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)
+[![Newly planted young trees at Bansha in County Tipperary, Ireland](../blog/posts/2026-10-01-ireland-tree-planting-promise/tree-planting-bansha.jpg)](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)
 
 ### [Thirty years of Irish tree-planting promises, checked against the record](../blog/posts/2026-10-01-ireland-tree-planting-promise/index.llms.md)
 

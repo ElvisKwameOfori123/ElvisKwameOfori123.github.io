@@ -14,11 +14,11 @@ Published
 
 2 October 2026
 
-![Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries.](irish-farmland-landscape.jpg)
+![Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land.](agrivoltaics-land-use.jpg)
 
-A patchwork agricultural landscape in north County Dublin.
+Crops growing beneath solar panels in an agrivoltaic research field.
 
-*Photograph: [C O’Flanagan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agricultural_Landscape_Co_Dublin_-_geograph.org.uk_-_1721182.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Photograph: [UC Davis College of Engineering / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agrivoltaics.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 A great deal is being asked of land. We want it to keep producing food, and often more food, for a population that is growing and eating differently. We want it to store carbon, restore lost biodiversity, hold back floodwater, carry new forests and make room for wind turbines, solar farms and the power lines that connect them. We need somewhere to put houses, roads, warehouses and data centres. Some countries are asking their land to reduce dependence on imported food or fuel; others are asking it to repair ecosystems damaged over generations. Each of these ambitions makes sense on its own, and each has its advocates, its experts and its targets. The difficulty begins when several of them arrive on the same hectare.
 

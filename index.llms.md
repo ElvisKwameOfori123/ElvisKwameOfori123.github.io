@@ -6,11 +6,11 @@ Research, evidence and ideas on policy, agriculture, land use, economics, scienc
 
 Research, evidence and ideas by Elvis Kwame Ofori
 
-[Policy](./blog/#category=Policy) [Land & Agriculture](./blog/#category=Land%20%26%20Agriculture) [Economics & Evidence](./blog/#category=Economics%20%26%20Evidence) [Science & Technology](./blog/#category=Science%20%26%20Technology) [Personal & Ideas](./blog/#category=Personal%20%26%20Ideas)
+[Policy](./blog/#category=Policy) [Land & Agriculture](./blog/#category=Land%20%26%20Agriculture) [Economics & Evidence](./blog/#category=Economics%20%26%20Evidence) [Science & Technology](./blog/#category=Science%20%26%20Technology) [Places & Development](./blog/#category=Places%20%26%20Development) [Personal & Ideas](./blog/#category=Personal%20%26%20Ideas)
 
 Featured
 
-![Patchwork agricultural fields in north County Dublin, separated by hedges, roads and field boundaries](blog/posts/2026-10-02-one-hectare-many-promises/irish-farmland-landscape.jpg) C O’Flanagan · Wikimedia Commons · CC BY-SA 2.0
+![Rows of green crops growing beneath elevated solar panels, showing agriculture and energy production sharing the same land](blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg) UC Davis College of Engineering · Wikimedia Commons · CC BY 2.0
 
 Land & Agriculture
 
@@ -18,7 +18,7 @@ Land & Agriculture
 
 Climate, biodiversity, energy, housing and food are all asking more of the same land. The farmer who lives from it is rarely at the table.
 
-![Bar chart showing illegal-mining arrests and successful prosecutions in Ghana: 218 arrests and 24 prosecutions in 2023, 627 arrests and 11 prosecutions in 2024](blog/posts/2026-10-04-we-cannot-drink-gold/galamsey-enforcement-gap.png) Original chart · EKO Perspectives
+![The sediment-laden River Pra in Ghana flowing between dense green riverbanks](blog/posts/2026-10-04-we-cannot-drink-gold/river-pra-galamsey.jpg) Efo Komla · Wikimedia Commons · CC BY-SA 4.0
 
 Places & Development
 
@@ -26,7 +26,7 @@ Places & Development
 
 Ghana arrests hundreds of illegal miners a year and convicts a handful. The deeper problem is who profits from the gold and who pays for the water.
 
-![Bar chart of annual afforestation in Ireland from 2007 to 2025, falling far below the 1996 target of 20,000 hectares and the current target of 8,000 hectares a year](blog/posts/2026-10-01-ireland-tree-planting-promise/afforestation-target-gap.png) Original chart · Data: CSO and DAFM
+![Newly planted young trees at Bansha in County Tipperary, Ireland](blog/posts/2026-10-01-ireland-tree-planting-promise/tree-planting-bansha.jpg) Tree Council · Wikimedia Commons · CC BY-SA 4.0
 
 Policy
 
