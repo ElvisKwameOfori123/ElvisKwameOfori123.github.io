@@ -1,0 +1,35 @@
+---
+title: "Anne Mullen: Can food-system climate policy improve nutrition at the same time?"
+description: "A nutrition scientist whose career has moved between laboratories, public health, scientific publishing and the politics of food-system change."
+name: "Anne Mullen"
+role: "Lecturer, University of Galway"
+institution: "University of Galway"
+field: "Nutrition and sustainable food systems"
+focus: "Nutrition security, citizen agency and food-system transformation"
+question: "Can food-system climate policy improve nutrition at the same time?"
+country: "Ireland"
+region: "Europe"
+filter: "Food & Nutrition"
+categories: ["Science & Technology"]
+draft: true
+toc: false
+---
+
+Anne Mullen is a nutrition scientist and lecturer in Climate Change, Agriculture and Food Security at the University of Galway. Her present research asks how food systems can reduce environmental pressures while improving nutrition and giving households and citizens a meaningful role in the transition. The question is broad, but her route into it was not. Mullen trained in molecular nutrition at Trinity College Dublin and then worked on complementary feeding for HIV-exposed infants in Zambia, placing nutrition inside a setting where biological need, household conditions and health systems could not be separated. [Her Galway biography](https://research.universityofgalway.ie/en/persons/anne-mullen/) traces the career from this early public-health work to food-system research.
+
+From 2005 to 2014 she worked as a researcher and lecturer at the London School of Hygiene and Tropical Medicine and King's College London. Her work included HIV lipodystrophy and interventions addressing acute malnutrition among HIV-positive children and adults in Uganda. The next move was unusual for an academic trajectory. Mullen became Director of Nutrition at the Dairy Council for Great Britain, where the job centred on translating evidence for citizens, health professionals, researchers, industry and policymakers.
+
+In 2019 she moved again, this time into scientific publishing as the launch Chief Editor of *Nature Food*. The role placed her at the point where food science, agriculture, nutrition and policy arguments meet. During 2021 and 2022 she organised or moderated discussions connected to the UN Food Systems Summit Science Days, the FAO Science and Innovation Forum, Nutrition for Growth and the International Congress of Nutrition. She returned to university research at Galway in January 2023.
+
+That career makes her present research easier to understand. Mullen studies nutrition security and sustainable food systems, with particular interest in household and citizen agency. She is involved in international programmes examining nutrition and food-system change across countries in Africa, Latin America and Asia. Galway currently lists teaching across food systems, climate change, agriculture, nutrition, global health and gender. Rather than treating communication as an activity that happens after research, her career suggests that the movement of evidence between scientists, citizens, industry and government is itself part of the problem.
+
+The unresolved question is institutional. Governments can write targets for emissions, dietary change or food security. It is harder to specify what households are realistically expected to do, which choices they actually control and how environmental objectives interact with nutrition and affordability. Mullen's work sits in that gap. Food-system transformation can be modelled at national scale, but it is ultimately lived through meals, shopping decisions, public services and the unequal capacity of households to change.
+
+::: {.profile-facts}
+**Anne Mullen**  
+Lecturer, University of Galway  
+**Field:** Nutrition and sustainable food systems  
+**Research focus:** Nutrition security, citizen agency and food-system transformation  
+**Career path:** Public-health nutrition → science communication → *Nature Food* → University of Galway  
+**Current teaching:** Food systems, climate change, agriculture, nutrition and global health
+:::
