@@ -1,0 +1,35 @@
+---
+title: "Marianna Siegmund-Schultze: How do farming systems change without losing the people inside them?"
+description: "A Wageningen systems scientist connecting land use, food security, agroecology and governance across farming regions."
+name: "Marianna Siegmund-Schultze"
+role: "Team Lead, Land Use and Food Security, Wageningen University & Research"
+institution: "Wageningen University & Research"
+field: "Agricultural systems and land use"
+focus: "Agroecology, governance, food security and farming-system transitions"
+question: "How do farming systems change without losing the people inside them?"
+country: "Netherlands"
+region: "Europe"
+filter: "Agriculture"
+categories: ["Land & Agriculture"]
+draft: true
+toc: false
+---
+
+Marianna Siegmund-Schultze leads the Land Use and Food Security team in Wageningen Plant Research. Her work treats farms not as isolated production units but as social-ecological systems shaped by people, animals, soils, markets and institutions. [Wageningen describes](https://www.wur.nl/en/persons/dr-mgr-marianna-siegmund-schultze) her programme as using integrative and systemic approaches to understand farming and agri-food transitions.
+
+Her research trajectory has moved across very different agricultural settings. Her graduation work examined urban livestock keeping in Burkina Faso. Her PhD focused on smallholder cattle systems in the eastern Amazon, and she later completed a habilitation in livestock husbandry systems at the University of Hohenheim. Those experiences established the comparative perspective that still characterises her work.
+
+At Wageningen she combines team leadership with research on agroecology, biodiversity, climate and soil, social transitions and multi-stakeholder governance. Her projects span the Netherlands and international settings in Africa, Latin America and Asia. Rather than asking only which technology performs best, the work asks how interventions fit into livelihood strategies, institutions and ecological limits.
+
+That perspective is particularly important in debates about circular and regenerative agriculture. A measure that looks efficient at farm scale may shift burdens to another region, increase labour demands or conflict with household priorities. Systems analysis is useful precisely because it forces those interactions into view.
+
+The unresolved question is how much complexity decision-making can absorb. Integrated approaches reveal more of reality, but policy still needs choices that can be implemented. Siegmund-Schultze's work sits in the difficult space between a model rich enough to represent farming systems and a recommendation simple enough for institutions and farmers to act on.
+
+::: {.profile-facts}
+**Marianna Siegmund-Schultze**  
+Team Lead, Land Use and Food Security, Wageningen University & Research  
+**Field:** Agricultural systems and land use  
+**Research focus:** Agroecology, governance and farming-system transitions  
+**Early settings:** Burkina Faso and eastern Amazonia  
+**Current team:** Land Use and Food Security
+:::
