@@ -5,11 +5,11 @@ date: 2026-10-02
 draft: false
 featured: true
 image: "agrivoltaics-land-use.jpg"
-image-alt: "Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land"
+image-alt: "A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky"
 categories: ["Policy", "Land & Agriculture"]
 ---
 
-![Crops growing beneath solar panels in an agrivoltaic research field.](agrivoltaics-land-use.jpg){fig-alt="Rows of green crops growing beneath elevated solar panels in an agrivoltaic research field, showing agriculture and energy production sharing the same land." width="100%" fig-align="center"}
+![Researchers at a UC Davis agrivoltaics field site, where crops are grown among solar panels.](agrivoltaics-land-use.jpg){fig-alt="A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky." width="100%" fig-align="center"}
 
 *Photograph: [UC Davis College of Engineering / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agrivoltaics.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 

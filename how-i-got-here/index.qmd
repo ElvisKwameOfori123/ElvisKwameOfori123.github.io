@@ -7,7 +7,7 @@ image: "../assets/profile.jpg"
 image-alt: "Elvis Kwame Ofori standing outdoors in a patterned cardigan"
 ---
 
-![Elvis Kwame Ofori standing outdoors in a patterned cardigan.](../assets/profile.jpg){width=72% fig-align="center"}
+![Elvis Kwame Ofori standing outdoors in a patterned cardigan.](../assets/profile.jpg){fig-alt="Elvis Kwame Ofori standing outdoors in a patterned cardigan." width=72% fig-align="center"}
 
 I studied accounting in Ghana, taught English in China, and now build agricultural and land-use models in Ireland. None of those sentences would have predicted the next one while I was living it. Looking back can make a life seem more carefully planned than it was. Mine was not. There were opportunities I prepared for and decisions I made, but also plans that changed, a visa that arrived too late, people who opened doors, and places that became important long after I first arrived in them. The [About page](../about.qmd) has the short version. This is the longer story.
 
