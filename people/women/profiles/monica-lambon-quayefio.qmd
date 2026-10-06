@@ -1,0 +1,35 @@
+---
+title: "Monica Lambon-Quayefio: Does digital credit actually change outcomes for smallholder farmers?"
+description: "An applied microeconomist testing whether finance and social policy interventions change welfare rather than simply activity."
+name: "Monica Lambon-Quayefio"
+role: "Associate Professor, University of Ghana"
+institution: "University of Ghana"
+field: "Applied microeconomics"
+focus: "Gender, social protection, labour markets and digital finance"
+question: "Does digital credit actually change outcomes for smallholder farmers?"
+country: "Ghana"
+region: "Africa"
+filter: "Economics & Policy"
+categories: ["Economics & Evidence"]
+draft: true
+toc: false
+---
+
+Monica Lambon-Quayefio is an Associate Professor in the University of Ghana's Department of Economics whose research asks a deceptively simple question: when policy changes what people can do, does it also change what ultimately happens to them? Her work spans social protection, gender, labour markets, education and agriculture, but the common thread is empirical. Interventions are judged against outcomes rather than intentions. [The University of Ghana lists](https://www.ug.edu.gh/economics/people/monica-lambon-quayefio) her current appointment alongside research affiliations with J-PAL, CEGA, Oxford's Centre for the Study of African Economies and the Environment for Development initiative.
+
+Lambon-Quayefio completed graduate training in economics at Clark University, receiving an MA in 2010 and a PhD in 2014. She joined the University of Ghana's economics department and has built an applied research programme using experiments and quasi-experimental methods to examine policies affecting households, women and children. Her work on non-farm employment, education and gender sits beside more recent research on digital technologies in agriculture.
+
+A particularly revealing example is a 2026 *Journal of Development Economics* paper with Dean Karlan, Utsav Manjeer and Christopher Udry. The study experimentally evaluated a digital lending product for farmers in southern Ghana. Credit increased farm investment, but the researchers found few statistically significant average effects on downstream outcomes such as yield and income. The experiment also encountered an operational complication: some loans arrived in time for agricultural investment while others arrived later, making timing itself part of the explanation. [The published study](https://pure.ug.edu.gh/en/publications/access-to-digital-credit-for-smallholder-farmers-experimental-evi/) argues cautiously that digital agricultural credit has potential, but that delivery timing deserves much more attention.
+
+That result is important because a null effect can be more informative than a success story. Digital finance is often presented as a way to remove a binding constraint. But if farmers borrow, invest and still do not see strong average gains in production or income, then credit may not be the only constraint. Markets, storage, extension, land, weather risk and the timing of finance may all matter.
+
+The open question is what has to accompany access to credit for welfare effects to appear consistently. Lambon-Quayefio's broader research suggests the answer will not be one additional input. Policy effects depend on the institutions and inequalities surrounding households. The real test of digital finance is therefore not whether it gets money into farmers' hands, but whether it changes the outcomes that justified the programme in the first place.
+
+::: {.profile-facts}
+**Monica Lambon-Quayefio**  
+Associate Professor, University of Ghana  
+**Field:** Applied microeconomics  
+**Research focus:** Gender, social protection, labour markets and digital finance  
+**Training:** PhD Economics, Clark University, 2014  
+**Selected recent paper:** Digital credit for smallholder farmers, *Journal of Development Economics* (2026)
+:::
