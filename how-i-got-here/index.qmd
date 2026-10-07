@@ -23,7 +23,7 @@ I would not have called that an interest in policy implementation at the time. A
 
 In 2019 I received a full scholarship for an MSc in Management Science and Engineering and moved to Taiyuan, in northern China. I knew China would be different. I was less prepared for how different the north would feel to someone arriving from Ghana, and the cold introduced itself quickly.
 
-The larger change was intellectual. China was where I became deliberate about policy research. Instead of seeing only a result, I started asking what structure had produced it. Who were the actors? What assumptions sat underneath the analysis, and what counted as evidence? What happened when a policy left a document and entered an economy, an organisation or a community? My interests moved across sustainability, development, environmental policy and energy economics. Energy held my attention because so many of its decisions operate at scale: governments, industries and large companies can change the direction of a whole system, and thinking at that scale taught me to look for the links between institutions, incentives and outcomes.
+The larger change was intellectual. China was where I became deliberate about policy research. Instead of seeing only a result, I started asking what structure had produced it. My interests moved across sustainability, development, environmental policy and energy economics. Energy held my attention because so many of its decisions operate at scale: governments, industries and large companies can change the direction of a whole system, and thinking at that scale taught me to look for the links between institutions, incentives and outcomes.
 
 ![With people who became part of my life in China.](images/china-community.jpg){fig-alt="Elvis Kwame Ofori standing outdoors with friends and fellow students during his time in China" width=94% fig-align="center"}
 
@@ -61,7 +61,7 @@ Then the research moved sideways in a way I had not expected. Much of my earlier
 
 *Research eventually gave me a community as well as a subject.*
 
-The subject had changed a great deal since accounting and my energy work, but the underlying questions had changed less than I first thought. Who makes the decision, and with what information? Which constraints disappear when you look from too far away? Who benefits, and who pays? A national model may say that livestock numbers should fall, that land should change use or that a technology should be adopted. A farmer still has to decide what to do on Monday morning. The distance between the aggregate pathway and that decision has become the part of the work I care about most.
+The subject had changed a great deal since accounting and my energy work, but some of the underlying questions had changed less than I first thought. By Ireland, I could state them more plainly: Who makes the decision, and with what information? Which constraints disappear when you look from too far away? Who benefits, and who pays? A national model may say that livestock numbers should fall, that land should change use or that a technology should be adopted. A farmer still has to decide what to do on Monday morning. The distance between the aggregate pathway and that decision has become the part of the work I care about most.
 
 [Read more about my research →](../research/)
 
@@ -85,7 +85,7 @@ What mattered was not sightseeing but family: sitting together, talking without 
 
 ## Reading beyond the work
 
-One habit runs through all of these chapters: I love to read. Some books connect directly to my research, and many do not. I like following an argument into a subject I know little about and finding another question waiting there. That is partly why this website is broader than my PhD. Research teaches you to narrow a question until it can be answered properly, and that discipline matters. Curiosity does not always respect project boundaries.
+One habit runs through all of these chapters: I love to read. Some books connect directly to my research, and many do not. I like following an argument into a subject I know little about and finding another question waiting there. Looking back, I can see the same instinct in the route from accounting to energy and eventually to land use: following the structure of a problem past the boundary of whatever I was supposed to be studying. That is partly why this website is broader than my PhD. Research teaches you to narrow a question until it can be answered properly, and that discipline matters. Curiosity does not always respect project boundaries.
 
 ![With a copy of *The New Harvest*.](images/reading-new-harvest.jpg){fig-alt="Elvis Kwame Ofori smiling while holding The New Harvest." width=68% fig-align="center"}
 
@@ -96,3 +96,7 @@ Some posts here will be about agriculture or economics because that is where my 
 Writing about a journey from the middle of it has an obvious danger. Accidents start to look like plans, decisions gain importance because you already know what came next, and memory quietly rearranges the cast. I do not want this page to become a polished origin story in which accounting inevitably led to China and China inevitably led to Ireland. Some things worked and some plans changed. One visa arrived after the opportunity it was meant for. I walked away from one PhD and began another, places I expected to be temporary became important, and after five years away I went home.
 
 The page is called *How I got here*, but "here" is still moving. I will come back to it when another chapter changes the shape of the story, when memory supplies something I missed, or when I realise I have not thanked somebody properly. For now, this is where I am.
+
+---
+
+*Last revisited: October 2026.*
