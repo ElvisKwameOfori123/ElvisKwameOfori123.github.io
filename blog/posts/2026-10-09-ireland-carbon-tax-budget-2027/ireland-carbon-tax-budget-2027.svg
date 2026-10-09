@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ireland's home-heating carbon tax path changed in Budget 2027</title>
+  <desc id="desc">A comparison of the 63.50 euro rate before Budget 2027, the scheduled 78.50 euro rate by May 2027, and the new 48.50 euro rate for kerosene and natural gas.</desc>
+  <rect width="1600" height="900" fill="#fcfaf6"/>
+  <text x="120" y="145" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#111111">Ireland's home-heating carbon tax</text>
+  <text x="120" y="205" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#666666">Budget 2027 reversed the scheduled path for kerosene and natural gas</text>
+
+  <line x1="180" y1="585" x2="1420" y2="585" stroke="#d2cdc3" stroke-width="3"/>
+
+  <g>
+    <rect x="180" y="360" width="320" height="225" rx="4" fill="#f5f1e9" stroke="#b8b2a8" stroke-width="2"/>
+    <text x="215" y="415" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#666666">BEFORE BUDGET 2027</text>
+    <text x="215" y="500" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#111111">€63.50</text>
+    <text x="215" y="545" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#666666">per tonne CO₂</text>
+  </g>
+
+  <g>
+    <rect x="640" y="285" width="320" height="300" rx="4" fill="#fcfaf6" stroke="#2c5f7c" stroke-width="4" stroke-dasharray="12 10"/>
+    <text x="675" y="340" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#2c5f7c">SCHEDULED BY MAY 2027</text>
+    <text x="675" y="440" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#111111">€78.50</text>
+    <text x="675" y="485" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#666666">per tonne CO₂</text>
+    <text x="675" y="535" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#666666">scheduled path</text>
+  </g>
+
+  <g>
+    <rect x="1100" y="410" width="320" height="175" rx="4" fill="#2c5f7c"/>
+    <text x="1135" y="462" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#ffffff">BUDGET 2027</text>
+    <text x="1135" y="535" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#ffffff">€48.50</text>
+    <text x="1135" y="568" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#e7eef2">per tonne CO₂</text>
+  </g>
+
+  <path d="M 960 330 C 1060 330, 1080 380, 1120 410" fill="none" stroke="#2c5f7c" stroke-width="5"/>
+  <polygon points="1110,394 1130,413 1102,416" fill="#2c5f7c"/>
+  <text x="1010" y="305" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2c5f7c">reversed</text>
+
+  <text x="120" y="730" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#111111">The cut lowers today's bill and weakens tomorrow's price signal.</text>
+  <text x="120" y="790" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#666666">Rates shown for kerosene and natural gas. Source: Dáil Éireann, 7 October 2026; National Enterprise Hub.</text>
+  <text x="120" y="840" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.8" fill="#2c5f7c">EKO PERSPECTIVES</text>
+</svg>
