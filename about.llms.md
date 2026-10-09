@@ -1,6 +1,6 @@
 # About
 
-About Elvis Kwame Ofori
+About Elvis Kwame Ofori, a Ghanaian researcher and writer in Ireland working on climate, agriculture, land use, economics and public policy.
 
 ![Elvis Kwame Ofori](assets/profile.jpg)
 

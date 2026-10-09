@@ -1,6 +1,6 @@
 # BioLand-US
 
-Contractual land access and prospective U.S. perennial-biomass mobilisation.
+BioLand-US tests how much U.S. land allocated to perennial biomass can be supported by compatible agricultural land and voluntary farmer contracts.
 
 ## The question
 

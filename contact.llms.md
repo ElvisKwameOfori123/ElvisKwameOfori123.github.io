@@ -1,6 +1,6 @@
 # Contact
 
-Contact Elvis Kwame Ofori
+Contact Elvis Kwame Ofori for academic, research and professional correspondence, with links to ORCID, Google Scholar, GitHub and LinkedIn.
 
 For academic, research or professional correspondence, the best way to reach me is through my University of Galway email.
 

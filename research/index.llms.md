@@ -1,6 +1,6 @@
 # Research
 
-A concise overview of my research, projects and publication profiles.
+Research by Elvis Kwame Ofori on agricultural transition, climate policy, land use, spatial modelling, farm-level economics and behavioural microsimulation.
 
 My research asks a distributional question:
 

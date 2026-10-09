@@ -1,6 +1,6 @@
 # Projects
 
-Selected research models and reproducible projects.
+Selected research models on land-use transitions, farm-level adjustment and bioenergy implementation in Ireland and the United States.
 
 Selected research projects. These pages remain available from the Research section rather than the main navigation.
 

@@ -1,6 +1,6 @@
 # IFT-BioSim
 
-Irish Farm Transition Bioeconomic Microsimulation.
+IFT-BioSim models how national agricultural transition targets translate into farm-level adjustment costs, participation and distributional effects in Ireland.
 
 ## The question
 
