@@ -202,6 +202,34 @@ if structured_errors:
         + " | ".join(structured_errors[:5])
     )
 
+# Site identity markup: WebSite on the homepage and ProfilePage on About.
+for rel, schema_id, expected_type in [
+    ("index.html", "eko-website-jsonld", "WebSite"),
+    ("about.html", "eko-profile-jsonld", "ProfilePage"),
+]:
+    path = ROOT / rel
+    if not path.exists():
+        add_error(f"Expected rendered page missing for structured data: {rel}")
+        continue
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = re.search(
+        rf'<script id="{schema_id}" type="application/ld\+json">(.*?)</script>',
+        text,
+        flags=re.I | re.S,
+    )
+    if not match:
+        add_error(f"{rel} is missing {expected_type} JSON-LD.")
+        continue
+    try:
+        data = __import__("json").loads(match.group(1))
+    except Exception as exc:
+        add_error(f"{rel} has invalid {expected_type} JSON-LD: {exc}")
+        continue
+    if data.get("@type") != expected_type:
+        add_error(f"{rel} structured data is not {expected_type}.")
+    elif expected_type == "ProfilePage" and not data.get("mainEntity"):
+        add_error("about.html ProfilePage JSON-LD has no mainEntity.")
+
 # Private editorial claim ledgers should never render.
 source_ledgers = list(ROOT.rglob("_sources.html")) if ROOT.exists() else []
 if source_ledgers:
