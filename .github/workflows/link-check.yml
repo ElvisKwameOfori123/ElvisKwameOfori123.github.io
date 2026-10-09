@@ -37,6 +37,9 @@ jobs:
 
       # EUR-Lex commonly returns HTTP 202 to automated clients even when the
       # document is valid and browser-accessible, so 202 is accepted here.
+      # Yale University Press returns 404 to this automated checker for a
+      # publisher page that is valid in normal web retrieval; exclude only
+      # the exact verified Seeing Like a State URL.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
