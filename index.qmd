@@ -4,7 +4,6 @@ pagetitle: "EKO Perspectives"
 description: "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development."
 toc: false
 page-layout: full
-title-block-style: none
 listing:
   id: home-writing
   contents: blog/posts
