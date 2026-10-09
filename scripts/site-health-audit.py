@@ -230,6 +230,57 @@ for rel, schema_id, expected_type in [
     elif expected_type == "ProfilePage" and not data.get("mainEntity"):
         add_error("about.html ProfilePage JSON-LD has no mainEntity.")
 
+# Draft source files must not survive into production output as blank/indexable HTML.
+front_matter = re.compile(r"\\A---\\s*\\n(.*?)\\n---\\s*\\n", re.S)
+draft_true = re.compile(r"(?mi)^\\s*draft\\s*:\\s*true\\s*(?:#.*)?$")
+rendered_drafts: list[str] = []
+for source in sorted(Path(".").rglob("*.qmd")):
+    if ROOT in source.parents:
+        continue
+    source_text = source.read_text(encoding="utf-8", errors="replace")
+    match = front_matter.match(source_text)
+    if not match or not draft_true.search(match.group(1)):
+        continue
+    rel = source.relative_to(Path("."))
+    if rel.name == "index.qmd":
+        target = ROOT / rel.parent / "index.html"
+    else:
+        target = ROOT / rel.with_suffix(".html")
+    if target.exists():
+        rendered_drafts.append(target.relative_to(ROOT).as_posix())
+
+facts.append(f"Rendered draft pages remaining: {len(rendered_drafts)}")
+if rendered_drafts:
+    add_error(
+        f"{len(rendered_drafts)} draft page(s) remain in production output: "
+        + ", ".join(rendered_drafts[:10])
+    )
+
+# The custom homepage masthead should be the page's only H1.
+home = ROOT / "index.html"
+if home.exists():
+    home_text = home.read_text(encoding="utf-8", errors="replace")
+    h1_count = len(re.findall(r"<h1\\b", home_text, flags=re.I))
+    facts.append(f"Homepage H1 count: {h1_count}")
+    if h1_count != 1:
+        add_error(f"Homepage should contain exactly one H1; found {h1_count}.")
+
+# Every public page gets WebSite/Person entity markup from includes/head.html.
+site_schema_missing: list[str] = []
+for url in sitemap_urls:
+    path = rendered_file_for_url(url)
+    if path is None:
+        continue
+    page_text = path.read_text(encoding="utf-8", errors="replace")
+    if 'id="eko-site-jsonld"' not in page_text:
+        site_schema_missing.append(path.relative_to(ROOT).as_posix())
+facts.append(f"Sitemap pages with site-level JSON-LD: {len(sitemap_urls) - len(site_schema_missing)}")
+if site_schema_missing:
+    add_error(
+        f"{len(site_schema_missing)} sitemap page(s) lack site-level JSON-LD: "
+        + ", ".join(site_schema_missing[:10])
+    )
+
 # Private editorial claim ledgers should never render.
 source_ledgers = list(ROOT.rglob("_sources.html")) if ROOT.exists() else []
 if source_ledgers:
