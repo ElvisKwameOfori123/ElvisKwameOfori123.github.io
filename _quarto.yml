@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  post-render: scripts/normalize-sitemap.py
   resources:
     - CNAME
     - google63dfd647cad8477d.html
