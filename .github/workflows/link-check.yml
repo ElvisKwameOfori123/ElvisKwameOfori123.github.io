@@ -37,9 +37,6 @@ jobs:
 
       # EUR-Lex commonly returns HTTP 202 to automated clients even when the
       # document is valid and browser-accessible, so 202 is accepted here.
-      # Yale University Press sometimes serves the verified Seeing Like a
-      # State URL as 404 to automated link checkers, so only that exact URL
-      # is excluded. The page is checked manually before keeping this rule.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
@@ -55,7 +52,6 @@ jobs:
             --accept 200,202,204,206,403,429
             --exclude '^https://www\.linkedin\.com/'
             --exclude '^https://kwameofori123\.com/'
-            --exclude '^https://yalebooks\.yale\.edu/book/9780300078152/seeing-like-a-state/?$'
             --exclude '^https://journal\.societyofirishforesters\.ie/'
             './_site/**/*.html'
           format: markdown
