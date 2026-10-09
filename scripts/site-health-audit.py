@@ -21,11 +21,14 @@ errors: list[str] = []
 warnings: list[str] = []
 facts: list[str] = []
 
+
 def add_error(msg: str) -> None:
     errors.append(msg)
 
+
 def add_warning(msg: str) -> None:
     warnings.append(msg)
+
 
 def canonical_from_html(text: str) -> str | None:
     patterns = [
@@ -37,6 +40,18 @@ def canonical_from_html(text: str) -> str | None:
         if m:
             return m.group(1).strip()
     return None
+
+
+def rendered_file_for_url(url: str) -> Path | None:
+    path = urlparse(url).path
+    if path == "/":
+        candidate = ROOT / "index.html"
+    elif path.endswith("/"):
+        candidate = ROOT / path.lstrip("/") / "index.html"
+    else:
+        candidate = ROOT / path.lstrip("/")
+    return candidate if candidate.exists() else None
+
 
 if not ROOT.exists():
     add_error("Rendered site directory _site/ does not exist. Run quarto render first.")
@@ -63,7 +78,10 @@ else:
             add_error(f"Sitemap contains {len(bad_hosts)} URL(s) outside {SITE}.")
         index_urls = [u for u in sitemap_urls if urlparse(u).path.endswith("/index.html")]
         if index_urls:
-            add_error(f"Sitemap contains {len(index_urls)} explicit /index.html URL(s); prefer one canonical public form.")
+            add_error(
+                f"Sitemap contains {len(index_urls)} explicit /index.html URL(s); "
+                "sitemap URLs should match the clean rel=canonical form."
+            )
     except ET.ParseError as exc:
         add_error(f"Sitemap XML could not be parsed: {exc}")
 
@@ -78,40 +96,67 @@ else:
         add_error("robots.txt blocks the whole site.")
 
 html_files = sorted(ROOT.rglob("*.html")) if ROOT.exists() else []
-facts.append(f"Rendered HTML pages checked: {len(html_files)}")
+facts.append(f"Rendered HTML files present: {len(html_files)}")
+
 missing_canonical: list[str] = []
 bad_canonical: list[tuple[str, str]] = []
 index_canonical: list[tuple[str, str]] = []
+canonical_mismatch: list[tuple[str, str, str]] = []
 noindex_pages: list[str] = []
 
-for path in html_files:
+# Check only URLs intentionally published in the sitemap. Draft/utility HTML may
+# exist in local render output without being discoverable or deployable content.
+for url in sitemap_urls:
+    path = rendered_file_for_url(url)
+    if path is None:
+        add_error(f"Sitemap URL has no matching rendered file: {url}")
+        continue
+
     text = path.read_text(encoding="utf-8", errors="replace")
     rel = path.relative_to(ROOT).as_posix()
-    if re.search(r'<meta[^>]+name=["\']robots["\'][^>]+content=["\'][^"\']*noindex', text, re.I):
+
+    if re.search(
+        r'<meta[^>]+name=["\']robots["\'][^>]+content=["\'][^"\']*noindex',
+        text,
+        re.I,
+    ):
         noindex_pages.append(rel)
+
     canonical = canonical_from_html(text)
     if not canonical:
-        # Utility/error pages may legitimately lack a canonical, so warn rather than fail.
         missing_canonical.append(rel)
         continue
     if not canonical.startswith(SITE):
         bad_canonical.append((rel, canonical))
     if urlparse(canonical).path.endswith("/index.html"):
         index_canonical.append((rel, canonical))
+    if canonical.rstrip("/") != url.rstrip("/"):
+        canonical_mismatch.append((rel, url, canonical))
 
-facts.append(f"Pages with noindex: {len(noindex_pages)}")
-facts.append(f"Pages without canonical link: {len(missing_canonical)}")
+facts.append(f"Sitemap pages checked for canonical: {len(sitemap_urls)}")
+facts.append(f"Sitemap pages with noindex: {len(noindex_pages)}")
+facts.append(f"Sitemap pages without canonical link: {len(missing_canonical)}")
 facts.append(f"Pages with explicit /index.html canonical: {len(index_canonical)}")
 
+if noindex_pages:
+    add_error(f"{len(noindex_pages)} sitemap page(s) contain noindex.")
 if bad_canonical:
-    add_error(f"{len(bad_canonical)} page(s) have canonicals outside the canonical site URL.")
+    add_error(f"{len(bad_canonical)} sitemap page(s) have canonicals outside the canonical site URL.")
 if index_canonical:
     sample = ", ".join(f"{p} -> {u}" for p, u in index_canonical[:5])
     add_error(f"{len(index_canonical)} page(s) canonicalize to /index.html. Examples: {sample}")
 if missing_canonical:
-    add_warning(
-        "Some rendered HTML files have no canonical. Review if they are public content pages: "
+    add_error(
+        f"{len(missing_canonical)} sitemap page(s) have no rel=canonical: "
         + ", ".join(missing_canonical[:10])
+    )
+if canonical_mismatch:
+    sample = "; ".join(
+        f"{p}: sitemap={u}, canonical={c}" for p, u, c in canonical_mismatch[:5]
+    )
+    add_error(
+        f"{len(canonical_mismatch)} sitemap URL(s) disagree with rel=canonical. "
+        f"Examples: {sample}"
     )
 
 # Private editorial claim ledgers should never render.
