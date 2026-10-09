@@ -12,7 +12,7 @@
   --site-surface: #f5f1e9;
   --site-chip-bg: rgba(44,95,124,.07);
   --site-accent: #2c5f7c;
-  --site-accent-soft: rgba(44,95,124,.35);
+  --site-accent-soft: rgba(44,95,124,.55);
   --site-focus: #2c5f7c;
   --site-footer-bg: #111111;
   --site-footer-text: #d0d0d0;
@@ -28,7 +28,7 @@ body.quarto-dark {
   --site-surface: rgba(255,255,255,.05);
   --site-chip-bg: rgba(143,189,211,.10);
   --site-accent: #8fbdd3;
-  --site-accent-soft: rgba(143,189,211,.35);
+  --site-accent-soft: rgba(143,189,211,.55);
   --site-focus: #8fbdd3;
   --site-footer-bg: #000000;
   --site-footer-text: #d0d0d0;
@@ -61,17 +61,21 @@ a {
   text-decoration: none;
 }
 
+/* Links inside running text are underlined, not marked by colour alone:
+   the accent sits too close to body text in both themes to meet WCAG 1.4.1. */
 main.content :where(p, li, figcaption) > a,
 main.content :where(p, li, figcaption) a:not(.feature-card) {
   color: var(--site-accent);
-  text-decoration: none;
-  box-shadow: inset 0 -1px var(--site-accent-soft);
+  text-decoration-line: underline;
+  text-decoration-color: var(--site-accent-soft);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .2em;
 }
 
 main.content :where(p, li, figcaption) > a:hover,
 main.content :where(p, li, figcaption) a:not(.feature-card):hover {
   color: var(--site-accent);
-  box-shadow: inset 0 -1px var(--site-accent);
+  text-decoration-color: var(--site-accent);
 }
 
 a:hover {
@@ -342,8 +346,12 @@ body:has(.post-end) .quarto-title .quarto-categories {
   justify-content: center;
 }
 
-body:has(.post-end) .quarto-title .quarto-category {
+body:has(.post-end) .quarto-title .quarto-category,
+body:has(.post-end) .quarto-title .quarto-category a {
   border: 0;
+  /* Quarto fades category labels with opacity, which left the kicker
+     below text-contrast minimums in both themes. */
+  opacity: 1;
   color: var(--site-accent);
   font-family: "Montserrat", sans-serif;
   font-size: .7rem;
@@ -779,7 +787,8 @@ body.quarto-dark #listing-home-writing .listing-title a {
 
 .quarto-listing .listing-description,
 .quarto-listing .listing-date,
-.quarto-listing .listing-categories {
+.quarto-listing .listing-categories,
+.quarto-listing .listing-categories .listing-category {
   color: var(--site-muted) !important;
 }
 
