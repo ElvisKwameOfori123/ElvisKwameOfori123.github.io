@@ -56,10 +56,9 @@ for path in sorted(ROOT.rglob("*.html")):
     text = path.read_text(encoding="utf-8", errors="replace")
 
     def repl(match: re.Match[str]) -> str:
-        nonlocal_placeholder = None
         old = match.group("url")
         new = normalize_href(old)
-        nonlocal links_changed
+        global links_changed
         if new != old:
             links_changed += 1
         return f'{match.group("prefix")}{match.group("quote")}{new}{match.group("quote")}'
