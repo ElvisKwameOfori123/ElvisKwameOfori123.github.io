@@ -43,8 +43,8 @@ listing:
 
 <a class="feature-card feature-card--lead" href="blog/posts/2026-10-02-one-hectare-many-promises/">
 <div class="feature-media">
-<img src="blog/posts/2026-10-02-one-hectare-many-promises/agrivoltaics-land-use.jpg" alt="A group of researchers, most wearing face masks, standing in a row on bare ground at a UC Davis agrivoltaics field site, with low solar panels and green crops behind them under a hazy sky" loading="eager" fetchpriority="high" decoding="async">
-<span class="feature-credit">UC Davis College of Engineering · Wikimedia Commons · CC BY 2.0</span>
+<img src="blog/posts/2026-10-02-one-hectare-many-promises/dry-bean-smallholder.jpg" alt="A smallholder farmer hand-weeding a dry-bean plot with a hoe in Hlokozi, KwaZulu-Natal, South Africa" loading="eager" fetchpriority="high" decoding="async">
+<span class="feature-credit">Alan Manson · Wikimedia Commons · CC0 1.0</span>
 </div>
 <span class="feature-kicker">Land &amp; Agriculture</span>
 <h2>One hectare, many promises</h2>
