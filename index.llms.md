@@ -38,6 +38,16 @@ Ireland has planted a fraction of the forest it promised since 1996. Licensing e
 
 [All writing →](blog/)
 
+[![Graphic comparing Ireland\&#039;s home-heating carbon tax rate of €63.50 per tonne, the scheduled €78.50 rate, and the Budget 2027 rate of €48.50](./blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/ireland-carbon-tax-budget-2027.svg)](blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
+
+### [Ireland cut its carbon tax. What did Budget 2027 actually buy?](blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
+
+Budget 2027 cut Ireland’s carbon tax on home-heating oil and natural gas. The relief is immediate. The harder question is what Ireland loses when a long-term price signal is reversed.
+
+Oct 9, 2026
+
+Elvis Kwame Ofori
+
 [![Diagram of six steps in starting a research paper: a problem in the world, reading for the shape of the field, asking whether it is solved, checking that data exist, settling on one question, and choosing an explanatory or foresight lens](./blog/posts/2026-10-05-start-research-paper/research-question-path.png)](blog/posts/2026-10-05-start-research-paper/index.llms.md)
 
 ### [How to start a research paper, and why you should](blog/posts/2026-10-05-start-research-paper/index.llms.md)
@@ -53,16 +63,6 @@ Elvis Kwame Ofori
 ### [The carbon credit that wasn’t there](blog/posts/2026-10-05-carbon-credit-counterfactual/index.llms.md)
 
 Two major studies agree that forest carbon credits claimed several times what the projects achieved, even where forests were protected. The registries have since rewritten how baselines are set. The old credits are still being retired.
-
-Oct 5, 2026
-
-Elvis Kwame Ofori
-
-[![A young man leans over a large bed of cocoa beans spread out to dry in the sun at Nkyerepoaso in the Ashanti Region of Ghana, with trees and a house behind](./blog/posts/2026-10-05-eudr-cocoa-ghana/cocoa-drying-ashanti.jpg)](blog/posts/2026-10-05-eudr-cocoa-ghana/index.llms.md)
-
-### [Europe’s forest rule will trace the cocoa. Will it save the forest?](blog/posts/2026-10-05-eudr-cocoa-ghana/index.llms.md)
-
-From 30 December the EU will require every cocoa, coffee, palm oil, soy, rubber, timber and cattle shipment to be traced to a plot cleared of no forest since 2020. Ghana has built the systems to comply and Côte d’Ivoire is struggling. The harder question is what the rule cannot see.
 
 Oct 5, 2026
 
