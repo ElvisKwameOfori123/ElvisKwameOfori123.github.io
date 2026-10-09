@@ -1,6 +1,6 @@
 ---
 title: "IFT-BioSim"
-description: "Irish Farm Transition Bioeconomic Microsimulation."
+description: "IFT-BioSim models how national agricultural transition targets translate into farm-level adjustment costs, participation and distributional effects in Ireland."
 toc: true
 ---
 
