@@ -16,9 +16,16 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          # Full history so the sitemap can date each page from its last commit.
+          fetch-depth: 0
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          # Pinned to the release the live site is tested on. Upgrade
+          # deliberately: render, run the site-health audit, then bump.
+          version: 1.10.19
 
       - name: Render site
         run: quarto render
@@ -35,11 +42,9 @@ jobs:
           if-no-files-found: error
           retention-days: 14
 
-      # EUR-Lex commonly returns HTTP 202 to automated clients even when the
-      # document is valid and browser-accessible, so 202 is accepted here.
-      # Yale University Press returns 404 to this automated checker for a
-      # publisher page that is valid in normal web retrieval; exclude only
-      # the exact verified Seeing Like a State URL.
+      # eur-lex.europa.eu answers automated clients with HTTP 202 and a bot
+      # challenge instead of the document, so a check there proves nothing;
+      # it is excluded rather than accepting 202 for every site.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
@@ -52,10 +57,11 @@ jobs:
             --root-dir ./_site
             --max-retries 2
             --timeout 20
-            --accept 200,202,204,206,403,429
+            --accept 200,204,206,403,429
             --exclude '^https://www\.linkedin\.com/'
             --exclude '^https://kwameofori123\.com/'
             --exclude '^https://journal\.societyofirishforesters\.ie/'
+            --exclude '^https://eur-lex\.europa\.eu/'
             './_site/**/*.html'
           format: markdown
           output: ./lychee-report.md
