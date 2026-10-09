@@ -1,0 +1,152 @@
+#!/usr/bin/env python3
+"""Audit rendered Quarto output for crawl/indexing hygiene.
+
+Uses only the Python standard library so it can run in GitHub Actions without
+extra dependencies. It writes a short Markdown report and exits non-zero only
+for issues that should block a merge.
+"""
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urlparse
+import xml.etree.ElementTree as ET
+
+SITE = "https://kwameofori123.com"
+ROOT = Path("_site")
+REPORT = Path("site-health-report.md")
+
+errors: list[str] = []
+warnings: list[str] = []
+facts: list[str] = []
+
+def add_error(msg: str) -> None:
+    errors.append(msg)
+
+def add_warning(msg: str) -> None:
+    warnings.append(msg)
+
+def canonical_from_html(text: str) -> str | None:
+    patterns = [
+        r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+        r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']',
+    ]
+    for pattern in patterns:
+        m = re.search(pattern, text, flags=re.I)
+        if m:
+            return m.group(1).strip()
+    return None
+
+if not ROOT.exists():
+    add_error("Rendered site directory _site/ does not exist. Run quarto render first.")
+
+sitemap = ROOT / "sitemap.xml"
+sitemap_urls: list[str] = []
+if not sitemap.exists():
+    add_error("Generated _site/sitemap.xml is missing.")
+else:
+    try:
+        tree = ET.parse(sitemap)
+        root = tree.getroot()
+        ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+        sitemap_urls = [
+            (loc.text or "").strip()
+            for loc in root.findall(".//sm:loc", ns)
+            if (loc.text or "").strip()
+        ]
+        facts.append(f"Sitemap URLs: {len(sitemap_urls)}")
+        if len(sitemap_urls) != len(set(sitemap_urls)):
+            add_error("Sitemap contains duplicate URLs.")
+        bad_hosts = [u for u in sitemap_urls if not u.startswith(SITE)]
+        if bad_hosts:
+            add_error(f"Sitemap contains {len(bad_hosts)} URL(s) outside {SITE}.")
+        index_urls = [u for u in sitemap_urls if urlparse(u).path.endswith("/index.html")]
+        if index_urls:
+            add_error(f"Sitemap contains {len(index_urls)} explicit /index.html URL(s); prefer one canonical public form.")
+    except ET.ParseError as exc:
+        add_error(f"Sitemap XML could not be parsed: {exc}")
+
+robots = ROOT / "robots.txt"
+if not robots.exists():
+    add_error("Generated _site/robots.txt is missing.")
+else:
+    robots_text = robots.read_text(encoding="utf-8", errors="replace")
+    if "Sitemap: https://kwameofori123.com/sitemap.xml" not in robots_text:
+        add_error("robots.txt does not advertise the canonical sitemap URL.")
+    if re.search(r"(?im)^\s*Disallow:\s*/\s*$", robots_text):
+        add_error("robots.txt blocks the whole site.")
+
+html_files = sorted(ROOT.rglob("*.html")) if ROOT.exists() else []
+facts.append(f"Rendered HTML pages checked: {len(html_files)}")
+missing_canonical: list[str] = []
+bad_canonical: list[tuple[str, str]] = []
+index_canonical: list[tuple[str, str]] = []
+noindex_pages: list[str] = []
+
+for path in html_files:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    rel = path.relative_to(ROOT).as_posix()
+    if re.search(r'<meta[^>]+name=["\']robots["\'][^>]+content=["\'][^"\']*noindex', text, re.I):
+        noindex_pages.append(rel)
+    canonical = canonical_from_html(text)
+    if not canonical:
+        # Utility/error pages may legitimately lack a canonical, so warn rather than fail.
+        missing_canonical.append(rel)
+        continue
+    if not canonical.startswith(SITE):
+        bad_canonical.append((rel, canonical))
+    if urlparse(canonical).path.endswith("/index.html"):
+        index_canonical.append((rel, canonical))
+
+facts.append(f"Pages with noindex: {len(noindex_pages)}")
+facts.append(f"Pages without canonical link: {len(missing_canonical)}")
+facts.append(f"Pages with explicit /index.html canonical: {len(index_canonical)}")
+
+if bad_canonical:
+    add_error(f"{len(bad_canonical)} page(s) have canonicals outside the canonical site URL.")
+if index_canonical:
+    sample = ", ".join(f"{p} -> {u}" for p, u in index_canonical[:5])
+    add_error(f"{len(index_canonical)} page(s) canonicalize to /index.html. Examples: {sample}")
+if missing_canonical:
+    add_warning(
+        "Some rendered HTML files have no canonical. Review if they are public content pages: "
+        + ", ".join(missing_canonical[:10])
+    )
+
+# Private editorial claim ledgers should never render.
+source_ledgers = list(ROOT.rglob("_sources.html")) if ROOT.exists() else []
+if source_ledgers:
+    add_error(f"{len(source_ledgers)} private _sources ledger(s) rendered into the public site.")
+
+lines = [
+    "# Site health audit",
+    "",
+    "## Summary",
+    "",
+    f"- Critical errors: **{len(errors)}**",
+    f"- Warnings: **{len(warnings)}**",
+]
+lines.extend(f"- {fact}" for fact in facts)
+
+if errors:
+    lines += ["", "## Critical errors", ""]
+    lines.extend(f"- {e}" for e in errors)
+if warnings:
+    lines += ["", "## Warnings", ""]
+    lines.extend(f"- {w}" for w in warnings)
+
+lines += [
+    "",
+    "## Notes",
+    "",
+    "- This audit checks rendered output, not Search Console's Google-selected canonical.",
+    "- An excluded /index.html variant is not itself a problem when the clean URL is canonical and indexed.",
+    "- Search Console URL Inspection remains the authority for the two crawled-but-not-indexed URLs.",
+    "",
+]
+REPORT.write_text("\n".join(lines), encoding="utf-8")
+print(REPORT.read_text(encoding="utf-8"))
+
+if errors:
+    sys.exit(1)
