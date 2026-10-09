@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "About Elvis Kwame Ofori, a Ghanaian researcher and writer in Ireland working on climate, agriculture, land use, economics and public policy."
-toc: true
+image: "assets/profile.jpg"\nimage-alt: "Elvis Kwame Ofori standing outdoors in a patterned cardigan"\ntoc: true
 ---
 
 <div class="about-intro">
