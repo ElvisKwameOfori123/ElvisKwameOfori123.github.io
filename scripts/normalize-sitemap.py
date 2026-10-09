@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-"""Normalize Quarto's generated sitemap to the site's canonical URL form.
+"""Normalize Quarto sitemap URLs to the site's canonical public URL form.
 
-Quarto writes directory index pages as .../index.html in sitemap.xml even when
-the rendered pages declare clean trailing-slash canonicals. Google recommends
-that sitemap URLs and rel=canonical agree. This script changes only sitemap
-<loc> values ending in /index.html; real standalone .html pages are untouched.
+Quarto renders directory pages as .../index.html. The HTML pages already emit
+clean canonical URLs, so this post-render step makes sitemap <loc> entries agree
+with those canonicals:
+  /index.html       -> /
+  /path/index.html  -> /path/
+
+Ordinary standalone pages such as /about.html are left unchanged.
 """
 from __future__ import annotations
 
@@ -13,32 +16,58 @@ from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 import xml.etree.ElementTree as ET
 
-SITE = "https://kwameofori123.com"
+SITE_HOST = "kwameofori123.com"
 OUTPUT_DIR = Path(os.environ.get("QUARTO_PROJECT_OUTPUT_DIR", "_site"))
 SITEMAP = OUTPUT_DIR / "sitemap.xml"
+NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
+
+
+def normalize_url(url: str) -> str:
+    parts = urlsplit(url.strip())
+    if parts.hostname != SITE_HOST:
+        return url.strip()
+
+    path = parts.path
+    if path == "/index.html":
+        path = "/"
+    elif path.endswith("/index.html"):
+        path = path[: -len("index.html")]
+
+    return urlunsplit((parts.scheme, parts.netloc, path, parts.query, parts.fragment))
+
 
 if not SITEMAP.exists():
     raise SystemExit(f"Expected generated sitemap not found: {SITEMAP}")
 
-ET.register_namespace("", "http://www.sitemaps.org/schemas/sitemap/0.9")
+ET.register_namespace("", NS)
 tree = ET.parse(SITEMAP)
 root = tree.getroot()
-ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
+seen: set[str] = set()
+duplicates: list[ET.Element] = []
 changed = 0
-for loc in root.findall(".//sm:loc", ns):
-    if not loc.text:
+
+for url_el in root.findall(f"{{{NS}}}url"):
+    loc = url_el.find(f"{{{NS}}}loc")
+    if loc is None or not (loc.text or "").strip():
         continue
-    url = loc.text.strip()
-    parts = urlsplit(url)
-    if parts.path == "/index.html":
-        new_path = "/"
-    elif parts.path.endswith("/index.html"):
-        new_path = parts.path[: -len("index.html")]
+
+    old = (loc.text or "").strip()
+    new = normalize_url(old)
+    if new != old:
+        loc.text = new
+        changed += 1
+
+    if new in seen:
+        duplicates.append(url_el)
     else:
-        continue
-    loc.text = urlunsplit((parts.scheme, parts.netloc, new_path, parts.query, parts.fragment))
-    changed += 1
+        seen.add(new)
+
+for url_el in duplicates:
+    root.remove(url_el)
 
 tree.write(SITEMAP, encoding="utf-8", xml_declaration=True)
-print(f"Normalized {changed} sitemap URL(s) to clean canonical directory URLs.")
+print(
+    f"Normalized sitemap: {changed} URL(s) changed, "
+    f"{len(duplicates)} duplicate(s) removed, {len(seen)} URL(s) retained."
+)
