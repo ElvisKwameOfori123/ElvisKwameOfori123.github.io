@@ -1,0 +1,9 @@
+# Local draft review profile. Not used by GitHub Actions.
+#
+#   quarto preview --profile drafts
+#
+# Renders draft: true pages in full so they can be read before approval,
+# without adding them to listings, the feed or the sitemap. Production builds
+# (no profile) keep Quarto's default of publishing nothing for drafts.
+website:
+  draft-mode: unlinked
