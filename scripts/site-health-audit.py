@@ -159,6 +159,49 @@ if canonical_mismatch:
         f"Examples: {sample}"
     )
 
+# Published posts should carry one valid BlogPosting block derived from their
+# visible metadata. Google recommends Article/BlogPosting markup with accurate
+# author, date, headline and image information when those properties apply.
+structured_ok = 0
+structured_errors: list[str] = []
+for url in sitemap_urls:
+    if "/blog/posts/" not in urlparse(url).path:
+        continue
+    path = rendered_file_for_url(url)
+    if path is None:
+        continue
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = re.search(
+        r'<script id="eko-blogposting-jsonld" type="application/ld\+json">(.*?)</script>',
+        text,
+        flags=re.I | re.S,
+    )
+    if not match:
+        structured_errors.append(f"{path.relative_to(ROOT)}: missing BlogPosting JSON-LD")
+        continue
+    try:
+        data = __import__("json").loads(match.group(1))
+    except Exception as exc:
+        structured_errors.append(f"{path.relative_to(ROOT)}: invalid JSON-LD ({exc})")
+        continue
+    required = ["headline", "description", "datePublished", "author", "mainEntityOfPage"]
+    missing = [key for key in required if not data.get(key)]
+    if data.get("@type") != "BlogPosting":
+        structured_errors.append(f"{path.relative_to(ROOT)}: @type is not BlogPosting")
+    elif missing:
+        structured_errors.append(
+            f"{path.relative_to(ROOT)}: missing structured-data fields {', '.join(missing)}"
+        )
+    else:
+        structured_ok += 1
+
+facts.append(f"Published posts with valid BlogPosting JSON-LD: {structured_ok}")
+if structured_errors:
+    add_error(
+        f"{len(structured_errors)} published post(s) have structured-data errors. "
+        + " | ".join(structured_errors[:5])
+    )
+
 # Private editorial claim ledgers should never render.
 source_ledgers = list(ROOT.rglob("_sources.html")) if ROOT.exists() else []
 if source_ledgers:
