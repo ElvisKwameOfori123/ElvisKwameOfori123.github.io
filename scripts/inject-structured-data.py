@@ -18,6 +18,7 @@ POSTS = ROOT / "blog" / "posts"
 SCHEMA_ID = "eko-blogposting-jsonld"
 AUTHOR_URL = "https://kwameofori123.com/about.html"
 ORCID_URL = "https://orcid.org/0000-0001-5404-9078"
+AUTHOR_ID = AUTHOR_URL + "#main-author"
 
 
 def meta(text: str, attr: str, value: str) -> str | None:
@@ -85,16 +86,13 @@ for path in sorted(POSTS.rglob("index.html")):
         "datePublished": published,
         "mainEntityOfPage": {"@type": "WebPage", "@id": url},
         "author": {
+            "@id": AUTHOR_ID,
             "@type": "Person",
             "name": author,
             "url": AUTHOR_URL,
             "sameAs": [ORCID_URL],
         },
-        "publisher": {
-            "@type": "Person",
-            "name": author,
-            "url": AUTHOR_URL,
-        },
+        "publisher": {"@id": AUTHOR_ID},
         "isPartOf": {
             "@type": "WebSite",
             "name": "EKO Perspectives",
@@ -116,3 +114,61 @@ for path in sorted(POSTS.rglob("index.html")):
     count += 1
 
 print(f"Injected BlogPosting JSON-LD into {count} rendered post(s).")
+
+# Help search engines connect the publication name and its author profile to
+# the same Person entity used in article markup.
+home = ROOT / "index.html"
+if home.exists():
+    text = home.read_text(encoding="utf-8", errors="replace")
+    if 'id="eko-website-jsonld"' not in text and "</head>" in text:
+        data = {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "EKO Perspectives",
+            "url": "https://kwameofori123.com/",
+            "description": "Research, evidence and ideas on policy, agriculture, land use, economics, science, technology and development.",
+            "publisher": {"@id": AUTHOR_ID},
+        }
+        block = (
+            '\n<script id="eko-website-jsonld" type="application/ld+json">\n'
+            + json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+            + "\n</script>\n"
+        )
+        home.write_text(text.replace("</head>", block + "</head>", 1), encoding="utf-8")
+        print("Injected WebSite JSON-LD into homepage.")
+
+about = ROOT / "about.html"
+if about.exists():
+    text = about.read_text(encoding="utf-8", errors="replace")
+    if 'id="eko-profile-jsonld"' not in text and "</head>" in text:
+        data = {
+            "@context": "https://schema.org",
+            "@type": "ProfilePage",
+            "url": AUTHOR_URL,
+            "mainEntity": {
+                "@id": AUTHOR_ID,
+                "@type": "Person",
+                "name": "Elvis Kwame Ofori",
+                "url": AUTHOR_URL,
+                "image": "https://kwameofori123.com/assets/profile.jpg",
+                "jobTitle": "PhD Researcher and Research Assistant in Plant & AgriBiosciences",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Galway",
+                    "url": "https://www.universityofgalway.ie/",
+                },
+                "sameAs": [
+                    ORCID_URL,
+                    "https://github.com/ElvisKwameOfori123",
+                    "https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en",
+                    "https://www.linkedin.com/in/elvis-ofori-12139b71/",
+                ],
+            },
+        }
+        block = (
+            '\n<script id="eko-profile-jsonld" type="application/ld+json">\n'
+            + json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+            + "\n</script>\n"
+        )
+        about.write_text(text.replace("</head>", block + "</head>", 1), encoding="utf-8")
+        print("Injected ProfilePage JSON-LD into About page.")
