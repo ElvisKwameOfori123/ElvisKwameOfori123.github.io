@@ -281,6 +281,34 @@ if site_schema_missing:
         + ", ".join(site_schema_missing[:10])
     )
 
+# Internal links on published pages should point to the same clean URL form as
+# the sitemap and rel=canonical. This prevents the site itself from continually
+# rediscovering duplicate /index.html variants.
+index_internal_links: list[tuple[str, str]] = []
+for url in sitemap_urls:
+    path = rendered_file_for_url(url)
+    if path is None:
+        continue
+    text = path.read_text(encoding="utf-8", errors="replace")
+    rel = path.relative_to(ROOT).as_posix()
+    for href in re.findall(r'href=["\\\']([^"\\\']+)["\\\']', text, flags=re.I):
+        parsed = urlparse(href)
+        if parsed.netloc and parsed.hostname != "kwameofori123.com":
+            continue
+        if parsed.scheme and parsed.scheme not in {"http", "https"}:
+            continue
+        hpath = parsed.path
+        if hpath == "index.html" or hpath == "/index.html" or hpath.endswith("/index.html"):
+            index_internal_links.append((rel, href))
+
+facts.append(f"Published internal links using explicit /index.html: {len(index_internal_links)}")
+if index_internal_links:
+    sample = "; ".join(f"{p} -> {h}" for p, h in index_internal_links[:8])
+    add_error(
+        f"{len(index_internal_links)} internal link(s) still point to explicit /index.html URLs. "
+        f"Examples: {sample}"
+    )
+
 # Private editorial claim ledgers should never render.
 source_ledgers = list(ROOT.rglob("_sources.html")) if ROOT.exists() else []
 if source_ledgers:
