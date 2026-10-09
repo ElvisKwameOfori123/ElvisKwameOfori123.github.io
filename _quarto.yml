@@ -5,6 +5,7 @@ project:
     - scripts/remove-draft-output.py
     - scripts/normalize-sitemap.py
     - scripts/inject-structured-data.py
+    - scripts/normalize-internal-links.py
   resources:
     - CNAME
     - google63dfd647cad8477d.html
