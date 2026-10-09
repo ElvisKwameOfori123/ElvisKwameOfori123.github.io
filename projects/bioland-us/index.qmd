@@ -1,6 +1,6 @@
 ---
 title: "BioLand-US"
-description: "Contractual land access and prospective U.S. perennial-biomass mobilisation."
+description: "BioLand-US tests how much U.S. land allocated to perennial biomass can be supported by compatible agricultural land and voluntary farmer contracts."
 toc: true
 ---
 

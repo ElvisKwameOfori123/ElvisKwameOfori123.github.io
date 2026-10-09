@@ -16,13 +16,52 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          # Full history so the sitemap can date each page from its last commit.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install post-render dependencies
+        # Pillow makes the responsive image copies in optimize-rendered-pages.py.
+        run: python -m pip install "pillow>=11,<13"
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          # Pinned to the release the live site is tested on. Upgrade
+          # deliberately: render, run the site-health audit, then bump.
+          version: 1.10.19
 
       - name: Render site
         run: quarto render
 
+      - name: Audit rendered crawl and canonical health
+        run: python scripts/site-health-audit.py
+
+      - name: Upload site-health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-health-report
+          path: ./site-health-report.md
+          if-no-files-found: error
+          retention-days: 14
+
+      # eur-lex.europa.eu answers automated clients with HTTP 202 and a bot
+      # challenge instead of the document, so a check there proves nothing;
+      # it is excluded rather than accepting 202 for every site.
+      # Three cited pages answer this checker with errors while serving the
+      # page normally to readers (each verified in a browser, October 2026).
+      # Each is excluded by its exact URL only, so a genuine break elsewhere
+      # on those sites is still caught:
+      #   - Yale University Press returns 404 for the 1999 edition page of
+      #     Seeing Like a State (ISBN 9780300078152).
+      #   - gov.scot returns 202 for Scotland's Fourth Land Use Strategy.
+      #   - Ethiopian Business Review returns 500 for the wheat article.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
@@ -39,6 +78,10 @@ jobs:
             --exclude '^https://www\.linkedin\.com/'
             --exclude '^https://kwameofori123\.com/'
             --exclude '^https://journal\.societyofirishforesters\.ie/'
+            --exclude '^https://eur-lex\.europa\.eu/'
+            --exclude '^https://yalebooks\.yale\.edu/book/9780300078152/seeing-like-a-state/$'
+            --exclude '^https://www\.gov\.scot/publications/scotlands-fourth-land-use-strategy-2026-2031/$'
+            --exclude '^https://ethiopianbusinessreview\.net/ethiopias-wheat-self-sufficiency-claims-questioned-amid-discrepancies/$'
             './_site/**/*.html'
           format: markdown
           output: ./lychee-report.md

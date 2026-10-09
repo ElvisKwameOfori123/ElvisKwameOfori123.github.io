@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Contact Elvis Kwame Ofori"
+description: "Contact Elvis Kwame Ofori for academic, research and professional correspondence, with links to ORCID, Google Scholar, GitHub and LinkedIn."
 toc: false
 ---
 
