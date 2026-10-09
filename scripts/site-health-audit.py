@@ -7,6 +7,8 @@ for issues that should block a merge.
 """
 from __future__ import annotations
 
+import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -15,6 +17,7 @@ import xml.etree.ElementTree as ET
 
 SITE = "https://kwameofori123.com"
 ROOT = Path("_site")
+SITEMAP = ROOT / "sitemap.xml"
 REPORT = Path("site-health-report.md")
 
 errors: list[str] = []
@@ -231,39 +234,96 @@ for rel, schema_id, expected_type in [
         add_error("about.html ProfilePage JSON-LD has no mainEntity.")
 
 # Draft source files must not survive into production output as blank/indexable HTML.
-front_matter = re.compile(r"\\A---\\s*\\n(.*?)\\n---\\s*\\n", re.S)
-draft_true = re.compile(r"(?mi)^\\s*draft\\s*:\\s*true\\s*(?:#.*)?$")
-rendered_drafts: list[str] = []
-for source in sorted(Path(".").rglob("*.qmd")):
-    if ROOT in source.parents:
-        continue
-    source_text = source.read_text(encoding="utf-8", errors="replace")
-    match = front_matter.match(source_text)
-    if not match or not draft_true.search(match.group(1)):
-        continue
-    rel = source.relative_to(Path("."))
-    if rel.name == "index.qmd":
-        target = ROOT / rel.parent / "index.html"
-    else:
-        target = ROOT / rel.with_suffix(".html")
-    if target.exists():
-        rendered_drafts.append(target.relative_to(ROOT).as_posix())
+front_matter = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
+draft_true = re.compile(r"(?mi)^\s*draft\s*:\s*true\s*(?:#.*)?$")
+SOURCE_SUFFIXES = (".qmd", ".md", ".Rmd")
 
-facts.append(f"Rendered draft pages remaining: {len(rendered_drafts)}")
-if rendered_drafts:
-    add_error(
-        f"{len(rendered_drafts)} draft page(s) remain in production output: "
-        + ", ".join(rendered_drafts[:10])
+
+def is_public_source(path: Path) -> bool:
+    parts = path.parts
+    if parts[0] in {ROOT.name, "site_libs", "node_modules"}:
+        return False
+    return not any(p.startswith(("_", ".")) for p in parts)
+
+
+sources = [p for p in Path(".").rglob("*") if p.is_file() and p.suffix in SOURCE_SUFFIXES and is_public_source(p)]
+drafts = []
+for source in sources:
+    match = front_matter.match(source.read_text(encoding="utf-8", errors="replace"))
+    if match and draft_true.search(match.group(1)):
+        drafts.append(source)
+published = [p for p in sources if p not in drafts]
+
+# Production output must contain nothing a draft exclusively owns: not the
+# page, not its .llms.md companion, and not figures copied beside it.
+draft_leaks: list[str] = []
+for source in sorted(drafts):
+    out_dir = ROOT / source.parent
+    owns_folder = source.stem == "index" and source.parent != Path(".") and not any(
+        source.parent in p.parents for p in published
+    )
+    if owns_folder and out_dir.exists():
+        draft_leaks.extend(f.relative_to(ROOT).as_posix() for f in sorted(out_dir.rglob("*")) if f.is_file())
+    else:
+        for suffix in (".html", ".llms.md"):
+            target = out_dir / f"{source.stem}{suffix}"
+            if target.exists():
+                draft_leaks.append(target.relative_to(ROOT).as_posix())
+
+facts.append(f"Draft sources: {len(drafts)}; files from drafts in output: {len(draft_leaks)}")
+if draft_leaks and os.environ.get("CI") == "true":
+    add_error(f"{len(draft_leaks)} file(s) from draft sources remain in production output: " + ", ".join(draft_leaks[:10]))
+elif draft_leaks:
+    add_warning(
+        f"{len(draft_leaks)} file(s) from draft sources are in this local render; "
+        "they are removed in CI or with EKO_PRODUCTION=1."
     )
 
 # The custom homepage masthead should be the page's only H1.
 home = ROOT / "index.html"
 if home.exists():
     home_text = home.read_text(encoding="utf-8", errors="replace")
-    h1_count = len(re.findall(r"<h1\\b", home_text, flags=re.I))
+    h1_count = len(re.findall(r"<h1\b", home_text, flags=re.I))
     facts.append(f"Homepage H1 count: {h1_count}")
     if h1_count != 1:
         add_error(f"Homepage should contain exactly one H1; found {h1_count}.")
+
+# Site search must open the same clean URLs as navigation and the sitemap.
+search_json = ROOT / "search.json"
+if search_json.exists():
+    entries = json.loads(search_json.read_text(encoding="utf-8"))
+    bad_search = [e.get("href", "") for e in entries if re.search(r"(^|/)index\.html(?=$|[#?])", e.get("href", ""))]
+    facts.append(f"Search entries using explicit index.html: {len(bad_search)}")
+    if bad_search:
+        add_error(f"{len(bad_search)} search.json entr(ies) use /index.html. Examples: {bad_search[:5]}")
+
+# Alias pages must redirect without JavaScript and declare their destination.
+alias_problems: list[str] = []
+alias_count = 0
+for path in sorted(ROOT.rglob("*.html")):
+    text = path.read_text(encoding="utf-8", errors="replace")
+    if "<title>Redirect</title>" not in text:
+        continue
+    alias_count += 1
+    rel = path.relative_to(ROOT).as_posix()
+    canonical = canonical_from_html(text)
+    if not canonical or not canonical.startswith(SITE):
+        alias_problems.append(f"{rel}: no canonical to the destination")
+    elif canonical.endswith("/index.html"):
+        alias_problems.append(f"{rel}: canonical uses /index.html")
+    if 'http-equiv="refresh"' not in text:
+        alias_problems.append(f"{rel}: no meta refresh fallback")
+facts.append(f"Alias redirect pages: {alias_count}; with problems: {len(alias_problems)}")
+if alias_problems:
+    add_error("Alias pages need a clean canonical and meta refresh: " + "; ".join(alias_problems[:5]))
+
+# lastmod should describe content changes, not the time of the build.
+if SITEMAP.exists():
+    lastmods = re.findall(r"<lastmod>([^<]+)</lastmod>", SITEMAP.read_text(encoding="utf-8"))
+    days = {value[:10] for value in lastmods}
+    facts.append(f"Sitemap lastmod values: {len(lastmods)} across {len(days)} distinct day(s)")
+    if len(lastmods) > 5 and len(days) == 1:
+        add_error("Every sitemap lastmod falls on one day, which suggests build time rather than content dates.")
 
 # Internal links on published pages should point to the same clean URL form as
 # the sitemap and rel=canonical. This prevents the site itself from continually

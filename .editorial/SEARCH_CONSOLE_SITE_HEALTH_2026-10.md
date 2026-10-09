@@ -50,3 +50,21 @@ The first clean verification after the sitemap correction reported **29 sitemap 
 - Do not add `noindex` to legitimate pages merely to make the exclusion count smaller.
 - Do not modify unpublished drafts or published prose during technical site-health work unless a source link or metadata defect is specifically verified.
 - Keep technical changes on a short-lived branch, require a clean render/link/site-health check, and review before production merge.
+
+## Corrections after the October 9 full-system audit
+
+A render of `main`, this branch and the deployed `gh-pages` branch with Quarto 1.10.19 (the production version) found problems the first pass did not cover. This branch now fixes them:
+
+- **Draft footprint.** Production output still carried the unapproved Ghana post's figure and empty `.llms.md` files for every draft. `remove-draft-output.py` now removes each draft's whole output folder (or, where a folder also holds published pages, the draft page's own files), and only in production builds (`CI=true` or `EKO_PRODUCTION=1`). Local `quarto render` and `quarto preview` keep drafts.
+- **Draft review.** Quarto's default publishes an empty placeholder for drafts even in preview. `quarto preview --profile drafts` (see `_quarto-drafts.yml`) renders drafts in full locally without listing them.
+- **Site search.** 76 of 87 `search.json` entries sent visitors to `/index.html`. They are now normalised; browser tests from the homepage, an article and a project page land on clean URLs. `listings.json` is left unchanged because `quarto.js` matches its `/index.html` entries internally.
+- **Alias pages.** The FUSION and FORESIGHT alias was a script-only redirect to `research/context/index.html`. Alias pages now get a clean canonical, an instant meta refresh and a plain link, and work with JavaScript off.
+- **Sitemap lastmod.** Every `<lastmod>` was the build time. It now comes from the last git commit touching each page's source; workflows check out full history for this. With shallow history the element is removed rather than left wrong.
+- **Homepage H1.** The hidden Quarto title block is removed in post-render, leaving the masthead as the only H1. The audit's H1, front-matter and draft regexes were double-escaped and could never match; they are fixed.
+- **og:url** is added from each page's canonical.
+- **Build reproducibility.** Quarto is pinned to 1.10.19 in both workflows.
+- **Link checker.** HTTP 202 is no longer accepted for every site; EUR-Lex, which answers bots with 202, is excluded instead, and the stale Yale comment is gone.
+
+The site-health audit now also fails on: any file from a draft source in CI output, `/index.html` in `search.json`, alias pages without canonical or meta refresh, and sitemap `lastmod` values that all fall on one day.
+
+Search Console note: the sitemap report's "0 indexed" is consistent with the old sitemap listing `/index.html` forms while Google indexed the clean forms. Expect it to rise after this deploys and Google re-reads the sitemap.
