@@ -21,6 +21,8 @@ Models say where the United States could grow perennial energy crops. BioLand-US
 **[IFT-BioSim](../projects/ift-biosim/)**  
 The same national target costs different farms very different amounts. IFT-BioSim models those costs farm by farm, and tests whether different support designs change who bears them.
 
+The [projects page](../projects/) collects all three in one place.
+
 ## Methods
 
 My work uses econometrics, spatial modelling, optimisation, synthetic populations and microsimulation, implemented mainly in Python, R, Stata, GIS and SQL.

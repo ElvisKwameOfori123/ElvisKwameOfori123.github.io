@@ -1,5 +1,6 @@
 ---
 title: "EKO Perspectives"
+pagetitle: "Writing"
 description: "Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas."
 listing:
   contents: posts
