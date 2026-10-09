@@ -35,7 +35,7 @@ jobs:
             --root-dir ./_site
             --max-retries 2
             --timeout 20
-            --accept 200,204,206,403,429
+            --accept 200,202,204,206,403,429
             --exclude '^https://www\.linkedin\.com/'
             --exclude '^https://kwameofori123\.com/'
             --exclude '^https://journal\.societyofirishforesters\.ie/'
