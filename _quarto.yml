@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: _site
   post-render:
+    - scripts/remove-draft-output.py
     - scripts/normalize-sitemap.py
     - scripts/inject-structured-data.py
   resources:
