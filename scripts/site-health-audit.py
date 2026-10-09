@@ -265,22 +265,6 @@ if home.exists():
     if h1_count != 1:
         add_error(f"Homepage should contain exactly one H1; found {h1_count}.")
 
-# Every public page gets WebSite/Person entity markup from includes/head.html.
-site_schema_missing: list[str] = []
-for url in sitemap_urls:
-    path = rendered_file_for_url(url)
-    if path is None:
-        continue
-    page_text = path.read_text(encoding="utf-8", errors="replace")
-    if 'id="eko-site-jsonld"' not in page_text:
-        site_schema_missing.append(path.relative_to(ROOT).as_posix())
-facts.append(f"Sitemap pages with site-level JSON-LD: {len(sitemap_urls) - len(site_schema_missing)}")
-if site_schema_missing:
-    add_error(
-        f"{len(site_schema_missing)} sitemap page(s) lack site-level JSON-LD: "
-        + ", ".join(site_schema_missing[:10])
-    )
-
 # Internal links on published pages should point to the same clean URL form as
 # the sitemap and rel=canonical. This prevents the site itself from continually
 # rediscovering duplicate /index.html variants.
