@@ -62,6 +62,8 @@ jobs:
       #     Seeing Like a State (ISBN 9780300078152).
       #   - gov.scot returns 202 for Scotland's Fourth Land Use Strategy.
       #   - Ethiopian Business Review returns 500 for the wheat article.
+      #   - Ghana Statistical Service returns 404 to lychee for the productivity
+      #     report PDF even though the report is available to readers/search.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
