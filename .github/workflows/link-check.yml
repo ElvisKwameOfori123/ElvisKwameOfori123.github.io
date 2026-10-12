@@ -84,6 +84,20 @@ jobs:
             --exclude '^https://yalebooks\.yale\.edu/book/9780300078152/seeing-like-a-state/$'
             --exclude '^https://www\.gov\.scot/publications/scotlands-fourth-land-use-strategy-2026-2031/$'
             --exclude '^https://ethiopianbusinessreview\.net/ethiopias-wheat-self-sufficiency-claims-questioned-amid-discrepancies/$'
+            --exclude '^https://statsghana\.gov\.gh/gssmain/fileUpload/pressrelease/Productivity%20Statistics%20Report_Final_28th%20February%2C%202025\.pdf          format: markdown
+          output: ./lychee-report.md
+          jobSummary: true
+          fail: true
+
+      - name: Upload link-check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: ./lychee-report.md
+          if-no-files-found: ignore
+          retention-days: 14
+
             './_site/**/*.html'
           format: markdown
           output: ./lychee-report.md
