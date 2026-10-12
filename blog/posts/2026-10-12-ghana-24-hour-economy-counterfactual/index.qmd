@@ -31,7 +31,7 @@ If those constraints bind, adding a shift may add hours without delivering the p
 
 ## What the productivity data suggest
 
-Ghana's own statistics give reason for caution. The Ghana Statistical Service reports that [capital deepening has grown roughly twice as fast as labour productivity since 2010](https://statsghana.gov.gh/gssmain/fileUpload/pressrelease/Productivity%20Statistics%20Report_Final_28th%20February,%202025.pdf). More capital per worker has not translated proportionately into more output per worker.
+Ghana's own statistics give reason for caution. The Ghana Statistical Service reports that [capital deepening has grown roughly twice as fast as labour productivity since 2010](https://statsghana.gov.gh/gssmain/fileUpload/pressrelease/Productivity%20Statistics%20Report_Final_28th%20February%2C%202025.pdf). More capital per worker has not translated proportionately into more output per worker.
 
 That is the pattern 24H+ is meant to reverse. It also shows why longer utilisation alone is not enough. Adding hours to underused capital does not automatically fix the reason the capital was underused.
 
@@ -53,7 +53,7 @@ That distinction matters when modelled possibilities and programme targets begin
 
 ## The electricity constraint is real and measurable
 
-One practical constraint is electricity. The IMF has said that Ghana's industrial ambitions, including 24H+, require a step change in the [reliability, affordability and financial sustainability of power](https://www.elibrary.imf.org/view/journals/018/2026/086/article-A001-en.xml). World Bank Enterprise Survey data show that [73.76 per cent of Ghanaian firms experienced electrical outages](https://data.worldbank.org/indicator/IC.ELC.OUTG.ZS?locations=GH) in the most recent survey round.
+One practical constraint is electricity. The IMF has said that Ghana's industrial ambitions, including 24H+, require a step change in the [reliability, affordability and financial sustainability of power](https://www.imf.org/en/publications/selected-issues-papers/issues/2026/08/07/ghana-s-energy-sector-from-fiscal-vulnerability-to-a-platform-for-sustained-growth-578684). World Bank Enterprise Survey data show that [73.76 per cent of Ghanaian firms experienced electrical outages](https://data.worldbank.org/indicator/IC.ELC.OUTG.ZS?locations=GH) in the most recent survey round.
 
 A share of firms is not a measure of outage duration or cost, and those details matter. But the figure shows how common the constraint is.
 
