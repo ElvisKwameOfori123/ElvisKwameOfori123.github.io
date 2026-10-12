@@ -14,9 +14,9 @@ This ledger records public evidence used for the article. It contains no confide
 - Ghana News Agency, 21 August 2026. Secretariat says policy aims to remove supply-chain and financing constraints and raise factory capacity utilisation: https://gna.org.gh/2026/08/govt-targets-higher-industrial-capacity-investment-to-boost-business-growth/
 
 ## Productivity and constraints
-- Ghana Statistical Service, Productivity Statistics Report. Defines labour and multifactor productivity and reports capital deepening growing about twice as fast as labour productivity since 2010: https://statsghana.gov.gh/gssmain/fileUpload/pressrelease/Productivity%20Statistics%20Report_Final_28th%20February,%202025.pdf
+- Ghana Statistical Service, Productivity Statistics Report. Defines labour and multifactor productivity and reports capital deepening growing about twice as fast as labour productivity since 2010: https://statsghana.gov.gh/gssmain/fileUpload/pressrelease/Productivity%20Statistics%20Report_Final_28th%20February%2C%202025.pdf
 - Yakubu Abdul-Salam (2024), Socio-Economic Planning Sciences 95, 102017. Dynamic CGE comparison of a 24-hour-economy scenario with business as usual; reports real GDP 31.71% higher after ten years and more than 3 million jobs within five years under the modelled policy scenario. Treated as ex ante modelling, not observed programme impact: https://doi.org/10.1016/j.seps.2024.102017
-- IMF, Ghana's Energy Sector: From Fiscal Vulnerability to a Platform for Sustained Growth, 2026. Says Ghana's industrial ambitions, including 24H+, require a step change in reliability, affordability and financial sustainability of electricity: https://www.elibrary.imf.org/view/journals/018/2026/086/article-A001-en.xml
+- IMF, Ghana's Energy Sector: From Fiscal Vulnerability to a Platform for Sustained Growth, 2026. Says Ghana's industrial ambitions, including 24H+, require a step change in reliability, affordability and financial sustainability of electricity: https://www.imf.org/en/publications/selected-issues-papers/issues/2026/08/07/ghana-s-energy-sector-from-fiscal-vulnerability-to-a-platform-for-sustained-growth-578684
 - World Bank indicator from Enterprise Surveys, Ghana 2023. 73.76% of firms experienced electrical outages: https://data.worldbank.org/indicator/IC.ELC.OUTG.ZS?locations=GH
 
 ## Editorial and verification decisions
