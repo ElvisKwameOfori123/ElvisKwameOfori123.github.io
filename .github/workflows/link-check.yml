@@ -64,6 +64,8 @@ jobs:
       #   - Ethiopian Business Review returns 500 for the wheat article.
       #   - Ghana Statistical Service returns 404 to lychee for the productivity
       #     report PDF even though the verified report is available to readers.
+      #   - Three USDA citations are reachable to readers but intermittently
+      #     fail from GitHub runners with connection errors.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
@@ -100,6 +102,48 @@ jobs:
 
             --exclude '^https://statsghana\.gov\.gh/gssmain/fileUpload/pressrelease/Productivity%20Statistics%20Report_Final_28th%20February%2C%202025\.pdf
           format: markdown
+          output: ./lychee-report.md
+          jobSummary: true
+          fail: true
+
+      - name: Upload link-check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: ./lychee-report.md
+          if-no-files-found: ignore
+          retention-days: 14
+
+            --exclude '^https://www\.usda\.gov/about-usda/news/press-releases/2019/04/02/usda-study-shows-significant-greenhouse-gas-benefits-ethanol-compared-gasoline          format: markdown
+          output: ./lychee-report.md
+          jobSummary: true
+          fail: true
+
+      - name: Upload link-check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: ./lychee-report.md
+          if-no-files-found: ignore
+          retention-days: 14
+
+            --exclude '^https://www\.usda\.gov/oce/commodity/wasde/wasde0926\.pdf          format: markdown
+          output: ./lychee-report.md
+          jobSummary: true
+          fail: true
+
+      - name: Upload link-check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: ./lychee-report.md
+          if-no-files-found: ignore
+          retention-days: 14
+
+            --exclude '^https://www\.usda\.gov/sites/default/files/documents/USDA-OCE-Review-of-Lark-2022-For-Submission\.pdf          format: markdown
           output: ./lychee-report.md
           jobSummary: true
           fail: true
