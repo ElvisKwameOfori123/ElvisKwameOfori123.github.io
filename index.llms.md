@@ -38,6 +38,16 @@ Ireland has planted a fraction of the forest it promised since 1996. Licensing e
 
 [All writing →](blog/)
 
+[![Diagram comparing the observed path after Ghana\&#039;s 24H+ programme with a counterfactual path showing what might have happened without it](./blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/ghana-24h-counterfactual.svg)](blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
+
+### [Ghana’s 24-hour economy: how would we know if it’s working?](blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
+
+Ghana’s 24-hour economy aims to create 1.7 million jobs by 2028 by using existing capital, labour and infrastructure more intensively. Knowing whether it works requires a counterfactual: what would have happened without it?
+
+Oct 12, 2026
+
+Elvis Kwame Ofori
+
 [![Graphic comparing Ireland\&#039;s home-heating carbon tax rate of €63.50 per tonne, the scheduled €78.50 rate, and the Budget 2027 rate of €48.50](./blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/ireland-carbon-tax-budget-2027.svg)](blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
 
 ### [Ireland cut its carbon tax. What did Budget 2027 actually buy?](blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
@@ -53,16 +63,6 @@ Elvis Kwame Ofori
 ### [How to start a research paper, and why you should](blog/posts/2026-10-05-start-research-paper/index.llms.md)
 
 A paper worth writing starts with a failure in the world, not a method or a gap in a literature review. Five questions get you from that failure to something you can answer.
-
-Oct 5, 2026
-
-Elvis Kwame Ofori
-
-[![Looking up the buttressed trunk of a large rainforest tree into a dense green canopy in the Caxiuanã National Forest, Pará, Brazil](./blog/posts/2026-10-05-carbon-credit-counterfactual/caxiuana-forest-canopy.jpg)](blog/posts/2026-10-05-carbon-credit-counterfactual/index.llms.md)
-
-### [The carbon credit that wasn’t there](blog/posts/2026-10-05-carbon-credit-counterfactual/index.llms.md)
-
-Two major studies agree that forest carbon credits claimed several times what the projects achieved, even where forests were protected. The registries have since rewritten how baselines are set. The old credits are still being retired.
 
 Oct 5, 2026
 

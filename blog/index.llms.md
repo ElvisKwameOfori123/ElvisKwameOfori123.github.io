@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Diagram comparing the observed path after Ghana\&#039;s 24H+ programme with a counterfactual path showing what might have happened without it](../blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/ghana-24h-counterfactual.svg)](../blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
+
+### [Ghana’s 24-hour economy: how would we know if it’s working?](../blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
+
+Ghana’s 24-hour economy aims to create 1.7 million jobs by 2028 by using existing capital, labour and infrastructure more intensively. Knowing whether it works requires a counterfactual: what would have happened without it?
+
+Oct 12, 2026
+
+Elvis Kwame Ofori
+
 [![Graphic comparing Ireland\&#039;s home-heating carbon tax rate of €63.50 per tonne, the scheduled €78.50 rate, and the Budget 2027 rate of €48.50](../blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/ireland-carbon-tax-budget-2027.svg)](../blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
 
 ### [Ireland cut its carbon tax. What did Budget 2027 actually buy?](../blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
