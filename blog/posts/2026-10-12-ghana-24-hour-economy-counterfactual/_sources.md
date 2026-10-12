@@ -28,3 +28,5 @@ This ledger records public evidence used for the article. It contains no confide
 - The public article keeps sources inline; the source ledger remains non-rendered.
 - No existing EKO Perspectives post covers Ghana's 24-hour economy.
 - Semrush keyword-volume and keyword-difficulty data remain unavailable because the connected account has insufficient API units. No search-volume or difficulty figures are inferred.
+
+- Link-check note: the GSS productivity-report PDF is retained as the primary citation even though automated GitHub runners receive a false 404; the exception is exact-URL only.
