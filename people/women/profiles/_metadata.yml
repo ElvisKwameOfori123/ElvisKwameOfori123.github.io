@@ -1,0 +1,9 @@
+format:
+  html:
+    css: ../women-behind-science.css
+
+author: "Elvis Kwame Ofori"
+draft: false
+toc: false
+image: "../women-behind-science-social.svg"
+image-alt: "Women Behind the Science, EKO Perspectives"
