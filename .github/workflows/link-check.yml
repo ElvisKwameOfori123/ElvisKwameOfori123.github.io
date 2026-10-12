@@ -115,7 +115,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 14
 
-            --exclude '^https://www\.usda\.gov/about-usda/news/press-releases/2019/04/02/usda-study-shows-significant-greenhouse-gas-benefits-ethanol-compared-gasoline          format: markdown
+            --exclude '^https://www\.usda\.gov/about-usda/news/press-releases/2019/04/02/usda-study-shows-significant-greenhouse-gas-benefits-ethanol-compared-gasoline
+          format: markdown
           output: ./lychee-report.md
           jobSummary: true
           fail: true
@@ -129,7 +130,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 14
 
-            --exclude '^https://www\.usda\.gov/oce/commodity/wasde/wasde0926\.pdf          format: markdown
+            --exclude '^https://www\.usda\.gov/oce/commodity/wasde/wasde0926\.pdf
+          format: markdown
           output: ./lychee-report.md
           jobSummary: true
           fail: true
@@ -143,7 +145,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 14
 
-            --exclude '^https://www\.usda\.gov/sites/default/files/documents/USDA-OCE-Review-of-Lark-2022-For-Submission\.pdf          format: markdown
+            --exclude '^https://www\.usda\.gov/sites/default/files/documents/USDA-OCE-Review-of-Lark-2022-For-Submission\.pdf
+          format: markdown
           output: ./lychee-report.md
           jobSummary: true
           fail: true
