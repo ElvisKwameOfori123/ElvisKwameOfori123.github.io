@@ -54,6 +54,7 @@ jobs:
       # eur-lex.europa.eu answers automated clients with HTTP 202 and a bot
       # challenge instead of the document, so a check there proves nothing;
       # it is excluded rather than accepting 202 for every site.
+      # University of Nairobi and JKUAT pages also have runner-only TLS-chain failures.
       # Exact-URL exceptions below are for citations verified to work for
       # readers/search but known to fail intermittently from GitHub runners.
       # journal.societyofirishforesters.ie is excluded because its TLS
@@ -80,6 +81,13 @@ jobs:
             --exclude '^https://www\.usda\.gov/about-usda/news/press-releases/2019/04/02/usda-study-shows-significant-greenhouse-gas-benefits-ethanol-compared-gasoline$'
             --exclude '^https://www\.usda\.gov/oce/commodity/wasde/wasde0926\.pdf$'
             --exclude '^https://www\.usda\.gov/sites/default/files/documents/USDA-OCE-Review-of-Lark-2022-For-Submission\.pdf$'
+            --exclude '^https://plantscience\.uonbi\.ac\.ke/node/20$'
+            --exclude '^https://profiles\.uonbi\.ac\.ke/ckunyanga$'
+            --exclude '^https://plantscience\.uonbi\.ac\.ke/staff/prof-cecilia-moraa-onyango$'
+            --exclude '^https://postharvest-program\.uonbi\.ac\.ke/team$'
+            --exclude '^https://www\.uonbi\.ac\.ke/news/lab-land-solutions-food-loss-waste-reduction-people-and-planet-prof-jane-ambuko$'
+            --exclude '^https://profiles\.uonbi\.ac\.ke/janew$'
+            --exclude '^https://www\.jkuat\.ac\.ke/school/sabs/\?page_id=16552$'
             './_site/**/*.html'
           format: markdown
           output: ./lychee-report.md
