@@ -32,6 +32,8 @@ website:
         href: index.qmd
       - text: Writing
         href: blog/index.qmd
+      - text: Women in Science
+        href: people/women/index.qmd
       - text: Research
         href: research/index.qmd
       - text: About
