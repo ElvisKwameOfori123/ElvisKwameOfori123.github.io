@@ -43,9 +43,16 @@ The archive grows, one researcher at a time.
 <div class="women-search-wrap">
 <label for="women-search" class="visually-hidden">Search profiles</label>
 <input id="women-search" class="women-search" type="search" placeholder="Search researchers, fields or questions" autocomplete="off">
+<p id="women-result-count" class="women-result-count" aria-live="polite"></p>
 </div>
 
 ::: {#women-listing}
+:::
+
+<p id="women-no-results" class="women-no-results" hidden>No profiles match this search and filter.</p>
+
+::: {.women-image-note}
+**Image standard.** Portrait photography is used only when reuse rights are clear. Where a reusable portrait is not yet available, EKO Perspectives uses an original editorial research card rather than republishing institutional photography without permission.
 :::
 
 <script>
@@ -57,13 +64,27 @@ document.addEventListener("DOMContentLoaded", () => {
     const active = document.querySelector(".women-filter.is-active")?.dataset.filter || "All";
     const query = (input?.value || "").trim().toLowerCase();
 
-    document.querySelectorAll(".person-card").forEach((card) => {
+    const cards = [...document.querySelectorAll(".person-card")];
+    let visible = 0;
+
+    cards.forEach((card) => {
       const topic = card.dataset.topic || "";
       const haystack = card.textContent.toLowerCase();
       const topicMatch = active === "All" || topic === active;
       const textMatch = !query || haystack.includes(query);
-      card.hidden = !(topicMatch && textMatch);
+      const show = topicMatch && textMatch;
+      card.hidden = !show;
+      if (show) visible += 1;
     });
+
+    const resultCount = document.querySelector("#women-result-count");
+    const noResults = document.querySelector("#women-no-results");
+    if (resultCount) {
+      resultCount.textContent = `Showing ${visible} of ${cards.length} profiles`;
+    }
+    if (noResults) {
+      noResults.hidden = visible !== 0;
+    }
   };
 
   buttons.forEach((button) => {
@@ -75,5 +96,6 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   input?.addEventListener("input", applyFilters);
+  applyFilters();
 });
 </script>
