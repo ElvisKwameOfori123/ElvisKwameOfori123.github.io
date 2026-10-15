@@ -304,6 +304,15 @@
   background: var(--site-surface);
 }
 
+.profile-research-image {
+  width: 100%;
+  height: 100%;
+  min-height: 180px;
+  object-fit: cover;
+  border-right: 1px solid var(--site-line);
+  background: var(--site-bg);
+}
+
 .profile-research-mark {
   position: relative;
   display: flex;
@@ -357,6 +366,14 @@
 @media (max-width: 620px) {
   .profile-research-visual {
     grid-template-columns: 1fr;
+  }
+
+  .profile-research-image {
+    min-height: 0;
+    max-height: 360px;
+    border-right: 0;
+    border-bottom: 1px solid var(--site-line);
+    object-position: center 35%;
   }
 
   .profile-research-mark {
