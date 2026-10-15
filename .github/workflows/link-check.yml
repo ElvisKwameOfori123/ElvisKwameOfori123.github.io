@@ -55,6 +55,7 @@ jobs:
       # challenge instead of the document, so a check there proves nothing;
       # it is excluded rather than accepting 202 for every site.
       # University of Nairobi and JKUAT pages also have runner-only TLS-chain failures.
+      # Oireachtas and World Bank pages also intermittently fail from runners.
       # Exact-URL exceptions below are for citations verified to work for
       # readers/search but known to fail intermittently from GitHub runners.
       # journal.societyofirishforesters.ie is excluded because its TLS
@@ -88,6 +89,8 @@ jobs:
             --exclude '^https://www\.uonbi\.ac\.ke/news/lab-land-solutions-food-loss-waste-reduction-people-and-planet-prof-jane-ambuko$'
             --exclude '^https://profiles\.uonbi\.ac\.ke/janew$'
             --exclude '^https://www\.jkuat\.ac\.ke/school/sabs/\?page_id=16552$'
+            --exclude '^https://prelive\.oireachtas\.ie/en/debates/debate/dail/2026-10-07/20/$'
+            --exclude '^https://data\.worldbank\.org/indicator/IC\.ELC\.OUTG\.ZS\?locations=GH$'
             './_site/**/*.html'
           format: markdown
           output: ./lychee-report.md
