@@ -28,7 +28,7 @@ Rural Development
 
 Search profiles
 
-A Research profile
+Plant Science AW Women Behind the Science
 
 ## Agnes W. Mwang’ombe
 
@@ -36,7 +36,7 @@ Plant pathology
 
 How do you build crop protection science that lasts beyond one disease outbreak?
 
-A Research profile
+Climate AS Women Behind the Science
 
 ## Anna Steynor
 
@@ -44,7 +44,7 @@ Climate services and risk communication
 
 Why does good climate information so often fail to change decisions?
 
-A Research profile
+Food & Nutrition AM Women Behind the Science
 
 ## Anne Mullen
 
@@ -52,7 +52,7 @@ Nutrition and sustainable food systems
 
 Can food-system climate policy improve nutrition at the same time?
 
-B Research profile
+Economics & Policy BR Women Behind the Science
 
 ## Britta Rennkamp
 
@@ -60,7 +60,7 @@ Climate policy and science, technology and innovation policy
 
 Can a rapid energy transition also reduce structural inequality?
 
-C Research profile
+Food & Nutrition CN Women Behind the Science
 
 ## Catherine Nkirote Kunyanga
 
@@ -68,7 +68,7 @@ Food science and technology
 
 What makes a food system safe as well as nutritious?
 
-C Research profile
+Agriculture CM Women Behind the Science
 
 ## Cecilia Moraa Onyango
 
@@ -76,7 +76,7 @@ Agronomy and horticulture
 
 How do indigenous vegetables move from neglected crops into mainstream food systems?
 
-D Research profile
+Agriculture DS Women Behind the Science
 
 ## Dilys Sefakor MacCarthy
 
@@ -84,7 +84,7 @@ Plant nutrition and crop modelling
 
 How can crop models work for farmers on very different soils?
 
-D Research profile
+Climate DK Women Behind the Science
 
 ## Dorcas Kalele
 
@@ -92,7 +92,7 @@ Climate adaptation and rural development
 
 How do climate-smart ideas become decisions farmers can actually use?
 
-E Research profile
+Climate ED Women Behind the Science
 
 ## Eve Daly
 
@@ -100,7 +100,7 @@ Geophysics and Earth observation
 
 Can we see enough of the soil to manage water and carbon better?
 
-F Research profile
+Economics & Policy FK Women Behind the Science
 
 ## Franziska Klein
 
@@ -108,7 +108,7 @@ Environmental and ecological economics
 
 Can a low-carbon transition also improve well-being?
 
-F Research profile
+Economics & Policy FE Women Behind the Science
 
 ## Freda Elikplim Asem
 
@@ -116,7 +116,7 @@ Agricultural economics and agribusiness
 
 Why can productive smallholders still struggle to capture value from food markets?
 
-G Research profile
+Climate GZ Women Behind the Science
 
 ## Gina Ziervogel
 
@@ -124,7 +124,7 @@ Climate adaptation and governance
 
 Who bears the trade-offs when cities adapt to climate change?
 
-H Research profile
+Agriculture HA Women Behind the Science
 
 ## Hale Ann Tufan
 
@@ -132,7 +132,7 @@ Plant breeding and gender-responsive agricultural research
 
 Who gets designed into a crop-improvement programme?
 
-H Research profile
+Climate HR Women Behind the Science
 
 ## Hannah Ritchie
 
@@ -140,7 +140,7 @@ Sustainability data science
 
 Can better data change how people think about environmental progress?
 
-H Research profile
+Food & Nutrition Hv Women Behind the Science
 
 ## Hannah van Zanten
 
@@ -148,7 +148,7 @@ Farming systems ecology
 
 What should livestock do in a circular food system?
 
-H Research profile
+Climate HB Women Behind the Science
 
 ## Hester Biemans
 
@@ -156,7 +156,7 @@ Hydrology and food security
 
 How much water can agriculture use in a warming world?
 
-I Research profile
+Economics & Policy IS Women Behind the Science
 
 ## Irene S. Egyir
 
@@ -164,7 +164,7 @@ Agricultural economics
 
 Why do sensible agricultural policies work differently for different farmers?
 
-J Research profile
+Plant Science JN Women Behind the Science
 
 ## Jacqueline Naalamle Amissah
 
@@ -172,7 +172,7 @@ Horticulture and plant tissue culture
 
 Can plants that have rarely been farmed become useful crops before they disappear?
 
-J Research profile
+Agriculture JA Women Behind the Science
 
 ## Jane Ambuko
 
@@ -180,7 +180,7 @@ Horticulture and postharvest science
 
 How do you stop food from being lost after it has already been grown?
 
-J Research profile
+Climate JW Women Behind the Science
 
 ## Jane Wangui Mugo
 
@@ -188,7 +188,7 @@ Agrometeorology and climate modelling
 
 Can climate models tell a farmer where a crop will still work tomorrow?
 
-J Research profile
+Economics & Policy JA Women Behind the Science
 
 ## Jenny Aker
 
@@ -196,7 +196,7 @@ Development economics
 
 Does more information change how rural markets work?
 
-J Research profile
+Economics & Policy JD Women Behind the Science
 
 ## Jessica Duncan
 
@@ -204,7 +204,7 @@ Food governance and rural sociology
 
 Who gets to decide what a sustainable food system looks like?
 
-J Research profile
+Climate JT Women Behind the Science
 
 ## Jessica Thorn
 
@@ -212,7 +212,7 @@ Global food security and environmental change
 
 Can nature-based adaptation work in the places facing the fastest change?
 
-J Research profile
+Plant Science JF Women Behind the Science
 
 ## Jill Farrant
 
@@ -220,7 +220,7 @@ Plant molecular biology
 
 Can resurrection plants teach crops to survive drought?
 
-J Research profile
+Food & Nutrition JC Women Behind the Science
 
 ## Joyce Chitja
 
@@ -228,7 +228,7 @@ Food and nutrition security
 
 What has to change before smallholder farmers can reach better markets?
 
-K Research profile
+Food & Nutrition KF Women Behind the Science
 
 ## Kathryn Fiorella
 
@@ -236,7 +236,7 @@ Planetary health and environmental epidemiology
 
 What happens to nutrition when ecosystems change?
 
-K Research profile
+Climate KA Women Behind the Science
 
 ## Katye Altieri
 
@@ -244,7 +244,7 @@ Oceanography and atmospheric chemistry
 
 What can the remote Southern Ocean tell us about a climate before industrial pollution?
 
-L Research profile
+Economics & Policy LW Women Behind the Science
 
 ## Leonie Wenz
 
@@ -252,7 +252,7 @@ Environmental and climate economics
 
 What does climate change cost society before disaster becomes visible?
 
-L Research profile
+Climate LS Women Behind the Science
 
 ## Louise Slater
 
@@ -260,7 +260,7 @@ Hydroclimatology
 
 Can flood risk be predicted when the climate itself is changing?
 
-L Research profile
+Climate LA Women Behind the Science
 
 ## Lucy Amissah
 
@@ -268,7 +268,7 @@ Tropical forest ecology
 
 How do you manage wildfire without separating forests from the people who live with fire?
 
-M Research profile
+Economics & Policy MA Women Behind the Science
 
 ## Maria Antonieta Cunha-e-Sá
 
@@ -276,7 +276,7 @@ Environmental economics
 
 How much are people willing to pay to protect nature?
 
-M Research profile
+Agriculture MS Women Behind the Science
 
 ## Marianna Siegmund-Schultze
 
@@ -284,7 +284,7 @@ Agricultural systems and land use
 
 How do farming systems change without losing the people inside them?
 
-M Research profile
+Economics & Policy MV Women Behind the Science
 
 ## Martine Visser
 
@@ -292,7 +292,7 @@ Behavioural and environmental economics
 
 Can behavioural economics change how a city uses scarce water?
 
-M Research profile
+Plant Science MA Women Behind the Science
 
 ## Mary Abukutsa-Onyango
 
@@ -300,7 +300,7 @@ Horticulture
 
 What changes when neglected vegetables are treated as serious crops?
 
-M Research profile
+Rural Development MF Women Behind the Science
 
 ## Maura Farrell
 
@@ -308,7 +308,7 @@ Rural and agricultural geography
 
 Who gets to shape the future of rural Europe?
 
-M Research profile
+Economics & Policy ML Women Behind the Science
 
 ## Monica Lambon-Quayefio
 
@@ -316,7 +316,7 @@ Applied microeconomics
 
 Does digital credit actually change outcomes for smallholder farmers?
 
-M Research profile
+Food & Nutrition MZ Women Behind the Science
 
 ## Monika Zurek
 
@@ -324,7 +324,7 @@ Food systems and environmental change
 
 Can food-system foresight change decisions before crises arrive?
 
-P Research profile
+Plant Science PA Women Behind the Science
 
 ## Pearl Abu
 
@@ -332,7 +332,7 @@ Plant breeding and genetics
 
 Can maize be bred for yield, nutrition and stress tolerance at the same time?
 
-P Research profile
+Climate PH Women Behind the Science
 
 ## Petra Holden
 
@@ -340,7 +340,7 @@ Conservation science and restoration ecology
 
 Can nature-based solutions be both effective and fair?
 
-R Research profile
+Agriculture RB Women Behind the Science
 
 ## Rachel Bezner Kerr
 
@@ -348,7 +348,7 @@ Agroecology and development
 
 What changes when farmers become researchers too?
 
-R Research profile
+Economics & Policy RW Women Behind the Science
 
 ## Rachel Wynberg
 
@@ -356,7 +356,7 @@ Political ecology and environmental governance
 
 Who should benefit when biodiversity becomes an economic resource?
 
-R Research profile
+Climate RK Women Behind the Science
 
 ## Radhika Khosla
 
@@ -364,7 +364,7 @@ Environmental science and policy
 
 How do we keep billions of people cool without locking in more emissions?
 
-R Research profile
+Plant Science RN Women Behind the Science
 
 ## Rebecca Nelson
 
@@ -372,7 +372,7 @@ Plant pathology and global development
 
 Can crop science move from disease resistance to a circular nutrient economy?
 
-R Research profile
+Economics & Policy RP Women Behind the Science
 
 ## Rohini Pande
 
@@ -380,7 +380,7 @@ Development and environmental economics
 
 Can institutions redistribute economic and environmental power?
 
-S Research profile
+Climate SS Women Behind the Science
 
 ## Sarah Sparrow
 
@@ -388,7 +388,7 @@ Climate modelling and attribution
 
 Can citizen computing help us understand extreme weather?
 
-S Research profile
+Economics & Policy SV Women Behind the Science
 
 ## Siera Vercillo
 
@@ -396,7 +396,7 @@ Political ecology and food governance
 
 Who gets to define a just food-system transformation?
 
-S Research profile
+Climate SW Women Behind the Science
 
 ## Sinéad Waters
 
@@ -404,7 +404,7 @@ Rumen microbiology and animal science
 
 Can the rumen be changed enough to cut methane without weakening livestock production?
 
-U Research profile
+Climate UM Women Behind the Science
 
 ## Una Murray
 
@@ -412,7 +412,7 @@ International development
 
 What does climate adaptation look like when people are also displaced?
 
-Y Research profile
+Economics & Policy YH Women Behind the Science
 
 ## Yukiko Hashida
 
@@ -420,10 +420,14 @@ Environmental and resource economics
 
 How should communities adapt when land itself is changing?
 
-Z Research profile
+Climate ZS Women Behind the Science
 
 ## Zita Sebesvari
 
 Environmental risk and adaptation
 
 How do connected risks turn one shock into many?
+
+No profiles match this search and filter.
+
+**Image standard.** Portrait photography is used only when reuse rights are clear. Where a reusable portrait is not yet available, EKO Perspectives uses an original editorial research card rather than republishing institutional photography without permission.
