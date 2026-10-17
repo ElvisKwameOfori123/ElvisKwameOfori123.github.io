@@ -1,144 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kwameofori123.com/contact.html</loc>
-    <lastmod>2026-10-09T11:30:26+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/projects/ift-biosim/</loc>
-    <lastmod>2026-10-09T11:30:26+01:00</lastmod>
+    <loc>https://kwameofori123.com/research/context/</loc>
+    <lastmod>2026-10-01T17:54:02+01:00</lastmod>
   </url>
   <url>
     <loc>https://kwameofori123.com/projects/</loc>
     <lastmod>2026-10-09T11:30:26+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/research/</loc>
-    <lastmod>2026-10-09T11:34:04+01:00</lastmod>
+    <loc>https://kwameofori123.com/projects/goblin-spatial/</loc>
+    <lastmod>2026-10-01T15:27:40+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/accessibility.html</loc>
-    <lastmod>2026-09-23T17:04:17+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/monika-zurek.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/mary-abukutsa-onyango.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/rachel-wynberg.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/joyce-chitja.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/leonie-wenz.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/petra-holden.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/anna-steynor.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/kathryn-fiorella.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/yukiko-hashida.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/martine-visser.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/lucy-amissah.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/jenny-aker.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/jessica-duncan.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/louise-slater.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/franziska-klein.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/siera-vercillo.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/maura-farrell.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/dorcas-kalele.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/anne-mullen.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/hale-ann-tufan.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/hannah-van-zanten.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/jill-farrant.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/rachel-bezner-kerr.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/jane-mugo.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/monica-lambon-quayefio.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/how-i-got-here/</loc>
-    <lastmod>2026-10-07T09:36:17+01:00</lastmod>
+    <loc>https://kwameofori123.com/projects/bioland-us/</loc>
+    <lastmod>2026-10-09T11:30:26+01:00</lastmod>
   </url>
   <url>
     <loc>https://kwameofori123.com/privacy.html</loc>
     <lastmod>2026-09-23T17:04:17+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/</loc>
-    <lastmod>2026-10-06T00:38:21+01:00</lastmod>
+    <loc>https://kwameofori123.com/how-i-got-here/</loc>
+    <lastmod>2026-10-07T09:36:17+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/</loc>
-    <lastmod>2026-10-06T05:55:38+01:00</lastmod>
+    <loc>https://kwameofori123.com/contact.html</loc>
+    <lastmod>2026-10-09T11:30:26+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-04-africa-feed-itself/</loc>
-    <lastmod>2026-10-04T15:28:45+01:00</lastmod>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/</loc>
+    <lastmod>2026-10-12T16:56:16+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-05-start-research-paper/</loc>
+    <lastmod>2026-10-05T22:50:34+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/</loc>
+    <lastmod>2026-10-05T22:50:34+01:00</lastmod>
   </url>
   <url>
     <loc>https://kwameofori123.com/blog/posts/2026-10-04-loss-and-damage-money/</loc>
@@ -149,183 +49,79 @@
     <lastmod>2026-10-04T15:28:45+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-09-22-acres-landscape-actions/</loc>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-02-one-hectare-many-promises/</loc>
+    <lastmod>2026-10-09T11:30:26+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-09-24-wildfire-policy-before-fire/</loc>
     <lastmod>2026-10-06T05:55:38+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/</loc>
-    <lastmod>2026-10-12T16:56:16+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/</loc>
-    <lastmod>2026-10-06T09:35:35Z</lastmod>
   </url>
   <url>
     <loc>https://kwameofori123.com/blog/posts/2026-09-22-econometrics-to-scenario-thinking/</loc>
     <lastmod>2026-10-01T18:09:09+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/blog/</loc>
-    <lastmod>2026-10-12T16:56:16+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-01-ireland-tree-planting-promise/</loc>
-    <lastmod>2026-10-06T09:35:35Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-05-start-research-paper/</loc>
-    <lastmod>2026-10-05T22:50:34+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/</loc>
+    <loc>https://kwameofori123.com/blog/posts/2026-09-22-acres-landscape-actions/</loc>
     <lastmod>2026-10-06T05:55:38+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-05-carbon-credit-counterfactual/</loc>
-    <lastmod>2026-10-05T22:50:34+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-02-one-hectare-many-promises/</loc>
-    <lastmod>2026-10-09T11:30:26+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/</loc>
-    <lastmod>2026-10-09T12:00:56+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-04-we-cannot-drink-gold/</loc>
-    <lastmod>2026-10-06T09:20:59Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/blog/posts/2026-10-04-feeding-the-world/</loc>
-    <lastmod>2026-10-04T15:28:45+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/</loc>
-    <lastmod>2026-10-12T16:56:16+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/copyright.html</loc>
+    <loc>https://kwameofori123.com/accessibility.html</loc>
     <lastmod>2026-09-23T17:04:17+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/</loc>
-    <lastmod>2026-10-15T22:43:07+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/maria-cunha-e-sa.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/irene-egyir.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/una-murray.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/radhika-khosla.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/zita-sebesvari.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/rebecca-nelson.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/dilys-maccarthy.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/catherine-kunyanga.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/naalamle-amissah.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/eve-daly.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/jane-ambuko.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/sinead-waters.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/cecilia-onyango.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/pearl-abu.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/britta-rennkamp.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/agnes-mwangombe.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/gina-ziervogel.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/katye-altieri.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/hannah-ritchie.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/marianna-siegmund-schultze.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/hester-biemans.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/freda-asem.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/sarah-sparrow.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/jessica-thorn.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kwameofori123.com/people/women/profiles/rohini-pande.html</loc>
-    <lastmod>2026-10-12T17:07:04+01:00</lastmod>
   </url>
   <url>
     <loc>https://kwameofori123.com/about.html</loc>
     <lastmod>2026-10-09T11:30:26+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/research/context/</loc>
-    <lastmod>2026-10-01T17:54:02+01:00</lastmod>
+    <loc>https://kwameofori123.com/blog/</loc>
+    <lastmod>2026-10-12T16:56:16+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/projects/bioland-us/</loc>
+    <loc>https://kwameofori123.com/blog/posts/2026-09-22-ai-needs-evidence-not-anecdotes/</loc>
+    <lastmod>2026-10-06T05:55:38+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-09-24-seeing-like-a-state-models/</loc>
+    <lastmod>2026-10-06T09:35:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-01-ireland-tree-planting-promise/</loc>
+    <lastmod>2026-10-06T09:35:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-04-africa-feed-itself/</loc>
+    <lastmod>2026-10-04T15:28:45+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-04-feeding-the-world/</loc>
+    <lastmod>2026-10-04T15:28:45+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-04-we-cannot-drink-gold/</loc>
+    <lastmod>2026-10-06T09:20:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-05-eudr-cocoa-ghana/</loc>
+    <lastmod>2026-10-06T00:38:21+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/</loc>
+    <lastmod>2026-10-09T12:00:56+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/copyright.html</loc>
+    <lastmod>2026-09-23T17:04:17+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/</loc>
+    <lastmod>2026-10-12T16:56:16+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kwameofori123.com/projects/ift-biosim/</loc>
     <lastmod>2026-10-09T11:30:26+01:00</lastmod>
   </url>
   <url>
-    <loc>https://kwameofori123.com/projects/goblin-spatial/</loc>
-    <lastmod>2026-10-01T15:27:40+01:00</lastmod>
+    <loc>https://kwameofori123.com/research/</loc>
+    <lastmod>2026-10-09T11:34:04+01:00</lastmod>
   </url>
 </urlset>
