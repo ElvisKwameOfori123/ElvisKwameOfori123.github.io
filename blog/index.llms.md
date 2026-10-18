@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![EKO graphic showing the €40 per eligible tonne fertiliser aid formula, minimum qualifying 2.5 tonnes and maximum supported 100 tonnes](../blog/posts/2026-10-18-fertiliser-exceptional-aid/fertiliser-aid-2026.svg)](../blog/posts/2026-10-18-fertiliser-exceptional-aid/index.llms.md)
+
+### [Ireland’s fertiliser support scheme 2026: who qualifies and how much will farmers get?](../blog/posts/2026-10-18-fertiliser-exceptional-aid/index.llms.md)
+
+The 2026 Fertiliser Exceptional Aid Scheme pays €40 per eligible tonne, with records checked on 23 October. Who qualifies, what could you receive, and what does the formula reward?
+
+Oct 18, 2026
+
+Elvis Kwame Ofori
+
 [![Diagram comparing the observed path after Ghana\&#039;s 24H+ programme with a counterfactual path showing what might have happened without it](../blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/ghana-24h-counterfactual.svg)](../blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
 
 ### [Ghana’s 24-hour economy: how would we know if it’s working?](../blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
