@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Original EKO editorial graphic showing the new US\$8 billion Harvest Fuel Relief announcement alongside the earlier US\$12 billion Farmer Bridge Assistance package](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/harvest-fuel-relief.svg)](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
+
+### [Trump’s \$8 billion farm relief plan: why farmers need more than another payment](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
+
+USDA has announced \$8 billion in Harvest Fuel Relief, following \$12 billion in earlier farm assistance. How will payments work, who benefits, and what problems remain?
+
+Oct 20, 2026
+
+Elvis Kwame Ofori
+
 [![EKO graphic showing the €40 per eligible tonne fertiliser aid formula, minimum qualifying 2.5 tonnes and maximum supported 100 tonnes](../blog/posts/2026-10-18-fertiliser-exceptional-aid/fertiliser-aid-2026.svg)](../blog/posts/2026-10-18-fertiliser-exceptional-aid/index.llms.md)
 
 ### [Ireland’s fertiliser support scheme 2026: who qualifies and how much will farmers get?](../blog/posts/2026-10-18-fertiliser-exceptional-aid/index.llms.md)

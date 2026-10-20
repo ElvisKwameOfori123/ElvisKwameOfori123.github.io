@@ -38,6 +38,16 @@ Ireland has planted a fraction of the forest it promised since 1996. Licensing e
 
 [All writing →](blog/)
 
+[![Original EKO editorial graphic showing the new US\$8 billion Harvest Fuel Relief announcement alongside the earlier US\$12 billion Farmer Bridge Assistance package](./blog/posts/2026-10-20-us-farm-relief-harvest-fuel/harvest-fuel-relief.svg)](blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
+
+### [Trump’s \$8 billion farm relief plan: why farmers need more than another payment](blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
+
+USDA has announced \$8 billion in Harvest Fuel Relief, following \$12 billion in earlier farm assistance. How will payments work, who benefits, and what problems remain?
+
+Oct 20, 2026
+
+Elvis Kwame Ofori
+
 [![EKO graphic showing the €40 per eligible tonne fertiliser aid formula, minimum qualifying 2.5 tonnes and maximum supported 100 tonnes](./blog/posts/2026-10-18-fertiliser-exceptional-aid/fertiliser-aid-2026.svg)](blog/posts/2026-10-18-fertiliser-exceptional-aid/index.llms.md)
 
 ### [Ireland’s fertiliser support scheme 2026: who qualifies and how much will farmers get?](blog/posts/2026-10-18-fertiliser-exceptional-aid/index.llms.md)
@@ -55,16 +65,6 @@ Elvis Kwame Ofori
 Ghana’s 24-hour economy aims to create 1.7 million jobs by 2028 by using existing capital, labour and infrastructure more intensively. Knowing whether it works requires a counterfactual: what would have happened without it?
 
 Oct 12, 2026
-
-Elvis Kwame Ofori
-
-[![Graphic comparing Ireland\&#039;s home-heating carbon tax rate of €63.50 per tonne, the scheduled €78.50 rate, and the Budget 2027 rate of €48.50](./blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/ireland-carbon-tax-budget-2027.svg)](blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
-
-### [Ireland cut its carbon tax. What did Budget 2027 actually buy?](blog/posts/2026-10-09-ireland-carbon-tax-budget-2027/index.llms.md)
-
-Budget 2027 cut Ireland’s carbon tax on home-heating oil and natural gas. The relief is immediate. The harder question is what Ireland loses when a long-term price signal is reversed.
-
-Oct 9, 2026
 
 Elvis Kwame Ofori
 
