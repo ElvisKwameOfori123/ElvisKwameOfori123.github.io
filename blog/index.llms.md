@@ -12,6 +12,16 @@ Oct 21, 2026
 
 Elvis Kwame Ofori
 
+[![Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, photographed by USDA in May 2022](https://commons.wikimedia.org/wiki/Special:FilePath/20220518-FPAC-PJK-0912_TONED.jpg?width=1600)](../blog/posts/2026-10-21-why-american-farmers-work-off-farm/index.llms.md)
+
+### [The Second Job Behind the American Farm](../blog/posts/2026-10-21-why-american-farmers-work-off-farm/index.llms.md)
+
+Why do American farmers work outside farming? USDA data show how off-farm earnings protect households without necessarily making their farms profitable.
+
+Oct 21, 2026
+
+Elvis Kwame Ofori
+
 [![Original EKO editorial graphic showing the new US\$8 billion Harvest Fuel Relief announcement alongside the earlier US\$12 billion Farmer Bridge Assistance package](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/harvest-fuel-relief.svg)](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
 
 ### [Trump’s \$8 billion farm relief plan: why farmers need more than another payment](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
