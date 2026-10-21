@@ -2,7 +2,7 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
-[![Original EKO Perspectives graphic contrasting the financial scale of American agriculture with the uneven livelihoods of individual farm households](../blog/posts/2026-10-21-american-farmers-livelihoods/farm-livelihoods.svg)](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
+[![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600)](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
 
 ### [America feeds its people. But who is looking after its farmers?](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
 

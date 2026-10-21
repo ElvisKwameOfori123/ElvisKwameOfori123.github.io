@@ -14,11 +14,11 @@ Published
 
 21 October 2026
 
-![Original EKO editorial illustration contrasting national farm-sector income with household-level farming livelihoods, without implying the statistics measure the same population.](farm-livelihoods.svg)
+![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020.](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600)
 
-American agriculture generates substantial national income, but the financial position of farming households varies considerably.
+A farmer harvests soybeans near New London, Maryland, in October 2020.
 
-*Graphic: EKO Perspectives. For farm-income definitions and the latest forecast, see the [USDA Economic Research Service](https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/highlights-from-the-farm-income-forecast).*
+*Photograph: Preston Keres, USDA Farm Production and Conservation, 17 October 2020. [Original and public-domain status](https://commons.wikimedia.org/wiki/File:20201017-FPAC-Harvest0050_TONED.jpg). Used for editorial illustration; no USDA endorsement is implied.*
 
 Washington has announced another \$8 billion in assistance for American farmers, less than a year after promising \$12 billion under the Farmer Bridge Assistance programme. The latest package, called Harvest Fuel Relief, is intended to help producers facing higher fuel costs and difficult market conditions. The money is welcome, particularly for farmers already operating on narrow margins. But two multibillion-dollar interventions in such a short period ought to make us think more carefully about the financial conditions under which American food is produced. [USDA described the new programme on 19 October](https://www.usda.gov/about-usda/news/press-releases/2026/10/19/trump-administration-announces-8-billion-harvest-fuel-relief-program).
 
