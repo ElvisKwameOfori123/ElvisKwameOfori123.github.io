@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Original EKO Perspectives graphic contrasting the financial scale of American agriculture with the uneven livelihoods of individual farm households](../blog/posts/2026-10-21-american-farmers-livelihoods/farm-livelihoods.svg)](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
+
+### [America feeds its people. But who is looking after its farmers?](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
+
+The US spends billions on farm relief, yet farming households face very different margins and risks. What should agricultural assistance actually protect?
+
+Oct 21, 2026
+
+Elvis Kwame Ofori
+
 [![Original EKO editorial graphic showing the new US\$8 billion Harvest Fuel Relief announcement alongside the earlier US\$12 billion Farmer Bridge Assistance package](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/harvest-fuel-relief.svg)](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
 
 ### [Trump’s \$8 billion farm relief plan: why farmers need more than another payment](../blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)

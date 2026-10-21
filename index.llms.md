@@ -38,6 +38,16 @@ Ireland has planted a fraction of the forest it promised since 1996. Licensing e
 
 [All writing →](blog/)
 
+[![Original EKO Perspectives graphic contrasting the financial scale of American agriculture with the uneven livelihoods of individual farm households](./blog/posts/2026-10-21-american-farmers-livelihoods/farm-livelihoods.svg)](blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
+
+### [America feeds its people. But who is looking after its farmers?](blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
+
+The US spends billions on farm relief, yet farming households face very different margins and risks. What should agricultural assistance actually protect?
+
+Oct 21, 2026
+
+Elvis Kwame Ofori
+
 [![Original EKO editorial graphic showing the new US\$8 billion Harvest Fuel Relief announcement alongside the earlier US\$12 billion Farmer Bridge Assistance package](./blog/posts/2026-10-20-us-farm-relief-harvest-fuel/harvest-fuel-relief.svg)](blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
 
 ### [Trump’s \$8 billion farm relief plan: why farmers need more than another payment](blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
@@ -55,16 +65,6 @@ Elvis Kwame Ofori
 The 2026 Fertiliser Exceptional Aid Scheme pays €40 per eligible tonne, with records checked on 23 October. Who qualifies, what could you receive, and what does the formula reward?
 
 Oct 18, 2026
-
-Elvis Kwame Ofori
-
-[![Diagram comparing the observed path after Ghana\&#039;s 24H+ programme with a counterfactual path showing what might have happened without it](./blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/ghana-24h-counterfactual.svg)](blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
-
-### [Ghana’s 24-hour economy: how would we know if it’s working?](blog/posts/2026-10-12-ghana-24-hour-economy-counterfactual/index.llms.md)
-
-Ghana’s 24-hour economy aims to create 1.7 million jobs by 2028 by using existing capital, labour and infrastructure more intensively. Knowing whether it works requires a counterfactual: what would have happened without it?
-
-Oct 12, 2026
 
 Elvis Kwame Ofori
 
