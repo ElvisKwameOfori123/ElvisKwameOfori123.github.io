@@ -12,6 +12,16 @@ Oct 22, 2026
 
 Elvis Kwame Ofori
 
+[![Dairy cattle grazing on pasture in Ireland, photographed by Martin Abegglen in May 2009](https://commons.wikimedia.org/wiki/Special:FilePath/Dairy_cows_on_pasture_in_Ireland.jpg?width=1600)](../blog/posts/2026-10-22-ireland-bioscale-2030/index.llms.md)
+
+### [Ireland’s bioeconomy strategy opens a new chapter for research and industry](../blog/posts/2026-10-22-ireland-bioscale-2030/index.llms.md)
+
+Ireland’s BioScale 2030 strategy aims to turn agricultural, forestry and marine resources into new products and businesses. What does it mean for Irish research and rural industry?
+
+Oct 22, 2026
+
+Elvis Kwame Ofori
+
 [![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600)](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
 
 ### [America feeds its people. But who is looking after its farmers?](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
