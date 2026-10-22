@@ -38,6 +38,16 @@ Ireland has planted a fraction of the forest it promised since 1996. Licensing e
 
 [All writing →](blog/)
 
+[![Aerial photograph of braided river channels, floodplain vegetation and neighbouring farmland in the United States, published by the US Geological Survey](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NAIP%20image.png)](blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
+
+### [The world is protecting more nature. Is it protecting nature better?](blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
+
+At COP17, a new UN assessment exposes the gap between biodiversity pledges and ecological recovery. Why protected areas, connected habitats and working landscapes all matter.
+
+Oct 22, 2026
+
+Elvis Kwame Ofori
+
 [![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600)](blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
 
 ### [America feeds its people. But who is looking after its farmers?](blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
@@ -55,16 +65,6 @@ Elvis Kwame Ofori
 Why do American farmers work outside farming? USDA data show how off-farm earnings protect households without necessarily making their farms profitable.
 
 Oct 21, 2026
-
-Elvis Kwame Ofori
-
-[![Original EKO editorial graphic showing the new US\$8 billion Harvest Fuel Relief announcement alongside the earlier US\$12 billion Farmer Bridge Assistance package](./blog/posts/2026-10-20-us-farm-relief-harvest-fuel/harvest-fuel-relief.svg)](blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
-
-### [Trump’s \$8 billion farm relief plan: why farmers need more than another payment](blog/posts/2026-10-20-us-farm-relief-harvest-fuel/index.llms.md)
-
-USDA has announced \$8 billion in Harvest Fuel Relief, following \$12 billion in earlier farm assistance. How will payments work, who benefits, and what problems remain?
-
-Oct 20, 2026
 
 Elvis Kwame Ofori
 
