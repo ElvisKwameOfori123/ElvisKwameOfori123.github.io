@@ -14,7 +14,7 @@ Published
 
 21 October 2026
 
-![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020.](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600)
+![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020.](usda-maryland-soybean-harvest.jpg)
 
 A farmer harvests soybeans near New London, Maryland, in October 2020.
 

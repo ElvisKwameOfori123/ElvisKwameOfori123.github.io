@@ -14,7 +14,7 @@ Published
 
 22 October 2026
 
-![Aerial photograph illustrating how rivers, floodplains and agricultural land form a connected landscape.](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NAIP%20image.png)
+![Aerial photograph illustrating how rivers, floodplains and agricultural land form a connected landscape.](usgs-naip-river-floodplain.png)
 
 Aerial view of a braided river, its floodplain and neighbouring farmland.
 

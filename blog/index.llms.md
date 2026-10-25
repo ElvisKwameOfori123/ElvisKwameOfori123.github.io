@@ -2,7 +2,7 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
-[![Aerial photograph of braided river channels, floodplain vegetation and neighbouring farmland in the United States, published by the US Geological Survey](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NAIP%20image.png)](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
+[![Aerial photograph of braided river channels, floodplain vegetation and neighbouring farmland in the United States, published by the US Geological Survey](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/usgs-naip-river-floodplain.png)](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
 
 ### [The world is protecting more nature. Is it protecting nature better?](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
 
@@ -22,7 +22,7 @@ Oct 22, 2026
 
 Elvis Kwame Ofori
 
-[![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600)](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
+[![Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020](../blog/posts/2026-10-21-american-farmers-livelihoods/usda-maryland-soybean-harvest.jpg)](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
 
 ### [America feeds its people. But who is looking after its farmers?](../blog/posts/2026-10-21-american-farmers-livelihoods/index.llms.md)
 
@@ -32,7 +32,7 @@ Oct 21, 2026
 
 Elvis Kwame Ofori
 
-[![Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, photographed by USDA in May 2022](https://commons.wikimedia.org/wiki/Special:FilePath/20220518-FPAC-PJK-0912_TONED.jpg?width=1600)](../blog/posts/2026-10-21-why-american-farmers-work-off-farm/index.llms.md)
+[![Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, photographed by USDA in May 2022](../blog/posts/2026-10-21-why-american-farmers-work-off-farm/usda-new-york-tractor-refuelling.jpg)](../blog/posts/2026-10-21-why-american-farmers-work-off-farm/index.llms.md)
 
 ### [The Second Job Behind the American Farm](../blog/posts/2026-10-21-why-american-farmers-work-off-farm/index.llms.md)
 

@@ -14,7 +14,7 @@ Published
 
 21 October 2026
 
-![Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, on 18 May 2022.](https://commons.wikimedia.org/wiki/Special:FilePath/20220518-FPAC-PJK-0912_TONED.jpg?width=1600)
+![Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, on 18 May 2022.](usda-new-york-tractor-refuelling.jpg)
 
 Will Morningstar refuels a tractor at a vegetable farm in Hudson, New York.
 
