@@ -3,12 +3,12 @@ title: "The world is protecting more nature. Is it protecting nature better?"
 description: "At COP17, a new UN assessment exposes the gap between biodiversity pledges and ecological recovery. Why protected areas, connected habitats and working landscapes all matter."
 date: 2026-10-22
 draft: false
-image: "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NAIP%20image.png"
+image: "usgs-naip-river-floodplain.png"
 image-alt: "Aerial photograph of braided river channels, floodplain vegetation and neighbouring farmland in the United States, published by the US Geological Survey"
 categories: ["Science & Technology", "Policy"]
 ---
 
-![Aerial view of a braided river, its floodplain and neighbouring farmland.](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NAIP%20image.png){fig-alt="Aerial photograph illustrating how rivers, floodplains and agricultural land form a connected landscape." width="100%" fig-align="center"}
+![Aerial view of a braided river, its floodplain and neighbouring farmland.](usgs-naip-river-floodplain.png){fig-alt="Aerial photograph illustrating how rivers, floodplains and agricultural land form a connected landscape." width="100%" fig-align="center"}
 
 *Photograph: U.S. Geological Survey, National Agricultural Imagery Program (approximately 2014), [original image and public-domain information](https://www.usgs.gov/media/images/national-agricultural-imagery-program-image). The image illustrates landscape connectivity; it is not a photograph of COP17 or a European restoration site. No USGS endorsement is implied.*
 

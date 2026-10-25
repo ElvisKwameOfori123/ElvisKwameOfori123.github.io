@@ -3,12 +3,12 @@ title: "The Second Job Behind the American Farm"
 description: "Why do American farmers work outside farming? USDA data show how off-farm earnings protect households without necessarily making their farms profitable."
 date: 2026-10-21
 draft: false
-image: "https://commons.wikimedia.org/wiki/Special:FilePath/20220518-FPAC-PJK-0912_TONED.jpg?width=1600"
+image: "usda-new-york-tractor-refuelling.jpg"
 image-alt: "Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, photographed by USDA in May 2022"
 categories: ["Economics & Evidence", "Land & Agriculture"]
 ---
 
-![Will Morningstar refuels a tractor at a vegetable farm in Hudson, New York.](https://commons.wikimedia.org/wiki/Special:FilePath/20220518-FPAC-PJK-0912_TONED.jpg?width=1600){fig-alt="Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, on 18 May 2022." width="100%" fig-align="center"}
+![Will Morningstar refuels a tractor at a vegetable farm in Hudson, New York.](usda-new-york-tractor-refuelling.jpg){fig-alt="Will Morningstar refuels a tractor at MX Morningstar Farm in Hudson, New York, on 18 May 2022." width="100%" fig-align="center"}
 
 *Photograph: Preston Keres, USDA Farm Production and Conservation, 18 May 2022. [Original file and public-domain information](https://commons.wikimedia.org/wiki/File:20220518-FPAC-PJK-0912_TONED.jpg). Used for editorial illustration; no USDA endorsement is implied. The photograph does not depict a person identified here as having a second job.*
 
