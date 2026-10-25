@@ -373,14 +373,8 @@ for url in sitemap_urls:
     if page is None:
         continue
     document = page.read_text(encoding="utf-8", errors="replace")
-    social = re.search(
-        r'<meta\\s+[^>]*property=["\\\']og:image["\\\'][^>]*content=["\\\']([^"\\\']+)',
-        document,
-        re.I,
-    ) or re.search(
-        r'<meta\\s+[^>]*content=["\\\']([^"\\\']+)["\\\'][^>]*property=["\\\']og:image',
-        document,
-        re.I,
+    social = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', document, re.I) or re.search(
+        r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', document, re.I
     )
     if not social:
         missing_social.append(url)
@@ -397,8 +391,7 @@ for url in sitemap_urls:
         asset = (page.parent / image_parts.path).resolve()
         if not asset.is_file() or ROOT.resolve() not in asset.parents:
             missing_leads.append((url, image_url))
-    lead_alt = re.search(r'<meta\\s+[^>]*(?:name|property)=["\\\'](?:twitter:image:alt|og:image:alt)["\\\']', document, re.I)
-    if not lead_alt and not re.search(r'<img\\s+[^>]*alt=["\\\'][^"\\\']+', document, re.I):
+    if not re.search(r'<img[^>]+alt="[^"]+', document, re.I):
         missing_alt.append(url)
 
 facts.append(f"Article external social images: {len(external_leads)}")
