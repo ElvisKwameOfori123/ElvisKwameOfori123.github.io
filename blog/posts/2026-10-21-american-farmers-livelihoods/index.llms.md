@@ -38,7 +38,7 @@ A farmer growing wheat in Kansas does not necessarily face the same costs as a f
 
 A national formula makes administration easier. It may also be the quickest way to deliver money when farmers need it. But it cannot fully recognise these differences. Regional payments could improve the fit between compensation and particular costs, although they introduce their own measurement problems.
 
-And more precise payments do not necessarily mean farmers retain more money. Research discussed in a [2015 *farmdoc daily* article](https://farmdocdaily.illinois.edu/2015/05/influence-of-direct-payments-on-us-cropland-values.html) found that agricultural support can be reflected in higher farmland values. Where benefits are capitalised into land prices and rents, some of the gains may eventually accrue to landowners rather than the producers the policy intended to help.
+And more precise payments do not necessarily mean farmers retain more money. Research discussed in a [2015 *farmdoc daily* article](https://farmdocdaily.illinois.edu/2015/05/influence-of-direct-payments-on-cropland-values.html) found that agricultural support can be reflected in higher farmland values. Where benefits are capitalised into land prices and rents, some of the gains may eventually accrue to landowners rather than the producers the policy intended to help.
 
 This is why I think we should be cautious about measuring agricultural support by the billions announced. The more revealing figures concern who receives the payments, how much they retain, and whether their financial position improves.
 

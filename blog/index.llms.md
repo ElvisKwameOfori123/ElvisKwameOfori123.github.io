@@ -12,7 +12,7 @@ Oct 22, 2026
 
 Elvis Kwame Ofori
 
-[![Dairy cattle grazing on pasture in Ireland, photographed by Martin Abegglen in May 2009](https://commons.wikimedia.org/wiki/Special:FilePath/Dairy_cows_on_pasture_in_Ireland.jpg?width=1600)](../blog/posts/2026-10-22-ireland-bioscale-2030/index.llms.md)
+[![Patchwork agricultural fields in County Dublin, Ireland](../blog/posts/2026-10-22-ireland-bioscale-2030/irish-agricultural-landscape.jpg)](../blog/posts/2026-10-22-ireland-bioscale-2030/index.llms.md)
 
 ### [Ireland’s bioeconomy strategy opens a new chapter for research and industry](../blog/posts/2026-10-22-ireland-bioscale-2030/index.llms.md)
 

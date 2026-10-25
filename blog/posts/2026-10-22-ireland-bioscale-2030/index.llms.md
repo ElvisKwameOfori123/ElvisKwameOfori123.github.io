@@ -16,11 +16,11 @@ Published
 
 22 October 2026
 
-![Dairy cattle grazing on pasture in Ireland. This is an illustrative photograph of Irish agriculture, not a BioScale 2030 project or summit photograph.](https://commons.wikimedia.org/wiki/Special:FilePath/Dairy_cows_on_pasture_in_Ireland.jpg?width=1600)
+![Agricultural fields in County Dublin. A general landscape photograph, not an image of the BioScale 2030 summit.](irish-agricultural-landscape.jpg)
 
-Dairy cattle grazing on Irish pasture, illustrating one of the country’s major sources of renewable biological resources.
+Fields in County Dublin, illustrating the agricultural resources relevant to Ireland’s bioeconomy.
 
-*Photograph: Martin Abegglen, 8 May 2009, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dairy_cows_on_pasture_in_Ireland.jpg). Licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Image displayed without modification. The photograph illustrates agricultural resources; it does not depict the bioeconomy summit.*
+*Photograph: [C O’Flanagan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agricultural_Landscape_Co_Dublin_-_geograph.org.uk_-_1721182.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). General agricultural landscape illustration; not a BioScale 2030 event photograph.*
 
 Ireland launched its first National Bioeconomy Strategy in Dublin on Wednesday, setting out plans to turn renewable biological resources and scientific innovation into new businesses, products and employment opportunities. The strategy, known as *BioScale 2030*, was unveiled at the [Global Bioeconomy Summit](https://www.cbe.europa.eu/events/global-bioeconomy-summit-2026) by Taoiseach Micheál Martin and Ministers Martin Heydon and Darragh O’Brien.
 
