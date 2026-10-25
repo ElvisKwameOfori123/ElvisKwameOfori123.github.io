@@ -400,11 +400,33 @@ facts.append(f"Article missing og:image: {len(missing_social)}")
 if missing_leads:
     add_error("Missing local social-preview images: " + "; ".join(f"{u} -> {i}" for u, i in missing_leads[:6]))
 if external_leads:
-    add_warning("Article lead images hosted externally (download and credit locally): " + "; ".join(f"{u} -> {i}" for u, i in external_leads[:8]))
+    add_error("Article lead images must be hosted locally with credited reusable source: " + "; ".join(f"{u} -> {i}" for u, i in external_leads[:8]))
 if missing_social:
     add_warning("Article pages without og:image: " + ", ".join(missing_social[:8]))
 if missing_alt:
     add_warning("Article pages with no detected descriptive image alt: " + ", ".join(missing_alt[:8]))
+
+# Search/discovery assets: protect the verified domain, public sitemap,
+# article RSS feed, and preview metadata against accidental regressions.
+for asset in ("google63dfd647cad8477d.html", "blog/index.xml"):
+    if not (ROOT / asset).is_file():
+        add_error(f"Essential search/discovery file is missing from production: {asset}")
+if (ROOT / "index.html").exists():
+    homepage = (ROOT / "index.html").read_text(encoding="utf-8", errors="replace")
+    if 'eko-website-jsonld' not in homepage:
+        add_error("Homepage WebSite structured data is missing")
+for article_url in sitemap_urls:
+    if "/blog/posts/" not in urlparse(article_url).path:
+        continue
+    article_page = rendered_file_for_url(article_url)
+    if article_page is None:
+        continue
+    markup = article_page.read_text(encoding="utf-8", errors="replace")
+    for key in ("og:title", "og:description", "og:image"):
+        if not re.search(r'<meta[^>]+property="' + re.escape(key) + r'"', markup, re.I):
+            add_error(f"Article missing Open Graph {key}: {article_url}")
+    if not re.search(r'<meta[^>]+name="description"', markup, re.I):
+        add_error(f"Article missing meta description: {article_url}")
 
 lines = [
     "# Site health audit",
