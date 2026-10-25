@@ -42,6 +42,25 @@ jobs:
           # deliberately: render, run the site-health audit, then bump.
           version: 1.10.19
 
+      - name: Render site for pre-deployment checks
+        run: quarto render
+        env:
+          EKO_PRODUCTION: "1"
+
+      - name: Verify crawlability, canonicals, structured data and image assets
+        run: python scripts/site-health-audit.py
+        env:
+          CI: "true"
+
+      - name: Upload site-health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: production-site-health-report
+          path: site-health-report.md
+          if-no-files-found: ignore
+          retention-days: 14
+
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
