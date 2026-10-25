@@ -358,6 +358,61 @@ source_ledgers = list(ROOT.rglob("_sources.html")) if ROOT.exists() else []
 if source_ledgers:
     add_error(f"{len(source_ledgers)} private _sources ledger(s) rendered into the public site.")
 
+
+# Media discovery: make broken lead images blocking, and record off-site
+# assets for editorial cleanup. Do not rewrite or remove licensed photographs
+# automatically: each replacement needs an accurate source and licence.
+external_leads = []
+missing_leads = []
+missing_alt = []
+missing_social = []
+for url in sitemap_urls:
+    if "/blog/posts/" not in urlparse(url).path:
+        continue
+    page = rendered_file_for_url(url)
+    if page is None:
+        continue
+    document = page.read_text(encoding="utf-8", errors="replace")
+    social = re.search(
+        r'<meta\\s+[^>]*property=["\\\']og:image["\\\'][^>]*content=["\\\']([^"\\\']+)',
+        document,
+        re.I,
+    ) or re.search(
+        r'<meta\\s+[^>]*content=["\\\']([^"\\\']+)["\\\'][^>]*property=["\\\']og:image',
+        document,
+        re.I,
+    )
+    if not social:
+        missing_social.append(url)
+        continue
+    image_url = social.group(1).replace("&amp;", "&")
+    image_parts = urlparse(image_url)
+    if image_parts.hostname and image_parts.hostname not in {"kwameofori123.com", "www.kwameofori123.com"}:
+        external_leads.append((url, image_url))
+    elif image_parts.hostname in {"kwameofori123.com", "www.kwameofori123.com"}:
+        asset = ROOT / image_parts.path.lstrip("/")
+        if not asset.is_file():
+            missing_leads.append((url, image_url))
+    elif image_parts.path:
+        asset = (page.parent / image_parts.path).resolve()
+        if not asset.is_file() or ROOT.resolve() not in asset.parents:
+            missing_leads.append((url, image_url))
+    lead_alt = re.search(r'<meta\\s+[^>]*(?:name|property)=["\\\'](?:twitter:image:alt|og:image:alt)["\\\']', document, re.I)
+    if not lead_alt and not re.search(r'<img\\s+[^>]*alt=["\\\'][^"\\\']+', document, re.I):
+        missing_alt.append(url)
+
+facts.append(f"Article external social images: {len(external_leads)}")
+facts.append(f"Article missing local social assets: {len(missing_leads)}")
+facts.append(f"Article missing og:image: {len(missing_social)}")
+if missing_leads:
+    add_error("Missing local social-preview images: " + "; ".join(f"{u} -> {i}" for u, i in missing_leads[:6]))
+if external_leads:
+    add_warning("Article lead images hosted externally (download and credit locally): " + "; ".join(f"{u} -> {i}" for u, i in external_leads[:8]))
+if missing_social:
+    add_warning("Article pages without og:image: " + ", ".join(missing_social[:8]))
+if missing_alt:
+    add_warning("Article pages with no detected descriptive image alt: " + ", ".join(missing_alt[:8]))
+
 lines = [
     "# Site health audit",
     "",
