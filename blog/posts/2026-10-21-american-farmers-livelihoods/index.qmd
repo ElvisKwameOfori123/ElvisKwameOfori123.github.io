@@ -3,12 +3,12 @@ title: "America feeds its people. But who is looking after its farmers?"
 description: "The US spends billions on farm relief, yet farming households face very different margins and risks. What should agricultural assistance actually protect?"
 date: 2026-10-21
 draft: false
-image: "https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600"
+image: "usda-maryland-soybean-harvest.jpg"
 image-alt: "Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020"
 categories: ["Economics & Evidence", "Policy"]
 ---
 
-![A farmer harvests soybeans near New London, Maryland, in October 2020.](https://commons.wikimedia.org/wiki/Special:FilePath/20201017-FPAC-Harvest0050_TONED.jpg?width=1600){fig-alt="Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020." width="100%" fig-align="center"}
+![A farmer harvests soybeans near New London, Maryland, in October 2020.](usda-maryland-soybean-harvest.jpg){fig-alt="Combine harvesting soybeans on a farm near New London, Maryland, United States, in October 2020." width="100%" fig-align="center"}
 
 *Photograph: Preston Keres, USDA Farm Production and Conservation, 17 October 2020. [Original and public-domain status](https://commons.wikimedia.org/wiki/File:20201017-FPAC-Harvest0050_TONED.jpg). Used for editorial illustration; no USDA endorsement is implied.*
 
