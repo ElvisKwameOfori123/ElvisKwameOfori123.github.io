@@ -1,5 +1,6 @@
 ---
 title: "Feeding the world or destroying it"
+pagetitle: "Farming, deforestation and land sparing: intensive vs ecological agriculture"
 description: "Farming already uses almost half the world's habitable land, and new studies show where the damage is concentrated. The argument over intensive versus ecological farming misses the condition both sides depend on: land that is protected because someone decided it would be."
 date: 2026-10-04
 draft: false

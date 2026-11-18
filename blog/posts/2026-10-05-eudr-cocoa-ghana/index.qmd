@@ -1,5 +1,6 @@
 ---
 title: "Europe's forest rule will trace the cocoa. Will it save the forest?"
+pagetitle: "EUDR and Ghana cocoa: will the EU deforestation regulation save forests?"
 description: "From 30 December the EU will require every cocoa, coffee, palm oil, soy, rubber, timber and cattle shipment to be traced to a plot cleared of no forest since 2020. Ghana has built the systems to comply and Côte d'Ivoire is struggling. The harder question is what the rule cannot see."
 date: 2026-10-05
 draft: false

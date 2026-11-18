@@ -1,5 +1,6 @@
 ---
 title: "A climate credit that will not count the land"
+pagetitle: "Corn ethanol, the 45Z clean fuel credit and land-use change emissions"
 description: "The United States now pays corn ethanol a clean-fuel credit calculated without the emissions from land converted to grow more crops. The science on that effect is contested. Writing it out of the law does not settle the dispute. It hides it."
 date: 2026-10-04
 draft: false

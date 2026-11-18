@@ -1,5 +1,6 @@
 ---
 title: "One hectare, many promises"
+pagetitle: "Competing land uses: food, climate, nature and energy on one hectare"
 description: "Climate, biodiversity, energy, housing and food are all asking more of the same land. Governments are answering with plans and targets, and scientists disagree about what land should do next. The farmer who lives from it is rarely at the table."
 date: 2026-10-02
 draft: false
