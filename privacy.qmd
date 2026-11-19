@@ -4,15 +4,19 @@ description: "How EKO Perspectives handles personal information and third-party 
 toc: false
 ---
 
-*Last updated: 23 September 2026.*
+*Last updated: 18 November 2026.*
 
 EKO Perspectives is a personal website run by **Elvis Kwame Ofori**. I try to collect as little personal information as possible.
 
-This site does not currently use advertising trackers, behavioural analytics, newsletter tracking, user accounts, comments or a contact form. I do not intentionally set advertising or analytics cookies.
+This site does not currently use advertising trackers, behavioural analytics, user accounts, comments or a contact form. I do not intentionally set advertising or analytics cookies.
 
 The site is hosted through **GitHub Pages**. As with most web hosting services, GitHub may process technical information needed to deliver and secure the site, such as IP addresses, browser or device information, and server logs, under its own privacy terms.
 
 The site also loads **Google Fonts** from Google's servers. When your browser requests those font files, technical information such as your IP address and browser details may be transmitted to Google. External websites linked from EKO Perspectives have their own privacy practices, which I do not control.
+
+## Email updates {#email-updates}
+
+If you sign up for new-post emails, your email address is sent to and stored by **Buttondown**, the service that sends the emails, under its own privacy terms. I use the address only to send you new posts from EKO Perspectives and never sell or share it. The legal basis is your consent, which you can withdraw at any time through the unsubscribe link in every email. Open and click tracking is switched off.
 
 If you contact me by email, I receive the information you choose to provide, including your email address and message. I use that information to respond to you and, where appropriate, to maintain a record of our correspondence. The legal basis for this processing is my legitimate interest in corresponding with readers, collaborators and other people who contact me. I keep correspondence only for as long as it remains reasonably useful or necessary.
 

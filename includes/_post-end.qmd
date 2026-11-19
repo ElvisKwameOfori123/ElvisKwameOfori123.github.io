@@ -4,3 +4,5 @@ Researcher and writer behind *EKO Perspectives*.
 
 [More from EKO Perspectives](/blog/) · [Follow via RSS](/blog/index.xml) · [About the author](/about.html)
 :::
+
+{{< include /includes/_newsletter.qmd >}}

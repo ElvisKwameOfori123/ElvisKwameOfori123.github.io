@@ -31,3 +31,5 @@ For farmers, foresters and fishing communities, the development of these industr
 Sustainability will be equally important. Biological resources are renewable when appropriately managed, but their supply is not unlimited. Using agricultural materials for industrial production must be considered alongside existing demands for food, feed, soil health and environmental protection.
 
 Ireland has already established a substantial research and demonstration base. BioScale 2030 now provides a national framework for taking the next step. Its progress towards 2030 will become clearer as new technologies enter commercial production, businesses establish reliable markets and more of the economic value generated reaches the regions supplying the resources.
+
+{{< include /includes/_post-end.qmd >}}

@@ -71,3 +71,5 @@ It is still reasonable to ask whether public policy could reduce some of the ins
 The Harvest Fuel Relief Program may help farmers through an expensive season. Its results should eventually be assessed by the distribution and timing of actual payments and by whether they meaningfully offset cash-flow pressures, not just by the size of the announcement.
 
 For now, Washington has pledged another $8 billion. The farm-level calculation is still incomplete. A public payment can ease a difficult harvest; it cannot, on its own, establish whether the business conditions producing recurring demands for relief have improved.
+
+{{< include /includes/_post-end.qmd >}}

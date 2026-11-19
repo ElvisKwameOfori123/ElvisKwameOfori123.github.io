@@ -87,6 +87,12 @@ listing:
 </div>
 </section>
 
+<section class="home-section home-newsletter">
+
+{{< include /includes/_newsletter.qmd >}}
+
+</section>
+
 <section class="home-section">
 <div class="section-heading">
 <h2>About my research</h2>

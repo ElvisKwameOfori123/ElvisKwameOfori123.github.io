@@ -1,0 +1,16 @@
+<!-- Email sign-up. Provider: Buttondown (buttondown.com).
+     The account username appears once, in the form action below.
+     If the account name changes, edit it here only. -->
+```{=html}
+<div class="newsletter" role="region" aria-labelledby="newsletter-heading">
+<p id="newsletter-heading" class="newsletter-heading">New posts by email</p>
+<p class="newsletter-deck">One email when something new is published on land, agriculture, food systems and climate policy. No other mail. Unsubscribe at any time.</p>
+<form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/ekoperspectives" method="post" target="_blank">
+<label class="visually-hidden" for="newsletter-email">Email address</label>
+<input id="newsletter-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+<input type="hidden" name="embed" value="1">
+<button type="submit">Subscribe</button>
+</form>
+<p class="newsletter-note">Sent through Buttondown. See the <a href="/privacy.html#email-updates">privacy notice</a>.</p>
+</div>
+```
