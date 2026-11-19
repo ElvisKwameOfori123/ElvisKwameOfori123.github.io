@@ -8,7 +8,7 @@ This pulls together the site review, the edits, and both rounds of reading into 
 
 ## 1. Where you stand
 
-The foundations are good. The site is clean, sourced and ethically careful, and your research question, which farms and places carry the adjustment, is distinctive. The posts were readable but built from one template, cautious to the point of saying little, and written in a first person with almost none of you in them. The reading showed that strong land-use writing from 2008 to 2018 across Pearce, Searchinger, Fischer, Evans and farmdoc daily often does the opposite: it picks an engine suited to the story, names what it disagrees with, and reaches a verdict when the evidence supports one.
+The foundations are good. The site is clean, sourced and ethically careful, and your research question, which farms and places carry the adjustment, is distinctive. The posts were readable but built from one template, cautious to the point of saying little, and written in a first person with almost none of you in them. The reading showed that strong land-use writing from before 2015 across Pearce, Searchinger, Fischer, Evans and farmdoc daily often does the opposite: it picks an engine suited to the story, names what it disagrees with, and reaches a verdict when the evidence supports one.
 
 So the task is not more polish. It is more of you, more variety, and more conviction.
 
