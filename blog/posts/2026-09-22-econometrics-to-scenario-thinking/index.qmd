@@ -1,5 +1,6 @@
 ---
 title: "When the future is outside the data"
+pagetitle: "Scenario models vs econometrics for climate and land-use policy"
 description: "Climate and land-use targets can push economics beyond what historical data can tell us. Scenario models offer a way to explore futures that have not yet been observed."
 date: 2026-09-22
 image: "clara-bog.jpg"

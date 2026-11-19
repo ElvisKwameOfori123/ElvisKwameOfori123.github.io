@@ -1,5 +1,6 @@
 ---
 title: "The world is protecting more nature. Is it protecting nature better?"
+pagetitle: "COP17 and the 30% target: is protecting more nature protecting it better?"
 description: "At COP17, a new UN assessment exposes the gap between biodiversity pledges and ecological recovery. Why protected areas, connected habitats and working landscapes all matter."
 date: 2026-10-22
 draft: false

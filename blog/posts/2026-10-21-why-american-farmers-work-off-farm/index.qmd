@@ -1,5 +1,6 @@
 ---
 title: "The Second Job Behind the American Farm"
+pagetitle: "Off-farm income: why American farmers work second jobs"
 description: "Why do American farmers work outside farming? USDA data show how off-farm earnings protect households without necessarily making their farms profitable."
 date: 2026-10-21
 draft: false

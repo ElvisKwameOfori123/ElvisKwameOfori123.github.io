@@ -58,6 +58,9 @@ jobs:
       # Oireachtas and World Bank pages also intermittently fail from runners.
       # Exact-URL exceptions below are for citations verified to work for
       # readers/search but known to fail intermittently from GitHub runners.
+      # IOP Publishing (doi.org/10.1088/..., iopscience.iop.org) sends automated
+      # clients to a Radware bot challenge and intermittently answers 500, while
+      # browsers get the article. Checked by hand on 19 November 2026.
       # journal.societyofirishforesters.ie is excluded because its TLS
       # certificate expired in December 2025; the links are correct primary
       # sources. Remove the exclusion once the journal renews its certificate.
@@ -75,6 +78,7 @@ jobs:
             --exclude '^https://kwameofori123\.com/'
             --exclude '^https://journal\.societyofirishforesters\.ie/'
             --exclude '^https://eur-lex\.europa\.eu/'
+            --exclude '^https://(doi\.org/10\.1088/|iopscience\.iop\.org/)'
             --exclude '^https://yalebooks\.yale\.edu/book/9780300078152/seeing-like-a-state/$'
             --exclude '^https://www\.gov\.scot/publications/scotlands-fourth-land-use-strategy-2026-2031/$'
             --exclude '^https://ethiopianbusinessreview\.net/ethiopias-wheat-self-sufficiency-claims-questioned-amid-discrepancies/$'

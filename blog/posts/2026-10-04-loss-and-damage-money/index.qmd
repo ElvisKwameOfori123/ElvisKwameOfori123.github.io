@@ -1,5 +1,6 @@
 ---
 title: "Nepal asked for $20 million. The money has not arrived"
+pagetitle: "Loss and damage fund: why climate money has not reached Nepal"
 description: "The world has agreed that climate-vulnerable countries need money to adapt and to recover. It has created the funds and set the targets. What it has not done is pay."
 date: 2026-10-04
 draft: false

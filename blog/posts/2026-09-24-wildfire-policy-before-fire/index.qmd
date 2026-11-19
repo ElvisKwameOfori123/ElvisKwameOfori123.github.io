@@ -1,5 +1,6 @@
 ---
 title: "Wildfire policy begins before the fire"
+pagetitle: "Wildfire prevention in Europe and Ireland starts with land management"
 description: "Europe is treating wildfire less as an emergency event and more as a land-management problem. Ireland has reasons to pay attention."
 date: 2026-09-24
 image: "cork-gorse-burning.jpg"

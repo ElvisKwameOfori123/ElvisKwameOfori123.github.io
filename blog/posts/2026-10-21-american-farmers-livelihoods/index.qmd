@@ -1,5 +1,6 @@
 ---
 title: "America feeds its people. But who is looking after its farmers?"
+pagetitle: "US farm relief and farm household incomes: who looks after American farmers?"
 description: "The US spends billions on farm relief, yet farming households face very different margins and risks. What should agricultural assistance actually protect?"
 date: 2026-10-21
 draft: false
