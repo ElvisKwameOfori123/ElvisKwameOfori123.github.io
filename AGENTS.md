@@ -21,6 +21,7 @@ The repository copy of **EKO Editorial Workflow v2.3** is the standing editorial
 ### Story structure
 
 - There is no single E360 framework and no single pre-2015 research-blog framework.
+- Every new post borrows its structure from a **model piece on a similar topic published between 1990 and 2015** (before AI-generated writing), filled with today's evidence. Borrow the architecture only, never the wording. See Stage 4 of the workflow.
 - Choose the story engine **after** the evidence is understood. Possible engines include scene/place, contradiction/foil, claim testing, policy audit, debate diagnosis, behind-the-paper/model, one-number comparison, public-record pattern assembly, mechanism, timeline/policy reversal, and people/places behind the science.
 - The engine library is a menu, not a rotation rule. Do not force variety, and do not force the same house structure onto every post.
 - Where an argument is contested, read the strongest credible rebuttal or competing interpretation. Do not build the piece around a weak straw man.

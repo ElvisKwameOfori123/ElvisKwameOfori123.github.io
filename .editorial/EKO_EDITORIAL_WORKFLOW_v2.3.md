@@ -1,12 +1,12 @@
 # EKO Editorial Workflow v2.3
 
-**Standing version: 1 October 2026.**
+**Standing version: 1 October 2026. Amended 19 November 2026: pre-2015 model piece (Stage 4).**
 
 This is the repository-level canonical instruction for EKO Perspectives. If the installable `eko-editorial-workflow` skill is available, use it and its reference files. If it is not available, follow this document plus `.editorial/story-engine-library.md` directly. For topic planning, also consult `.editorial/EKO_PERSPECTIVES_EDITORIAL_PLAN.md` as the standing topic bank and longer-horizon planning reference.
 
 This version supersedes v2.2 and the former separate `pre2015-prose-voice` + `ai-slop-editing-pass` chain. If a planning-reference file contains an older or more rigid instruction, this workflow is authoritative.
 
-The central change in v2.3 is simple: **editorial consistency must not become structural sameness**. Older E360 features, research blogs, academic op-eds, trade press, journal articles and classic essays are craft references, not moulds. There is no single E360 framework and no single pre-2015 blog framework.
+The central change in v2.3 is simple: **editorial consistency must not become structural sameness**. Older E360 features, research blogs, academic op-eds, trade press, journal articles and classic essays are craft references. There is no single E360 framework and no single pre-2015 blog framework. Instead, each new post borrows its structure from one model piece on a similar topic, published between 1990 and 2015, before AI-generated writing existed (Stage 4).
 
 ## Pipeline
 
@@ -14,7 +14,7 @@ The central change in v2.3 is simple: **editorial consistency must not become st
 1. **Site preflight.** Inspect recent published posts and drafts. Check topic overlap, geographic/category gaps, repeated openings, repeated diagrams, repeated caution moves, and repeated endings.
 2. **Evidence and originality.** Research before drafting. Prefer primary sources. Keep a claim ledger. Identify the strongest credible counterargument or rebuttal when the claim is contested.
 3. **Route by content type.** Apply policy/evidence, GitHub/tool, scientist profile, map/data, place/development, personal/ideas, behind-the-paper/model, or policy-audit checks.
-4. **Choose the story engine.** Choose only after the evidence is understood. Use `.editorial/story-engine-library.md`. The library is a menu, not a rotation rule.
+4. **Choose the story engine and a pre-2015 model piece.** Choose only after the evidence is understood. Use `.editorial/story-engine-library.md`. The library is a menu, not a rotation rule. Find a model piece on a similar topic published 1990 to 2015 and adopt its structure, filled with today's evidence.
 5. **Choose the register and draft.** Use research/blog voice for most analytical pieces. Use magazine/reported-feature voice only when the evidence genuinely supports narrative, chronology, place, people or documented scenes.
 6. **Final mechanical edit.** Run one anti-slop pass after the draft is structurally finished.
 7. **Images.** Source images that do real editorial work, check reuse basis, store locally, write real alt text and avoid decorative filler.
@@ -127,6 +127,16 @@ A story engine is the organising force of a piece, not a visible template. Possi
 - people or places behind the science.
 
 Choose the engine from the evidence. A piece can combine engines if the combination is natural. Do not create a rule such as "never use the same engine twice in a row". Instead, notice repetition and decide whether the material earns it.
+
+### Pre-2015 model piece (required for new posts)
+
+Owner's rule, 19 November 2026: new posts follow writing published **between 1990 and 2015**, before AI-generated text existed, so EKO Perspectives never inherits an AI house style.
+
+1. **Find the model.** Search for one or two published pieces from 1990 to 2015 on a similar subject or the same kind of argument: a policy that missed its target, a commodity price shock, a land-use dispute, a climate negotiation that stalled, a farm-income question. Good hunting grounds include Yale Environment 360 (from 2008), farmdoc daily (from 2011), The Guardian environment and global development pages, The Economist, New Scientist, IFPRI and ODI blogs and briefs, Irish Times and Irish Farmers Journal archives, Carbon Brief (from 2011), and academic op-eds and essays. Verify the publication date.
+2. **Map its structure.** Write a short outline in `_sources.md`: how it opens, the order of its moves, where the evidence enters, where it names the opposing view, how long each part runs, and how it ends. Record the model's title, author, outlet, date and link.
+3. **Fill it with today.** Draft the new post on that outline using current, verified evidence from the claim ledger. The structure comes from the model. The facts, sources, examples and conclusions come from today.
+4. **Never copy the words.** Do not reuse the model's sentences, distinctive phrases, invented or reported scenes, quotations or unverifiable detail. Do not imitate one writer's personal voice. Borrow architecture only.
+5. **When nothing fits.** If no good 1990 to 2015 model exists for the topic, say so in `_sources.md` and fall back to the story-engine library, still writing in the plain, evidence-first manner of that period.
 
 When studying older pieces, outline what the writer does, identify the evidence carrying the argument, and read a strong rebuttal where one exists. Study architecture across multiple pieces without copying distinctive wording or imitating one writer's voice.
 
