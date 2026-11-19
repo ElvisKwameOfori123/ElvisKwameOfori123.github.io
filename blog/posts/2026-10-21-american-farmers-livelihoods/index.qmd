@@ -57,3 +57,5 @@ The new $8 billion package should therefore be evaluated carefully, not dismisse
 I would like to see more discussion of what happens to American farmers after the payments arrive. Are their margins improving? Can they manage another difficult season without exceptional assistance? Can younger producers afford to enter farming? Are small and financially constrained farms receiving support appropriate to their circumstances?
 
 America's ability to produce abundant food is an extraordinary economic achievement. Sustaining that achievement requires attention to the businesses and households behind it. **Helping farmers through one expensive harvest matters. Creating conditions in which viable farms can prosper without continually waiting for the next emergency payment matters just as much.**
+
+{{< include /includes/_post-end.qmd >}}

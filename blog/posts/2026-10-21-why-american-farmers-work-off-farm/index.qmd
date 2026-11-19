@@ -82,3 +82,5 @@ We often celebrate the resilience of farming families. There is good reason to a
 - [USDA Economic Research Service. Farm Household Income and Characteristics](https://www.ers.usda.gov/data-products/farm-household-income-and-characteristics).
 - [USDA Economic Research Service. Off-farm employment motivations, Charts of Note (2020)](https://www.ers.usda.gov/data-products/charts-of-note/98676).
 - [USDA Economic Research Service. America's Farms and Ranches at a Glance](https://www.ers.usda.gov/publications).
+
+{{< include /includes/_post-end.qmd >}}

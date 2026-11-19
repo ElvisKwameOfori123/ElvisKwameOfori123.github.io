@@ -62,3 +62,5 @@ The upper limit of 100 tonnes also constrains payments to very large purchasers,
 For now, the practical task is to verify **2025 fertiliser-year records before 23 October**, or the applicable 2026 records if qualifying as a new entrant. Farmers should not infer their entitlement from the number of bags currently on the farm or from spending during the recent price spike.
 
 The wider evaluation comes later. A successful emergency scheme should be judged not only by how quickly €46.2 million is paid, but by which farms receive it, how accurately the historic-purchase formula reflects their financial exposure and whether the money arrives while it can still ease cash-flow pressures. Those questions cannot yet be settled from the announcement alone.
+
+{{< include /includes/_post-end.qmd >}}

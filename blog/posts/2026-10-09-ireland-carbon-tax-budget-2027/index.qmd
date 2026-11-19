@@ -83,3 +83,5 @@ The ESRI now explicitly prefers the second approach. The Government chose the fi
 That choice is defensible in an emergency. What is harder to defend is treating a temporary energy shock as a reason to abandon the trajectory rather than pause it.
 
 Ireland's carbon tax was supposed to become more predictable as 2030 approached. Budget 2027 has made one part of it less so. The immediate question is how much relief households receive this winter. The longer question is what replaces the signal, and the revenue, that Ireland has now chosen to give up.
+
+{{< include /includes/_post-end.qmd >}}

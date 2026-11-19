@@ -53,3 +53,5 @@ The 30% target remains valuable. It gives countries a common ambition and a basi
 By 2030, conservation authorities may be able to report substantial increases in protected land. The more demanding task will be to establish whether habitats are recovering, whether wildlife can move between them, and whether the arrangements for managing those landscapes can endure.
 
 Those results will tell us more about the state of nature than the area marked for protection on a map.
+
+{{< include /includes/_post-end.qmd >}}
