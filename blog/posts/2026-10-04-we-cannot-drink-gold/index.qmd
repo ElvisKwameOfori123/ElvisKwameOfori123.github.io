@@ -1,5 +1,6 @@
 ---
 title: "We cannot drink gold"
+pagetitle: "Galamsey in Ghana: why arrests are not stopping illegal mining"
 description: "Ghana arrests hundreds of illegal miners a year and convicts a handful. The problem is not a shortage of soldiers. It is who profits from the gold and who pays for the water."
 date: 2026-10-04
 draft: false

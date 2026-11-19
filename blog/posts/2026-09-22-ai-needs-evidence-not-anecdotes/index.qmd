@@ -1,5 +1,6 @@
 ---
 title: "AI is becoming ordinary. The evidence about its effects is still catching up"
+pagetitle: "Generative AI in classrooms: what the evidence shows so far"
 description: "Generative AI is becoming ordinary in classrooms and everyday life. The scientific question is shifting from what the tools can do to what happens when people actually use them."
 date: 2026-09-22
 image: "students-shared-laptop.jpg"

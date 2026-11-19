@@ -1,5 +1,6 @@
 ---
 title: "Thirty years of Irish tree-planting promises, checked against the record"
+pagetitle: "Ireland afforestation targets vs actual tree planting since 1996"
 description: "Ireland has planted a fraction of the forest it promised since 1996. Licensing explains one bad stretch. Farmers walking away from planting explains more of the gap."
 featured: true
 date: 2026-10-01
