@@ -32,6 +32,16 @@ listing:
 
 <div class="home-shell">
 
+<section class="home-section">
+<div class="section-heading">
+<h2>Latest from EKO Perspectives</h2>
+<a href="blog/">All writing →</a>
+</div>
+
+::: {#home-writing}
+:::
+</section>
+
 <section class="home-feature-section">
 
 <div class="home-label">Featured</div>
@@ -75,16 +85,6 @@ listing:
 
 </div>
 </div>
-</section>
-
-<section class="home-section">
-<div class="section-heading">
-<h2>Latest from EKO Perspectives</h2>
-<a href="blog/">All writing →</a>
-</div>
-
-::: {#home-writing}
-:::
 </section>
 
 <section class="home-section">
