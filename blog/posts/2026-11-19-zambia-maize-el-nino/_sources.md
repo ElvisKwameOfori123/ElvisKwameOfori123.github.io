@@ -21,4 +21,4 @@ Compiled 19 November 2026. Public sources only; excluded from the Quarto build.
 - World Bank (2022), "Maize Trade Policies in Zambia: Options for Growth": "export bans have also been imposed following price spikes even during bumper harvest years." Primary, quote verified in PDF.
 
 ## Images
-- See image section in index.qmd front matter; details added when the photo is chosen.
+- Lead: Maxdrobot, "Grain Silos and weighing bridge", Nampamba farm, Mpongwe, Zambia, 15 Oct 2005, public domain (PD-self), Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Grain_Silos_and_weighing_bridge.jpg . A commercial farm, not an FRA site; caption says so. No people. Stored locally at 1400 px. The Commons description's '100 tonnes' capacity looks wrong for silos this size, so the caption does not repeat it.

@@ -4,12 +4,14 @@ pagetitle: "El Niño 2026-27: Zambia's record maize stocks and Malawi's shortfal
 description: "Zambia's state buyer holds a record 3.1 million tonnes of maize as a strong El Niño threatens next year's harvest. The stock is a real buffer. Who pays for it, and whether it crosses the border when it is needed, are older questions."
 date: 2026-11-19
 draft: true
-image: "IMAGE_FILE"
-image-alt: "IMAGE_ALT"
+image: "zambia-grain-silos-mpongwe.jpg"
+image-alt: "A row of tall corrugated steel grain silos beside a red earth yard at a farm in Mpongwe, Zambia"
 categories: ["Places & Development", "Land & Agriculture"]
 ---
 
-IMAGE_BLOCK
+![Grain silos at a commercial farm in Mpongwe, Zambia, 2005.](zambia-grain-silos-mpongwe.jpg){fig-alt="A row of five tall corrugated steel grain silos with conical roofs and an overhead conveyor, a smaller silo and a green-painted weighbridge office behind, on a wide yard of bare red earth under a clear blue sky." width="100%" fig-align="center"}
+
+*Photograph: [Maxdrobot / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grain_Silos_and_weighing_bridge.jpg), public domain.*
 
 Zambia's Food Reserve Agency bought about 2.7 million tonnes of maize in this year's marketing season, more than five times the 500,000 tonnes it had planned to buy. By September its stocks had reached a record 3.1 million tonnes. On 4 November parliament approved a supplementary budget that includes 14.7 billion kwacha, about $725 million, to pay farmers who had sold maize to the state and were still waiting for their money, and the Treasury plans to borrow most of it on the domestic market, [bne IntelliNews reported](https://www.intellinews.com/zambia-counts-cost-of-record-maize-buying-as-southern-africa-s-glut-meets-el-ni-o-threat-482796).
 
