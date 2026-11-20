@@ -10,10 +10,10 @@ This repository contains the source for my personal website: research, public wr
 
 The site includes:
 
-- **EKO Perspectives** — essays on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas
-- **Research** — current work, publications and public project links
-- **About** — background and editorial standards
-- **Contact** — institutional and professional contact details
+- **EKO Perspectives**: essays on policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas
+- **Research**: current work, publications and public project links
+- **About**: background and editorial standards
+- **Contact**: institutional and professional contact details
 
 ## Built with
 
