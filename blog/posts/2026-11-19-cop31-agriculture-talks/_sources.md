@@ -45,3 +45,16 @@ Compiled 19 November 2026, while COP31 (Antalya, 9 to 20 November 2026) was stil
 ## Images
 - Lead: Timothy A. Gonsalves, "Fields of teff (Eragrostis tef)... Oromia, Ethiopia", 26 Oct 2019, own work, CC BY-SA 4.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Teff_Village_Oromia_Ethiopia_Oct19_R16_02202.jpg . Downloaded at 1920 px, stored locally at 1400 px. People are distant and not identifiable. Chosen because Ethiopia hosts COP32, where the decision now goes.
 - Supporting figure: original timeline chart (cop31-agriculture-timeline.svg), built from the sources above. Script kept outside the repo.
+
+## Pre-publication check, 26 November 2026
+
+COP31 closed on 22 November. The cover decision ("Antalya Pact") was not adopted: at least 32 countries rejected the final draft (Carbon Brief, "Key outcomes agreed at the UN climate talks in Antalya", https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya).
+
+- First draft, UNFCCC PDF marked "Unedited version 16/11/2026" (https://unfccc.int/sites/default/files/resource/dt_cop31_cover_decision.pdf), text searched: no "food system(s)", no "agriculture"; para 115 "serious concern" and para 119 phase-out of unilateral measures by end-2027. Confirmed. (A text count of "ocean" gave 20; the post keeps 21 as Carbon Brief's attributed count.)
+- Final draft, "Antalya Pact, Proposal by the President", CMA.8 (https://docs.unfccc.int/documents/10000420/files/en/dt_cma8_cover_decision1.pdf), text searched: no "food system(s)", no "agriculture", "food security" present; no phase-out call; reaffirms that measures including unilateral ones should not be arbitrary or unjustifiable discrimination or a disguised restriction on trade. Rejected.
+- Carbon Brief: phase-out call cut from the second draft; "none of the references to trade survived the conference".
+- Agriculture: Carbon Brief food outcomes article (https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya): SJWA talks broke down for the second year and resume next year. No substantive decision. UNFCCC FCCC/SB/2026/L.5 (14 Nov, advance version; SJWA_DT_SB652.pdf), text read: draft conclusions asking the subsidiary bodies to continue at their June 2027 sessions and report to COP32.
+- CORRECTION: the earlier ledger line and post sentence saying the COP "then adopted" the draft could not be verified from any source read on 26 November. Removed from the post, which now describes only what the text asks. This supersedes "later adopted by the COP" above.
+- Methane: "seven of 159" is Carbon Brief's 18 November count; the post now dates it.
+- The ENB summary report and Devex refused automated fetches on 26 November and were not re-read.
+
