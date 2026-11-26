@@ -98,3 +98,5 @@ That means publishing clear participation and eligibility criteria, recording fi
 Ghana has built a programme aimed at raising productivity by using existing capacity more intensively. Whether that is what it does remains an empirical question.
 
 The country has an unusual opportunity to answer it because implementation is still young and staggered. If the evidence architecture is built alongside the production architecture, 24H+ will eventually be able to demonstrate more than how much activity took place. It will be able to estimate how much difference the programme made.
+
+{{< include /includes/_post-end.qmd >}}
