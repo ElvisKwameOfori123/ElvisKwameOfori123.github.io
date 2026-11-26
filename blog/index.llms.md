@@ -2,6 +2,16 @@
 
 Policy, land and agriculture, economics and evidence, science and technology, places and development, and personal ideas.
 
+[![Round bales lying on a harvested field south of Carlow town, with hedgerows and trees under a blue sky](../blog/posts/2026-11-19-cap-budget-irish-presidency/carlow-round-bales.jpg)](../blog/posts/2026-11-19-cap-budget-irish-presidency/index.llms.md)
+
+### [Ireland is chairing the CAP budget fight it is also fighting](../blog/posts/2026-11-19-cap-budget-irish-presidency/index.llms.md)
+
+Under the Irish presidency, EU ministers have agreed how the next CAP should work but not how much it gets. The headline cut is 24 per cent. The cut farmers would feel is smaller than that, and still unknown.
+
+Nov 26, 2026
+
+Elvis Kwame Ofori
+
 [![Aerial photograph of braided river channels, floodplain vegetation and neighbouring farmland in the United States, published by the US Geological Survey](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/usgs-naip-river-floodplain.png)](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
 
 ### [The world is protecting more nature. Is it protecting nature better?](../blog/posts/2026-10-22-cop17-biodiversity-connectivity/index.llms.md)
