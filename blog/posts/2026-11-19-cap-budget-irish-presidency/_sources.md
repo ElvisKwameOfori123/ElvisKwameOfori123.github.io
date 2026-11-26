@@ -26,3 +26,16 @@ Compiled 19 November 2026. Public sources only; excluded from the Quarto build.
 
 ## Images
 - Lead: Humphrey Bolton, "Hay Bales in Carlow", south of Carlow town, 31 Aug 2014, CC BY-SA 2.0, via Geograph Ireland / Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Hay_Bales_in_Carlow.jpg . No people. Stored locally at 1400 px.
+
+## Pre-publication check, 26 November 2026
+
+Replaces the "RE-CHECK before publication" note on national allocations above.
+
+- **National allocations: the draft was wrong.** The Commission announced per-country figures in September 2025; Ireland's CAP minimum is EUR 8.16bn in EU funds over 2028-2034 (proposal): Irish Farmers Journal, 30 Sept 2025. Price basis not stated there. The article is loose on coverage ("all farm and rural schemes", then the new area-based, coupled and small-farmer support), so the post does not compare it with Pillar I or give an Irish percentage cut. Matthews' July 2025 post (annex then empty) predates it. A primary Commission, gov.ie or Oireachtas text for the figure was NOT read: gov.ie and oireachtas.ie returned 403 to the fetch tool.
+- **Irish presidency box (c. 10 Oct):** CAP minimum ring-fence unchanged from the Commission; overall MFF about 8% lower; agricultural crisis reserve EUR 630m a year against the Commission's 900m: Matthews, capreform.eu/the-irish-presidency-negotiating-box/.
+- **Costa box (21 Nov):** CAP ring-fence unchanged; at least 10% of the global NRP amount, excluding CAP and fisheries minimums and the Social Climate Fund, guaranteed to CAP (usable for DABIS too); small extra for Ireland; EUR 300,000 capping mandatory, degressivity voluntary: Matthews, capreform.eu, 23 Nov 2026. Cross-checked on the unchanged CAP total with Irish Farmers Journal, 21 Nov, and Agence Europe, 23 Nov.
+- **Summit 26-27 Nov:** under way; no agreement expected at it, December summit next: RTE, 26 Nov 2026 (updated 09:02). Outcome not known at publication.
+- **No final deal**, so the core argument stands. No change to the Commission's EUR 295.7bn ring-fence found (sources round it differently, EUR 293-296bn, depending on what is included).
+- **EUR 141bn:** TheJournal, 13 Nov.
+- **Presidency end:** 31 December; RTE calls the December summit the presidency's final major act. consilium.europa.eu returned 403, so the Council pages were not re-read.
+
